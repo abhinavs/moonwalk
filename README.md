@@ -55,9 +55,7 @@ For further customization (e.g. layout, CSS) see the [official Jekyll's document
 
 ### Customize the menu
 
-In order to add/edit/delete entries in the home page, you have to edit the `home.yml` file inside `_data` folder. Through that file you can define the structure of the menu. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explanation.
-
-Data can be configured in `_data/home.yml` file - you can add data for navbar, footer, portfolio or simply remove all of that and use simple blog layout.
+In order to add/edit/delete entries in the home page, you can copy the `home.yml` file inside `_data` folder. Through that file you can define the structure of the menu and add data for navbar, footer, portfolio or simply remove all of that and use simple blog layout. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explaination.
 
 The `home.yml` file accepts the following fields:
 
