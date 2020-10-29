@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<header>
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed" />
+{% endif %}
+
+  <h1>{{ site.title }}</h1>
+  {% if site.theme_config.show_description == true %}
+    <p>{{ site.description }}</p>
+  {% endif %}
+</header>
+
+{% if site.theme_config.show_projects == true %}
+  <h2>Portfolio</h2>
+  {% include card_list.html collection=site.data.home.project_entries %}
+{% endif %}
+
+{% if site.theme_config.show_misc_list == true %}
+  <h2>Details</h2>
+  {% include vertical_list.html collection=site.data.home.misc_entries %}
+{% endif %}
+
+
+<h2>Blog</h2>
+{% include post_list.html %}
+
+{% if site.theme_config.show_old_projects == true %}
+  <h2>Old Projects</h2>
+  {% include card_list.html collection=site.data.home.old_project_entries %}
+{% endif %}
+
+
+{% if site.theme_config.show_footer == true %}
+  <footer>
+    <div class="dashed" />
+    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+  </footer>
+{% endif %}

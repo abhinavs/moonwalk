@@ -1,0 +1,32 @@
+title: Moonwalk
+author: Abhinav Saxena
+url: https://www.abhinav.co # root address of the site
+description: > # description of the site (multiple lines allowed)
+  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+
+permalink: /:slug.html
+
+favicon: "./logo.png" # relative path to site's favicon
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: "home.." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+  show_navbar: true # show horizontal navbar in home page
+  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_projects: true # show projects as cards, add in _data/home.yml
+  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
+
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

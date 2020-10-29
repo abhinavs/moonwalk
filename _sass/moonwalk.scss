@@ -1,0 +1,132 @@
+html {
+    --bg: #fff;
+    --bg-secondary: #f8f9fa;
+    --headings: #000;
+    --text: #333;
+    --links: blue;
+    --highlight: #ffecb2; // light yellow
+}
+@mixin dark-appearance {
+  html, body  {
+      --bg: #1f242A;
+      --bg-secondary: #323945;
+      --headings: #3D9970;
+      --text: #adb5bd;
+      --links: #91a7ff;
+      --highlight: #ffd8a8;
+      --highlight: #ffd43b;
+  };
+}
+html[data-theme="dark"] { @include dark-appearance; }
+
+@media (prefers-color-scheme: dark) {
+  body[data-theme="auto"] { @include dark-appearance; }
+}
+
+html { height: 100%; }
+
+body {
+  font-family: monospace;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+  min-height: 100%;
+}
+
+h2, h3, h4, h5 { margin-top: 1.5em; }
+
+hr { margin: 1em 0; }
+
+p { margin: 1em 0; }
+
+li { margin: 0.4em 0; }
+
+.w {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4em 2em;
+}
+
+table, th, td {
+  width: 100%;
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4em;
+}
+
+div.highlighter-rouge code, code.highlighter-rouge {
+  display: block;
+  overflow-x: auto;
+  padding: 1em;
+}
+
+blockquote {
+  font-style: italic;
+  border: thin solid black;
+  padding: 1em;
+
+  p { margin: 0; }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+html, body {
+    background-color: var(--bg);
+    color: var(--text);
+}
+h1, h2, h3, h4, h5, h6 {
+    color: var(--headings);
+}
+p, strong, b, em, span, small, li, hr, table, code, figcaption {
+    color: var(--text);
+}
+code, blockquote {
+  background-color: var(--bg-secondary);
+  border: 1px var(--text) solid;
+}
+a {
+  color: var(--links);
+}
+*:target { background-color: var(--bg-secondary); }
+
+html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+    transition: all 250ms !important;
+    transition-delay: 0 !important;
+}
+
+.theme-toggle {
+  color: var(--text);
+  background-color: transparent;
+  padding: 4px;
+  cursor: pointer;
+  margin: 1em;
+  position: fixed;
+  right: 0;
+  top: 0;
+  border: 2px transparent solid;
+  outline: none;
+}
+
+.theme-toggle:hover {
+  color: var(--links);
+  outline: none;
+}
+.theme-toggle:focus {
+  outline: none;
+}
+.dashed {
+  border-top: 1px var(--text) dashed;
+  margin: 0.5em 0;
+}
+mark {
+  padding: 0.4em;
+  background-color: var(--highlight);
+  font-size: 0.8em;
+}
