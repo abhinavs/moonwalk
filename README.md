@@ -1,8 +1,8 @@
 # moonwalk
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="64" align="left" />A fast and minimalistic blog with clean dark mode. Based on [no style please](https://riggraz.dev/no-style-please/) 
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="32" align="left" />A fast and minimalistic blog with clean dark mode. Based on [no style please!](https://riggraz.dev/no-style-please/) 
 
-<h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the demo out!</a></h3>
+<h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the Demo</a></h3>
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
 
@@ -131,7 +131,7 @@ When your theme is released, only the files in `_layouts`, `_includes`, `_sass` 
 To add a custom directory to your theme-gem, please edit the regexp in `moonwalk.gemspec` accordingly.
 
 ## Acknowledgement
-This theme's original base is [no style please](https://github.com/riggraz/no-style-please) theme created by  [Riccardo Graziosi](https://riggraz.dev/) - many thanks to him for creating a theme with nearly no css. 
+This theme's original base is [no style please!](https://github.com/riggraz/no-style-please) theme created by  [Riccardo Graziosi](https://riggraz.dev/) - many thanks to him for creating a wonderful theme with nearly no css. 
 
 ## License
 
