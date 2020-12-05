@@ -1,21 +1,26 @@
 # moonwalk
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="64" align="left" />A fast and minimalistic blog with clean dark mode. Based on [no style please!](https://riggraz.dev/no-style-please/) 
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="32" align="left" />A fast and minimalistic blog with clean dark mode. Based on [no style please!](https://riggraz.dev/no-style-please/) 
 
-<h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Demo</a></h3>
+<h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the Demo</a></h3>
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.jpg" />
 
 ## Features
 * Light & dark mode with theme switcher
 * Vertical list, horizontal list, card list
 * Landing page with navbar, footer, portfolio
-* Fast (very minimal CSS) - for more information on performance see [Lighthouse report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png)
+* Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
 * Responsive and mobile friendly
 * SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
 * Easy to extend
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
+
+
+#### Lighthouse
+
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
 
 ## Installation
 
@@ -55,9 +60,7 @@ For further customization (e.g. layout, CSS) see the [official Jekyll's document
 
 ### Customize the menu
 
-In order to add/edit/delete entries in the home page, you have to edit the `home.yml` file inside `_data` folder. Through that file you can define the structure of the menu. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explanation.
-
-Data can be configured in `_data/home.yml` file - you can add data for navbar, footer, portfolio or simply remove all of that and use simple blog layout.
+In order to add/edit/delete entries in the home page, you can copy the `home.yml` file inside `_data` folder. Through that file you can define the structure of the menu and add data for navbar, footer, portfolio or simply remove all of that and use simple blog layout. Take a look at the default configuration to get an idea of how it works and read on for a more comprehensive explaination.
 
 The `home.yml` file accepts the following fields:
 
