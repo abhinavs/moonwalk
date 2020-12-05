@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "moonwalk"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Abhinav Saxena"]
   spec.email         = ["abhinav061@gmail.com"]
 
