@@ -4,7 +4,7 @@
 
 <h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the Demo</a></h3>
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.jpg" />
 
 ## Features
 * Light & dark mode with theme switcher
@@ -16,6 +16,11 @@
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
 * Easy to extend
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
+
+
+#### Lighthouse
+
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
 
 ## Installation
 

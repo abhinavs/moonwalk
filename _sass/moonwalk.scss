@@ -1,34 +1,9 @@
-html {
-    --bg: #fff;
-    --bg-secondary: #f8f9fa;
-    --headings: #000;
-    --text: #333;
-    --links: blue;
-    --highlight: #ffecb2; // light yellow
-}
-@mixin dark-appearance {
-  html, body  {
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --headings: #3D9970;
-      --text: #adb5bd;
-      --links: #91a7ff;
-      --highlight: #ffd8a8;
-      --highlight: #ffd43b;
-  };
-}
-html[data-theme="dark"] { @include dark-appearance; }
-
-@media (prefers-color-scheme: dark) {
-  body[data-theme="auto"] { @include dark-appearance; }
-}
-
 html { height: 100%; }
 
 body {
-  font-family: monospace;
-  font-size: 1rem;
-  line-height: 1.5;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 1.0rem;
+  line-height: 2;
   margin: 0;
   min-height: 100%;
 }
@@ -37,12 +12,20 @@ h2, h3, h4, h5 { margin-top: 1.5em; }
 
 hr { margin: 1em 0; }
 
+hr.page-break {
+  text-align: center;
+  border: 0;
+
+  &:before { content: '-----' }
+  &:after { content: attr(data-content) '-----' }
+}
+
 p { margin: 1em 0; }
 
 li { margin: 0.4em 0; }
 
 .w {
-  max-width: 640px;
+  max-width: 720px;
   margin: 0 auto;
   padding: 4em 2em;
 }
@@ -73,6 +56,32 @@ img {
   display: block;
   margin: 0 auto;
 }
+html {
+    --bg: #FFF;
+    --bg-secondary: #F8F9FA;
+    --headings: #000;
+    --text: #333;
+    --links: blue;
+    //--highlight: #FFD19B;
+    --highlight: #FFECB2; // light yellow
+}
+// -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+  html, body  {
+      --headings: #74c0fc;
+      --links: #91A7FF;
+      --highlight: #41C7C7;
+      --bg: #1f242A;
+      --bg-secondary: #323945;
+      --text: #adb5bd;
+  };
+}
+html[data-theme="dark"] { @include dark-appearance; }
+
+@media (prefers-color-scheme: dark) {
+  body[data-theme="auto"] { @include dark-appearance; }
+}
+// -------------------------------------------- //
 
 html, body {
     background-color: var(--bg);
@@ -81,7 +90,7 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
 }
-p, strong, b, em, span, small, li, hr, table, code, figcaption {
+p, strong, b, em, small, li, hr, table, code, figcaption {
     color: var(--text);
 }
 code, blockquote {
@@ -128,5 +137,25 @@ html.transition *:after {
 mark {
   padding: 0.4em;
   background-color: var(--highlight);
-  font-size: 0.8em;
+  font-size: 0.7em;
+}
+
+.post-date {
+  color: var(--headings);
+  margin-right: 2em;
+}
+.share {
+  color: var(--text);
+}
+.home-date {
+  font-family: monospace;
+}
+.post-list-item a {
+  text-decoration: none;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-upcase {
+  text-transform: uppercase;
 }

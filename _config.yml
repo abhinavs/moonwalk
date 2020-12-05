@@ -21,7 +21,7 @@ theme_config:
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_projects: true # show projects as cards, add in _data/home.yml
   show_old_projects: true # show old projects as cards, add in _data/home.yml
-  show_misc_list: true # show generic vertical list for misc details, add _data/home.yml
+  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
 
 
 sass:
