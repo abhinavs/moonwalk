@@ -13,5 +13,8 @@
         {% include goat_counter.html %}
     {% endif %}
 
+    {% if site.theme_config.show_soopr %}
+      <script src="{{ site.theme_config.soopr_base_url }}/soopr.js" ></script>
+    {% endif %}
   </body>
 </html>

@@ -1,0 +1,14 @@
+<p class="text-bold text-upcase">
+  {% if page.date %}
+    <span class="post-date">{{ page.date | date: "%B %Y"}}</span>
+  {% endif %}
+  {% if site.theme_config.show_soopr  %}
+    <span class="share">Share </span>
+    <span class="soopr-btn soopr-btn-sm"
+      data-twitter="abhinav"
+      data-facebook="abhinavs"
+      data-text="{{ page.title }}"
+      data-url="{{ site.url }}/{{ page.url }}">
+    </span>
+  {% endif %}
+</p>
