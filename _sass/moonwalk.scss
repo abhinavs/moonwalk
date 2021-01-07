@@ -1,11 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
 html { height: 100%; }
 
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
+}
+pre, code {
+  font-family: "Anonymous Pro", "Courier New", monospace;
+  font-size: 0.9rem;
 }
 
 h2, h3, h4, h5 { margin-top: 1.5em; }
@@ -37,7 +44,7 @@ table, th, td {
   padding: 0.4em;
 }
 
-div.highlighter-rouge code, code.highlighter-rouge {
+div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
   overflow-x: auto;
   padding: 1em;
@@ -58,12 +65,13 @@ img {
 }
 html {
     --bg: #FFF;
-    --bg-secondary: #F8F9FA;
+    --bg-secondary: #f8f8f8;
     --headings: #000;
     --text: #333;
     --links: blue;
-    //--highlight: #FFD19B;
     --highlight: #FFECB2; // light yellow
+    --code-text: #9D174D;
+    --share-text: #999;
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
@@ -74,6 +82,8 @@ html {
       --bg: #1f242A;
       --bg-secondary: #323945;
       --text: #adb5bd;
+      --code-text: #91A7FF;
+      --share-text: #C4C4C4;
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
@@ -90,12 +100,15 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
 }
-p, strong, b, em, small, li, hr, table, code, figcaption {
+p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
 }
-code, blockquote {
+.highlight, pre code, blockquote {
+  border-radius: 0.5em;
+}
+blockquote {
   background-color: var(--bg-secondary);
-  border: 1px var(--text) solid;
+  border: 1px var(--border) solid;
 }
 a {
   color: var(--links);
@@ -137,7 +150,8 @@ html.transition *:after {
 mark {
   padding: 0.4em;
   background-color: var(--highlight);
-  font-size: 0.7em;
+  font-size: 0.6em;
+  letter-spacing: 1px;
 }
 
 .post-date {
@@ -145,7 +159,7 @@ mark {
   margin-right: 2em;
 }
 .share {
-  color: var(--text);
+  color: var(--share-text);
 }
 .home-date {
   font-family: monospace;
@@ -158,4 +172,10 @@ mark {
 }
 .text-upcase {
   text-transform: uppercase;
+}
+p code, li code {
+  background-color: var(--bg-secondary);
+  padding: 0.2rem;
+  color: var(--code-text);
+  font-weight: bold;
 }
