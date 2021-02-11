@@ -155,11 +155,9 @@ mark {
 }
 
 .post-date {
-  color: var(--headings);
-  margin-right: 2em;
-}
-.share {
-  color: var(--share-text);
+  color: var(--secondary-text);
+  //margin-bottom: 1rem;
+  font-size: 0.8em;
 }
 .home-date {
   font-family: monospace;
@@ -178,4 +176,10 @@ p code, li code {
   padding: 0.2rem;
   color: var(--code-text);
   font-weight: bold;
+}
+.post-title {
+  margin-bottom:-1.5rem;
+}
+.project-title {
+  margin-bottom: 0.8rem;
 }
