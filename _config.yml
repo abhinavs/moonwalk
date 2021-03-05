@@ -7,7 +7,6 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -22,9 +21,9 @@ theme_config:
   show_projects: true # show projects as cards, add in _data/home.yml
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  show_soopr: true # show share buttons using soopr
-  soopr_base_url: "https://soopr.netlify.app"
 
+soopr:
+  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
