@@ -23,8 +23,7 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
 
 soopr:
-  #publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
-  publish_token: "pt_bb5fac2b40e095aa3d1889947dac7e4b"
+  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
