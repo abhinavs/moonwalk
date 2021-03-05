@@ -9,12 +9,12 @@
         </div>
     </main>
 
-    {% if site.goat_counter and jekyll.environment == "production" %}
-        {% include goat_counter.html %}
-    {% endif %}
-
-    {% if site.theme_config.show_soopr %}
-      <script src="{{ site.theme_config.soopr_base_url }}/soopr.js" ></script>
-    {% endif %}
+    {%- if site.soopr -%}
+      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
+        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
+      {%- else -%}
+        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
+      {%- endif -%}
+    {%- endif -%}
   </body>
 </html>
