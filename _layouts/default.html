@@ -3,10 +3,17 @@
         {%- include head.html -%}
   <body>
     <main class="page-content" aria-label="Content">
-        <div class="w">
-            {{ content }}
-            {% include toggle_theme_button.html %}
+      <div class="w">
+        {{ content }}
+        {% include toggle_theme_button.html %}
+        <div class="credits">
+          Powered by <a href="https://www.soopr.co" target="_blank">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;
+          Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank">Moonwalk</a>
         </div>
+      </div>
     </main>
 
     {%- if site.soopr -%}

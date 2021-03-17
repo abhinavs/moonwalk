@@ -183,3 +183,17 @@ p code, li code {
 .project-title {
   margin-bottom: 0.8rem;
 }
+.credits {
+  font-size: 0.8em;
+  color: var(--text);
+  margin: 8em auto -4em auto;
+  text-align: center;
+  a {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover {
+    color: var(--links);
+  }
+}

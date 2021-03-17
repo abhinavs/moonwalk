@@ -6,7 +6,7 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: http://www.abhinav.co
+    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -36,34 +36,26 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: microrequests
-    url: http://www.abhinav.co/microrequests
-    desc: A Python library to consume microservices more efficiently
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
 
-  - title: blockr
-    url: http://www.abhinav.co/blockr
-    desc: A CLI tool to help you easily block and unblock websites
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
 
-  - title: moonwalk
+  - title: Moonwalk
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: humangous
-    url: http://www.humangous.co
+  - title: Humangous
+    url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
-
-  - title: avnee
-    url: http://www.avnee.co
-    desc: New age kids require new ways of parenting
-
-  - title: year progress
-    url: https://year-progress.herokuapp.com/
-    desc: A bot written for slack that shows current year in a progress bar
-    highlight: archived
 
 footer_entries:
   - title: abhinav's homepage
-    url: http://www.abhinav.co
+    url: https://www.abhinav.co
 
   - title: twitter
     url: https://twitter.com/abhinav
@@ -95,7 +87,7 @@ misc_entries:
         url: https://github.com/abhinavs/moonwalk
 
       - title: originally built for abhinav's homepage
-        url: http://www.abhinav.co
+        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
