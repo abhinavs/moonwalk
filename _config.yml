@@ -19,6 +19,7 @@ theme_config:
   show_navbar: true # show horizontal navbar in home page
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_projects: true # show projects as cards, add in _data/home.yml
+  show_blog: true # show blog add in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
 
