@@ -15,11 +15,12 @@ theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
-  show_navbar: true # show horizontal navbar in home page
+  show_description: true # show blog description
+  show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
+  # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
-  show_blog: true # show blog add in _posts
+  show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
 
