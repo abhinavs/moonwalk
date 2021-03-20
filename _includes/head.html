@@ -16,7 +16,9 @@
 
   <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-  {% include toggle_theme_js.html %}
+  {% if site.theme_config.appearance_toggle %}
+    {% include toggle_theme_js.html %}
+  {% endif %}
 
   {%- include custom-head.html -%}
 </head>

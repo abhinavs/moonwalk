@@ -5,7 +5,9 @@
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
-        {% include toggle_theme_button.html %}
+        {% if site.theme_config.appearance_toggle %}
+          {% include toggle_theme_button.html %}
+        {% endif %}
         <div class="credits">
           {%- if site.theme_config.show_copyright == true -%}
           &copy;&nbsp;{{ "now" | date: "%Y" }}&nbsp;{{site.author}}
