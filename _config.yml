@@ -18,6 +18,7 @@ theme_config:
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
+  show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
