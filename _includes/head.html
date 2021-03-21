@@ -14,7 +14,11 @@
   {% seo title=false %}
   {% feed_meta %}
 
-  <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon }}" />
-  <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
-  {% include toggle_theme_js.html %}
+  <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+  {% if site.theme_config.appearance_toggle %}
+    {% include toggle_theme_js.html %}
+  {% endif %}
+
+  {%- include custom-head.html -%}
 </head>
