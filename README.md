@@ -1,10 +1,11 @@
-# moonwalk
-
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="32" align="left" />A fast and minimalistic blog with clean dark mode. 
-
-<h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the Demo</a></h3>
+## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="24"/>
+<a href="https://abhinavs.github.io/moonwalk/">TRY THE DEMO</a>
+</h3>
 
 ## Features
 * Light & dark mode with theme switcher
