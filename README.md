@@ -1,6 +1,6 @@
 # moonwalk
 
-<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="32" align="left" />A fast and minimalistic blog with clean dark mode. Based on [no style please!](https://riggraz.dev/no-style-please/) 
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/logo.png" width="32" align="left" />A fast and minimalistic blog with clean dark mode. 
 
 <h3 align="center"><a href="https://abhinavs.github.io/moonwalk/">Try the Demo</a></h3>
 
