@@ -144,4 +144,4 @@ If you like Moonwalk, do check out my other projects
 *   [blockr](https://www.abhinav.co/blockr) - a CLI tool to help you easily block and unblock websites
 *   [microrequests](https://www.abhinav.co/microrequests) - a Python library to help you consume microservice efficiently
 
-✨⚡You can read more about me on my [blog](https://www.abhinav.co/about/) or follow me on Twitter
+✨⚡You can read more about me on my [blog](https://www.abhinav.co/about/) or follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
