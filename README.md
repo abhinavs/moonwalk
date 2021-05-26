@@ -146,4 +146,4 @@ If you like Moonwalk, do check out my other projects
 
 ✨⚡You can read more about me on my [blog](https://www.abhinav.co/about/) or follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
 
-✨⚡If you like my work, you can [buy me a coffee](buymeacoffee.com/abhinavs)                
+✨⚡If you like my work, you can [buy me a coffee](https://buymeacoffee.com/abhinavs)                
