@@ -8,6 +8,10 @@ permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
 
+twitter:
+    username: abhinav # update or delete this
+    card: summary_large_image
+
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
 
