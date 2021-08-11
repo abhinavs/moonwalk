@@ -13,10 +13,12 @@
 * Landing page with navbar, footer, portfolio
 * Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see [Lighthouse Report](https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png) for more details
 * Responsive and mobile friendly
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
+* SEO optimized (uses [Jekyll Soopr SEO Tag](https://github.com/jekyll/jekyll-soopr-seo-tag))
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
 * Easy to extend
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
+* Auto-generated social media share images (using Soopr)
+* Share & like buttons (using Soopr)
 
 
 #### Lighthouse
@@ -27,6 +29,7 @@
 1. Fork this repository.
 2. `cd moonwalk`
 3. `bin/bootstrap`
+4. [Optional] Sign up on Soopr, and add your `publish_token` in `_config.yml` file.
 
 ## Starting Server
 `bin/start` - development server will start at http://127.0.0.1:4000
@@ -106,6 +109,9 @@ html {
   };
 }
 ```
+3. Add [Soopr](https://www.soopr.co) `publish_token` in `_config.yml` file to auto generate social share images. You also additionally get Like button and URL shortener, you can control them using Soopr dashboard.
+
+<img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/twitter_card.png" />
 
 ## Contributing
 
