@@ -42,4 +42,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-soopr-seo-tag
