@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>
+    
+      Moonwalk
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Moonwalk" />
+<meta name="author" content="Abhinav Saxena" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that." />
+<meta property="og:description" content="Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that." />
+<link rel="canonical" href="https://www.abhinavsaxena.com/moonwalk//" />
+<meta property="og:url" content="https://www.abhinavsaxena.com/moonwalk//" />
+<meta property="og:site_name" content="Moonwalk" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=https://www.abhinavsaxena.com/moonwalk//" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=https://www.abhinavsaxena.com/moonwalk//" />
+<meta property="twitter:title" content="Moonwalk" />
+<meta name="twitter:site" content="@abhinav" />
+<meta name="twitter:creator" content="@Abhinav Saxena" />
+<script type="application/ld+json">
+{"url":"https://www.abhinavsaxena.com/moonwalk//","author":{"@type":"Person","name":"Abhinav Saxena"},"headline":"Moonwalk","@type":"WebSite","description":"Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.","name":"Moonwalk","@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://www.abhinavsaxena.com/moonwalk//feed.xml" title="Moonwalk" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//logo.png" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <header>
+
+  <ul class="horizontal-list">
+  
+    <li>
+      <a href="about">
+        about
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+    <li>
+      <a href="blog">
+        blog
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+    <li>
+      <a href="https://www.abhinav.co">
+        website
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+</ul>
+
+  <div class="dashed"></div>
+
+
+  <h1>Moonwalk</h1>
+  
+    <p>Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+</p>
+  
+</header>
+
+
+
+
+
+  <h2>Portfolio</h2>
+  <ul class="horizontal-list">
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 1
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          This is an example project, configured in _data/home.yml
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 2
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          Projects are shown in card layout
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 3
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          You can control visibility from _config.yml file
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 4
+
+          
+            <mark>WIP</mark>
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          This project uses highlight markup, configured in _data/home.yml
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 5
+
+          
+            <mark>WIP</mark>
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          Moonwalk also has horizontal list (used in header and footer)
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="overview-post">
+        <span class="header">
+          Project 6
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          It also has a scalable vertical list (in case you need it)
+        </p>
+        
+      </a>
+    </li>
+
+  
+</ul>
+
+
+
+
+
+
+  <h2>Blog</h2>
+  
+  <ul>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2021-03-04»
+        </span>
+        <a href="/soopr.html">Soopr</a>
+      </li>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2021-01-08»
+        </span>
+        <a href="/code.html">Code</a>
+      </li>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2020-07-09»
+        </span>
+        <a href="/post-example-with-headings-and-toc.html">Post Example With Headings And Toc</a>
+      </li>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2020-07-08»
+        </span>
+        <a href="/very-very-very-long-title-and-very-very-very-short-content.html">Very Very Very Long Title And Very Very Very Short Content</a>
+      </li>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2020-07-08»
+        </span>
+        <a href="/language-tests.html">Language Tests</a>
+      </li>
+    
+      <li class="post-list-item">
+        <span class="home-date">
+          2020-07-07»
+        </span>
+        <a href="/overview-post.html">Overview Post</a>
+      </li>
+    
+  </ul>
+
+
+
+
+
+  <h2>Old Projects</h2>
+  <ul class="horizontal-list">
+  
+
+    <li class="card">
+      <a href="https://www.soopr.co">
+        <span class="header">
+          Soopr
+
+          
+            <mark>NEW</mark>
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          Delight your readers - add beautiful share and like buttons easily to your websites
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="https://github.com/abhinavs/cookie">
+        <span class="header">
+          Cookie
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          An open source landing website with supporting pages and integrated blog
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="https://github.com/abhinavs/moonwalk">
+        <span class="header">
+          Moonwalk
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          A fast and minimalist Jekyll blog theme with clean dark mode
+        </p>
+        
+      </a>
+    </li>
+
+  
+
+    <li class="card">
+      <a href="https://www.humangous.co">
+        <span class="header">
+          Humangous
+
+          
+
+        </span>
+
+        <hr />
+
+        
+        <p class="body">
+          The better people know you, the better they collaborate
+        </p>
+        
+      </a>
+    </li>
+
+  
+</ul>
+
+
+
+
+
+  <footer>
+    <div class="dashed"></div>
+    <ul class="horizontal-list">
+  
+    <li>
+      <a href="https://www.abhinav.co">
+        abhinav's homepage
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+    <li>
+      <a href="https://twitter.com/abhinav">
+        twitter
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+    <li>
+      <a href="https://github.com/abhinavs">
+        github
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+    <li>
+      <a href="feed.xml">
+        feed
+      </a>
+      &nbsp;&nbsp;
+    </li>
+  
+</ul>
+
+  </footer>
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2021&nbsp;Abhinav Saxena
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>
