@@ -17,8 +17,8 @@
 * RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
 * Easy to extend
 * Fully compatible with [GitHub Pages](https://pages.github.com/) (see [GitHub Pages installation](#github-pages-installation))
-* Auto-generated social media share images (using Soopr)
-* Share & like buttons (using Soopr)
+* Auto-generated share images for social media (using [Soopr](https://www.soopr.co))
+* Share & like buttons (using [Soopr](https://www.soopr.co))
 
 
 #### Lighthouse
@@ -109,7 +109,7 @@ html {
   };
 }
 ```
-3. Add [Soopr](https://www.soopr.co) `publish_token` in `_config.yml` file to auto generate social share images. You also additionally get Like button and URL shortener, you can control them using Soopr dashboard.
+3. Sign up for free on [Soopr](https://www.soopr.co) and add your `publish_token` in `_config.yml` file - with this, each page gets short URL, like button and auto generated share image for social media.
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/twitter_card.png" />
 
