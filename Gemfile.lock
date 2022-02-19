@@ -6,6 +6,7 @@ PATH
       jekyll-feed (~> 0.15.0)
       jekyll-soopr-seo-tag (~> 2.7.3)
       rouge (~> 3.23.0)
+      webrick (~> 1.7)
 
 GEM
   remote: https://rubygems.org/
@@ -69,6 +70,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
