@@ -1,4 +1,7 @@
 <p class="post-date text-bold text-upcase">
+  {% if page.author %}
+    <span class="text-bold">{{ page.author }}</span> / 
+  {% endif %}
   {% if page.date %}
     <span>{{ page.date | date: "%B %Y"}}</span>
   {% endif %}
