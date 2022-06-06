@@ -146,13 +146,12 @@ footer_entries:
   - title: support
     url: 
     
-  - title: XXX
+  - title: feed
+    url: feed.xml
   
   - title: stackuj.cz podcast
     url: https://stackuj.cz/podcast.html
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
