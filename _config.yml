@@ -9,7 +9,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
 
-favicon: "21pin.png" # relative path to site's favicon
+favicon: "./21pin.png" # relative path to site's favicon
 
 twitter:
     username: nekonecnik # update or delete this
