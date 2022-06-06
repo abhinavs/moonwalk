@@ -10,10 +10,7 @@ navbar_entries:
     
   - title: Podpořit 🧡
     url: 
-<br/>    
-  - title: stackuj.cz podcast
-    url: https://stackuj.cz/podcast.html
-
+   
 
 project_entries:
   - title: <orange> 21 lekcí z překladu 21 lekcí </orange>
@@ -148,6 +145,11 @@ footer_entries:
 
   - title: support
     url: 
+    
+  - title: XXX
+  
+  - title: stackuj.cz podcast
+    url: https://stackuj.cz/podcast.html
 
   - title: feed
     url: feed.xml
