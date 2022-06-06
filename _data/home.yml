@@ -8,11 +8,11 @@ navbar_entries:
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
-  - title: stackuj.cz podcast
-    url: https://stackuj.cz/podcast.html
-  
   - title: Podpořit 🧡
     url: 
+<br/>    
+  - title: stackuj.cz podcast
+    url: https://stackuj.cz/podcast.html
 
 
 project_entries:
