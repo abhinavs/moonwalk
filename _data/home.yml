@@ -12,10 +12,15 @@ navbar_entries:
     url: https://stackuj.cz/podcast.html
   
   - title: Podpořit
+    title: value4value 🧡
     url: 
 
 
 project_entries:
+  - title: 21 lekcí z překladu 21 lekcí
+    url: 739597-21z21
+    desc: 739597 '@nekonecnik
+
   - title: Dear Friends
     url: overview-post
     desc: 765432, original xxxxxx by @dergigi
@@ -27,11 +32,6 @@ project_entries:
   - title: Bitcoin Astronomy I/III
     url: overview-post
     desc: 808808, original xxxxxx bu @dhruvbansal
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: TDB
 
   - title: Project 5
     url: overview-post
