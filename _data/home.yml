@@ -11,17 +11,16 @@ navbar_entries:
   - title: stackuj.cz podcast
     url: https://stackuj.cz/podcast.html
   
-  - title: Podpořit <br/>
-  value4value 🧡
+  - title: Podpořit 🧡
     url: 
 
 
 project_entries:
-  - title: 21 lekcí z překladu 21 lekcí
+  - title: <orange> 21 lekcí z překladu 21 lekcí </orange>
     url: 739597-21z21
     desc: 739597 '@nekonecnik
 
-  - title: Dear Friends
+  - title: Milovaná rodino, drazí přátelé
     url: overview-post
     desc: 765432, original xxxxxx by @dergigi
 
