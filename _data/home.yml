@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: <img src="jednadvacet.png" alt="twentyone.world">
-    url: https://twentyone.world/
-
+  - title: jednadvaCZet
+    url: jednadvacet
+  
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
 
-  - title: jednadvaCZet
-    url: jednadvacet
+  - title: <img src="jednadvacet.png" alt="twentyone.world">
+    url: https://twentyone.world/
 
 project_entries:
   - title: Dear Friends
