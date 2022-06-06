@@ -35,26 +35,90 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Project 7
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Project 8
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Project 9
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Project 10
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Project 11
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
+
+  - title: Project 12
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 13
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 14
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 15
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 16
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 17
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 18
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 19
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 20
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Project 21
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
+
+
+#old_project_entries:
+#  - title: Soopr
+#    url: https://www.soopr.co
+#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#    highlight: NEW
+#
+#  - title: Cookie
+#    url: https://github.com/abhinavs/cookie
+#    desc: An open source landing website with supporting pages and integrated blog
+#
+#  - title: Moonwalk
+#    url: https://github.com/abhinavs/moonwalk
+#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#
+#  - title: Humangous
+#    url: https://www.humangous.co
+#    desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: jednadvaCZet
     url: https://sifrant.github.io/jednadvacet
 
   - title: twitter
