@@ -39,99 +39,99 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
     highlight: TDB
 
-  - title: Project 7
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 8
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 9
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 10
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-    highlight: TDB
-
-  - title: Project 11
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-    
-  - title: Project 12
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 13
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 14
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 15
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 16
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 17
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 18
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 19
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 20
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
-
-  - title: Project 21
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
+#  - title: Project 7
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 8
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 9
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 10
+#    url: overview-post
+#    desc: You can control visibility from _config.yml file
+#    highlight: TDB
+#
+#  - title: Project 11
+#    url: overview-post
+#    desc: This project uses highlight markup, configured in _data/home.yml
+#    highlight: WIP
+#    
+#  - title: Project 12
+#    url: overview-post
+#    desc: Moonwalk also has horizontal list (used in header and footer)
+#    highlight: WIP
+#
+#  - title: Project 13
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 14
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 15
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 16
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 17
+#    url: overview-post
+#    desc: Moonwalk also has horizontal list (used in header and footer)
+#    highlight: WIP
+#
+#  - title: Project 18
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 19
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 20
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
+#
+#  - title: Project 21
+#    url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
+#    highlight: TDB
 
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: stackuj.cz Podcast
+    url: https://stackuj.cz/podcast.html
+    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině by @SatsJoseph 
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Braiins Publishing
+    url: https://braiins.com/category/publishing
+    desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#  - title: Moonwalk
+#    url: https://github.com/abhinavs/moonwalk
+#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#
+#  - title: Humangous
+#    url: https://www.humangous.co
+#    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: jednadvaCZet
