@@ -3,10 +3,13 @@ navbar_entries:
     url: https://twentyone.world/
     
   - title: jednadvaCZet
-    url: https://sifrant.github.io/jednadvacet
+    url: 
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
+    
+  - title: stackuj.cz podcast
+    url: https://stackuj.cz/podcast.html
   
   - title: Podpořit
     url: 
@@ -138,11 +141,14 @@ footer_entries:
   - title: jednadvaCZet
     url: https://sifrant.github.io/jednadvacet
 
+  - title: github
+    url: https://github.com/sifrant
+  
   - title: twitter
     url: https://twitter.com/nekonecnik
 
-  - title: github
-    url: https://github.com/sifrant
+  - title: support
+    url: 
 
   - title: feed
     url: feed.xml
