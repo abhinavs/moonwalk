@@ -1,19 +1,19 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: jednavaCZet
+    url: jednadvaCZet
 
-  - title: blog
-    url: blog
+  - title: 21 lekcí
+    url: https://sifrant.github.io/21lekci
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Smoke Signal
+    url: jednadvaCZet
 
 project_entries:
-  - title: Project 1
+  - title: Dear Friends
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Bitcoin Is Time
     url: overview-post
     desc: Projects are shown in card layout
 
@@ -55,13 +55,13 @@ old_project_entries:
 
 footer_entries:
   - title: abhinav's homepage
-    url: https://www.abhinav.co
+    url: https://sifrant.github.io/jednadvacet
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/nekonecnik
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/sifrant
 
   - title: feed
     url: feed.xml
