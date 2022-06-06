@@ -2,11 +2,8 @@ navbar_entries:
   - title: <img src="21mini.png" alt="twentyone.world">
     url: https://twentyone.world/
     
-  - title: 
-    url:
-
   - title: jednadvaCZet
-    url: jednadvacet
+    url: /
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
@@ -15,51 +12,56 @@ navbar_entries:
 project_entries:
   - title: Dear Friends
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: @765432, original @xxxxxx by @dergigi
 
   - title: Bitcoin Is Time
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: @789101, original @xxxxxx by @dergigi
 
-  - title: Project 3
+  - title: Bitcoin Astronomy I/III
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: @ 808808, original @xxxxxx bu @dhruvbansal
 
   - title: Project 4
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    highlight: TDB
 
   - title: Project 5
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    highlight: TDB
 
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 7
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 8
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 9
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 10
     url: overview-post
     desc: You can control visibility from _config.yml file
+    highlight: TDB
 
   - title: Project 11
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
-
+    
   - title: Project 12
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
@@ -68,18 +70,22 @@ project_entries:
   - title: Project 13
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 14
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 15
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 16
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 17
     url: overview-post
@@ -89,18 +95,22 @@ project_entries:
   - title: Project 18
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 19
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 20
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
   - title: Project 21
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
+    highlight: TDB
 
 
 #old_project_entries:
