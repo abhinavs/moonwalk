@@ -12,15 +12,15 @@ navbar_entries:
 project_entries:
   - title: Dear Friends
     url: overview-post
-    desc: @765432, original @xxxxxx by @dergigi
+    desc: 765432, original xxxxxx by @dergigi
 
   - title: Bitcoin Is Time
     url: overview-post
-    desc: @789101, original @xxxxxx by @dergigi
+    desc: 789101, original xxxxxx by @dergigi
 
   - title: Bitcoin Astronomy I/III
     url: overview-post
-    desc: @ 808808, original @xxxxxx bu @dhruvbansal
+    desc: 808808, original xxxxxx bu @dhruvbansal
 
   - title: Project 4
     url: overview-post
