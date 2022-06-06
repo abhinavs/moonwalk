@@ -8,26 +8,32 @@ navbar_entries:
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
+  - title: ...mining signal out of noise...
+    
   - title: Podpořit 🧡
     url: ./support
    
 
 project_entries:
-  - title: <orange> 21 lekcí z překladu 21 lekcí </orange>
+  - title: <orange> 21 lekcí z překladu 21 lekcí <orange/>
     url: 21z21
     desc: 739597 @nekonecnik
+    highlight: NEW
 
   - title: Milovaná rodino, drazí přátelé
     url: overview-post
     desc: 765432, original xxxxxx by @dergigi
+    highlight: NEW
 
   - title: Bitcoin Is Time
     url: overview-post
     desc: 789101, original xxxxxx by @dergigi
+    highlight: NEW
 
   - title: Bitcoin Astronomy I/III
     url: overview-post
     desc: 808808, original xxxxxx bu @dhruvbansal
+    highlight: NEW
 
   - title: Project 5
     url: overview-post
@@ -118,8 +124,8 @@ project_entries:
 old_project_entries:
   - title: stackuj.cz Podcast
     url: https://stackuj.cz/podcast.html
-    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině by @SatsJoseph 
-    highlight: NEW
+    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od @SatsJoseph 
+#    highlight: NEW
 
   - title: Braiins Publishing
     url: https://braiins.com/category/publishing
@@ -149,8 +155,8 @@ footer_entries:
   - title: feed
     url: feed.xml
   
-  - title: stackuj.cz podcast
-    url: https://stackuj.cz/podcast.html
+#  - title: stackuj.cz podcast
+#    url: https://stackuj.cz/podcast.html
 
 
 misc_entries:
