@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: jednavaCZet
-    url: jednadvaCZet
+  - title: logo kokot
+    url: https://twentyone.world/
 
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
 
-  - title: Smoke Signal
-    url: jednadvaCZet
+  - title: jednadvaCZet
+    url: jednadvacet
 
 project_entries:
   - title: Dear Friends
