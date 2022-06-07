@@ -5,7 +5,8 @@ navbar_entries:
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
-  - title: >->->->->->->->->->-> 
+  - title: nekonecnik@stacker.news
+    url: lightning:nekonecnik@stacker.news
     
   - title: Podpořit 🧡
     url: ./support
