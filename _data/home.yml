@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: <img src="jednadvacetBmini.png" alt="twenty.one">
+  - title: <img src="21mini.png" alt="twenty.one">
     url: https://twentyone.world/
     
   - title: plnotučných 
@@ -9,7 +9,7 @@ navbar_entries:
   - title: Podpořit 🧡
     url: ./support
 
-  - title: <img src="21mini.png" alt="jednadvaCZet">
+  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
     url: https://sifrant.github.io/21lekci
 
   - title: lekcí 🕳️ 🐰
