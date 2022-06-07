@@ -1,4 +1,11 @@
 
+<header>
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+</header>
+
 
 Ahoj (: Přeložil jsem do češtiny 21 lekcí od Gigiho, kterýžto titul vyjde v dohledné 
 době u <a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě, 
