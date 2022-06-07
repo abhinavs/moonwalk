@@ -17,7 +17,7 @@ navbar_entries:
 
 project_entries:
   - title: <orange> 21 lekcí z překladu 21 lekcí <orange/>
-    url: ./_posts/21z21
+    url: ./21z21
     desc: 739597 @nekonecnik
     highlight: ₿rzy
 
