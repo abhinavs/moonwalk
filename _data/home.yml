@@ -19,29 +19,29 @@ project_entries:
   - title: <orange> 21 lekcí z překladu 21 lekcí <orange/>
     url: ./_posts/21z21
     desc: 739597 @nekonecnik
-    highlight: NEW
-
-  - title: Milovaná rodino, drazí přátelé
-    url: overview-post
-    desc: 765432, original xxxxxx by @dergigi
-    highlight: NEW
+    highlight: ₿rzy
 
   - title: Bitcoin Is Time
     url: overview-post
-    desc: 789101, original xxxxxx by @dergigi
+    desc: 765432, original xxxxxx by @dergigi
     highlight: ₿rzy
 
-  - title: Bitcoin Astronomy I/III
+  - title: Bitcoin Astronomy I /III
     url: overview-post
-    desc: 808808, original xxxxxx bu @dhruvbansal
+    desc: 789101, original xxxxxx by @dhruvbansal
     highlight: ₿rzy
 
-  - title: Project 5
+  - title: Text \#04 
+    url: overview-post
+    desc: 808808
+    highlight: ₿ude
+
+  - title: Text \#05
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: ₿ude
 
-  - title: Project 6
+  - title: Text \#06
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
     highlight: ₿ude
