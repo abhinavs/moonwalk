@@ -34,7 +34,7 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: plnotučných textů o Bitcoinu
+#    title_projects: plnotučných textů o Bitcoinu
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Podporované projekty
