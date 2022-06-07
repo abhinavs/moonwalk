@@ -128,10 +128,10 @@ old_project_entries:
     url: https://braiins.com/category/publishing
     desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
 
-#  - title: Moonwalk
-#    url: https://github.com/abhinavs/moonwalk
-#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-#
+  - title: liberation.travel
+    url: https://liberation.travel
+    desc: Trochu jiná cestovka od @wilderko
+
 #  - title: Humangous
 #    url: https://www.humangous.co
 #    desc: The better people know you, the better they collaborate
