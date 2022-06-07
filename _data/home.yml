@@ -1,9 +1,6 @@
 navbar_entries:
   - title: <img src="twenty1Bmini.png" alt="twentyone.world">
     url: https://twentyone.world/
-    
-  - title: ...mining signal out of noise...
-    url: 
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
@@ -123,7 +120,7 @@ project_entries:
 
 
 old_project_entries:
-  - title: stackuj.cz Podcast
+  - title: 🎙️ PODCAST 🎧 stackuj.cz
     url: https://stackuj.cz/podcast.html
     desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od @SatsJoseph 
 #    highlight: NEW
