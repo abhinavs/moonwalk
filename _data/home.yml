@@ -1,12 +1,11 @@
 navbar_entries:
-  - title: <img src="twenty1Bmini.png" alt="twentyone.world">
+  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
     url: https://twentyone.world/
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
-  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
-    url: 
+  - title: >->->->->->->->->->-> 
     
   - title: Podpořit 🧡
     url: ./support
