@@ -6,15 +6,14 @@ navbar_entries:
            textů o Bitcoinu
     url: 
     
+  - title: 21 lekcí 🕳️ 🐰
+    url: https://sifrant.github.io/21lekci
+    
   - title: Podpořit 🧡
     url: ./support
 
-  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
-    url: https://sifrant.github.io/21lekci
-
-  - title: lekcí 🕳️ 🐰
-    url: https://sifrant.github.io/21lekci
-
+#  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
+#    url: https://sifrant.github.io/21lekci
 
 project_entries:
   - title: <orange> 21 lekcí z překladu 21 lekcí <orange/>
