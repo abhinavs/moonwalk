@@ -1,14 +1,15 @@
 navbar_entries:
-  - title: <img src="21mini.png" alt="twentyone.world">
+  - title: <img src="twenty1Bmini.png" alt="twentyone.world">
     url: https://twentyone.world/
     
-  - title: jednadvaCZet
+  - title: ...mining signal out of noise...
     url: 
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
-  - title: ...mining signal out of noise...
+  - title: <img src="21mini.gif" alt="jednadvaCZet">
+    url: 
     
   - title: Podpořit 🧡
     url: ./support
@@ -28,22 +29,22 @@ project_entries:
   - title: Bitcoin Is Time
     url: overview-post
     desc: 789101, original xxxxxx by @dergigi
-    highlight: NEW
+    highlight: ₿rzy
 
   - title: Bitcoin Astronomy I/III
     url: overview-post
     desc: 808808, original xxxxxx bu @dhruvbansal
-    highlight: NEW
+    highlight: ₿rzy
 
   - title: Project 5
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: TDB
+    highlight: ₿ude
 
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
-    highlight: TDB
+    highlight: ₿ude
 
 #  - title: Project 7
 #    url: overview-post
