@@ -3,9 +3,10 @@ author: sifrant
 url: https://sifrant.github.io/jednadvacet # root address of the site
 #description: > # description of the site (multiple lines allowed)
   #Ahoj (: Přeložil jsem do češtiny 21 lekcí od Gigiho, kterýžto titul vyjde v dohledné době u Braiins Publishing v tištěné podobě, 
-  #což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. Na této stránce nabídnu váženému čtenáři 21 kvalitních, 
-  #podnětných a povětšinou dlouhých textů o Bitcoinu přeložených kompletně do češtiny. Nějakou dobu potrvá, než se adventní kalendář 
-  #jednotlivými bonbonky naplní. Uvažte však, že se zde bavíme o neposkrněném početí nové formy života <3
+  #což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. 
+  Na této stránce postupně nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu 
+  přeložených kompletně do češtiny. Nějakou dobu potrvá, než se adventní kalendář jednotlivými bonbonky naplní. 
+  Uvažte však, že se zde bavíme o neposkrněném početí nové formy života <3
 
 permalink: /:slug
 
