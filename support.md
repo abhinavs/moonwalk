@@ -7,7 +7,8 @@
 </header>
 
 
-Ahoj (: Přeložil jsem do češtiny 21 lekcí od Gigiho, kterýžto titul vyjde v dohledné 
+Ahoj (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
+od <a href="https://dergigi.com/">Gigiho</a>, kterýžto titul vyjde v dohledné 
 době u <a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě, 
 což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. Na této stránce 
 nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu 
@@ -24,7 +25,7 @@ je koncept podpory tvůrce od publika na základě čistě dobrovolných libovol
 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
 
-twitter DMs open @nekonecnik
+twitter DMs open <a href="https://twitter.com/nekonecnik">@nekonecnik</a>
 
 
 {% if site.theme_config.show_footer == true %}
