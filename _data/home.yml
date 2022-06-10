@@ -27,22 +27,22 @@ project_entries:
     highlight: ₿rand NEW
 
   - title: 21 lekcí z překladu 21 lekcí
-    url: overview-post
+    url: ₿rzy
     desc: 789101, @nekonecnik
     highlight: ₿rzy
 
   - title: Bitcoin Is Time 
-    url: overview-post
+    url: ₿rzy
     desc: 789101, original xxxxxx @dergigi
     highlight: ₿rzy
 
   - title: Bitcoin Astronomy I /III
-    url: overview-post
+    url: ₿rzy
     desc: 808808, original xxxxxx @dhruvbansal
     highlight: ₿rzy
 
   - title: Text /#06
-    url: overview-post
+    url: ₿rzy
     desc: ???
     highlight: ₿ude
 
@@ -128,11 +128,11 @@ old_project_entries:
     desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od @SatsJoseph 
 #    highlight: NEW
 
-  - title: Braiins Publishing
+  - title: Braiins Publishing 📚 📙 📖 🔍
     url: https://braiins.com/category/publishing
     desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
 
-  - title: liberation.travel
+  - title: liberation.travel 🛂 🛃 🛫 ✈️
     url: https://liberation.travel
     desc: Trochu jiná cestovka od @wilderko
 
