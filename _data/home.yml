@@ -21,7 +21,7 @@ project_entries:
     desc: 739884, original 623774 @dergigi
     highlight: ₿rand NEW
 
-  - title: Bitcoi a meziplanetární hranice
+  - title: Bitcoin a meziplanetární hranice
     url: ./posts/0740195-btc-mezi-planety
     desc: 740195, original Oct02/2018 by @clarkmoody
     highlight: ₿rand NEW
@@ -41,9 +41,9 @@ project_entries:
     desc: 808808, original xxxxxx @dhruvbansal
     highlight: ₿rzy
 
-  - title: Text \#06
+  - title: Text /#06
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: ???
     highlight: ₿ude
 
 #  - title: Project 7
