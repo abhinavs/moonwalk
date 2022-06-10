@@ -1,4 +1,11 @@
-This is 🇨🇿 Czech translation of this article by @dergigi originally published @623774 Translated @739884 by @nekonecnik 🧡
+<header>
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+</header>
+
+This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">this article</a> by <a href="https://twitter.com/dergigi">@dergigi</a> originally published @623774 Translated @739884 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 ## Drazí Bitcoineři
 Optimistický dopis přátelům i nepřátelům z celého světa.
@@ -59,6 +66,7 @@ Není nic lepšího než být na jedné lodi s výjimečnými lidmi, kteří k s
 Buďte ostražití. Zůstaňte radikální. Zůstaňte věrní sami sobě. V době, kdy svět spěje do záhuby a pád Říma je takhle blízko, jsou silné charaktery, zdravé zásady a čestné jednání nezbytností.
 
 Scéna je připravena, drama se odehrává, a při nástupu crescenda nesmíme podlehnout tyranii. Cesta bude klikatá a hrbolatá a já mám tu čest ji projít až do konce, s vámi po svém boku. Zvládneme to.
+
 
 ### Poděkování
 Děkuji Hassovi, Johnovi a Dennisovi za jejich cenné připomínky.
