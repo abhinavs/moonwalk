@@ -75,3 +75,11 @@ Současná krize - a finanční dopady, které budou nevyhnutelně následovat -
 #### Poděkování
 Děkuji <a href="[https://twitter.com/FriarHass">Hassovi</a>, <a href="https://twitter.com/johnkvallis">Johnovi</a> a <a href="https://twitter.com/dennisreimann">Dennisovi</a> za jejich cenné připomínky.
 Původní grafika "Citadela vyhnanství" od <a href="https://samkeiser.artstation.com/projects/a3ALX">Sama Keisera</a>
+
+{% if site.theme_config.show_footer == true %}
+  <footer>
+    <div class="dashed"></div>
+    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+  </footer>
+{% endif %}
+
