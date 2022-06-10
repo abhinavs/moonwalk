@@ -77,8 +77,8 @@ Děkuji <a href="[https://twitter.com/FriarHass">Hassovi</a>, <a href="https://t
 Původní grafika "Citadela vyhnanství" od <a href="https://samkeiser.artstation.com/projects/a3ALX">Sama Keisera</a>
 
 ## ---
-<big>Autor: <a href="https://twitter.com/clarkmoody">Clark Moody</a>
-<br>Původní článek: <a href="https://bitcoin.clarkmoody.com/posts/bitcoin-interplanetary-frontier">Bitcoin and the Interplanetary Frontier</a>
+<big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a>
+<br>Původní článek: <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">Bitcoin and the Interplanetary Frontier</a>
 <br>Přeložil: ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big>
 
 {% if site.theme_config.show_footer == true %}
