@@ -61,3 +61,12 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 <img src="./04-space-station-concept.jpg" alt=""> 
   
 <big>Hranice je příslibem nového začátku a duch osadníků podněcuje houževnatost tváří v tvář obrovským výzvám. Když se vydáváme na cestu ke hvězdám, potřebujeme veškerou pomoc, které se nám může dostat. Protože peníze vesmírného osídlení budou digitální, musíme opustit tiskařské stroje. Opusťme také pokřivení nesolidních peněz a pohánějme vesmírnou ekonomiku Bitcoinem.</big>
+
+  
+{% if site.theme_config.show_footer == true %}
+  <footer>
+    <div class="dashed"></div>
+    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+  </footer>
+{% endif %}
+  
