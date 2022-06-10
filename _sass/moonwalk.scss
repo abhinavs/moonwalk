@@ -77,11 +77,11 @@ html {
 @mixin dark-appearance {
   html, body  {
       --headings: #e6b338;
-      --links: #f6ec6b;
+      --links: #f3bf82;
       --highlight: #e69138;
       --bg: #1f242A;
       --bg-secondary: #323945;
-      --text: #adb5bd;
+      --text: #eeeeee;
       --code-text: #93c47d;
       --share-text: #C4C4C4;
   };
