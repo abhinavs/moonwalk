@@ -62,6 +62,11 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
   
 <big>Hranice je příslibem nového začátku a duch osadníků podněcuje houževnatost tváří v tvář obrovským výzvám. Když se vydáváme na cestu ke hvězdám, potřebujeme veškerou pomoc, které se nám může dostat. Protože peníze vesmírného osídlení budou digitální, musíme opustit tiskařské stroje. Opusťme také pokřivení nesolidních peněz a pohánějme vesmírnou ekonomiku Bitcoinem.</big>
 
+## ---
+<big>Autor: <a href="https://twitter.com/clarkmoody">Clark Moody</a>
+<br>Původní článek: <a href="https://bitcoin.clarkmoody.com/posts/bitcoin-interplanetary-frontier">Bitcoin and the Interplanetary Frontier</a>
+<br>Přeložil: ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big>
+  
   
 {% if site.theme_config.show_footer == true %}
   <footer>
