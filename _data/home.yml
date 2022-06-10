@@ -39,12 +39,12 @@ project_entries:
   - title: Bitcoin Astronomy I /III
     url: ₿rzy
     desc: 75xxxx original Sep13/2019 @dhruvbansal
-    highlight: ₿rzy
+#    highlight: ₿rzy
 
   - title: ??? 06 /21
     url: ₿rzy
     desc: 76xxxx
-    highlight: ₿ude
+#    highlight: ₿ude
 
 #  - title: Project 7
 #    url: overview-post
@@ -125,20 +125,28 @@ project_entries:
 old_project_entries:
   - title: 🎙️ PODCAST 🎧 stackuj.cz
     url: https://stackuj.cz/podcast.html
-    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od @SatsJoseph 
+    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
-  - title: Braiins Publishing 📚 📙 📖 🔍
+  - title: Braiins Publishing 📙
     url: https://braiins.com/category/publishing
     desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
 
-  - title: liberation.travel 🛂 🛃 🛫 ✈️
+  - title: 🛂 liberation.travel 🛃
     url: https://liberation.travel
-    desc: Trochu jiná cestovka od @wilderko
+    desc: Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
 
-#  - title: Humangous
-#    url: https://www.humangous.co
-#    desc: The better people know you, the better they collaborate
+  - title: juraj.bednar.io
+    url: https://juraj.bednar.io/
+    desc: Kurzy, knihy blog inspirativního hackera
+    
+#  - title: juraj.bednar.io
+#    url: https://juraj.bednar.io/
+#    desc: Kurzy, knihy blog inspirativního hackera
+
+#  - title: juraj.bednar.io
+#    url: https://juraj.bednar.io/
+#    desc: Kurzy, knihy blog inspirativního hackera
 
 footer_entries:
   - title: ...mining signal out of noise...
