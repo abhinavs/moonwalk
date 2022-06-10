@@ -18,14 +18,16 @@ přeložených kompletně do češtiny. Nějakou dobu potrvá, než se adventní
 
 ### Value For Value 🙏🏻 🧡
 
-je koncept podpory tvůrce od publika na základě čistě dobrovolných libovolných příspěvků v rámci poděkování za poskytnutí hodnoty. Překlad dlouhých textů je časově náročný a jakákoli kompenzace je povznášejícím uvolněním. Svou náklonnost můžete projevit zasláním satů na
+je koncept podpory tvůrce od publika na základě čistě dobrovolných libovolných příspěvků v rámci poděkování 
+za poskytnutí hodnoty. Překlad dlouhých textů je časově náročný a jakákoli kompenzace je povznášejícím 
+uvolněním. Svou náklonnost můžete projevit zasláním satů na
 
 <big>⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big> 
 
 <big>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a></big>
 
-
-<big>twitter DMs open <a href="https://twitter.com/nekonecnik">@nekonecnik</a></big>
+<big>V případě takové podpory, jež by mi to umožnila, jsem připraven věnovat tomuto projektu maximální nasazení.
+<br>Kontaktovat mě můžete na twitteru <a href="https://twitter.com/nekonecnik">@nekonecnik</a></big> DMs open </big>
   
 
 
