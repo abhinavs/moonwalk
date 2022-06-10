@@ -17,29 +17,29 @@ navbar_entries:
 
 project_entries:
   - title: Drazí Bitcoineři
-    url: ./drazi-bitcoineri
-    desc: 73959ý, original 623774 @dergigi
-    highlight: ₿rzy
+    url: ./_posts/739884-drazi-bitcoineri
+    desc: 739884, original 623774 @dergigi
+    highlight: ₿rand NEW
+
+  - title: Bitcoi a meziplanetární hranice
+    url: ./_posts/740195-btc-interplanetary-frontier
+    desc: 740195, original Oct02/2018 by @clarkmoody
+    highlight: ₿rand NEW
 
   - title: 21 lekcí z překladu 21 lekcí
-    url: ./21z21
-    desc: 765432, @nekonecnik
+    url: overview-post
+    desc: 789101, @nekonecnik
     highlight: ₿rzy
 
-  - title: Bitcoin Is Time
+  - title: Bitcoin Is Time 
     url: overview-post
-    desc: 789101, original xxxxxx @dhruvbansal
+    desc: 789101, original xxxxxx @dergigi
     highlight: ₿rzy
 
-  - title: Bitcoin Astronomy I /III 
+  - title: Bitcoin Astronomy I /III
     url: overview-post
-    desc: 808808
+    desc: 808808, original xxxxxx @dhruvbansal
     highlight: ₿rzy
-
-  - title: Text \#05
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: ₿ude
 
   - title: Text \#06
     url: overview-post
