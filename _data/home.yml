@@ -19,12 +19,12 @@ project_entries:
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
     desc: 739884 / original 623774 @dergigi
-    highlight: ₿rand NEW
+#    highlight: ₿rand NEW
 
   - title: Bitcoin a meziplanetární hranice
     url: ./posts/0740195-btc-mezi-planety
     desc: 740195 / original Oct02/2018 @clarkmoody
-    highlight: ₿rand NEW
+#    highlight: ₿rand NEW
 
   - title: 21 lekcí z překladu 21 lekcí
     url: ₿rzy
