@@ -21,6 +21,7 @@ bonbonky naplní. Uvažte však, že se zde bavíme o neposkrněném početí no
 je koncept podpory tvůrce od publika na základě čistě dobrovolných libovolných příspěvků v rámci poděkování za poskytnutí hodnoty. Překlad dlouhých textů je časově náročný a jakákoli kompenzace je povznášejícím uvolněním. Svou náklonnost můžete projevit zasláním satů na
 
 ⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 
+
 🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
 
