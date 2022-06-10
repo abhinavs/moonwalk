@@ -17,12 +17,12 @@ navbar_entries:
 
 project_entries:
   - title: Drazí Bitcoineři
-    url: ./_posts/739884-drazi-bitcoineri
+    url: ./posts/0739884-drazi-bitcoineri
     desc: 739884, original 623774 @dergigi
     highlight: ₿rand NEW
 
   - title: Bitcoi a meziplanetární hranice
-    url: ./_posts/740195-btc-interplanetary-frontier
+    url: ./posts/0740195-btc-mezi-planety
     desc: 740195, original Oct02/2018 by @clarkmoody
     highlight: ₿rand NEW
 
