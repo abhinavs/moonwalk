@@ -72,13 +72,14 @@ Současná krize - a finanční dopady, které budou nevyhnutelně následovat -
 <big>Scéna je připravena, drama se odehrává, a při nástupu crescenda nesmíme podlehnout tyranii. Cesta bude klikatá a hrbolatá a já mám tu čest ji projít až do konce, s vámi po svém boku. Zvládneme to.</big>
 
 
-#### Poděkování
+## Poděkování
 Děkuji <a href="[https://twitter.com/FriarHass">Hassovi</a>, <a href="https://twitter.com/johnkvallis">Johnovi</a> a <a href="https://twitter.com/dennisreimann">Dennisovi</a> za jejich cenné připomínky.
 Původní grafika "Citadela vyhnanství" od <a href="https://samkeiser.artstation.com/projects/a3ALX">Sama Keisera</a>
 
+## ---
 <big>Autor: <a href="https://twitter.com/clarkmoody">Clark Moody</a>
 <br>Původní článek: <a href="https://bitcoin.clarkmoody.com/posts/bitcoin-interplanetary-frontier">Bitcoin and the Interplanetary Frontier</a>
-<br>Přeložil: ⚡ nekonecnik@stacker.news</big>
+<br>Přeložil: ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big>
 
 {% if site.theme_config.show_footer == true %}
   <footer>
