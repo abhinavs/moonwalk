@@ -151,10 +151,10 @@ footer_entries:
     url: https://twitter.com/nekonecnik
 
   - title: support 🧡
-    url: ./support
+    url: https://sifrant.github.io/jednadvacet/support
     
-  - title: feed
-    url: feed.xml
+#  - title: feed
+#    url: feed.xml
   
 #  - title: stackuj.cz podcast
 #    url: https://stackuj.cz/podcast.html
