@@ -6,9 +6,13 @@ navbar_entries:
            textů o Bitcoinu
     url: https://sifrant.github.io/jednadvacet
     
+  - title: |
+    
   - title: 21 lekcí 🕳️ 🐰
     url: https://sifrant.github.io/21lekci
-    
+ 
+  - title: |
+ 
   - title: Podpořit 🧡
     url: ./support
 
@@ -123,9 +127,9 @@ project_entries:
 
 
 old_project_entries:
-  - title: 🎙️ PODCAST 🎧 stackuj.cz
+  - title: PODCAST 🎙️ stackuj.cz
     url: https://stackuj.cz/podcast.html
-    desc: </a>Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
+    desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
   - title: Der Gigi 🙏🏻 🧡
@@ -134,11 +138,11 @@ old_project_entries:
 
   - title: Braiins Publishing 📙
     url: https://braiins.com/category/publishing
-    desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
+    desc: Publikační aktivita miningových OGs 
 
   - title: 🛂 liberation.travel 🛃
     url: https://liberation.travel
-    desc: Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
+    desc: </a>Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
 
   - title: juraj.bednar.io 🧠 
     url: https://juraj.bednar.io/
