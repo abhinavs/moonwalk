@@ -7,7 +7,9 @@
 </header>
 
 
-Ahoj (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
+### Ahoj (:
+
+Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
 od <a href="https://dergigi.com/">Gigiho</a>, kterýžto titul vyjde v dohledné 
 době u <a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě, 
 což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. 
