@@ -29,7 +29,7 @@ project_entries:
   - title: 21 lekcí z překladu 21 lekcí
     url: ₿rzy
     desc: 789101 / @nekonecnik
-    highlight: ₿rzy
+    highlight: ???
 
   - title: Bitcoin je čas 
     url: ₿rzy
@@ -42,7 +42,7 @@ project_entries:
 #    highlight: ₿rzy
 
   - title: ??? 06 /21
-    url: ₿rzy
+    url: ₿ude
     desc: 76xxxx
 #    highlight: ₿ude
 
@@ -125,12 +125,12 @@ project_entries:
 old_project_entries:
   - title: 🎙️ PODCAST 🎧 stackuj.cz
     url: https://stackuj.cz/podcast.html
-    desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
+    desc: </a>Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
   - title: Der Gigi 🙏🏻 🧡
     url: https://dergigi.com/
-    desc:  Blurry Flesh & Top Sharp Bitcoin Mind
+    desc: FOSS entity of ethereal body & ₿itcoin mind
 
   - title: Braiins Publishing 📙
     url: https://braiins.com/category/publishing
@@ -144,9 +144,22 @@ old_project_entries:
     url: https://juraj.bednar.io/
     desc: Kurzy, knihy, blog inspirativního hackera
     
-  - title: Martin Matys 🎧 Ty Nikdy
+  - title: 🎙️ Martin Matys 🎧 [TyNikdy]
     url: https://www.tynikdy.cz/interpret/matys
     desc: Nejlepší československý rap
+    
+#  - title: xxx
+#    url: yyy
+#    desc: zzz
+
+#  - title: xxx
+#    url: yyy
+#    desc: zzz
+
+#  - title: biofarma.cz Sasov, Jihlava
+#    url: https://biofarma.cz/
+#    desc: Grass-fed beef z Vysočiny
+    
 
 footer_entries:
   - title: ...mining signal out of noise...
@@ -158,7 +171,7 @@ footer_entries:
   - title: twitter
     url: https://twitter.com/nekonecnik
 
-  - title: support 🧡
+  - title: support 🧡 value4value
     url: https://sifrant.github.io/jednadvacet/support
     
 #  - title: feed
