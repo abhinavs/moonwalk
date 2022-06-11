@@ -5,13 +5,9 @@ navbar_entries:
   - title: plnotučných 
            textů o Bitcoinu
     url: https://sifrant.github.io/jednadvacet
-    
-  - title: |
-    
+      
   - title: 21 lekcí 🕳️ 🐰
     url: https://sifrant.github.io/21lekci
- 
-  - title: |
  
   - title: Podpořit 🧡
     url: ./support
@@ -127,7 +123,7 @@ project_entries:
 
 
 old_project_entries:
-  - title: PODCAST 🎙️ stackuj.cz
+  - title: PODCAST stackuj.cz
     url: https://stackuj.cz/podcast.html
     desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
