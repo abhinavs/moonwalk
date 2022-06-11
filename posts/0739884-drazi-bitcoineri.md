@@ -5,8 +5,8 @@
 {% endif %}
 </header>
 
-<small>This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">this article</a> by <a href="https://twitter.com/dergigi">@dergigi</a> originally published @623774 
-<br>Translated @739884 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡</small>
+This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">this article</a> by <a href="https://twitter.com/dergigi">@dergigi</a> originally published @623774 
+<br>Translated @739884 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Drazí Bitcoineři
 Optimistický dopis přátelům i nepřátelům z celého světa.
