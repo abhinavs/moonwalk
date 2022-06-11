@@ -47,7 +47,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 
 <big>Kolonie na oběžné dráze Země, vesmírné stanice, a dokonce i základny na Měsíci by mohly fungovat na Bitcoinu stejně spolehlivě, jaký bude jejich přístup k internetu. Všude, kde se Bitcoin používá, je nezbytné ověřování blockchainu, aby se předešlo ekonomické cenzuře vypořádání. Bitcoinové uzly by měly zajistit, aby aktualizace ze Země přijímal více než jeden komunikační kanál. Více nezávislých provozovatelů uzlů v každé osadě zlepší odolnost blockchainu proti cenzuře. Odchozí transakce by měly být přenášeny zpět na Zemi více kanály, aby taková vyrovnání byla odolná proti ekonomické blokádě.</big>
 
-## Platby přes Lightning
+## Bleskové platby
 <big>On-chain transakce vyžadují zpětné spojení a vícenásobné potvrzení, aby zůstaly důvěryhodnými i mimozemsky. Pro platby daleko od Země se hodí síť Lightning Network. Platební kanály se otvírají na chainu, ale další transakce probíhají off-chain a lokálně. Vaše platba za nejnovější experimentální marťanskou kávu bude okamžitá, privátní a levná.</big>
 
 <big>Ke zvládnutí velkých časových prodlev je třeba jednoduchá technická úprava během nastavení kanálu: upravte time lock deltu tak, aby zohledňovala vysílání do blockchainu. Marťanští osadníci přidají 44 minut, tedy 4 bloky. Kolonisté na Saturnově měsíci Titanu přidávají k minimální timr lock deltě 3 hodiny neboli 18 bloků. Jinak budou platby lokální a okamžité, přičemž si zachovají všechny vlastnosti plateb Lightning Network na Zemi.</big>
