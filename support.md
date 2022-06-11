@@ -7,7 +7,7 @@
 </header>
 
 
-<big>Ahoj (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
+Ahoj (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
 od <a href="https://dergigi.com/">Gigiho</a>, kterýžto titul vyjde v dohledné 
 době u <a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě, 
 což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. 
@@ -15,7 +15,7 @@ což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě 
 Na této stránce nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů 
 o Bitcoinu přeložených kompletně do češtiny. Nějakou dobu potrvá, než se adventní kalendář 
 jednotlivými bonbonky naplní. Uvažte však, že se zde bavíme o neposkrněném početí nové 
-formy života <3 </big>
+formy života 🧡
 
 
 ### Value For Value 🙏🏻 🧡
@@ -28,9 +28,9 @@ uvolněním. Svou náklonnost můžete projevit zasláním satů na
 
 <big>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a></big>
 
-<big>V případě podpory, jež by mi to umožnila, jsem připraven věnovat tomuto projektu maximální nasazení.
-  Mám v zásobě hodiny textu, jen si to vezme čas...
-<br>Kontaktovat mě můžete na twitteru <a href="https://twitter.com/nekonecnik">@nekonecnik</a> DMs open</big>
+V případě podpory, jež by mi to umožnila, jsem připraven věnovat tomuto projektu maximální nasazení.
+  Mám v zásobě hodiny a hodiny textu ke čtení, jen si to vezme čas...
+<br>Kontaktovat mě můžete na twitteru <a href="https://twitter.com/nekonecnik">@nekonecnik</a> DMs open
   
 
 
