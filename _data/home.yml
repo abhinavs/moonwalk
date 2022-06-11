@@ -38,7 +38,7 @@ project_entries:
 
   - title: Bitcoin Astronomy I /III
     url: ₿rzy
-    desc: 75xxxx original Sep13/2019 @dhruvbansal
+    desc: 75xxxx / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
 
   - title: ??? 06 /21
@@ -128,6 +128,10 @@ old_project_entries:
     desc: Bezkonkurenčně nejlepší Bitcoinový podcast v češtině od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
+  - title: Der Gigi 🙏🏻 🧡
+    url: https://dergigi.com/
+    desc:  Blurry Flesh & Top Sharp Bitcoin Mind
+
   - title: Braiins Publishing 📙
     url: https://braiins.com/category/publishing
     desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
@@ -136,17 +140,13 @@ old_project_entries:
     url: https://liberation.travel
     desc: Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
 
-  - title: juraj.bednar.io
+  - title: juraj.bednar.io 🧠 
     url: https://juraj.bednar.io/
-    desc: Kurzy, knihy blog inspirativního hackera
+    desc: Kurzy, knihy, blog inspirativního hackera
     
-#  - title: juraj.bednar.io
-#    url: https://juraj.bednar.io/
-#    desc: Kurzy, knihy blog inspirativního hackera
-
-#  - title: juraj.bednar.io
-#    url: https://juraj.bednar.io/
-#    desc: Kurzy, knihy blog inspirativního hackera
+  - title: Martin Matys 🎧 Ty Nikdy
+    url: https://www.tynikdy.cz/interpret/matys
+    desc: Nejlepší československý rap
 
 footer_entries:
   - title: ...mining signal out of noise...
