@@ -26,15 +26,15 @@ project_entries:
     desc: 740195 / original Oct02/2018 @clarkmoody
 #    highlight: ₿rand NEW
 
-  - title: 21 lekcí z překladu 21 lekcí
-    url: ₿rzy
-    desc: 789101 / @nekonecnik
-    highlight: ???
-
   - title: Bitcoin je čas 
     url: ₿rzy
     desc: 74xxxx / original 666053 @dergigi
     highlight: ₿rzy
+
+  - title: 21 lekcí z překladu 21 lekcí
+    url: ₿rzy
+    desc: 789101 / @nekonecnik
+    highlight: ???
 
   - title: Bitcoin Astronomy I /III
     url: ₿rzy
@@ -128,9 +128,9 @@ old_project_entries:
     desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
-  - title: Der Gigi 🙏🏻 🧡
-    url: https://dergigi.com/
-    desc: FOSS entity of ethereal body & ₿itcoin mind
+#  - title: Der Gigi 🙏🏻 🧡
+#    url: https://dergigi.com/
+#    desc: FOSS entity of ethereal body & ₿itcoin mind
 
   - title: Braiins Publishing 📙
     url: https://braiins.com/category/publishing
@@ -140,13 +140,13 @@ old_project_entries:
     url: https://liberation.travel
     desc: </a>Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
 
-  - title: juraj.bednar.io 🧠 
-    url: https://juraj.bednar.io/
-    desc: Kurzy, knihy, blog inspirativního hackera
-    
-  - title: 🎙️ Martin Matys 🎧 [TyNikdy]
-    url: https://www.tynikdy.cz/interpret/matys
-    desc: Nejlepší československý rap
+#  - title: juraj.bednar.io 🧠 
+#    url: https://juraj.bednar.io/
+#    desc: Kurzy, knihy, blog inspirativního hackera
+       
+#  - title: 🎙️ Martin Matys 🎧 [TyNikdy]
+#    url: https://www.tynikdy.cz/interpret/matys
+#    desc: Nejlepší československý rap
     
 #  - title: xxx
 #    url: yyy
