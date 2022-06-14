@@ -9,21 +9,21 @@ This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2020/03/31/de
 <br>Translated @739884 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Drazí Bitcoineři
-Optimistický dopis přátelům i nepřátelům z celého světa.
+Optimistický dopis přátelům i nepřátelům na celé Zemi.
 <br>623774
 
 <img src="./btc14-dear-bitcoiners.jpg" alt="">
 
-<big>Šílenství tohoto světa se zjevilo v okamžení. Všechno se mění mnohem rychleji, než si většina z nás kdy dokázala představit - ale já se nebojím. Naopak, jsem podivně optimistický - kvůli Bitcoinu a kvůli vám.</big>
+<big>Šílenství tohoto světa se zjevilo v okamžení. Všechno se mění mnohem rychleji, než si většina z nás kdy dokázala představit - ale já se nebojím. Naopak, jsem podivně optimistický - kvůli Bitcoinu a díky vám.</big>
 
 <big>Pravděpodobně mě neznáte a já pravděpodobně neznám vás. A to je naprosto v pořádku. Některé z vás však znám - a věřím, že některé znám docela dobře, i když jsme se nikdy nesetkali nebo pouze letmo. Četl jsem vaše texty, sledoval jsem, jak spolu debatujete, viděl jsem věci, které jste vybudovali, a nespočet hodin jsem poslouchal vaše hlasy. Je mi jedno, identifikujete-li se jako bitcoiner nebo maximalista, nebo jako pre-/shit-/multi-/cokoliv-coiner. Je mi fuk, jestli jste už před lety spadli do králičí nory, nebo zda jste právě poprvé zahlédli brloh medojedův. Nezajímá mě vaše politické přesvědčení, sexuální orientace, pohlaví, náboženství, věk a nespočet dalších kvalifikátorů, jimiž vás lze zaškatulkovat. Stačí mi fakt, že jste tady, čtete to, přemýšlíte o Bitcoinu a zajímáte se o něj. To je důvod, proč jsem optimistický. Optimistický vůči Bitcoinu a optimistický vůči Bitcoinerům.</big>
 
 > <b>"Bullish on bitcoiners."</b>
 > <br><a href="https://twitter.com/ODELL/status/1202843544093954048?s=20">Matt Odell</a>
 
-<big>Důsledky bitcoinu jsou tak dalekosáhlé a inovace tak hluboké, že to až zaráží. Mezioborová povaha této bestie přitahuje mozky z nesčetných oblastí: počítačová věda, kryptografie, matematika, fyzika, ekonomie, finance, obchodování, inženýrství, seznam je dlouhý. Bystré mozky, výjimečné osobnosti, silné názory, kontrariáni, idealisté snažící se změnit svět - ti všichni a mnozí další tvoří volný kolektiv, který bychom mohli označit za bitcoinery.</big>
+<big>Důsledky bitcoinu jsou tak dalekosáhlé a inovace tak hluboké, že to až zaráží. Mezioborová povaha této šelmy přitahuje mozky z nesčetných oblastí: počítačová věda, kryptografie, matematika, fyzika, ekonomie, finance, obchodování, inženýrství, seznam je dlouhý. Bystré mozky, výjimečné osobnosti, silné názory, kontrariáni, idealisté snažící se změnit svět - ti všichni a mnozí další tvoří volný kolektiv, který bychom mohli označit za bitcoinery.</big>
 
-## Medojed neřeší
+## Medojed má na háku
 <big>Nechápejte mě špatně: Bitcoin vás nepotřebuje, nepotřebuje nikoho z nás. Jeho systémy pobídek mají způsob, jak zajistit, že bude v pořádku, i když se množina lidí, kteří na něm pracují a používají ho, zcela změní. Bitcoin bude v pořádku, stejně jako nyní, kdy se celý svět zastavil.
 Současná krize - a finanční dopady, které budou nevyhnutelně následovat - jasně ukáže, že Bitcoin potřebujeme více než Bitcoin potřebuje nás. Opět mě však nechápejte špatně: nesmíme být lhostejní. Musíme se i nadále starat, pokračovat v budování, pokračovat ve vzdělávání, pokračovat s konverzí, pokračovat v argumentaci, pokračovat v debatách. Nacházíme se v čele bitvy myšlenek a v této bitvě samolibost zabíjí.</big>
 
@@ -44,7 +44,7 @@ Současná krize - a finanční dopady, které budou nevyhnutelně následovat -
 <big>Vrchnost neodstoupí ani dobrovolně, ani mlčky. A protože bojujeme o vlastní suverenitu a svobodu, musíme svádět tento boj znovu a znovu.</big>
 
 ## Ochrana myšlenky, jejíž čas nadešel
-<big>Padouši se budou neustále snažit Bitcoin podkopat, jako se o to pokoušeli v minulosti. Bohužel máme dobrý důvod se domnívat, že v tom budou pokračovat. A trend podkopávání a mrzačení technologií bohužel je zřejmý všude kolem. Na příkladu internetu, vidíme, jak různé zájmové skupiny vedou válku proti síťové neutralitě, jak politici zavádějí celonárodní firewally, jak webové stránky blokují obsah z geografických důvodů, jak jsou lidé svévolně deplatformováni, demonetizováni nebo blokováni.</big>
+<big>Padouši se budou neustále snažit Bitcoin podkopat, jako se o to pokoušeli v minulosti. Bohužel máme dobrý důvod se domnívat, že v tom budou pokračovat. A trend podkopávání a mrzačení technologií bohužel je zřejmý všude kolem. Na příkladu internetu vidíme, jak různé zájmové skupiny vedou válku proti síťové neutralitě, jak politici zavádějí celonárodní firewally, jak webové stránky blokují obsah z geografických důvodů, jak jsou lidé svévolně deplatformováni, demonetizováni nebo blokováni.</big>
 
 <big>Říká se, že nic není tak mocné jako myšlenka, jejíž čas nadešel. Věřím, že čas Bitcoinu nadešel, a při zpětném pohledu to bude každému jasné. Než se to však stane zřejmým, budou se houfy lidí snažit překroutit to, co Bitcoin je, a myšlenky, jež představuje.</big>
 
