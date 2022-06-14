@@ -78,7 +78,7 @@ Původní grafika "Citadela vyhnanství" od <a href="https://samkeiser.artstatio
 
 ## ---
 <big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a>
-<br>Původní článek: <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">Bitcoin and the Interplanetary Frontier</a>
+<br>Původní článek: <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">Dear Bitcoiners</a>
 <br>Přeložil: ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big>
 
 {% if site.theme_config.show_footer == true %}
