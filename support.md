@@ -24,7 +24,7 @@ je koncept podpory tvůrce od publika na základě čistě dobrovolných libovol
 za poskytnutí hodnoty. Překlad dlouhých, technicky specifických textů je časově náročný a jakákoli kompenzace je povznášejícím 
 uvolněním. Svou náklonnost můžete projevit zasláním ₿ satů na
 
-<big>🐦 <a href="https://twitter.com/TweetoshiApp">Tweetoshi</a> - twitter handle <a href="https://twitter.com/nekonecnik">@nekonecnik</a> (DMs open)
+<big><img src="tweetoshiMini.png" alt="Tweetoshi"> <a href="https://twitter.com/TweetoshiApp">Tweetoshi</a> - twitter handle <a href="https://twitter.com/nekonecnik">@nekonecnik</a> (DMs open)
 <br>⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a>
 <br>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a></big>
 
