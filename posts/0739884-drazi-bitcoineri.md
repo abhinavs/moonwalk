@@ -79,7 +79,7 @@ Původní grafika "Citadela vyhnanství" od <a href="https://samkeiser.artstatio
 ## ---
 <big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a> <a href="https://dergigi.com/support/">🧡</a>
 <br>Původní článek: <a href="https://dergigi.com/2020/03/31/dear-bitcoiners/">Dear Bitcoiners</a>
-<br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big> 🔗 Samourai 
+<br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
 PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
 {% if site.theme_config.show_footer == true %}
