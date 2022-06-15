@@ -10,11 +10,10 @@
 Vítejte! (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
 od <a href="https://dergigi.com/">Gigiho</a>, kterýžto titul vyjde v dohledné 
 době u <a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě, 
-což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. 
-<br>Na této stránce nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů 
-o Bitcoinu přeložených kompletně do češtiny. Nějakou dobu potrvá, než se bonboniéra  
-jednotlivými dobrotami naplní. Uvažte však, že se zde bavíme o neposkrněném početí nové 
-formy života 🧡
+což je naprostá bomba! Zdá se, že tímto počinem nic nekončí, ba právě naopak. Na této stránce 
+nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu 
+přeložených kompletně do češtiny. Nějakou dobu potrvá, než se bonboniéra  jednotlivými dobrotami 
+naplní. Uvažte však, že se zde bavíme o neposkrněném početí nové formy života 🧡
 
 ### Value For Value 🙏🏻 🧡
 
@@ -23,7 +22,8 @@ za poskytnutí hodnoty. Překlad dlouhých, technicky specifických textů je č
 uvolněním. Svou náklonnost můžete projevit zasláním ₿ satů na
 
 <big>
-  <img src="tweetoshiMini.png" alt="Tweetoshi"style="float:left"><a href="https://twitter.com/TweetoshiApp">Tweetoshi</a> - twitter 
+  <img src="tweetoshiMini.png" alt="Tweetoshi" align="left" style="float:left">
+  <a href="https://twitter.com/TweetoshiApp">Tweetoshi</a> - twitter 
   handle <a href="https://twitter.com/nekonecnik">@nekonecnik</a> (DMs open)
   <br>⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a>
   <br>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
