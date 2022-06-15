@@ -65,7 +65,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 ## ---
 <big>Autor: <a href="https://twitter.com/clarkmoody">Clark Moody</a>
 <br>Původní článek: <a href="https://bitcoin.clarkmoody.com/posts/bitcoin-interplanetary-frontier">Bitcoin and the Interplanetary Frontier</a>
-<br>Přeložil: ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a></big> 🔗 Samourai 
+<br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
 PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
   
   
