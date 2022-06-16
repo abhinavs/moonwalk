@@ -10,7 +10,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 # Bitcoin a meziplanetární hranice
 <big>Bitcoinový meme "To the Moon!" předvídá masivní nárůst kurzu a nikdy nekončící býčí trh. Uvažovali jsme však o tom, co by se stalo, kdybychom poslali Bitcoin na Měsíc doslova? Toto je první ze série článků, které se zabývají budoucností ekonomiky, peněz a Bitcoinu v době, kdy se lidstvo vydává k planetám a ke hvězdám.</big>
 
-<img src="./01-moon-bitcoin-flag.jpg" alt="">
+<img src="./pics/0740195-01-moon-bitcoin-flag.jpg" alt="">
 
 ## Vesmírná ekonomika
 <big>Vesmírné ekonomiky se od svých pozemských protějšků výrazně liší v několika zásadních ohledech. Ale stejně jako se pohyb na nebi řídí zákony nebeské mechaniky, řídí se finanční interakce lidí bez ohledu na jejich umístění zákony ekonomie.</big>
@@ -27,7 +27,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 ## Orbitální mechanika
 <big>Nedostatek užitečné hmoty ve vesmíru nás omezuje k co nejefektivnějším oběžným drahám. Díky tomu je cesta na Mars uskutečnitelná jen jednou za 26 měsíců, i když chytří lidé pracují na levnějších trasách. Mise k asteroidům, k Jupiteru a dál vyžadují roky letu, dokud se nepodaří vynalézt alternativní pohonné systémy.</big>
   
-<img src="./02-free-return-trajectory.png" alt="">
+<img src="./pics/0740195-02-free-return-trajectory.png" alt="">
 
 <big>Dlouhá dodací lhůta dělá z nejbanálnějšího výdaje na Zemi extrémní luxus. Vesmírné osady musí odletět s velkým množstvím záložních a náhradních dílů pro všechny kritické systémy, s důmyslnými systémy recyklace vody a nakonec i s nějakým způsobem pěstování potravin. Po příletu musí být osady schopny vyrábět zboží z místních zdrojů, jinak budou navždy závislé na zásobovacích misích od svého pozemského sponzora. Dokonce i měsíční kolonie s třídenní přepravní dobou potřebují raketový start pro zásoby, a to vyžaduje plánování.</big>
 
@@ -38,7 +38,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 
 <big>Naproti tomu Mars osciluje mezi 3,1 a 22 světelnými minutami. Při těchto vzdálenostech by byla ke zkrácení prodlevy nutná nová zpoždění odolná síťová architektura. Těžba bitcoinu na Marsu by byla kvůli prodlevě při přenosu nerentabilní, za předpokladu, že by si Země zachovala hashovací převahu. Marťanští těžaři by měli stav blockchainu zpožděný až o 22 minut, takže než by se jejich poslední vytěžený blok dostal k většině hashovací síly na Zemi, do chainu by v průměru přibyly čtyři nové bloky. Těžbu na Marsu můžeme simulovat již dnes: stačí těžit na bloku čtyři bloky za koncem chainu. Pomineme-li extrémní náhodu, dominující těžební planeta zůstane dominantní napříč sluneční soustavou.</big>
   
-<img src="./03-signal-time.png" alt="">
+<img src="./pics/0740195-03-signal-time.png" alt="">
 
 <big>To však neznamená, že by Bitcoin nebylo možné používat daleko od Země. Naopak, doba potvrzení se jednoduše stane součástí plánování transakcí a řešení druhé vrstvy doplní prostor pro platby. Zatímco přeprava fyzického zboží s sebou nese náklady na start rakety a dobu přepravy na oběžnou dráhu, transakce s digitálním zbožím probíhají rychlostí světla. Mimozemští osadníci by mohli pozemšťanům účtovat poplatky za zajímavá data, jako jsou vědecké experimenty nebo umění inspirované Měsícem. Takovou výměnu bitcoin umožňuje.</big>
 
@@ -58,7 +58,7 @@ This is 🇨🇿 Czech translation of <a href="https://bitcoin.clarkmoody.com/po
 
 ## Meziplanetární hranice
   
-<img src="./04-space-station-concept.jpg" alt=""> 
+<img src="./pics/0740195-04-space-station-concept.jpg" alt=""> 
   
 <big>Hranice je příslibem nového začátku a duch osadníků podněcuje houževnatost tváří v tvář obrovským výzvám. Když se vydáváme na cestu ke hvězdám, potřebujeme veškerou pomoc, které se nám může dostat. Protože peníze vesmírného osídlení budou digitální, musíme opustit tiskařské stroje. Opusťme také pokřivení nesolidních peněz a pohánějme vesmírnou ekonomiku Bitcoinem.</big>
 
