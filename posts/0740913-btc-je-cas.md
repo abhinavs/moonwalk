@@ -12,6 +12,8 @@ by @dergigi originally published @666053
 # Bitcoin je čas
 666053
 
+<img src="./pics/0740913-00-bitcoin-is-time.jpg" alt="">
+
 > <b>"Jediné zářivé hodiny na pozadí oblohy
 > hlásaly, že čas není špatný ani správný."</b>
 <br>Robert Frost, Acquainted with the Night (1928)
@@ -59,6 +61,8 @@ nový seznam, a také budete muset dbát na to, abyste ani jednu ovci nepočíta
 <big>Peníze jsou v podstatě nástrojem pro evidenci toho, kdo komu co dluží. Obecně řečeno, vše, co jsme dosud používali 
 jako peníze, spadá do dvou kategorií: fyzické předměty a informační seznamy. Nebo, abychom použili běžnější řeč: 
 tokeny a účetní knihy.</big>
+
+<img src="./pics/0740913-01-ledger-token.jpg" alt="">
 
 <big>Je důležité uvědomit si přirozenou odlišnost těchto kategorií, a proto na ni výslovně upozorním: První 
 metoda - fyzický token - přímo reprezentuje stav věcí. Druhá - účetní kniha - odráží stav věcí nepřímo. Každá z nich 
@@ -210,6 +214,8 @@ debetní karty vašeho společného bankovního účtu. Cena je 27 dolarů, disp
 
 <big>Ve stejnou dobu se chystáte zaplatit za svůj pobyt jinou debetní kartou, která je vázána na stejný bankovní účet. Cena je 599 dolarů. 
 Dostupný zůstatek je 615 USD. Místní čas je 17:21.</big>
+  
+<img src="./pics/0740913-02-alice-bob-bank.jpg" alt="">
 
 <big>Tak se stane, že oba ve stejný okamžik protáhnete kartu terminálem. Co se stane? (Vážení fyzici, omluvte, prosím, můj výraz "ve stejný 
 okamžik" - relativistické efekty a skutečnost, že v našem vesmíru neexistuje absolutní čas, budeme prozatím ignorovat. Budeme také ignorovat, 
@@ -251,6 +257,8 @@ vybavení. Frekvence hodin - jak často tikají - závisí na způsobu jejich vy
 Například metronom má proměnlivou frekvenci, kterou nastavíte před tím, než ho necháte tikat. Zatímco metronom si po nastavení udržuje 
 konstantní tempo, čas bitcoinu se při každém tiknutí mění, protože jeho vnitřní mechanismus je pravděpodobnostní. Účel je však stejný: 
 udržet hudbu na nohou, aby tanec mohl pokračovat.</big>
+  
+<img src="./pics/0740913-02x-hodiny.jpg" alt="">
 
 <big>Skutečnost, že Bitcoin jsou hodiny, zůstává očím skryta. Satoshi ostatně poukazuje na to, že Bitcoinová síť jako celek představuje 
 hodiny, nebo jeho slovy: distribuovaný server časových razítek.</big>
@@ -282,6 +290,8 @@ jednoduše změnit. Také byste si mohli v první řadě libovolné datum vymysl
 
 <big>Dokazování data je obecný problém, dokonce i v nedigitální oblasti. To, čemu se ve světě únosů říká "ověřování podle novin", je obecným 
 řešením problému arbitrárních časových razítek.</big>
+  
+<img src="./pics/0740913-03-proof-of-time.jpg" alt="">
 
 <big>Toto funguje, protože noviny je těžké zfalšovat, ale snadné ověřit. Je obtížné je podvrhnout, protože dnešní titulní strana odkazuje 
 na včerejší události, které by únosce nemohl předvídat, kdyby byl obrázek několik týdnů starý. Prostřednictvím těchto událostí je obrázek 
@@ -292,6 +302,8 @@ není čas. Kauzalita je také důvodem, proč jsou kryptografické hashovací f
 v kyberprostoru: zavádějí kauzální vztah. Protože je prakticky nemožné vytvořit platný kryptografický hash, aniž by byl k dispozici dokument 
 na prvním místě, zavádí se kauzální vztah mezi dokumentem a hashem: daná data existovala jako první, hash byl vytvořen později. Jinými slovy: 
 bez výpočetní nevratnosti jednosměrných funkcí by v kyberprostoru kauzalita neexistovala.</big>
+  
+<img src="./pics/0740913-04-sha256.jpg" alt="">
 
 <big>S tímto stavebním kamenem kauzality lze vymýšlet schémata, která vytvářejí řetězec událostí, kauzálně spojující A s B s C atd. V tomto 
 smyslu nás bezpečné digitální časové razítko přesouvá z bezčasého éteru do světa digitální historie.</big>
@@ -342,7 +354,7 @@ však užitečný k určení času, protože je zcela předvídatelný. Stejně 
 datum, nemůžeme předvídatelné procesy použít jako důkaz času. Vždy se musíme spolehnout na něco, co nelze předem předvídat, jako je například 
 titulní strana dnešních novin.</big>
 
-<IMG>TheTIMES2009Jan03</IMG>
+<img src="./pics/0740913-04x-genesisTimes.png" alt="">
 
 <big>Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitější, nemůžete předpovědět, kdo najde aktuální řešení proof-of-work a jaké toto řešení bude.
 
@@ -358,7 +370,7 @@ Využitím kauzality hashovacích řetězců a nepředvídatelnosti proof-of-wor
 
 Na to, co intuitivně chápe každý únosce, výslovně upozornili Bayer, Haber a Stornetta v roce 1992: "Aby bylo možné prokázat, že dokument byl vytvořen po určitém časovém okamžiku, je nutné uvést události, které nebylo možné předvídat předtím, než se staly".
 
-
+<img src="./pics/0740913-05-proof-of-publication.jpg" alt="">
 
 Právě kombinace kauzality a nepředvídatelnosti umožňuje vytvořit umělou "přítomnost" v jinak bezčasé digitální sféře. Jak upozorňují Bayer, Haber a Stornetta ve svém článku z roku 1991: "pořadí klientů žádajících o časová razítka a jimi předkládané hashe nelze předem znát. Pokud tedy do podepsaného certifikátu zahrneme bity z předchozí posloupnosti žádostí klientů, pak víme, že časové razítko vzniklo až po těchto žádostech. [...] Požadavek na zahrnutí bitů z předchozích dokumentů do certifikátu však lze využít i k řešení problému omezení času v opačném směru, protože společnost, která časová razítka vydává, nemůže vydat pozdější certifikáty, pokud nemá k dispozici aktuální žádost."
 
@@ -442,7 +454,7 @@ V jistém smyslu tedy proof-of-work - a s ním spojené nastavení obtížnosti 
 
 Z vnějšího pohledu Bitcoin přenáší chaotickou změť globálně vysílaných asynchronních zpráv do paralelního vesmíru, který je omezen vlastními pravidly a vlastním smyslem pro prostor a čas. Transakce v mempoolu jsou z pohledu bitcoinové sítě mimočasové. Teprve když je transakce zahrnuta do platného bloku, je jí přiřazen čas: číslo bloku, do kterého je začleněna.
 
-
+<img src="./pics/0740913-06-timechain.png" alt="">
 
 Je těžké přecenit, o jak elegantní řešení se jedná. Jakmile jste schopni vytvořit vlastní definici času, je dešifrování toho, co bylo předtím a co potom, triviální. Stejně tak se stává triviálním dohodnout se na tom, co se stalo, v jakém pořadí, a následně i kdo komu co dluží.
 
