@@ -555,4 +555,15 @@ Bitcoin je časem ve více ohledech. Jeho jednotky jsou konzervovaným časem, n
 Bitcoin je čas je kapitola z mé nadcházející knihy "21 způsobů".
 
 
+## ---
+<big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a> <a href="https://dergigi.com/support/">🧡</a>
+<br>Původní článek: <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/">Dear Bitcoiners</a>
+<br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
+PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
+{% if site.theme_config.show_footer == true %}
+  <footer>
+    <div class="dashed"></div>
+    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+  </footer>
+{% endif %}
