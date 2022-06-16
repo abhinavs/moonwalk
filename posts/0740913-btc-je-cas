@@ -67,7 +67,7 @@ Tokeny ze své podstaty nevyžadují důvěru, účetní knihy naopak.</big>
 
 <big>V digitálním světě - bez ohledu na to, jak intenzivně se vás marketingoví guruové snaží přesvědčit o opaku - můžeme 
 používat pouze účetní knihy. Je to informační sféra, nikoliv fyzická. I když určitý druh informace nazvete "tokenem", stále 
-se jedná o tvárnou informaci, zapsanou na pevném disku nebo jiném médiu, které může uchovávat informace, což z ní fakticky 
+se jedná o tvárnou informaci, zapsanou na pevném disku nebo jiném, informace uchovávajícím, médiu, což z ní fakticky 
 činí informační záznam.</big>
 
 <big>Základní příčinou problému dvojitého utrácení je povaha všech digitálních informací, mající charakter účetní knihy. 
@@ -181,181 +181,170 @@ Vždy je třeba vědět, kdo komu kolik dal a hlavně: kdy. V informační sfé�
 > <b>Čas vše odnese.</b>
 > <br>Aischylos (525 BC – 456 BC)
 
+<big>Čas a řád jsou ve velmi úzkém vztahu. Jak upozornil Leslie Lamport ve svém článku *Time, Clocks, and the Ordering of Events 
+in a Distributed System* z roku 1978: "Pojem času je pro náš způsob myšlení zásadní. Je odvozen ze základnějšího pojmu pořadí, 
+v jakém události nastávají." Bez centrálního koordinačního bodu se zdánlivě intuitivní pojmy "před", "po" a "současně" rozpadají. 
+Slovy Lamporta: "pojem 'dění před' definuje neměnné dílčí uspořádání událostí v distribuovaném víceprocesním systému."</big>
 
+<big>Jinak řečeno: Kdo by měl být zodpovědný za čas, když není možno nikoho pověřit? Jak můžete mít spolehlivé hodiny, když neexistuje 
+centrální referenční rámec?</big>
 
-Čas a řád jsou ve velmi úzkém vztahu. Jak upozornil Leslie Lamport ve svém článku *Time, Clocks, and the Ordering of Events in a Distributed System* z roku 1978: "Pojem času je pro náš způsob myšlení zásadní. Je odvozen ze základnějšího pojmu pořadí, v jakém události nastávají." Bez centrálního koordinačního bodu se zdánlivě intuitivní pojmy "před", "po" a "současně" rozpadají. Slovy Lamporta: "pojem 'dění před' definuje neměnné dílčí uspořádání událostí v distribuovaném víceprocesním systému."
+<big>Možná si myslíte, že vyřešit tento problém je snadné, protože každý může používat své vlastní hodiny. To však funguje pouze tehdy, 
+pokud jsou hodiny každého z nás přesné a hlavně pokud všichni hrají fér. V nepřátelském systému by bylo spoléhání se na individuální hodiny 
+katastrofou. Navíc to kvůli relativitě nefunguje konzistentně v celém prostoru.</big>
 
+<big>Jako myšlenkový experiment si představte, jak byste mohli podvádět systém, kdyby si každý určoval čas sám pro sebe. Mohli byste 
+předstírat, že transakce, kterou právě odesíláte, je ve skutečnosti ze včerejška - jen se z nějakého důvodu zpozdila - a tudíž by vám 
+zůstaly všechny peníze, které jste dnes utratili. Vzhledem k asynchronní komunikaci, která je vlastní každému decentralizovanému systému, 
+je tento scénář více než teoretický myšlenkový experiment. Zprávy se skutečně zpožďují, časová razítka jsou nepřesná a díky relativistickým 
+efektům a přirozenému omezení rychlosti našeho vesmíru je cokoli, jen ne snadné rozeznat pořadí věcí bez přítomnosti centrální autority 
+nebo pozorovatele.</big>
 
+> <b>"Kdo tam? Ťuk, ťuk!"</b>
+> <br>Asynchronní vtip
 
-Jinak řečeno: Kdo by měl být zodpovědný za čas, když není možno nikoho pověřit? Jak můžete mít spolehlivé hodiny, když neexistuje centrální referenční rámec?
+<big>Pro lepší ilustraci tohoto problému se podívejme na konkrétní příklad. Představte si, že vy i váš obchodní partner máte přístup 
+k firemnímu bankovnímu účtu. Podnikáte po celém světě, takže váš bankovní účet je ve Švýcarsku, vy jste v New Yorku a váš partner je v Sydney. 
+Pro vás je 3. ledna a užíváte si krásný nedělní večer ve svém hotelu. Pro ni je už pondělí ráno, proto se rozhodne koupit si snídani pomocí 
+debetní karty vašeho společného bankovního účtu. Cena je 27 dolarů, disponibilní zůstatek je 615 dolarů. Místní čas je 8:21 ráno.</big>
 
+<big>Ve stejnou dobu se chystáte zaplatit za svůj pobyt jinou debetní kartou, která je vázána na stejný bankovní účet. Cena je 599 dolarů. 
+Dostupný zůstatek je 615 USD. Místní čas je 17:21.</big>
 
+<big>Tak se stane, že oba ve stejný okamžik protáhnete kartu terminálem. Co se stane? (Vážení fyzici, omluvte, prosím, můj výraz "ve stejný 
+okamžik" - relativistické efekty a skutečnost, že v našem vesmíru neexistuje absolutní čas, budeme prozatím ignorovat. Budeme také ignorovat, 
+že koncepce synchronních událostí ve skutečnosti neexistuje. Bitcoin je už tak dost komplikovaný!)</big>
 
-Možná si myslíte, že vyřešit tento problém je snadné, protože každý může používat své vlastní hodiny. To však funguje pouze tehdy, pokud jsou hodiny každého z nás přesné a hlavně pokud všichni hrají fér. V nepřátelském systému by bylo spoléhání se na individuální hodiny katastrofou. Navíc to kvůli relativitě nefunguje konzistentně v celém prostoru.
+<big>Centrální účetní kniha vaší banky pravděpodobně obdrží jednu transakci dříve než druhou, takže jeden z vás bude mít štěstí, druhý ne. 
+Pokud by transakce náhodou přišly ve stejném okamžiku - řekněme ve stejné milisekundě - musela by banka rozhodnout, kdo peníze utratí.</big>
 
+<big>Co by nastalo, kdyby žádná banka neexistovala? Kdo by rozhodoval o tom, kdo první vybral peníze? Co kdybyste to nebyli jen vy dva, ale 
+stovky nebo dokonce tisíce koordinujících se osob? Co kdybyste těmto lidem nevěřili? Co když se někteří z těchto lidí snaží podvádět, např. 
+tím, že si nastaví hodiny zpět, aby to vypadalo, že peníze utratili o pár minut dříve?</big>
 
+> <b>"V případě absence centrálního koordinátora je zapotřebí časový nástroj pro stanovení kanonického uspořádání a vynucení jedinečné historie."</b>
+> <br>Giacomo Zucco, Discov­ering Bitcoin (2019)
 
-Jako myšlenkový experiment si představte, jak byste mohli podvádět systém, kdyby si každý určoval čas sám pro sebe. Mohli byste předstírat, že transakce, kterou právě odesíláte, je ve skutečnosti ze včerejška - jen se z nějakého důvodu zpozdila - a tudíž by vám zůstaly všechny peníze, které jste dnes utratili. Vzhledem k asynchronní komunikaci, která je vlastní každému decentralizovanému systému, je tento scénář více než teoretický myšlenkový experiment. Zprávy se skutečně zpožďují, časová razítka jsou nepřesná a díky relativistickým efektům a přirozenému omezení rychlosti našeho vesmíru je cokoli, jen ne snadné rozeznat pořadí věcí bez přítomnosti centrální autority nebo pozorovatele.
+<big>Tento problém je právě důvodem, proč všechny předchozí pokusy o digitální hotovost vyžadovaly centralizovaný registr. Vždy jste museli 
+věřit, že někdo správně určí pořadí věcí. Bylo nutné, aby centralizovaná strana sledovala čas.</big>
 
+<big>Bitcoin tento problém řeší tím, že znovu vynalézá samotný čas. Říká ne sekundám a ano blokům.</big>
 
 
-> "Kdo tam? Ťuk, ťuk!"<br>Asynchronní vtip
+## Udržování času, blok za blokem
 
+> <b>"Sláva času je mírem králům soupeřícím,
+> <br>odhalit faleš a vynést pravdu dovede,
+> <br>vtisknout pečeť věků věcem letitým,
+> <br>probouzet jitro a střežit noční nebe,
+> <br>Křivému křivě, než spraví sám sebe.
+> <br>William Shake­speare, Znásilnění Lukrecie (1594)
 
+<big>Všechny hodiny jsou založeny na periodických procesech, které bychom mohli nazvat "tikot". Známé *tikání* dědečkových hodin je v podstatě 
+stejné jako molekulárně-atomové bzučení našich moderních Quartzových a cesiových hodin. Něco se houpe - nebo osciluje - a my tyto kmity 
+jednoduše počítáme, dokud se nesečtou do minuty nebo sekundy.</big>
 
-Pro lepší ilustraci tohoto problému se podívejme na konkrétní příklad. Představte si, že vy i váš obchodní partner máte přístup k firemnímu bankovnímu účtu. Podnikáte po celém světě, takže váš bankovní účet je ve Švýcarsku, vy jste v New Yorku a váš partner je v Sydney. Pro vás je 3. ledna a užíváte si krásný nedělní večer ve svém hotelu. Pro ni je už pondělí ráno, proto se rozhodne koupit si snídani pomocí debetní karty vašeho společného bankovního účtu. Cena je 27 dolarů, disponibilní zůstatek je 615 dolarů. Místní čas je 8:21 ráno.
+<big>U velkých kyvadlových hodin jsou tyto výkyvy dlouhé a dobře viditelné. U menších a specializovanějších hodin je zapotřebí zvláštního 
+vybavení. Frekvence hodin - jak často tikají - závisí na způsobu jejich využití.</big>
 
+<big>Většina hodin má určenou pevnou frekvenci. Konec konců, chceme znát přesný čas. Existují však hodiny, které mají frekvenci proměnnou. 
+Například metronom má proměnlivou frekvenci, kterou nastavíte před tím, než ho necháte tikat. Zatímco metronom si po nastavení udržuje 
+konstantní tempo, čas bitcoinu se při každém tiknutí mění, protože jeho vnitřní mechanismus je pravděpodobnostní. Účel je však stejný: 
+udržet hudbu na nohou, aby tanec mohl pokračovat.</big>
 
+<big>Skutečnost, že Bitcoin jsou hodiny, zůstává očím skryta. Satoshi ostatně poukazuje na to, že Bitcoinová síť jako celek představuje 
+hodiny, nebo jeho slovy: distribuovaný server časových razítek.</big>
 
-Ve stejnou dobu se chystáte zaplatit za svůj pobyt jinou debetní kartou, která je vázána na stejný bankovní účet. Cena je 599 dolarů. Dostupný zůstatek je 615 USD. Místní čas je 17:21.
+> <b>"V tomto dokumentu navrhujeme řešení problému dvojí útraty pomocí peer-to-peer distribuovaného serveru přidělujícího časová razítka 
+> (timestamp server), který vytváří výpočetní důkaz chronologického pořadí transakcí."</b>
+> <br>Satoshi Nakamoto (2009) - překlad Bitcoin whitepaper CZ od Braiins Publishing
 
+<big>To, že hlavním problémem, který je třeba vyřešit, je časové razítkování, je zřejmé i z odkazu na konci Bitcoinového whitepaperu. 
+Z celkového počtu osmi odkazů se tři týkají časového razítkování:
+<br>- How to time-stamp a digital document by S. Haber, W.S. Stornetta (1991)
+<br>- Improving the efficiency and relia­bility of digital time-stamping by D. Bayer, S. Haber, W.S. Stornetta (1992)
+<br>- Design of a secure timestamping service with minimal trust require­ments by H. Massias, X.S. Avila, and J.-J. Quisquater (May 1999)</big>
 
+<big>Jak Haber a Stornetta nastínili v roce 1991, digitální časové razítkování spočívá ve výpočetně praktických postupech, 
+které uživateli - nebo třeba protivníkovi - znemožňují digitální dokument datovat zpětně nebo předem. Na rozdíl od fyzických dokumentů 
+lze s digitálními dokumenty snadno manipulovat a změna nemusí nutně zanechat na samotném fyzickém médiu žádné poznávací znaky. V digitální 
+sféře mohou být padělky a manipulace dokonalé.</big>
 
-Tak se stane, že oba ve stejný okamžik protáhnete kartu terminálem. Co se stane? (Vážení fyzici, omluvte, prosím, můj výraz "ve stejný okamžik" - relativistické efekty a skutečnost, že v našem vesmíru neexistuje absolutní čas, budeme prozatím ignorovat. Budeme také ignorovat, že koncepce synchronních událostí ve skutečnosti neexistuje. Bitcoin je už tak dost komplikovaný!)
+<big>Vzhledem k proměnlivé povaze informací je časové označování digitálních dokumentů složitý a důmyslný proces. Naivní řešení nefungují. 
+Vezměme si například textový dokument. Nemůžete jednoduše přidat datum na konec dokumentu, protože každý - včetně vás - může v budoucnu datum 
+jednoduše změnit. Také byste si mohli v první řadě libovolné datum vymyslet.</big>
 
 
+## Čas je řetězec příčin
 
-Centrální účetní kniha vaší banky pravděpodobně obdrží jednu transakci dříve než druhou, takže jeden z vás bude mít štěstí, druhý ne. Pokud by transakce náhodou přišly ve stejném okamžiku - řekněme ve stejné milisekundě - musela by banka rozhodnout, kdo peníze utratí.
+> <b>"Krajním pohledem lze svět chápat výhradně jako vazby, spojení, nic jiného."</b>
+> <br>Tim Berners-Lee, Weaving the Web (1999)
 
+<big>Dokazování data je obecný problém, dokonce i v nedigitální oblasti. To, čemu se ve světě únosů říká "ověřování podle novin", je obecným 
+řešením problému arbitrárních časových razítek.</big>
 
+<big>Toto funguje, protože noviny je těžké zfalšovat, ale snadné ověřit. Je obtížné je podvrhnout, protože dnešní titulní strana odkazuje 
+na včerejší události, které by únosce nemohl předvídat, kdyby byl obrázek několik týdnů starý. Prostřednictvím těchto událostí je obrázek 
+důkazem, že rukojmí byl v den, kdy noviny vyšly, stále naživu.</big>
 
-Co by nastalo, kdyby žádná banka neexistovala? Kdo by rozhodoval o tom, kdo první vybral peníze? Co kdybyste to nebyli jen vy dva, ale stovky nebo dokonce tisíce koordinujících se osob? Co kdybyste těmto lidem nevěřili? Co když se někteří z těchto lidí snaží podvádět, např. tím, že si nastaví hodiny zpět, aby to vypadalo, že peníze utratili o pár minut dříve?
+<big>Tato metoda zdůrazňuje jeden z klíčových pojmů, co se týče času: kauzalitu. Šíp času popisuje příčinný vztah událostí. Bez kauzality 
+není čas. Kauzalita je také důvodem, proč jsou kryptografické hashovací funkce tak zásadní, pokud jde o časové razítkování dokumentů 
+v kyberprostoru: zavádějí kauzální vztah. Protože je prakticky nemožné vytvořit platný kryptografický hash, aniž by byl k dispozici dokument 
+na prvním místě, zavádí se kauzální vztah mezi dokumentem a hashem: daná data existovala jako první, hash byl vytvořen později. Jinými slovy: 
+bez výpočetní nevratnosti jednosměrných funkcí by v kyberprostoru kauzalita neexistovala.</big>
 
+<big>S tímto stavebním kamenem kauzality lze vymýšlet schémata, která vytvářejí řetězec událostí, kauzálně spojující A s B s C atd. V tomto 
+smyslu nás bezpečné digitální časové razítko přesouvá z bezčasého éteru do světa digitální historie.</big>
 
+> <b>"Kauzalita fixuje události v čase. Pokud byla událost determinována určitými dřívějšími událostmi a podmiňuje určité následné události, 
+> pak je událost bezpečně zasazena na své historické místo."</b>
+> <br>Bayer, Haber, Stornetta (1992)
 
-> "V případě absence centrálního koordinátora je zapotřebí časový nástroj pro stanovení kanonického uspořádání a vynucení jedinečné historie."<br>Giacomo Zucco, Discov­ering Bitcoin (2019)
+<big>Je bez diskuse, že příčinná souvislost je při ekonomických výpočtech nanejvýš důležitá. A protože účetní kniha není nic jiného než 
+ztělesnění ekonomických výpočtů více spolupracujících účastníků, je kauzalita pro každou účetní knihu nezbytná.</big>
 
+> <b>"Potřebujeme takový systém, aby se účastníci dokázali dohodnout na jediné historii [...]. Řešení, které navrhujeme, začíná serverem 
+> časových razítek."</b>
+> <br>Satoshi Nakamoto (2009)
 
+<big>Je fascinující, že všechny střípky mozaiky, díky nimž Bitcoin funguje, existovaly už dříve. Již v roce 1991 Haber a Stornetta představili 
+dvě schémata, která "ztěžují nebo znemožňují výrobu falešných časových razítek". První se spoléhá na důvěryhodnou třetí stranu, druhé, 
+propracovanější schéma "distribuované důvěry" nikoli. Autoři dokonce identifikovali inherentní problémy důvěry v kauzální řetězec událostí 
+a co by bylo zapotřebí k přepsání historie. Podle jejich slov "jediným možným podvrhem je připravit falešný řetězec časových razítek, dostatečně 
+dlouhý na to, aby vyčerpal nejpodezřelejšího vyzyvatele, kterého lze předpokládat". Podobný vektor útoku existuje v Bitcoinu již dnes, a to 
+v podobě 51% útoku (více o něm v jedné z dalších kapitol).</big>
 
-Tento problém je právě důvodem, proč všechny předchozí pokusy o digitální hotovost vyžadovaly centralizovaný registr. Vždy jste museli věřit, že někdo správně určí pořadí věcí. Bylo nutné, aby centralizovaná strana sledovala čas.
+<big>O rok později Bayer, Haber a Stornetta na svou předchozí práci navázali a navrhli použít ke svázání událostí stromové struktury namísto 
+jednoduchých propojených seznamů. To, co dnes známe jako Merkle Trees, jsou jednoduše efektivní datové struktury pro deterministické vytvoření 
+hashe z více hashů. Pro časové razítkování to znamená, že lze efektivně spojit více událostí do jednoho "tiknutí". Ve stejném textu autoři 
+navrhují, že distribuovaný model důvěryhodnosti představený roku 1991 by mohl být vylepšen prováděním opakovaného "světového turnaje", který 
+by určil jediného "vítěze", jenž by výsledný hash publikoval veřejně, podobně jako noviny. Zní vám to povědomě?</big>
 
+<big>Jak ještě uvidíme, ukazuje se, že noviny jsou také skvělým způsobem, jak přemýšlet o druhé složce času: nepředvídatelnosti.</big>
 
 
-Bitcoin tento problém řeší tím, že znovu vynalézá samotný čas. Říká ne sekundám a ano blokům.
+## Kauzalita a nepředvídatelnost
 
+> <b>"Čas není skutečnost [hupostasis], ale představa [noêma] nebo míra [metron]..."</b>
+> <br>Antifon Sofista, Pravda (Alétheia), 3. století BC
 
+<big>Příčinná souvislost je sice zásadní, ale nikoliv postačující. K tomu, aby čas plynul, potřebujeme také nepředvídatelnost. Ve fyzikální 
+sféře pozorujeme přírodní procesy, které popisují tok času. Pozorujeme obecný nárůst entropie a nazýváme jej šípem času. I když se zdá, 
+že přírodní zákony na směr tohoto šípu ve většině případů zapomínají, některé věci prakticky nelze vrátit zpět. Jak se říká, rozbité vejce 
+nelze znovu složit.</big>
 
-Udržování času, blok za blokem
+<big>Podobně jsou funkce zvyšující entropii nutné k vytvoření šípu času v digitální sféře. Stejně jako je prakticky nemožné složit rozbité vejce, 
+je prakticky nemožné rozbít hash SHA256 nebo kryptografický podpis.</big>
 
-
-
->"Sláva času je mírem králům soupeřícím,> odhalit faleš a vynést pravdu dovede,> vtisknout pečeť věků věcem letitým,> probouzet jitro a střežit noční nebe,> Křivému křivě, než spraví sám sebe.<br>William Shake­speare, Znásilnění Lukrecie (1594)
-
-
-
-Všechny hodiny jsou založeny na periodických procesech, které bychom mohli nazvat "tikot". Známé *tikání* dědečkových hodin je v podstatě stejné jako molekulárně-atomové bzučení našich moderních Quartzových a cesiových hodin. Něco se houpe - nebo osciluje - a my tyto kmity jednoduše počítáme, dokud se nesečtou do minuty nebo sekundy.
-
-
-
-U velkých kyvadlových hodin jsou tyto výkyvy dlouhé a dobře viditelné. U menších a specializovanějších hodin je zapotřebí speciální vybavení. Frekvence hodin - jak často tikají - závisí na způsobu jejich využití.
-
-
-
-Většina hodin má určenou pevnou frekvenci. Konec konců, chceme znát přesný čas. Existují však hodiny, které mají frekvenci proměnnou. Například metronom má proměnlivou frekvenci, kterou nastavíte před tím, než ho necháte tikat. Zatímco metronom si po nastavení udržuje konstantní tempo, čas bitcoinu se při každém tiknutí mění, protože jeho vnitřní mechanismus je pravděpodobnostní. Účel je však stejný: udržet hudbu na nohou, aby tanec mohl pokračovat.
-
-
-
-Skutečnost, že Bitcoin jsou hodiny, zůstává očím skryta. Satoshi ostatně poukazuje na to, že Bitcoinová síť jako celek představuje hodiny, nebo jeho slovy: distribuovaný server časových razítek.
-
-
-
-> "V tomto dokumentu navrhujeme řešení problému dvojí útraty pomocí peer-to-peer distribuovaného serveru přidělujícího časová razítka (timestamp server), který vytváří výpočetní důkaz chronologického pořadí transakcí."<br>Satoshi Nakamoto (2009) - překlad Bitcoin whitepaper CZ od Braiins Publishing
-
-
-
-To, že hlavním problémem, který je třeba vyřešit, je časové razítkování, je zřejmé i z odkazu na konci Bitcoinového whitepaperu. Z celkového počtu osmi odkazů se tři týkají časového razítkování:
-
-- How to time-stamp a digital document by S. Haber, W.S. Stornetta (1991)
-
-- Improving the efficiency and relia­bility of digital time-stamping by D. Bayer, S. Haber, W.S. Stornetta (1992)
-
-- Design of a secure timestamping service with minimal trust require­ments by H. Massias, X.S. Avila, and J.-J. Quisquater (May 1999)
-
-
-
-Jak Haber a Stornetta nastínili v roce 1991, digitální časové razítkování spočívá ve výpočetně praktických postupech, které uživateli - nebo třeba protivníkovi - znemožňují digitální dokument datovat zpětně nebo předem. Na rozdíl od fyzických dokumentů lze s digitálními dokumenty snadno manipulovat a změna nemusí nutně zanechat na samotném fyzickém médiu žádné poznávací znaky. V digitální sféře mohou být padělky a manipulace dokonalé.
-
-
-
-Vzhledem k proměnlivé povaze informací je časové označování digitálních dokumentů složitý a důmyslný proces. Naivní řešení nefungují. Vezměme si například textový dokument. Nemůžete jednoduše přidat datum na konec dokumentu, protože každý - včetně vás - může v budoucnu datum jednoduše změnit. Také byste si mohli v první řadě libovolné datum vymyslet.
-
-
-
-
-
-Čas je řetězec příčin
-
-
-
-> "Krajním pohledem lze svět chápat výhradně jako vazby, spojení, nic jiného."<br>Tim Berners-Lee, Weaving the Web (1999)
-
-
-
-Dokazování dat je obecný problém, dokonce i v nedigitální oblasti. To, čemu se ve světě únosů říká "ověřování podle novin", je obecným řešením problému arbitrárních časových razítek.
-
-
-
-Toto funguje, protože noviny je těžké zfalšovat, ale snadné ověřit. Je obtížné je podvrhnout, protože dnešní titulní strana odkazuje na včerejší události, které by únosce nemohl předvídat, kdyby byl obrázek několik týdnů starý. Prostřednictvím těchto událostí je obrázek důkazem, že rukojmí byl v den, kdy noviny vyšly, stále naživu.
-
-
-
-Tato metoda zdůrazňuje jeden z klíčových pojmů, co se týče času: kauzalitu. Šipka času popisuje příčinný vztah událostí. Bez kauzality není čas. Kauzalita je také důvodem, proč jsou kryptografické hashovací funkce tak zásadní, pokud jde o časové razítkování dokumentů v kyberprostoru: zavádějí kauzální vztah. Protože je prakticky nemožné vytvořit platný kryptografický hash, aniž by byl k dispozici dokument na prvním místě, zavádí se kauzální vztah mezi dokumentem a hashem: daná data existovala jako první, hash byl vytvořen později. Jinými slovy: bez výpočetní nevratnosti jednosměrných funkcí by v kyberprostoru kauzalita neexistovala.
-
-
-
-S tímto stavebním kamenem kauzality lze vymýšlet schémata, která vytvářejí řetězec událostí, kauzálně spojující A s B s C atd. V tomto smyslu nás bezpečné digitální časové razítko přesouvá z bezčasého éteru do světa digitální historie.
-
-
-
-> "Kauzalita fixuje události v čase. Pokud byla událost determinována určitými dřívějšími událostmi a podmiňuje určité následné události, pak je událost bezpečně zasazena na své historické místo."<br>Bayer, Haber, Stornetta (1992)
-
-
-
-Je bez diskuse, že příčinná souvislost je při ekonomických výpočtech nanejvýš důležitá. A protože účetní kniha není nic jiného než ztělesnění ekonomických výpočtů více spolupracujících účastníků, je kauzalita pro každou účetní knihu nezbytná.
-
-
-
-> "Potřebujeme takový systém, aby se účastníci dokázali dohodnout na jediné historii [...]. Řešení, které navrhujeme, začíná serverem časových razítek."<br>Satoshi Nakamoto (2009)
-
-
-
-Je fascinující, že všechny střípky mozaiky, díky nimž Bitcoin funguje, existovaly už dříve. Již v roce 1991 Haber a Stornetta představili dvě schémata, která "ztěžují nebo znemožňují výrobu falešných časových razítek". První se spoléhá na důvěryhodnou třetí stranu, druhé, propracovanější schéma "distribuované důvěry" nikoli. Autoři dokonce identifikovali inherentní problémy důvěry v kauzální řetězec událostí a co by bylo zapotřebí k přepsání historie. Podle jejich slov "jediným možným podvrhem je připravit falešný řetězec časových razítek, dostatečně dlouhý na to, aby vyčerpal nejpodezřelejšího vyzyvatele, kterého lze předpokládat". Podobný vektor útoku existuje v Bitcoinu již dnes, a to v podobě 51% útoku (více o něm v jedné z dalších kapitol).
-
-
-
-O rok později Bayer, Haber a Stornetta navázali na svou předchozí práci a navrhli použít k propojení událostí stromy namísto jednoduchých propojených seznamů. To, co dnes známe jako Merkle Trees, jsou jednoduše efektivní datové struktury pro deterministické vytvoření hashe z více hashů. Pro časové razítkování to znamená, že lze efektivně spojit více událostí do jednoho "tiknutí". Ve stejném textu autoři navrhují, že distribuovaný model důvěryhodnosti představený roku 1991 by mohl být vylepšen prováděním opakovaného "světového turnaje", který by určil jediného "vítěze", jenž by výsledný hash publikoval veřejně, podobně jako noviny. Zní vám to povědomě?
-
-
-
-Jak ještě uvidíme, ukazuje se, že noviny jsou také skvělým způsobem, jak přemýšlet o druhé složce času: nepředvídatelnosti.
-
-
-
-Kauzalita a nepředvídatelnost
-
-
-
-> "Čas není skutečnost [hupostasis], ale představa [noêma] nebo míra [metron]..."<br>Antifon Sofista, Pravda (Alétheia), 3. století BC
-
-
-
-Příčinná souvislost je sice zásadní, ale nikoliv postačující. K tomu, aby čas plynul, potřebujeme také nepředvídatelnost. Ve fyzikální sféře pozorujeme přírodní procesy, které popisují tok času. Pozorujeme obecný nárůst entropie a nazýváme jej šípem času. I když se zdá, že přírodní zákony na směr tohoto šípu ve většině případů zapomínají, některé věci prakticky nelze vrátit zpět. Jak se říká, rozbité vejce nelze znovu složit.
-
-
-
-Podobně jsou funkce zvyšující entropii nutné k vytvoření šípu času v digitální sféře. Stejně jako je prakticky nemožné složit rozbité vejce, je prakticky nemožné rozbít hash SHA256 nebo kryptografický podpis.
-
-
-
-Bez tohoto nárůstu entropie by bylo možné pohybovat se libovolně časem kupředu i zpět. Například Fibonacciho posloupnost čísel je kauzální, ale ne entropická. Každé číslo v posloupnosti je způsobeno dvěma čísly, která mu předcházela. V tomto smyslu se jedná o kauzální řetězec. Není však užitečný k určení času, protože je zcela předvídatelný. Stejně jako se únosce nemůže jednoduše postavit před kalendář, který ukazuje aktuální datum, nemůžeme předvídatelné procesy použít jako důkaz času. Vždy se musíme spolehnout na něco, co nelze předem předvídat, jako je například titulní strana dnešních novin.
-
-
+<big>Bez tohoto nárůstu entropie by bylo možné pohybovat se libovolně časem kupředu i zpět. Například Fibonacciho posloupnost čísel je kauzální, 
+ale ne entropická. Každé číslo v posloupnosti je způsobeno dvěma čísly, která mu předcházela. V tomto smyslu se jedná o kauzální řetězec. Není 
+však užitečný k určení času, protože je zcela předvídatelný. Stejně jako se únosce nemůže jednoduše postavit před kalendář, který ukazuje aktuální 
+datum, nemůžeme předvídatelné procesy použít jako důkaz času. Vždy se musíme spolehnout na něco, co nelze předem předvídat, jako je například 
+titulní strana dnešních novin.</big>
 
 <IMG>TheTIMES2009Jan03</IMG>
 
-
-
-Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitější, nemůžete předpovědět, kdo najde aktuální řešení proof-of-work a jaké toto řešení bude.
+<big>Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitější, nemůžete předpovědět, kdo najde aktuální řešení proof-of-work a jaké toto řešení bude.
 
 
 
