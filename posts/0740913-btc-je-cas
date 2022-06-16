@@ -44,7 +44,7 @@ je Bitcoin.</big>
 
 > <b>"Nechte dítě, aby se učilo počítat věci, a získalo tak pojem o počtu. Tyto věci, pro účely počítání považovány 
 > za rovnocenné, mohou být jednotlivé předměty nebo skupiny.</b>
-<br>David Eugene Smith, The Teaching of Elemen­tary Mathe­matics (1900)
+> <br>David Eugene Smith, The Teaching of Elemen­tary Mathe­matics (1900)
 
 <big>Velmi obecně řečeno, existují dva způsoby sledování věcí: fyzické tokeny a účetní knihy. Buď můžete přímo 
 použít artefakty z reálného světa, např. dát někomu mušli, minci nebo jinou hmatatelnou věc, nebo můžete stav 
@@ -65,117 +65,121 @@ metoda - fyzický token - přímo reprezentuje stav věcí. Druhá - účetní k
 má své výhody a nevýhody. Například tokeny jsou fyzické a distribuované; účetní knihy jsou informační a centralizované. 
 Tokeny ze své podstaty nevyžadují důvěru, účetní knihy naopak.</big>
 
-<big>V digitálním světě - bez ohledu na to, jak intenzivně se vás marketingoví guruové snaží přesvědčit o opaku - můžeme používat pouze účetní knihy. Je to informační sféra, nikoliv fyzická. I když určitý druh informace nazvete "tokenem", stále se jedná o tvárnou informaci, zapsanou na pevném disku nebo jiném médiu, které může uchovávat informace, což z ní fakticky činí informační záznam.
+<big>V digitálním světě - bez ohledu na to, jak intenzivně se vás marketingoví guruové snaží přesvědčit o opaku - můžeme 
+používat pouze účetní knihy. Je to informační sféra, nikoliv fyzická. I když určitý druh informace nazvete "tokenem", stále 
+se jedná o tvárnou informaci, zapsanou na pevném disku nebo jiném médiu, které může uchovávat informace, což z ní fakticky 
+činí informační záznam.</big>
+
+<big>Základní příčinou problému dvojitého utrácení je povaha všech digitálních informací, mající charakter účetní knihy. 
+Informace nikdy nereprezentují stav světa přímo. Dále pak pohyb informací znamená kopírování. Informace existuje na jednom 
+místě, a abyste ji mohli "přesunout", musíte ji zkopírovat na jiné místo a v místě jejího vzniku ji vymazat. Tento problém 
+ve fyzické sféře neexistuje. Ve fyzikální sféře můžeme skutečně přesouvat věci z místa A do místa B. Informační sféra tuto 
+vlastnost nemá. Pokud chcete "přesunout" informaci ze seznamu A do seznamu B, musíte ji zkopírovat z A do B. Jiný způsob neexistuje.</big>
+
+<big>Další způsob, jak o tom přemýšlet, je jedinečnost. Fyzické tokeny jsou jedinečné kompozity atomů, jejichž sestavení není 
+snadno replikovatelné. Čistá informace tuto vlastnost nemá. Pokud můžete informaci přečíst, můžete ji také dokonale zkopírovat. 
+Z toho prakticky vyplývá, že fyzické tokeny jsou jedinečné a digitální tokeny nikoli. Dokonce bych tvrdil, že "digitální token" 
+je nesprávné označení. Token může představovat tajnou informaci, ale nikdy nebude představovat jedinečnou, singulární, 
+nekopírovatelnou informaci.</big>
+
+<big>Tento rozdíl ve vlastnostech ukazuje, že skutečně neexistuje způsob, jak "předat" informace. Digitální token nelze přenechat 
+stejně jako fyzický token, protože si nikdy nemůžete být jisti, zda původní vlastník informace na své straně nezničil. Digitální 
+tokeny, stejně jako všechny informace, lze pouze šířit, podobně jako myšlenku.</big>
+
+> <b>"... když máš jablko a já mám jablko a vyměníme si je - každý z nás skončí jen s jedním jablkem. Ale pokud máme oba nápad 
+> a vyměníme si je - každý z nás nakonec získá dva nápady."</b>
+> <br>Charles F. Brannan (1949)
+
+<big>Fyzické tokeny - to, čemu říkáme fyzická aktiva nebo "hotovost" - jsou tohoto dilematu zbaveny. V reálném světě platí, že pokud 
+mi předáte minci, vaše mince je pryč. Neexistuje žádná magická duplikace mince a jediný způsob, jak mi ji dát, je fyzicky mi ji předat. 
+Fyzikální zákony neumožňují, abyste ji utratili dvakrát.</big>
+
+<big>Double spending sice existuje i v nedigitální sféře - vzpomeňme na George Parkera, podvodníka, který proslul " double-spendnutím" 
+Brooklynského mostu a dalších pamětihodností - ale vyžaduje to promyšlený podvod a důvěřivé kupující. Ne tak v digitální oblasti.</big>
+
+<big>V digitální sféře, kde se neustále pracuje s informacemi, je double spending neodmyslitelným problémem. Jak ví každý, kdo někdy 
+kopíroval soubor nebo použil funkci Ctrl+C a Crtl+V, informace je něco, co lze dokonale zkopírovat, a není vázána na médium, na kterém 
+je umístěna. Máte-li například digitální fotografii, můžete ji zkopírovat milionkrát, některé kopie uložit na USB disk a poslat tisícům 
+různých lidí. Dokonalé kopie jsou možné, protože informace umožňují bezchybnou opravu chyb, která eliminuje degradaci. A aby toho 
+nebylo málo, kopírování prakticky nic nestojí a není možné určit originál.</big>
+
+<big>Ještě jednou: pokud jde o informace, nic jiného než kopírování neexistuje. Jednoduše není způsob, jak přesunout digitální informaci 
+z bodu A do bodu B. Informace se vždy zkopíruje z bodu A do bodu B, a pokud byl proces kopírování úspěšný, původní kopie bodu A se vymaže. 
+To je důvod, proč je double spending problém tak ošemetný. Neexistuje-li centrální autorita, neexistuje způsob, jak cokoli přesunout 
+z místa A do místa B bez nutnosti důvěry. Vždy musíte věřit, že originál bude smazán. Přirozeným vedlejším efektem je, že pokud jde 
+o digitální informace, nelze zjistit, kolik kopií existuje a kde se tyto kopie mohou nacházet.</big>
+
+<big>Z tohoto důvodu používání digitálních "tokenů" jako peněz nemůže a nikdy nebude fungovat. Vzhledem k tomu, že tokeny odvozují svou 
+spolehlivost od toho, že je v důsledku jejich jedinečné fyzické konstrukce obtížné je reprodukovat, tato výhoda v digitální sféře mizí. 
+V digitální sféře nelze tokenům důvěřovat. V důsledku podstaty vnitřních vlastností informací není jediným životaschopným formátem 
+digitálních peněz token, ale účetní kniha - což nás přivádí k problému času.</big>
 
 
+## Tokeny jsou časově neomezené, účetní knihy nikoliv
 
-Základní příčinou problému dvojitého utrácení je povaha všech digitálních informací, mající charakter účetní knihy. Informace nikdy nereprezentují stav světa přímo. Dále pak pohyb informací znamená kopírování. Informace existuje na jednom místě, a abyste ji mohli "přesunout", musíte ji zkopírovat na jiné místo a v místě jejího vzniku ji vymazat. Tento problém ve fyzikální sféře neexistuje. Ve fyzikální sféře můžeme skutečně přesouvat věci z místa A do místa B. Informační sféra tuto vlastnost nemá. Pokud chcete "přesunout" informaci ze seznamu A do seznamu B, musíte ji zkopírovat z A do B. Jiný způsob neexistuje.
-
-
-
-Další způsob, jak o tom přemýšlet, je jedinečnost. Fyzické žetony jsou jedinečné kompozity atomů, jejichž sestavení není snadno replikovatelné. Čistá informace tuto vlastnost nemá. Pokud můžete informaci přečíst, můžete ji také dokonale zkopírovat. Z toho prakticky vyplývá, že fyzické tokeny jsou jedinečné a digitální tokeny nikoli. Dokonce bych tvrdil, že "digitální token" je nesprávné označení. Token může představovat tajnou informaci, ale nikdy nebude představovat jedinečnou, singulární, nekopírovatelnou informaci.
-
-
-
-Tento rozdíl ve vlastnostech ukazuje, že skutečně neexistuje způsob, jak "předat" informace. Digitální token nelze přenechat stejně jako fyzický token, protože si nikdy nemůžete být jisti, zda původní vlastník informace na své straně nezničil. Digitální tokeny, stejně jako všechny informace, lze pouze šířit, podobně jako myšlenku.
-
-
-
-> ... když máš jablko a já mám jablko a vyměníme si je - každý z nás skončí jen s jedním jablkem. Ale pokud máme oba nápad a vyměníme si ho - každý z nás nakonec získá dva nápady.<br>Charles F. Brannan (1949)
-
-
-
-Fyzické tokeny - to, čemu říkáme fyzická aktiva nebo "hotovost" - jsou tohoto dilematu zbaveny. V reálném světě platí, že pokud mi předáte minci, vaše mince je pryč. Neexistuje žádná magická duplikace mince a jediný způsob, jak mi ji dát, je fyzicky mi ji předat. Fyzikální zákony neumožňují, abyste ji utratili dvakrát.
-
-
-
-Double spending sice existuje i v nedigitální sféře - vzpomeňme na George Parkera, podvodníka, který proslul " double-spendnutím" Brooklynského mostu a dalších pamětihodností - ale vyžaduje to promyšlený podvod a důvěřivé kupující. Ne tak v digitální oblasti.
-
-
-
-V digitální sféře, kde se neustále pracuje s informacemi, je double spending neodmyslitelným problémem. Jak ví každý, kdo někdy kopíroval soubor nebo použil funkci Ctrl+C a Crtl+V, informace je něco, co lze dokonale zkopírovat, a není vázána na médium, na kterém je umístěna. Máte-li například digitální fotografii, můžete ji zkopírovat milionkrát, některé kopie uložit na USB disk a poslat tisícům různých lidí. Dokonalé kopie jsou možné, protože informace umožňují bezchybnou opravu chyb, která eliminuje degradaci. A aby toho nebylo málo, kopírování prakticky nic nestojí a není možné určit originál.
-
-
-
-Ještě jednou: pokud jde o informace, nic jiného než kopírování neexistuje. Jednoduše není způsob, jak přesunout digitální informaci z bodu A do bodu B. Informace se vždy zkopíruje z bodu A do bodu B, a pokud byl proces kopírování úspěšný, původní kopie bodu A se vymaže. To je důvod, proč je double spending problem tak ošemetný. Neexistuje-li centrální autorita, neexistuje způsob, jak cokoli přesunout z místa A do místa B bez nutnosti důvěry. Vždy musíte věřit, že originál bude smazán. Přirozeným vedlejším efektem je, že pokud jde o digitální informace, nelze zjistit, kolik kopií existuje a kde se tyto kopie mohou nacházet.
-
-
-
-Z tohoto důvodu používání digitálních "tokenů" jako peněz nemůže a nikdy nebude fungovat. Vzhledem k tomu, že tokeny odvozují svou spolehlivost od toho, že je v důsledku jejich jedinečné fyzické konstrukce obtížné je reprodukovat, tato výhoda v digitální sféře mizí. V digitální sféře nelze tokenům důvěřovat. V důsledku podstaty vnitřních vlastností informací není jediným životaschopným formátem digitálních peněz token, ale účetní kniha - což nás přivádí k problému času.
-
-
-
-Tokeny jsou časově neomezené, účetní knihy nikoliv
-
-
-
-> Viditelné je dočasné, neviditelné však věčné.
-
+> <b>Viditelné je dočasné, neviditelné však věčné.</b>
 <br>Pavel z Tarsu - 2. Korintským 4, 18b (Cor2/4,18b)
 
+<big>Budeme-li se bavit o fyzických tokenech, na čase transakce nezáleží. Buď mince v kapse máte, nebo nemáte; buď je můžete utratit, 
+nebo ne. Jediným předpokladem pro utrácení je prostý akt vlastnictví. O zbytek se postarají přírodní zákony. V tomto smyslu nevyžadují 
+fyzické tokeny důvěru a nepodléhají času.</big>
+
+<big>Pokud jde o účetní knihy, fyzické vlastnictví ustupuje do pozadí. Ten, kdo má účetní knihu pod kontrolou, musí zajistit, aby byly 
+věci *v pořádku*. Co je jinak dáno fyzikálními zákony - totiž že nemůžete utratit peníze, které nemáte, ani takové, které jste již dříve 
+utratili - musí být vynuceno pravidly vytvořenými člověkem. A právě tato pravidla, nikoliv fyzikální zákony, řídí řádný chod a vedení 
+účetní knihy.</big>
+
+<big>Podstatou věci je zmíněný přechod od fyzikálních zákonů k pravidlům vytvořeným člověkem. Lidské normy lze ohýbat a porušovat, fyzikální 
+zákony ne. Například fyzickou zlatou minci si nemůžete jednoduše "vymyslet". Musíte ji vykopat ze země. Zlatou minci si však můžete zcela 
+jistě vyrobit na papíře. Uděláte to tak, že jednoduše přidáte záznam do účetní knihy, jímž si pár mincí přivlastníte. Nebo, v případě 
+centrálních bank, jednoduše přidáte pár bilionů pomocí několika stisků počítačových kláves. (Fajnoví finančníci tomu říkají "rehypotekace", 
+"bankovnictví frakčních rezerv" nebo "kvantitativní uvolňování" - ale nenechte se zmást, vždy jde o totéž: vytváření peněz).</big>
+
+<big>Pro zachování důvěryhodnosti účetních knih a těch, kteří s nimi manipulují, jsou nutné pravidelné nezávislé audity. Schopnost zaúčtovat 
+každý jednotlivý záznam v účetní knize není luxus. Auditoři musí být schopni procházet účetní knihy - zpětně v čase - aby tyto mohly být 
+poctivé a funkční. Bez spolehlivých časových razítek není možné ověřit vnitřní konzistenci účetní knihy. Mechanismus pro stanovení 
+jednoznačného pořadí je nezbytný.</big>
+
+<big>Bez absolutního vnímání času není možné stanovit pořadí transakcí. A bez definovaného pořadí transakcí nelze dodržovat pravidla účetní 
+knihy. Jak jinak se můžete ujistit, kolik peněz vlastně máte? Jak jinak se můžete ujistit, že jsou věci *v pořádku*?</big>
+
+<big>Rozdíl mezi tokeny a účetními knihami zdůrazňuje nutnost sledování času. Ve fyzické sféře jsou mince časově neohraničené artefakty, 
+které lze vyměňovat bez dozoru. V digitální sféře vyžaduje mince časové razítko.</big>
 
 
-Budeme-li se bavit o fyzických tokenech, na čase transakce nezáleží. Buď mince v kapse máte, nebo nemáte; buď je můžete utratit, nebo ne. Jediným předpokladem pro utrácení je prostý akt vlastnictví. O zbytek se postarají přírodní zákony. V tomto smyslu nevyžadují fyzické žetony důvěru a jsou nepodléhají času.
+## Centralizovaná ražba mincí
+
+> <b>"Čas: velký archivář nebo kotelník."</b>
+> <br>Yahia Lababidi (b. 1973)
+
+<big>Obvyklým způsobem, jak vyřešit problém dvojího utrácení - jak zajistit, aby se digitální převod uskutečnil pouze jednou - je centrální 
+seznam transakcí. Jakmile máte centrální seznam transakcí, máte jedinou účetní knihu, která může sloužit jako jediný zdroj pravdy. Vyřešit 
+double spending problém je tak snadné, jako projít tento seznam a ujistit se, že vše souhlasí. Takto řeší double spending PayPal, Venmo, Alipay 
+a všechny banky tohoto světa - včetně centrálních bank: prostřednictvím centrální autority.</big>
+
+> <b>Problém je samozřejmě v tom, že příjemce nemůže ověřit, zda jeden z majitelů neutratil minci dvakrát. Obvyklým řešením je zavedení důvěryhodné 
+> centrální autority neboli mincovny, která u každé transakce kontroluje, zda nedošlo k double spendingu. [...] Problém tohoto řešení spočívá 
+> v tom, že osud celého peněžního systému závisí na společnosti provozující mincovnu, přičemž každá transakce musí projít přes ni, podobně jako 
+> v bance.<b>
+> <br>Satoshi Nakamoto (2009)
+
+<big>Je třeba zdůraznit, že Satoshi nedokázal zajistit, aby informace nebylo možné kopírovat. Každou část bitcoinu - jeho zdrojový kód, účetní 
+knihu, váš soukromý klíč - lze zkopírovat. Všechno to lze namnožit a zfalšovat. Satoshimu se však podařilo vytvořit systém, který kopie 
+porušující pravidla činí zcela a naprosto nepoužitelnými. Síť Bitcoin provádí složitý tanec, aby rozhodla, které kopie jsou užitečné a které ne, 
+a právě tento tanec vnáší do digitální sféry nedostatek. A jako při každém tanci je zapotřebí taktovky diktující rytmus.</big>
+
+<big>Dokonce i centralizovaná účetní kniha může vyřešit problém double spendingu pouze tehdy, pokud má konzistentní způsob sledování času. 
+Vždy je třeba vědět, kdo komu kolik dal a hlavně: kdy. V informační sféře neexistuje vydávání mincí bez časového razítkování.</big>
+
+> <b>Je třeba zdůraznit, že nemožnost zařadit v distribuovaných systémech události na časovou osu byla nevyřešeným problémem, bránícím tomu, 
+> aby byla decentralizovaná účetní kniha vůbec možná. Dokud Satoshi Nakamoto nepřišel s řešením.</b>
+> <br>Gregory Trubetskoy (2018)
 
 
+## Decentralizovaný čas
 
-Pokud jde o účetní knihy, fyzické vlastnictví ustupuje do pozadí. Ten, kdo má účetní knihu pod kontrolou, musí zajistit, aby byly věci *v pořádku*. Co je jinak dáno fyzikálními zákony - totiž že nemůžete utratit peníze, které nemáte, ani takové, které jste již dříve utratili - musí být vynuceno pravidly vytvořenými člověkem. A právě tato pravidla, nikoliv fyzikální zákony, řídí řádný chod a vedení účetní knihy.
-
-
-
-Podstatou věci je zmíněný přechod od fyzikálních zákonů k pravidlům vytvořeným člověkem. Lidské normy lze ohýbat a porušovat, fyzikální zákony ne. Například fyzickou zlatou minci si nemůžete jednoduše "vymyslet". Musíte ji vykopat ze země. Zlatou minci si však můžete zcela jistě vyrobit na papíře. Uděláte to tak, že jednoduše přidáte záznam do účetní knihy a dáte si pár mincí. Nebo, v případě centrálních bank, jednoduše přidáte pár bilionů pomocí několika stisků počítačových kláves. (Fajnoví finančníci tomu říkají "rehypotekace", "bankovnictví frakčních rezerv" nebo "kvantitativní uvolňování" - ale nenechte se zmást, vždy jde o totéž: vytváření peněz).
-
-
-
-Pro zachování důvěryhodnosti účetních knih a těch, kteří s nimi manipulují, jsou nutné pravidelné nezávislé audity. Schopnost zaúčtovat každý jednotlivý záznam v účetní knize není luxus. Auditoři musí být schopni procházet účetní knihy - zpětně v čase - aby mohly být účetní knihy poctivé a funkční. Bez spolehlivých časových razítek není možné ověřit vnitřní konzistenci účetní knihy. Mechanismus pro stanovení jednoznačného pořadí je nezbytný.
-
-
-
-Bez absolutního vnímání času není možné stanovit pořadí transakcí. A bez definovaného pořadí transakcí nelze dodržovat pravidla účetní knihy. Jak jinak se můžete ujistit, kolik peněz vlastně máte? Jak jinak se můžete ujistit, že jsou věci *v pořádku*?
-
-
-
-Rozdíl mezi tokeny a účetními knihami zdůrazňuje nutnost sledování času. Ve fyzické sféře jsou mince časově neohraničené artefakty, které lze vyměňovat bez dozoru. V digitální sféře vyžaduje mince časové razítko.
-
-
-
-
-
-Centralizovaná ražba mincí
-
-
-
-> "Čas: velký archivář nebo kotelník."
-
-<br>Yahia Lababidi (b. 1973)
-
-
-
-Obvyklým způsobem, jak vyřešit problém dvojího utrácení - jak zajistit, aby se digitální převod uskutečnil pouze jednou - je centrální seznam transakcí. Jakmile máte centrální seznam transakcí, máte jedinou účetní knihu, která může sloužit jako jediný zdroj pravdy. Vyřešit double spending problém je tak snadné, jako projít tento seznam a ujistit se, že vše souhlasí. Takto řeší double spending PayPal, Venmo, Alipay a všechny banky tohoto světa - včetně centrálních bank: prostřednictvím centrální autority.
-
-
-
-> Problém je samozřejmě v tom, že příjemce nemůže ověřit, zda jeden z majitelů neutratil minci dvakrát. Obvyklým řešením je zavedení důvěryhodné centrální autority neboli mincovny, která u každé transakce kontroluje, zda nedošlo k double spendingu. [...] Problém tohoto řešení spočívá v tom, že osud celého peněžního systému závisí na společnosti provozující mincovnu, přičemž každá transakce musí projít přes ni, podobně jako v bance.<br>Satoshi Nakamoto (2009)
-
-
-
-Je třeba zdůraznit, že Satoshi nedokázal zajistit, aby informace nebylo možné kopírovat. Každou část bitcoinu - jeho zdrojový kód, účetní knihu, váš soukromý klíč - lze zkopírovat. Všechno to lze namnožit a zfalšovat. Satoshimu se však podařilo vytvořit systém, který kopie porušující pravidla činí zcela a naprosto nepoužitelnými. Síť Bitcoin provádí složitý tanec, aby rozhodla, které kopie jsou užitečné a které ne, a právě tento tanec vnáší do digitální sféry nedostatek. A jako při každém tanci je zapotřebí taktovky diktující rytmus.
-
-
-
-Dokonce i centralizovaná účetní kniha může vyřešit problém double spendingu pouze tehdy, pokud má konzistentní způsob sledování času. Vždy je třeba vědět, kdo komu kolik dal a hlavně: kdy. V informační sféře neexistuje vydávání mincí bez časového razítkování.
-
-
-
-> Je třeba zdůraznit, že nemožnost zařadit v distribuovaných systémech události na časovou osu byla nevyřešeným problémem, bránícím tomu, aby byla decentralizovaná účetní kniha vůbec možná. Dokud Satoshi Nakamoto nepřišel s řešením.<br>Gregory Trubet­skoy (2018)
-
-
-
-Decentralizovaný čas
-
-
-
-> Čas vše odnese.<br>Aischylos (525 BC – 456 BC)
+> <b>Čas vše odnese.</b>
+> <br>Aischylos (525 BC – 456 BC)
 
 
 
