@@ -12,7 +12,7 @@ This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2020/03/31/de
 Optimistický dopis přátelům i nepřátelům na celé Zemi.
 <br>623774
 
-<img src="./btc14-dear-bitcoiners.jpg" alt="">
+<img src="./pics/0739884-dear-bitcoiners.jpg" alt="">
 
 <big>Šílenství tohoto světa se zjevilo v okamžení. Všechno se mění mnohem rychleji, než si většina z nás kdy dokázala představit - ale já se nebojím. Naopak, jsem podivně optimistický - kvůli Bitcoinu a díky vám.</big>
 
