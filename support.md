@@ -23,7 +23,7 @@ uvolněním. Svou náklonnost můžete projevit zasláním ₿ satů na
 
 <big>
   <img src="tweetoshiMini.png" alt="Tweetoshi" align="left" style="float:left">
-  <a href="https://twitter.com/TweetoshiApp">Tweetoshi</a> - twitter 
+  <a href="https://twitter.com/TweetoshiApp"> Tweetoshi</a> - twitter 
   handle <a href="https://twitter.com/nekonecnik">@nekonecnik</a> (DMs open)
   <br>⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a>
   <br>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
