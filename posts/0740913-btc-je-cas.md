@@ -258,7 +258,7 @@ Například metronom má proměnlivou frekvenci, kterou nastavíte před tím, n
 konstantní tempo, čas bitcoinu se při každém tiknutí mění, protože jeho vnitřní mechanismus je pravděpodobnostní. Účel je však stejný: 
 udržet hudbu na nohou, aby tanec mohl pokračovat.</big>
   
-<img src="./pics/0740913-02x-hodiny.jpg" alt="">
+<img src="./pics/0740913-02x-hodiny.png" alt="">
 
 <big>Skutečnost, že Bitcoin jsou hodiny, zůstává očím skryta. Satoshi ostatně poukazuje na to, že Bitcoinová síť jako celek představuje 
 hodiny, nebo jeho slovy: distribuovaný server časových razítek.</big>
