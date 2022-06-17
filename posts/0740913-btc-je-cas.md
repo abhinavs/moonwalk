@@ -356,216 +356,302 @@ titulní strana dnešních novin.</big>
 
 <img src="./pics/0740913-04x-genesisTimes.png" alt="">
 
-<big>Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitější, nemůžete předpovědět, kdo najde aktuální řešení proof-of-work a jaké toto řešení bude.
+<big>Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší 
+noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, 
+jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitější, nemůžete předpovědět, kdo najde aktuální řešení proof-of-work a jaké toto 
+řešení bude.</big>
 
-
-
-Na rozdíl od únoscových novin je však proof-of-work fyzicky spojen *přímo* s tím, co se stalo. Není to jen záznam události - je to událost sama. Právě pravděpodobnostní přímočarost proof-of-work odstraňuje z rovnice důvěru. Jediný způsob, jak najít platný proof-of-work, je provést mnoho odhadů, přičemž provedení jednoho pokusu zabere trochu času. Pravděpodobnostní součet těchto odhadů je to, co vytváří časový řetězec, kterým je Bitcoin.
-
-
-
-Využitím kauzality hashovacích řetězců a nepředvídatelnosti proof-of-work poskytuje Bitcoinová síť mechanismus pro stanovení nezpochybnitelné historie pozorovaných událostí. Bez kauzality není možné oddělit, co bylo předtím a co potom. Bez nepředvídatelnosti postrádá kauzalita smysl.
-
-
-
-Na to, co intuitivně chápe každý únosce, výslovně upozornili Bayer, Haber a Stornetta v roce 1992: "Aby bylo možné prokázat, že dokument byl vytvořen po určitém časovém okamžiku, je nutné uvést události, které nebylo možné předvídat předtím, než se staly".
+<big>
+  Na rozdíl od únoscových novin je však proof-of-work fyzicky spojen *přímo* s tím, co se stalo. Není to jen záznam události - je to událost sama. 
+  Právě pravděpodobnostní přímočarost proof-of-work odstraňuje z rovnice důvěru. Jediný způsob, jak najít platný proof-of-work, je provést mnoho 
+  odhadů, přičemž provedení jednoho pokusu zabere trochu času. Pravděpodobnostní součet těchto odhadů je to, co vytváří časový řetězec, 
+  kterým je Bitcoin.
+</big>
+  
+<big>
+  Využitím kauzality hashovacích řetězců a nepředvídatelnosti proof-of-work poskytuje Bitcoinová síť mechanismus pro stanovení nezpochybnitelné 
+  historie pozorovaných událostí. Bez kauzality není možné oddělit, co bylo předtím a co potom. Bez nepředvídatelnosti postrádá kauzalita smysl.
+</big>
+  
+<big>
+  Na to, co intuitivně chápe každý únosce, výslovně upozornili Bayer, Haber a Stornetta v roce 1992: "Aby bylo možné prokázat, že dokument byl 
+  vytvořen po určitém časovém okamžiku, je nutné uvést události, které nebylo možné předvídat předtím, než se staly".
+</big>
 
 <img src="./pics/0740913-05-proof-of-publication.jpg" alt="">
 
-Právě kombinace kauzality a nepředvídatelnosti umožňuje vytvořit umělou "přítomnost" v jinak bezčasé digitální sféře. Jak upozorňují Bayer, Haber a Stornetta ve svém článku z roku 1991: "pořadí klientů žádajících o časová razítka a jimi předkládané hashe nelze předem znát. Pokud tedy do podepsaného certifikátu zahrneme bity z předchozí posloupnosti žádostí klientů, pak víme, že časové razítko vzniklo až po těchto žádostech. [...] Požadavek na zahrnutí bitů z předchozích dokumentů do certifikátu však lze využít i k řešení problému omezení času v opačném směru, protože společnost, která časová razítka vydává, nemůže vydat pozdější certifikáty, pokud nemá k dispozici aktuální žádost."
+<big>
+  Právě kombinace kauzality a nepředvídatelnosti umožňuje vytvořit umělou "přítomnost" v jinak bezčasé digitální sféře. Jak upozorňují Bayer, 
+  Haber a Stornetta ve svém článku z roku 1991: "pořadí klientů žádajících o časová razítka a jimi předkládané hashe nelze předem znát. Pokud tedy 
+  do podepsaného certifikátu zahrneme bity z předchozí posloupnosti žádostí klientů, pak víme, že časové razítko vzniklo až po těchto 
+  žádostech. [...] Požadavek na zahrnutí bitů z předchozích dokumentů do certifikátu však lze využít i k řešení problému omezení času v opačném 
+  směru, protože společnost, která časová razítka vydává, nemůže vydat pozdější certifikáty, pokud nemá k dispozici aktuální žádost."
+</big>
+  
+<big>
+  Všechny kousky skládačky už tu byly. Satoshimu se je podařilo poskládat tak, aby z rovnice vypadla "společnost, která razítkuje čas".
+</big>
 
 
+## Proof of Time
 
-Všechny kousky skládačky už tu byly. Satoshimu se je podařilo poskládat tak, aby z rovnice vypadla "společnost, která razítkuje čas".
+> <b>"Causa latet: vis est notis­sima."
+> <br>"Příčina je skrytá, ale výsledek je známý."</b>
+> <br>Publius Ovidius Naso, Proměny, IV. 287 (8 AD)
 
+<big>
+  Shrňme si to: abychom mohli používat peníze v digitální sféře, musíme se spolehnout na účetní knihy. Aby byly účetní knihy spolehlivé, je 
+  zapotřebí jednoznačný řád. Aby bylo možné zavést pořádek, jsou nutná časová razítka. Pokud tedy chceme mít v digitální sféře *důvěru 
+  nevyžadující* peníze, musíme odstranit jakoukoli entitu, která časová razítka vytváří a spravuje, a jakoukoli jedinou entitu mající na starosti 
+  samotný čas.
+</big>
+  
+<big>
+  Řešení si musel uvědomit génius jako Satoshi Nakamoto: "Abychom mohli implementovat distribuovaný server časových razítek na peer-to-peer bázi, 
+  budeme muset použít systém proof-of-work podobný systému Hashcash od Adama Backa."
+</big>
+  
+<big>
+  Musíme použít systém proof-of-work, neboť potřebujeme něco, co je digitální sféře vlastní. Jakmile pochopíte, že digitální doména má informační 
+  povahu, je zřejmý závěr, že máme k dispozici pouze výpočty. Pokud je váš svět tvořen daty, manipulace s daty je vše, co máte k dispozici.
+</big>
+  
+<big>
+  Proof-of-work funguje v peer-to-peer prostředí, protože *nevyžaduje důvěru*, jelikož je odpojen od všech vnějších vstupů - jako jsou údaje hodin 
+  (nebo novin, když na to přijde). Spoléhá na jednu jedinou věc: výpočet vyžaduje práci a v našem vesmíru práce vyžaduje energii a čas.
+</big>
+  
 
+## Překlenovací období
 
-Proof of Time
+> <b>Vyhovuje mi to.
+> <br>Když kráčíme po mostě - schváceném ohněm
+> <br>s plameny za zády, 
+> <br>stojíme před čarou. 
+> <br>Jsme to jen my dva, zlato, proti celému světu.</b>
+> <br>Kate Bush, Burning Bridge (1985)
 
-
-
-> "Causa latet: vis est notis­sima."> Příčina je skrytá, ale výsledek je známý.<br>Publius Ovidius Naso, Proměny, IV. 287 (8 AD)
-
-
-
-Shrňme si to: abychom mohli používat peníze v digitální sféře, musíme se spolehnout na účetní knihy. Aby byly účetní knihy spolehlivé, je zapotřebí jednoznačný řád. Aby bylo možné zavést pořádek, jsou nutná časová razítka. Pokud tedy chceme mít v digitální sféře *důvěru nevyžadující* peníze, musíme odstranit jakoukoli entitu, která časová razítka vytváří a spravuje, a jakoukoli jedinou entitu mající na starosti samotný čas.
-
-
-
-Řešení si musel uvědomit génius jako Satoshi Nakamoto: "Abychom mohli implementovat distribuovaný server časových razítek na peer-to-peer bázi, budeme muset použít systém proof-of-work podobný systému Hashcash od Adama Backa."
-
-
-
-Musíme použít systém proof-of-work, neboť potřebujeme něco, co je digitální sféře vlastní. Jakmile pochopíte, že digitální doména má informační povahu, je zřejmý závěr, že máme k dispozici pouze výpočty. Pokud je váš svět tvořen daty, manipulace s daty je vše, co máte k dispozici.
-
-
-
-Proof-of-work funguje v peer-to-peer prostředí, protože *nevyžaduje důvěru*, jelikož je odpojen od všech vnějších vstupů - jako jsou údaje hodin (nebo novin, když na to přijde). Spoléhá na jednu jedinou věc: výpočet vyžaduje práci a v našem vesmíru práce vyžaduje energii a čas.
-
-
-
-
-
-Překlenovací období
-
-
-
-> > Vyhovuje mi to.> Když kráčíme po mostě - schváceném ohněm - > s plameny za zády, > stojíme před čarou. > Jsme to jen my dva, zlato, proti celému světu.<br>Kate Bush, Burning Bridge (1985)
-
-
-
-Bez proof-of-work bychom vždy narazili na Oracle problém, protože fyzická sféra a informační sféra jsou nerozlučně oddělené. Značky na vašem seznamu ovcí nejsou vaše ovce, mapa není území a to, co bylo napsáno ve včerejších novinách, nemusí být nutně to, co se stalo ve skutečném světě. Stejně tak to, že si pomocí hodin v reálném světě zapíšete časový údaj, neznamená, že to ve skutečnosti byl čas právě takový.
-
-
-
-Jednoduše řečeno, neexistuje žádný způsob, jak ověřit, že data reprezentují realitu, s výjimkou případů, kdy je daná realita obsažena už v samotných datech. Geniální na bitcoinové metodě proof-of-work s úpravou obtížnosti je to, že vytváří svou vlastní realitu v souladu s vlastním prostorem a časem.
-
-
-
-Proof-of-work poskytuje přímé spojení mezi digitální a fyzickou sférou. A co víc, je to jediné spojení, které lze navázat bez nutnosti důvěry. Vše ostatní bude vždy záviset na vnějších vstupech.
-
-
-
-Obtížnost těžby nového bloku bitcoinu je upravována tak, aby tenká nit mezi časem bitcoinu a naším časem zůstala nedotčena. Obtížnost těžby se jako hodinový strojek upravuje každých 2016 tiků. Cílem tohoto přenastavení je udržet průměrnou dobu mezi tiky na deseti minutách. Právě těchto deset minut udržuje stabilní spojení mezi fyzickou a informační sférou. V důsledku toho je k přenastavení tikání Bitcoinových hodin zapotřebí smysl pro lidský čas. Přenastavení založené čistě na blocích by nefungovalo, protože by bylo zcela odtržené od našeho lidského světa, a celým účelem přenastavení je zabránit nám, vynalézavým lidem, abychom našli bloky příliš rychle (nebo příliš pomalu).
-
-
-
-Jak nám ukázal Einstein, čas není statická věc. Neexistuje nic takového jako univerzální čas, na nějž bychom se mohli spolehnout. Čas je relativní a simultánnost neexistuje. Už jen tato skutečnost činí všechna časová razítka - zejména na velké vzdálenosti - ze své podstaty nespolehlivými, a to i bez přítomnosti nepřátelských subjektů. (Mimochodem, právě proto se časová razítka GPS satelitů musí neustále upravovat.)
-
-
-
-U Bitcoinu na tom, že jsou naše lidská časová razítka nepřesná, příliš nezáleží. Stejně tak nehraje roli, že v první řadě nemáme žádný absolutní referenční rámec. Musí být pouze dostatečně přesná, aby bylo možné vypočítat do jisté míry spolehlivý průměr napříč posledními 2016 bloky. Aby to bylo zaručeno, je časové razítko bloku v realitě akceptováno pouze tehdy, pokud splňuje dvě kritéria:
-
-1. Časové razítko musí být vyšší než medián časových razítek předchozích 11 bloků.2. Časové razítko musí být nižší než čas sítě plus dvě hodiny. (Síťový čas je jednoduše medián časových razítek vrácených všemi připojenými uzly.)
-
-
-
-Jinými slovy, nastavení obtížnosti se týká udržení konstantního času, nikoli konstantní úrovně bezpečnosti, obtížnosti nebo energetického výdeje. To je geniální, protože dobré peníze musí být nákladné v čase, nikoli v energii. Samotné propojení peněz s energií nestačí k vytvoření absolutního nedostatku, protože každé zlepšení ve výrobě energie by nám umožnilo vytvořit více peněz. Čas je jediná věc, které nikdy nebudeme schopni vyrobit více. Je to nejvyšší zdroj, jak zdůrazňuje Julian Simon. Bitcoin se tak stává ultimátní formou peněz, protože jeho emise je přímo spojena s ultimátním zdrojem našeho vesmíru: časem.
-
-
-
-Nastavení obtížnosti je nezbytné, protože bez něj by vnitřní hodiny Bitcoinu měly tendenci jít stále rychleji, čím více těžařů by se do sítě připojovalo nebo jak by se zlepšovala účinnost těžebních zařízení. Rychle bychom narazili na problém koordinace, který si Bitcoin klade za cíl vyřešit. Jakmile by čas bloku klesl pod určitou hranici, řekněme 50 milisekund, nebylo by možné se dohodnout na sdíleném stavu, a to ani teoreticky. Cesta světla z jedné strany Země na druhou trvá přibližně 66 milisekund. I kdyby tedy naše počítače a routery byly dokonalé, byli bychom opět na začátku: při dvou událostech by bylo marné určit, která událost se stala dříve a která později. Bez periodické úpravy Bitcoinového tikotu by se beznadějnost řešení koordinačního problému dostavila rychlostí vyšší, než světelnou. Čas je také základem problému kryptografické nestability, který byl nastíněn v kapitole 1. Kryptografie funguje díky asymetrii v čase: vybudování kryptografické stěny trvá chvíli a její prolomení dlouho - pokud nemáte klíč.
-
-
-
-V jistém smyslu tedy proof-of-work - a s ním spojené nastavení obtížnosti - uměle zpomaluje čas, alespoň z pohledu Bitcoinové sítě. Jinými slovy: Bitcoin vynucuje vnitřní rytmus, jehož nízká frekvence umožňuje dostatečnou rezervu pro zpoždění komunikace mezi peery. Každých 2016 bloků se vnitřní hodiny Bitcoinu přenastaví, aby byl - v průměru - jeden platný blok nalezen každých 10 minut.
-
-
-
-Z vnějšího pohledu Bitcoin přenáší chaotickou změť globálně vysílaných asynchronních zpráv do paralelního vesmíru, který je omezen vlastními pravidly a vlastním smyslem pro prostor a čas. Transakce v mempoolu jsou z pohledu bitcoinové sítě mimočasové. Teprve když je transakce zahrnuta do platného bloku, je jí přiřazen čas: číslo bloku, do kterého je začleněna.
+<big>
+  Bez proof-of-work bychom vždy narazili na Oracle problém, protože fyzická sféra a informační sféra jsou nerozlučně oddělené. Značky na vašem 
+  seznamu ovcí nejsou vaše ovce, mapa není území a to, co bylo napsáno ve včerejších novinách, nemusí být nutně to, co se stalo ve skutečném 
+  světě. Stejně tak to, že si pomocí hodin v reálném světě zapíšete časový údaj, neznamená, že to ve skutečnosti byl čas právě takový.
+</big>
+  
+<big>
+  Jednoduše řečeno, neexistuje žádný způsob, jak ověřit, že data reprezentují realitu, s výjimkou případů, kdy je daná realita obsažena už 
+  v samotných datech. Geniální na bitcoinové metodě proof-of-work s úpravou obtížnosti je to, že vytváří svou vlastní realitu v souladu 
+  s vlastním prostorem a časem.
+</big>
+  
+<big>
+  Proof-of-work poskytuje přímé spojení mezi digitální a fyzickou sférou. A co víc, je to jediné spojení, které lze navázat bez nutnosti důvěry. 
+  Vše ostatní bude vždy záviset na vnějších vstupech.
+</big>
+  
+<big>
+  Obtížnost těžby nového bloku bitcoinu je upravována tak, aby tenká nit mezi časem bitcoinu a naším časem zůstala nedotčena. Obtížnost těžby se 
+  jako hodinový strojek upravuje každých 2016 tiků. Cílem tohoto přenastavení je udržet průměrnou dobu mezi tiky na deseti minutách. Právě těchto 
+  deset minut udržuje stabilní spojení mezi fyzickou a informační sférou. V důsledku toho je k přenastavení tikání Bitcoinových hodin zapotřebí 
+  smysl pro lidský čas. Přenastavení založené čistě na blocích by nefungovalo, protože by bylo zcela odtržené od našeho lidského světa, a celým 
+  účelem přenastavení je zabránit nám, vynalézavým lidem, abychom našli bloky příliš rychle (nebo příliš pomalu).
+</big>
+  
+<big>
+  Jak nám ukázal Einstein, čas není statická věc. Neexistuje nic takového jako univerzální čas, na nějž bychom se mohli spolehnout. Čas je relativní 
+  a simultánnost neexistuje. Už jen tato skutečnost činí všechna časová razítka - zejména na velké vzdálenosti - ze své podstaty nespolehlivými, a to 
+  i bez přítomnosti nepřátelských subjektů. (Mimochodem, právě proto se časová razítka GPS satelitů musí neustále upravovat.)
+</big>
+  
+<big>
+  U Bitcoinu na tom, že jsou naše lidská časová razítka nepřesná, příliš nezáleží. Stejně tak nehraje roli, že v první řadě nemáme žádný absolutní 
+  referenční rámec. Musí být pouze dostatečně přesná, aby bylo možné vypočítat do jisté míry spolehlivý průměr napříč posledními 2016 bloky. Aby 
+  to bylo zaručeno, je časové razítko bloku v realitě akceptováno pouze tehdy, pokud splňuje dvě kritéria:
+  <br>1. Časové razítko musí být vyšší než medián časových razítek předchozích 11 bloků.
+  <br>2. Časové razítko musí být nižší než čas sítě plus dvě hodiny. (Síťový čas je jednoduše medián časových razítek vrácených všemi připojenými uzly.)
+</big>
+  
+<big>
+  Jinými slovy, nastavení obtížnosti se týká udržení konstantního času, nikoli konstantní úrovně bezpečnosti, obtížnosti nebo energetického výdeje. 
+  To je geniální, protože dobré peníze musí být nákladné v čase, nikoli v energii. Samotné propojení peněz s energií nestačí k vytvoření absolutního 
+  nedostatku, protože každé zlepšení ve výrobě energie by nám umožnilo vytvořit více peněz. Čas je jediná věc, které nikdy nebudeme schopni vyrobit 
+  více. Je to nejvyšší zdroj, jak zdůrazňuje Julian Simon. Bitcoin se tak stává ultimátní formou peněz, protože jeho emise je přímo spojena 
+  s ultimátním zdrojem našeho vesmíru: časem.
+</big>
+  
+<big>
+  Nastavení obtížnosti je nezbytné, protože bez něj by vnitřní hodiny Bitcoinu měly tendenci jít stále rychleji, čím více těžařů by se do sítě 
+  připojovalo nebo jak by se zlepšovala účinnost těžebních zařízení. Rychle bychom narazili na problém koordinace, který si Bitcoin klade za cíl 
+  vyřešit. Jakmile by čas bloku klesl pod určitou hranici, řekněme 50 milisekund, nebylo by možné se dohodnout na sdíleném stavu, a to ani 
+  teoreticky. Cesta světla z jedné strany Země na druhou trvá přibližně 66 milisekund. I kdyby tedy naše počítače a routery byly dokonalé, byli 
+  bychom opět na začátku: při dvou událostech by bylo marné určit, která událost se stala dříve a která později. Bez periodické úpravy Bitcoinového 
+  tikotu by se beznadějnost řešení koordinačního problému dostavila rychlostí vyšší, než světelnou. Čas je také základem problému kryptografické 
+  nestability, který byl nastíněn v kapitole 1. Kryptografie funguje díky asymetrii v čase: vybudování kryptografické stěny trvá chvíli a její 
+  prolomení dlouho - pokud nemáte klíč.
+</big>
+  
+<big>
+  V jistém smyslu tedy proof-of-work - a s ním spojené nastavení obtížnosti - uměle zpomaluje čas, alespoň z pohledu Bitcoinové sítě. Jinými slovy: 
+  Bitcoin vynucuje vnitřní rytmus, jehož nízká frekvence umožňuje dostatečnou rezervu pro zpoždění komunikace mezi peery. Každých 2016 bloků 
+  se vnitřní hodiny Bitcoinu přenastaví, aby byl - v průměru - jeden platný blok nalezen každých 10 minut.
+</big>
+  
+<big>
+  Z vnějšího pohledu Bitcoin přenáší chaotickou změť globálně vysílaných asynchronních zpráv do paralelního vesmíru, který je omezen vlastními 
+  pravidly a vlastním smyslem pro prostor a čas. Transakce v mempoolu jsou z pohledu bitcoinové sítě mimočasové. Teprve když je transakce zahrnuta 
+  do platného bloku, je jí přiřazen čas: číslo bloku, do kterého je začleněna.
+</big>
 
 <img src="./pics/0740913-06-timechain.png" alt="">
 
-Je těžké přecenit, o jak elegantní řešení se jedná. Jakmile jste schopni vytvořit vlastní definici času, je dešifrování toho, co bylo předtím a co potom, triviální. Stejně tak se stává triviálním dohodnout se na tom, co se stalo, v jakém pořadí, a následně i kdo komu co dluží.
-
-
-
-Úprava obtížnosti zajišťuje, že tikání vnitřního bitcoinového metronomu je do jisté míry konstantní. Je dirigentem bitcoinového orchestru. Je tím, co udržuje hudbu při životě.
-
-
-
-Proč se ale vůbec můžeme spoléhat na práci? Odpověď je trojí. Můžeme se na ni spolehnout, protože výpočet vyžaduje práci, práce vyžaduje čas a danou práci - hádání náhodných čísel - nelze provádět efektivně.
-
-
-
-Pravděpodobnostní čas
-
-> Čas se neustále rozvětvuje směrem k nesčetným budoucnostem.<br>Jorge Luis Borges, The Garden of Forking Paths (1941)
-
-
-
-Nalezení platné nonce pro bitcoinový blok je hádáním. Je to podobné jako házení kostkou, házení mincí nebo točení ruletou. V podstatě se snažíte najít náhodné číslo, které je nesmírně obrovské. K nalezení řešení neexistuje žádná zkratka. Buď trefíte jackpot, nebo ne.
-
-
-
-Pokaždé, když si hodíte mincí, pravděpodobnost, že padne hlava nebo orel, bude 50 % - i kdybyste si předtím hodili dvacetkrát a pokaždé padla hlava. Podobně pokaždé, když čekáte na příchod bitcoinového bloku, šance, že se najde v této vteřině, je ~0,16 %. Nezáleží na tom, kdy byl nalezen poslední blok. Přibližná doba čekání na další blok je vždy stejná: ~10 minut.
-
-
-
-Z toho vyplývá, že každé jednotlivé tiknutí těchto hodin je nepředvídatelné. Ve srovnání s našimi lidskými hodinami se tyto hodiny jeví jako spontánní a nepřesné. To je však irelevantní, jak upozorňuje Gregory Trubetskoy: "Na tom, že jsou tyto hodiny nepřesné, nezáleží. Důležité je, že jsou to stejné hodiny pro všechny a že stav chainu lze jednoznačně vztáhnout k tikání těchto hodin". Hodiny bitcoinu jsou možná pravděpodobnostní, ale nejsou iluzorní.
-
-
-
-> "Čas je iluze pouhá,> dvojnásob čas oběda."<br>Douglas Adams (1979)
-
-
-
-Přítomný okamžik však může být v Bitcoinu naprostou iluzí. Protože v síti neexistuje žádná centrální autorita, mohou vznikat zvláštní situace. Je to sice nepravděpodobné, ale je možné, že se ve stejnou dobu (opět: omluva všem fyzikům) objeví další platný blok, což způsobí, že hodiny budou tikat dopředu na dvou různých místech najednou. Protože se však tyto dva různé bloky budou velmi pravděpodobně lišit svým obsahem, budou obsahovat dvě různé historie, obě stejně platné.
-
-
-
-V takovém případě se bavíme o rozdělení chainu, což je přirozený proces Nakamotova konsensu. Stejně jako hejno ptáků, které se na chvíli rozdělí na dvě části, aby se posléze opět spojilo, i uzly v síti Bitcoin nakonec po určité době konvergují ke společné historii, a to díky pravděpodobnostní povaze hádání.
-
-
-
-Nakamotův konsensus zkrátka stanoví, že správná historie se nachází v nejtěžším chainu, tj. v tom, který obsahuje největší množství proof-of-work. Máme-li tedy dvě historie A a B, někteří těžaři se budou snažit stavět na historii A, jiní na historii B. Jakmile jeden z nich najde další platný blok, druhá skupina je naprogramována tak, aby uznala, že byla na špatné straně historie, a přešla na nejtěžší řetězec - řetězec, který podle definice představuje to, co se skutečně stalo. V Bitcoinu opravdu píší historii vítězové.
-
-
-
-> Příjemce platby potřebuje důkaz, že v době každé transakce většina uzlů souhlasila s tím, že jde o první přijatou transakci. [...] Pokud existuje více double-spend verzí téže transakce, platnou se stane pouze jedna z nich. Příjemce platby musí počkat zhruba hodinu, než se přesvědčí, zda je platná. Síť do té doby případné závody o double-spending vyřeší.<br>Satoshi Nakamoto (2009)
-
-
-
-V tomto jednoduchém tvrzení spočívá tajemství problému distribuované koordinace. Takto Satoshi vyřešil problém " simultánní platby", se kterým se naši fiktivní obchodní partneři setkali v počátku. Vyřešil jej jednou provždy, relativistické efekty budiž zatraceny!
-
-
-
-Vzhledem k této pravděpodobnostní povaze hodin bitcoinu je současný okamžik - který nazýváme vrcholem chainu - vždy nejistý. Minulost - bloky pohřbené pod koncem chainu - je však stále jistější.
-
-
-
-> "Čím důkladnějšího pochopení je zapotřebí, tím hlouběji do minulosti je třeba se vydat."<br>Gordon Clark, A Chris­tian View of Men and Things, p. 58. (1951)
-
-
-
-V důsledku toho se mohou hodiny bitcoinu čas od času přetočit, u některých peerů o jedno nebo dvě tiknutí. Pokud se stane, že váš vrchol chainu - současný okamžik - prohraje s konkurenčním, vaše hodiny se nejprve přetočí a poté poskočí dopředu, čímž se překryje posledních několik tiků, o kterých jste si mysleli, že jsou již minulostí. Pokud jsou vaše hodiny pravděpodobnostní, musí být pravděpodobnostní i vaše chápání minulosti.
-
-
-
-> "Tick tock tick tock tick — what is the time?Tick tock tick tock… it ends in c619.Are you sure this is fine? Are we probably late?Absolutes do not matter: before nine there comes eight.The clock isn’t exact; it sometimes goes in reverse.Exact time implies center; that’s the root of this curse!Yet this clock keeps on ticking, tock-tick and tick-tock,there’s no profit in tricking; just tick-tock and next block.<br>A Funny Little Rhyme on Bitcoin and Time (2020)
-
-
-
-
-
-Závěr
-
-
-
-> "Čas je stále jednou z největších záhad fyziky, takovou jež zpochybňuje samotnou definici fyziky."<br>Jorge Cham and Daniel Whiteson: We Have No Idea: A Guide to the Unknown Universe, pp. 117 – 118 (2017)
-
-
-
-Sledování věcí v informační sféře předpokládá sledování posloupnosti událostí, což zase vyžaduje sledování času. Sledování času vyžaduje dohodnout se na přítomnosti - časovém okamžiku, který navždy spojuje ustálenou minulost s nejistou budoucností. V Bitcoinu je tímto "teď" vrchol nejtěžšího proof-of-work chainu.
-
-
-
-Pro strukturu času jsou zásadní dva stavební kameny: kauzální vazby a nepředvídatelné události. Příčinné vazby jsou nutné k definování minulosti a nepředvídatelné události jsou nutné k vytvoření budoucnosti. Kdyby byla posloupnost událostí předvídatelná, bylo by možné přeskakovat dopředu. Pokud by jednotlivé kroky posloupnosti nebyly propojeny, bylo by triviální měnit minulost. Kvůli jeho vnitřnímu smyslu pro čas je šíleně obtížné Bitcoin oklamat. Člověk by musel přepsat minulost nebo předpovědět budoucnost. Timechain Bitcoinu brání obojímu.
-
-
-
-Pohled na Bitcoin optikou času by měl jasně ukázat, že " block chain" - datová struktura, která kauzálně propojuje více událostí - není hlavní inovací. Není to ani nová myšlenka, jak je patrné ze studia dřívější literatury o časových razítcích.
-
-
-
-> "Blockchain je řetězec bloků."<br>Peter Todd
-
-
-
-Novinkou je, že Satoshi přišel na to, jak se nezávisle shodnout na historii událostí bez centrální koordinace. Našel způsob, jak implementovat decentralizované schéma časového razítkování, které (a) nevyžaduje řídící společnost nebo server, (b) nevyžaduje jako důkaz noviny nebo jiné fyzické médium a (c) dokáže udržet tikot víceméně konstantní, i když pracuje v prostředí stále rychlejšího taktování procesorů.
-
-
-
-Sledování času vyžaduje kauzalitu, nepředvídatelnost a koordinaci. V Bitcoinu zajišťují kauzalitu jednosměrné funkce: kryptografické hashovací funkce a digitální podpisy, které jsou jádrem protokolu. Nepředvídatelnost zajišťuje jak úloha proof-of-work, tak interakce s ostatními peery: nemůžete dopředu vědět, co ostatní udělají, ani jaké bude řešení proof-of-work. Koordinaci umožňuje úprava obtížnosti, kouzelná omáčka, která spojuje čas Bitcoinu s naším časem. Bez tohoto mostu mezi fyzickou a informační sférou by nebylo možné, spoléháním se pouze na data, dohodnout se na čase.
-
-
-
-Bitcoin je časem ve více ohledech. Jeho jednotky jsou konzervovaným časem, neboť jsou penězi, a jeho síť je časem, protože je sama decentralizovanými hodinami. Právě neúnavné bití těchto hodin je tím, co dává vzniknout všem magickým vlastnostem Bitcoinu. Bez něho by se tento složitý tanec rozpadl. Ale díky němu má každý na světě přístup k něčemu skutečně zázračnému: Magickým internetovým penězům.
-
-
-
-Bitcoin je čas je kapitola z mé nadcházející knihy "21 způsobů".
-
+<big>
+  Je těžké přecenit, o jak elegantní řešení se jedná. Jakmile jste schopni vytvořit vlastní definici času, je dešifrování toho, co bylo předtím 
+  a co potom, triviální. Stejně tak se stává triviálním dohodnout se na tom, co se stalo, v jakém pořadí, a následně i kdo komu co dluží.
+</big>
+  
+<big>
+  Úprava obtížnosti zajišťuje, že tikání vnitřního bitcoinového metronomu je do jisté míry konstantní. Je dirigentem bitcoinového orchestru. 
+  Je tím, co udržuje hudbu při životě.
+</big>
+  
+<big>
+  Proč se ale vůbec můžeme spoléhat na práci? Odpověď je trojí. Můžeme se na ni spolehnout, protože výpočet vyžaduje práci, práce vyžaduje čas 
+  a danou práci - hádání náhodných čísel - nelze provádět efektivně.
+</big>
+  
+
+## Pravděpodobnostní čas
+
+> <b>"Čas se neustále rozvětvuje směrem k nesčetným budoucnostem."</b>
+> <br>Jorge Luis Borges, The Garden of Forking Paths (1941)
+
+<big>
+  Nalezení platné nonce pro bitcoinový blok je hádáním. Je to podobné jako házení kostkou, házení mincí nebo točení ruletou. V podstatě se snažíte 
+  najít náhodné číslo, které je nesmírně obrovské. K nalezení řešení neexistuje žádná zkratka. Buď trefíte jackpot, nebo ne.
+</big>
+  
+<big>
+  Pokaždé, když si hodíte mincí, pravděpodobnost, že padne hlava nebo orel, bude 50 % - i kdybyste si předtím hodili dvacetkrát a pokaždé padla 
+  hlava. Podobně pokaždé, když čekáte na příchod bitcoinového bloku, šance, že se najde v této vteřině, je ~0,16 %. Nezáleží na tom, kdy byl 
+  nalezen poslední blok. Přibližná doba čekání na další blok je vždy stejná: ~10 minut.
+</big>
+  
+<big>
+  Z toho vyplývá, že každé jednotlivé tiknutí těchto hodin je nepředvídatelné. Ve srovnání s našimi lidskými hodinami se tyto hodiny jeví jako 
+  spontánní a nepřesné. To je však irelevantní, jak upozorňuje Gregory Trubetskoy: "Na tom, že jsou tyto hodiny nepřesné, nezáleží. Důležité je, 
+  že jsou to stejné hodiny pro všechny a že stav chainu lze jednoznačně vztáhnout k tikání těchto hodin". Hodiny bitcoinu jsou možná 
+  pravděpodobnostní, ale nejsou iluzorní.
+</big>
+  
+> <b>"Čas je iluze pouhá,
+> <br>dvojnásob čas oběda."</b>
+> <br>Douglas Adams (1979)
+
+<big>
+  Přítomný okamžik však může být v Bitcoinu naprostou iluzí. Protože v síti neexistuje žádná centrální autorita, mohou vznikat zvláštní situace. 
+  Je to sice nepravděpodobné, ale je možné, že se ve stejnou dobu (opět: omluva všem fyzikům) objeví další platný blok, což způsobí, že hodiny 
+  budou tikat dopředu na dvou různých místech najednou. Protože se však tyto dva různé bloky budou velmi pravděpodobně lišit svým obsahem, budou 
+  obsahovat dvě různé historie, obě stejně platné.
+</big>
+  
+<big>
+  V takovém případě se bavíme o rozdělení chainu, což je přirozený proces Nakamotova konsensu. Stejně jako hejno ptáků, které se na chvíli rozdělí 
+  na dvě části, aby se posléze opět spojilo, i uzly v síti Bitcoin nakonec po určité době konvergují ke společné historii, a to díky 
+  pravděpodobnostní povaze hádání.
+</big>
+  
+<big>
+  Nakamotův konsensus zkrátka stanoví, že správná historie se nachází v nejtěžším chainu, tj. v tom, který obsahuje největší množství 
+  proof-of-work. Máme-li tedy dvě historie A a B, někteří těžaři se budou snažit stavět na historii A, jiní na historii B. Jakmile jeden z nich 
+  najde další platný blok, druhá skupina je naprogramována tak, aby uznala, že byla na špatné straně historie, a přešla na nejtěžší řetězec - ten, 
+  který podle definice představuje to, co se skutečně stalo. V Bitcoinu opravdu píší historii vítězové.
+</big>
+  
+> <b>"Příjemce platby potřebuje důkaz, že v době každé transakce většina uzlů souhlasila s tím, že jde o první přijatou transakci. [...] Pokud 
+> existuje více double-spend verzí téže transakce, platnou se stane pouze jedna z nich. Příjemce platby musí počkat zhruba hodinu, než 
+> se přesvědčí, zda je platná. Síť do té doby případné závody o double-spending vyřeší.</b>
+> <br>Satoshi Nakamoto (2009)
+
+<big>
+  V tomto jednoduchém tvrzení spočívá tajemství problému distribuované koordinace. Takto Satoshi vyřešil problém " simultánní platby", se kterým 
+  se naši fiktivní obchodní partneři setkali v počátku. Vyřešil jej jednou provždy, relativistické efekty budiž zatraceny!
+</big>
+  
+<big>
+  Vzhledem k této pravděpodobnostní povaze hodin bitcoinu je současný okamžik - který nazýváme vrcholem chainu - vždy nejistý. Minulost - bloky 
+  pohřbené pod koncem chainu - je však stále jistější.
+</big>
+  
+> <b>"Čím důkladnějšího pochopení je zapotřebí, tím hlouběji do minulosti je třeba se vydat."</b>
+> <br>Gordon Clark, A Chris­tian View of Men and Things, p. 58. (1951)
+
+<big>
+  V důsledku toho se mohou hodiny bitcoinu čas od času přetočit, u některých peerů o jedno nebo dvě tiknutí. Pokud se stane, že váš vrchol 
+  chainu - současný okamžik - prohraje s konkurenčním, vaše hodiny se nejprve přetočí a poté poskočí dopředu, čímž se překryje posledních 
+  několik tiků, o kterých jste si mysleli, že jsou již minulostí. Pokud jsou vaše hodiny pravděpodobnostní, musí být pravděpodobnostní 
+  i vaše chápání minulosti.
+</big>
+  
+> <b>"Tick tock tick tock tick — what is the time?
+> <br>Tick tock tick tock… it ends in c619.
+> <br>Are you sure this is fine? Are we probably late?
+> <br>Absolutes do not matter: before nine there comes eight.
+> <br>The clock isn’t exact; it sometimes goes in reverse.
+> <br>Exact time implies center; that’s the root of this curse!
+> <br>Yet this clock keeps on ticking, tock-tick and tick-tock,
+> <br>there’s no profit in tricking; just tick-tock and next block.</b>
+> <br>A Funny Little Rhyme on Bitcoin and Time (2020)
+
+
+## Závěr
+
+> <b>"Čas je stále jednou z největších záhad fyziky, takovou jež zpochybňuje její samotnou definici."</b>
+> <br>Jorge Cham and Daniel Whiteson: We Have No Idea: A Guide to the Unknown Universe, pp. 117 – 118 (2017)
+
+<big>
+  Sledování věcí v informační sféře předpokládá sledování posloupnosti událostí, což zase vyžaduje sledování času. Sledování času vyžaduje 
+  dohodnout se na přítomnosti - časovém okamžiku, který navždy spojuje ustálenou minulost s nejistou budoucností. V Bitcoinu je tímto "teď" 
+  vrchol nejtěžšího proof-of-work chainu.
+</big>
+  
+<big>
+  Pro strukturu času jsou zásadní dva stavební kameny: kauzální vazby a nepředvídatelné události. Příčinné vazby jsou nutné k definování 
+  minulosti a nepředvídatelné události jsou nutné k vytvoření budoucnosti. Kdyby byla posloupnost událostí předvídatelná, bylo by možné 
+  přeskakovat dopředu. Pokud by jednotlivé kroky posloupnosti nebyly propojeny, bylo by triviální měnit minulost. Kvůli jeho vnitřnímu smyslu 
+  pro čas je šíleně obtížné Bitcoin oklamat. Člověk by musel přepsat minulost nebo předpovědět budoucnost. Timechain Bitcoinu brání obojímu.
+</big>
+  
+<big>
+  Pohled na Bitcoin optikou času by měl jasně ukázat, že " block chain" - datová struktura, která kauzálně propojuje více událostí - není hlavní 
+  inovací. Není to ani nová myšlenka, jak je patrné ze studia dřívější literatury o časových razítcích.
+</big>
+
+> <b>"Blockchain je řetězec bloků."</b>
+> <br>Peter Todd
+
+<big>
+  Novinkou je, že Satoshi přišel na to, jak se nezávisle shodnout na historii událostí bez centrální koordinace. Našel způsob, jak implementovat 
+  decentralizované schéma časového razítkování, které (a) nevyžaduje řídící společnost nebo server, (b) nevyžaduje jako důkaz noviny nebo jiné 
+  fyzické médium a (c) dokáže udržet tikot víceméně konstantní, i když pracuje v prostředí stále rychlejšího taktování procesorů.
+</big>
+  
+<big>
+  Sledování času vyžaduje kauzalitu, nepředvídatelnost a koordinaci. V Bitcoinu zajišťují kauzalitu jednosměrné funkce: kryptografické hashovací 
+  funkce a digitální podpisy, které jsou jádrem protokolu. Nepředvídatelnost zajišťuje jak úloha proof-of-work, tak interakce s ostatními peery: 
+  nemůžete dopředu vědět, co ostatní udělají, ani jaké bude řešení proof-of-work. Koordinaci umožňuje úprava obtížnosti, kouzelná omáčka, která 
+  spojuje čas Bitcoinu s naším časem. Bez tohoto mostu mezi fyzickou a informační sférou by nebylo možné, spoléháním se pouze na data, dohodnout 
+  se na čase.
+</big>
+  
+<big>
+  Bitcoin je časem ve více ohledech. Jeho jednotky jsou konzervovaným časem, neboť jsou penězi, a jeho síť je časem, protože je sama 
+  decentralizovanými hodinami. Právě neúnavné bití těchto hodin je tím, co dává vzniknout všem magickým vlastnostem Bitcoinu. Bez něho by se 
+  tento složitý tanec rozpadl. Ale díky němu má každý na světě přístup k něčemu skutečně zázračnému: Magickým internetovým penězům.
+</big>
+  
+<big>
+  "Bitcoin je čas" je kapitola z mé nadcházející knihy "21 způsobů".
+</big>
+  
 
 ## ---
 <big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a> <a href="https://dergigi.com/support/">🧡</a>
