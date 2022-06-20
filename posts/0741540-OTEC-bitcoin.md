@@ -77,7 +77,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
 ## NOVÁ NADĚJE PRO OTEC
 
 > <b>"Kdybychom využili pouhá dvě procenta energie dostupné v tepelném rozdílu oceánů, měli bychom k dispozici mnohonásobně více energie, 
-> než svět nyní potřebuje."<b>
+> než svět nyní potřebuje."</b>
 > </br>Bryn Beorse, University of California at Berkeley, 1977
 
 <big>O OTEC zůstává sporadický zájem, zejména na Havaji. V roce 1979 stát Havaj, společnost Lockheed Corporation a dvě další společnosti ve vzájemné 
