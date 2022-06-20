@@ -28,7 +28,7 @@ project_entries:
 
 
   - title: OTEC a bitcoin
-    url: .posts/0741540-OTEC-bitcoin.md
+    url: ./posts/0741540-OTEC-bitcoin.md
     desc: 741540 / original May23/2022 @level39
 #    highlight: NOVÉ
 
