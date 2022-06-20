@@ -258,7 +258,7 @@ Například metronom má proměnlivou frekvenci, kterou nastavíte před tím, n
 konstantní tempo, čas bitcoinu se při každém tiknutí mění, protože jeho vnitřní mechanismus je pravděpodobnostní. Účel je však stejný: 
 udržet hudbu na nohou, aby tanec mohl pokračovat.</big>
   
-<img src="./pics/0740913-02x-hodiny.png" alt="">
+<img src="./pics/0740913-02x-hodiny.png" alt="" class="center">
 
 <big>Skutečnost, že Bitcoin jsou hodiny, zůstává očím skryta. Satoshi ostatně poukazuje na to, že Bitcoinová síť jako celek představuje 
 hodiny, nebo jeho slovy: distribuovaný server časových razítek.</big>
@@ -291,7 +291,7 @@ jednoduše změnit. Také byste si mohli v první řadě libovolné datum vymysl
 <big>Dokazování data je obecný problém, dokonce i v nedigitální oblasti. To, čemu se ve světě únosů říká "ověřování podle novin", je obecným 
 řešením problému arbitrárních časových razítek.</big>
   
-<img src="./pics/0740913-03-proof-of-time.jpg" alt="">
+<img src="./pics/0740913-03-proof-of-time.jpg" alt="" class="center">
 
 <big>Toto funguje, protože noviny je těžké zfalšovat, ale snadné ověřit. Je obtížné je podvrhnout, protože dnešní titulní strana odkazuje 
 na včerejší události, které by únosce nemohl předvídat, kdyby byl obrázek několik týdnů starý. Prostřednictvím těchto událostí je obrázek 
@@ -354,7 +354,7 @@ však užitečný k určení času, protože je zcela předvídatelný. Stejně 
 datum, nemůžeme předvídatelné procesy použít jako důkaz času. Vždy se musíme spolehnout na něco, co nelze předem předvídat, jako je například 
 titulní strana dnešních novin.</big>
 
-<img src="./pics/0740913-04x-genesisTimes.png" alt="">
+<img src="./pics/0740913-04x-genesisTimes.png" alt="" class="center">
 
 <big>Bitcoin spoléhá na dva zdroje nepředvídatelnosti: transakce a proof-of-work. Stejně jako nikdo nedokáže předpovědět, jak budou vypadat zítřejší 
 noviny, nikdo nedokáže předpovědět, jak bude vypadat další blok Bitcoinu. Nelze předpovědět, jaké transakce budou zařazeny, protože nelze předpovědět, 
