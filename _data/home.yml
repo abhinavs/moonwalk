@@ -26,6 +26,12 @@ project_entries:
     desc: 740195 / original Oct02/2018 @clarkmoody
 #    highlight: ₿rand NEW
 
+
+  - title: OTEC a bitcoin
+    url: .posts/0741540-OTEC-bitcoin.md
+    desc: 741540 / original May23/2022 @level39
+#    highlight: NOVÉ
+
   - title: Bitcoin je čas 
     url: ₿rzy
     desc: 740913 / original 666053 @dergigi
@@ -40,11 +46,6 @@ project_entries:
     url: ₿rzy
     desc: 75xxxx / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
-
-  - title: ??? 06 /21
-    url: ₿ude
-    desc: 76xxxx
-#    highlight: ₿ude
 
 #  - title: Project 7
 #    url: overview-post
