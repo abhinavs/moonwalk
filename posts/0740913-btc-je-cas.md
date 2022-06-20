@@ -243,7 +243,7 @@ věřit, že někdo správně určí pořadí věcí. Bylo nutné, aby centraliz
 > <br>odhalit faleš a vynést pravdu dovede,
 > <br>vtisknout pečeť věků věcem letitým,
 > <br>probouzet jitro a střežit noční nebe,
-> <br>Křivému křivě, než spraví sám sebe.
+> <br>Křivému křivě, než spraví sám sebe.</b>
 > <br>William Shake­speare, Znásilnění Lukrecie (1594)
 
 <big>Všechny hodiny jsou založeny na periodických procesech, které bychom mohli nazvat "tikot". Známé *tikání* dědečkových hodin je v podstatě 
