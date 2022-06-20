@@ -330,63 +330,116 @@ IMG
 </big>
 
 <big>
-  Elektrolýzu mořské vody poháněnou technologií OTEC lze využít k vytváření samoopravných porézních útesů, které účinně rozptylují energii vln a chrání a obnovují erodované pláže, pobřeží a mořské prostředí rychleji, než může stoupat hladina moře. Tyto neuvěřitelně pevné struktury by jednoho dne mohly dokonce podporovat nová udržitelná lidská sídla a vytvářet umělá souostroví zásobovaná dostatkem elektřiny, sladké vody, potravin a paliva z OTEC zařízení.
+  Elektrolýzu mořské vody poháněnou technologií OTEC lze využít k vytváření samoopravných porézních útesů, které účinně rozptylují energii vln a chrání a obnovují erodované pláže, pobřeží a mořské prostředí rychleji, než může stoupat hladina moře. Tyto neuvěřitelně pevné struktury by jednoho dne mohly dokonce podporovat nová udržitelná lidská sídla a vytvářet umělá souostroví zásobovaná dostatkem elektřiny, sladké vody, potravin a paliva z OTEC zařízení.</big>
 
 IMG
 
 
-POSTAVIT, TESTOVAT A STUDOVAT
+## POSTAVIT, TESTOVAT A STUDOVAT
 
-> <b>"Pokud máte neomezenou energii, můžete vyřešit jakýkoli problém... OTEC mění povrch oceánu v obří solární panel. Na světě není dostatek lithia, aby bylo možné instalovat baterie a solární panely, které by poháněly celosvětové energetické zdroje. Takže místo toho využijete oceán, který to už dělá."</b>
-<br>–Nathaniel Harmon, “Bitcoin, Energy, And The Environment”
+> <b>"Pokud máte neomezenou energii, můžete vyřešit jakýkoli problém... OTEC mění povrch oceánu v obří solární panel. Na světě není dostatek 
+> lithia, aby bylo možné instalovat baterie a solární panely, které by poháněly celosvětové energetické zdroje. Takže místo toho využijete 
+> oceán, který to už dělá."</b>
+> <br>–Nathaniel Harmon, “Bitcoin, Energy, And The Environment”
 
-Technologie OTEC může mít i nežádoucí dopady na životní prostředí a studium těchto negativních externalit je jedním z hlavních cílů středně velkého testovacího zařízení, které Harmon a jeho tým plánují vybudovat. Elektrárny mohou být hlučné a mohou mít vliv na mořské živočichy, takže je třeba studovat tlumení hluku. Dalším potenciálním problémem je užití sloučenin proti zanášení, jimiž se chrání potrubí před korozí. A čerpání příliš velkého množství vody s vysokým obsahem živin na hladinu, aniž by byla dobře využita, může podpořit hnilobný proces. Řešením je vypouštění smíšené vody do střední hloubky, kde pokračuje v koloběhu detritu. Tím se navíc změní trofická struktura okolí, kterou je také třeba prozkoumat.
+<big>Technologie OTEC může mít i nežádoucí dopady na životní prostředí a studium těchto negativních externalit je jedním z hlavních cílů 
+  středně velkého testovacího zařízení, které Harmon a jeho tým plánují vybudovat. Elektrárny mohou být hlučné a mohou mít vliv na mořské 
+  živočichy, takže je třeba studovat tlumení hluku. Dalším potenciálním problémem je užití sloučenin proti zanášení, jimiž se chrání potrubí 
+  před korozí. A čerpání příliš velkého množství vody s vysokým obsahem živin na hladinu, aniž by byla dobře využita, může podpořit hnilobný 
+  proces. Řešením je vypouštění smíšené vody do střední hloubky, kde pokračuje v koloběhu detritu. Tím se navíc změní trofická struktura 
+  okolí, kterou je také třeba prozkoumat.</big>
 
-Zatímco vodu s vysokým obsahem živin ze zařízení OTEC lze využít v zemědělství a k produktivní sekvestraci uhlíku na pevnině, dalším možným využitím této vody je akvakultura. Její "umělé vzestupné proudění" kopíruje proudy vyskytující se v přírodě, zodpovědné za výživu a podporu největších mořských ekosystémů na světě a za největší hustotu života na planetě. V této mořské vodě bohaté na živiny se dobře daří nepůvodním druhům, jako jsou mořští šneci, pstruzi, ústřice, škeble a studenovodní mořští živočichové, například humr a losos, které by bylo možné chovat v tropických lokalitách. Tím by se snížila potřeba dálkové přepravy a energeticky náročného chlazení v tropických lokalitách, kde se ulovené mořské plody často rychle kazí. Ironií osudu je, že technologie, která byla inspirována Verneovým smyšleným příběhem o mořských sídlech, by mohla velmi dobře sloužit k vybudování stálých obydlí, výzkumných laboratoří a bitcoinových citadel v mezinárodních vodách.
+<big>Zatímco vodu s vysokým obsahem živin ze zařízení OTEC lze využít v zemědělství a k produktivní sekvestraci uhlíku na pevnině, dalším 
+  možným využitím této vody je akvakultura. Její "umělé vzestupné proudění" kopíruje proudy vyskytující se v přírodě, zodpovědné za výživu 
+  a podporu největších mořských ekosystémů na světě a za největší hustotu života na planetě. V této mořské vodě bohaté na živiny se dobře 
+  daří nepůvodním druhům, jako jsou mořští šneci, pstruzi, ústřice, škeble a studenovodní mořští živočichové, například humr a losos, které 
+  by bylo možné chovat v tropických lokalitách. Tím by se snížila potřeba dálkové přepravy a energeticky náročného chlazení v tropických 
+  oblastech, kde se ulovené mořské plody často rychle kazí. Ironií osudu je, že technologie, která byla inspirována Verneovým smyšleným 
+  příběhem o mořských sídlech, by mohla velmi dobře sloužit k vybudování stálých obydlí, výzkumných laboratoří a bitcoinových citadel 
+  v mezinárodních vodách.</big>
 
-Prvním krokem Harmona a jeho týmu bude modernizace 100kW elektrárny Makai v Kailua-Kona na Velkém ostrově, která bude vybavena bitcoinovými minery S9. Tato elektrárna je příliš malá na to, aby vydělávala peníze, ale bude demonstrovat integrovanou technologii chlazení ze systému OTEC. Dále chce tým pracovat na demonstraci ve středním měřítku pomocí plovoucí kontejnerové platformy.
+<big>Prvním krokem Harmona a jeho týmu bude modernizace 100kW elektrárny Makai v Kailua-Kona na Velkém ostrově, která bude vybavena 
+  bitcoinovými minery S9. Tato elektrárna je příliš malá na to, aby vydělávala peníze, ale bude demonstrovat integrovanou technologii 
+  chlazení ze systému OTEC. Dále chce tým pracovat na demonstraci ve středním měřítku pomocí plovoucí kontejnerové platformy.
+</big>
 
 
-OTEC A TERAFORMACE
+## OTEC A TERAFORMACE
 
-Je pozoruhodné, že OTEC lze využít ke zvýšení srážek a zmírnění vysokých teplot v tropech. Elektrárna o výkonu 100 MW by byla schopna každou minutu přečerpat na povrch přibližně 12 milionů galonů (45 400 m3) vody o teplotě 5 °C, což je o něco více než výtlak bitevní lodi třídy Bismarck. Ačkoli je zapotřebí dalšího výzkumu, teoreticky, pokud by řada velkých elektráren OTEC nasměrovala v určitém regionu toto proudění na povrch, mohlo by to potenciálně příznivě ovlivnit počasí.
+<big>Je pozoruhodné, že OTEC lze využít ke zvýšení srážek a zmírnění vysokých teplot v tropech. Elektrárna o výkonu 100 MW by byla schopna 
+  každou minutu přečerpat na povrch přibližně 12 milionů galonů (45 400 m3) vody o teplotě 5 °C, což je o něco více než výtlak bitevní lodi 
+  třídy Bismarck. Ačkoli je zapotřebí dalšího výzkumu, teoreticky, pokud by řada velkých elektráren OTEC nasměrovala v určitém regionu toto 
+  proudění na povrch, mohlo by to potenciálně příznivě ovlivnit počasí.</big>
 
-Když je povrch oceánu teplý, vzniká systém tlakové níže vytvářející suché a teplé oceánské větry. Výhodnější je vlhký vítr od oceánu směrem k pevnině, který zvyšuje množství srážek, odvrací sucha a podporuje příjemnější letní teploty (pod 35 °C) na pevnině. Stoupání desítek miliard galonů studené vody směrem k povrchu oceánu by teoreticky mělo mít právě takový účinek - tropické oblasti by se staly mírnějšími a lépe zavlažovanými. Lokality jako Blízký východ, severovýchodní Afrika, indický subkontinent a Austrálie by zřejmě mohly mít prospěch z kontroly svých horkých a suchých letních období a nepravidelných srážek. Tyto účinky jsou samoomezující, neboť OTEC nefunguje, pokud se povrchové teploty příliš ochladí. Nicméně samostatné plovoucí platformy OTEC těžící bitcoin se mohou snadno přemístit na optimálnější místa.
+<big>Když je povrch oceánu teplý, vzniká systém tlakové níže vytvářející suché a teplé oceánské větry. Výhodnější je vlhký vítr od oceánu 
+  směrem k pevnině, který zvyšuje množství srážek, odvrací sucha a podporuje příjemnější letní teploty (pod 35 °C) na pevnině. Stoupání 
+  desítek miliard galonů studené vody směrem k povrchu oceánu by teoreticky mělo mít právě takový účinek - tropické oblasti by se staly 
+  mírnějšími a lépe zavlažovanými. Lokality jako Blízký východ, severovýchodní Afrika, indický subkontinent a Austrálie by zřejmě mohly mít 
+  prospěch z kontroly svých horkých a suchých letních období a nepravidelných srážek. Tyto účinky jsou samoomezující, neboť OTEC nefunguje, 
+  pokud se povrchové teploty příliš ochladí. Nicméně samostatné plovoucí platformy OTEC těžící bitcoin se mohou snadno přemístit 
+  na optimálnější místa.</big>
 
-Když byl Harmon postgraduálním studentem na Havajské univerzitě v Manoa - studoval mořskou geologii a geochemii - navrhl výzkum, jak by se Bitcoin mohl stát transportní vrstvou v knize Jeremeyho Rifkina "Třetí průmyslová revoluce". Harmonův návrh nebyl přijat dobře. Profesor Camilo Mora neměl zájem. Dr. Michael J. Roberts, profesor ekonomie, mu poslal e-mail, že jeho výzkum je "vážně scestný", vyzval ho, aby zanechal školy a začal pracovat pro bratry Winklevossovy a přečetl si Paula Krugmana, aby mohl řádně kritizovat ekonomiku Bitcoinu.
+<big>Když byl Harmon postgraduálním studentem na Havajské univerzitě v Manoa - studoval mořskou geologii a geochemii - navrhl výzkum, 
+  jak by se Bitcoin mohl stát transportní vrstvou v knize Jeremeyho Rifkina "Třetí průmyslová revoluce". Harmonův návrh nebyl přijat dobře. 
+  Profesor Camilo Mora neměl zájem. Dr. Michael J. Roberts, profesor ekonomie, mu poslal e-mail, že jeho výzkum je "vážně scestný", vyzval ho, 
+  aby zanechal školy a začal pracovat pro bratry Winklevossovy a přečetl si Paula Krugmana, aby mohl řádně kritizovat ekonomiku Bitcoinu.
+</big>
 
-Harmon se domnívá, že možná nechtěně inspiroval trojnásobně vyvrácené stanovisko Mora et al. z roku 2018 ve vědeckém časopise Nature, které mylně tvrdilo, že Bitcoin sám o sobě by mohl zvýšit globální teplotu o 2 °C. Podle Harmona toto stanovisko napsali vysokoškolští studenti v rámci jednoho z projektů na univerzitě, kteří se možná dozvěděli o jeho výzkumu. Ani Camilo Mora, ani Katie Taladayová jej nenapsali - upravili jej kvůli gramatice, nikoliv kvůli obsahu. Chybný článek je dodnes kritiky bitcoinu citován.
+<big>Harmon se domnívá, že možná nechtěně inspiroval trojnásobně vyvrácené stanovisko Mora et al. z roku 2018 ve vědeckém časopise Nature, 
+  které mylně tvrdilo, že Bitcoin sám o sobě by mohl zvýšit globální teplotu o 2 °C. Podle Harmona toto stanovisko napsali vysokoškolští 
+  studenti v rámci jednoho z projektů na univerzitě, kteří se možná dozvěděli o jeho výzkumu. Ani Camilo Mora, ani Katie Taladayová jej 
+  nenapsali - upravili jej kvůli gramatice, nikoliv kvůli obsahu. Chybný článek je dodnes kritiky bitcoinu citován.</big>
 
-Ale co když Bitcoin a OTEC mohou více než jen stimulovat obnovitelné zdroje energie. Co kdyby společně dokázaly zmírnit klima a omezit extrémní počasí? Teplé tropické vody podél rovníku notoricky generují tropické cyklóny, tajfuny a hurikány, které každoročně způsobují škody za desítky miliard dolarů po celém světě. Teoreticky by se intenzita těchto bouří mohla snížit umělým vypouštěním obrovského množství chladné vody, financovaným z těžby bitcoinu. Jak již bylo zmíněno, výhradou je, že klimatické inženýrství využívající oceán by v globálním měřítku pravděpodobně muselo být udržováno donekonečna, jinak by se příznivé účinky brzy obrátily.
+<big>Ale co když Bitcoin a OTEC mohou více než jen stimulovat obnovitelné zdroje energie. Co kdyby společně dokázaly zmírnit klima a omezit 
+  extrémní počasí? Teplé tropické vody podél rovníku notoricky generují tropické cyklóny, tajfuny a hurikány, které každoročně způsobují škody 
+  za desítky miliard dolarů po celém světě. Teoreticky by se intenzita těchto bouří mohla snížit umělým vypouštěním obrovského množství 
+  chladné vody, financovaným z těžby bitcoinu. Jak již bylo zmíněno, výhradou je, že klimatické inženýrství využívající oceán by v globálním 
+  měřítku pravděpodobně muselo být udržováno donekonečna, jinak by se příznivé účinky brzy obrátily.
+</big>
 
 IMG
 
-V roce 2010 Satoshi Nakamoto ve svém příspěvku na fóru Bitcointalk předpověděl, že těžba bitcoinu by mohla směřovat k zemským pólům, když napsal: "Těžba bitcoinu by měla skončit tam, kde je nejlevnější. Možná to bude v chladném podnebí, kde se vužívá elektrického topení, jenž by bylo v podstatě zdarma."
+<big>V roce 2010 Satoshi Nakamoto ve svém příspěvku na fóru Bitcointalk předpověděl, že těžba bitcoinu by mohla směřovat k zemským pólům, když 
+  napsal: "Těžba bitcoinu by měla skončit tam, kde je nejlevnější. Možná to bude v chladném podnebí, kde se vužívá elektrického topení, které 
+  by bylo v podstatě zdarma."</big>
 
-Ačkoli Nakamoto zřejmě nevzal v úvahu, že Bitcoin má potenciál čerpat obrovské množství volné energie z tropických oceánů, není metoda OTEC technicky omezena na rovníkové vody.
+<big>Ačkoli Nakamoto zřejmě nevzal v úvahu, že Bitcoin má potenciál čerpat obrovské množství volné energie z tropických oceánů, není 
+  metoda OTEC technicky omezena na rovníkové vody.</big>
 
 
-ENERGIE JAKO VEDLEJŠÍ PRODUKT
+## ENERGIE JAKO VEDLEJŠÍ PRODUKT
 
 > <b>"Výkon je synonymem pokroku a civilizace."</b>
 > <br>Dr. H. Barjot
 
-K výrobě energie lze využít jakýkoli teplotní rozdíl. V březnovém čísle časopisu Scientific American z roku 1930 navrhl Dr. H. Barjot využít tepelný rozdíl mezi arktickými vodami a vzduchem k výrobě energie v zimních měsících, kdy vodní elektrárny mají snížený průtok. Barjot předpokládal, že jako pracovní kapalinu použije butan, který má bod varu -0,5 °C. Kapalina se kondenzuje s bloky ledové soli tvořené zmrzlým kryohydrátem, nasyceným slaným ledem vyrobeným ze solanky, který recirkuluje mezi kondenzátorem zpět do přilehlého ledového lože, kde znovu zmrzne.
+<big>K výrobě energie lze využít jakýkoli teplotní rozdíl. V březnovém čísle časopisu Scientific American z roku 1930 navrhl Dr. H. Barjot 
+  využít tepelný rozdíl mezi arktickými vodami a vzduchem k výrobě energie v zimních měsících, kdy vodní elektrárny mají snížený průtok. 
+  Barjot předpokládal, že jako pracovní kapalinu použije butan, který má bod varu -0,5 °C. Kapalina se kondenzuje s bloky ledové soli tvořené 
+  zmrzlým kryohydrátem, nasyceným slaným ledem vyrobeným ze solanky, který recirkuluje mezi kondenzátorem zpět do přilehlého ledového lože, 
+  kde znovu zmrzne.</big>
 
-Za předpokladu reálné účinnosti 4 % Barjot vypočítal, že energie získaná ze zmrazení jednoho krychlového metru vody v zařízení Barjot OTEC by se rovnala energii vyrobené ze dvou galonů ropy. Odpadním produktem Barjotovy elektrárny je led.
+<big>Za předpokladu reálné účinnosti 4 % Barjot vypočítal, že energie získaná ze zmrazení jednoho krychlového metru vody v zařízení Barjot OTEC 
+  by se rovnala energii vyrobené ze dvou galonů ropy. Odpadním produktem Barjotovy elektrárny je led.</big>
 
 IMG
+<big>Přestože moderní inženýři považují Barjotovy myšlenky za z velké části nerealizovatelné, nejsou nemožné. Barjotova elektrárna by mohla 
+  být umístěna na ostrovech v polární oblasti nebo na plošinách připevněných k ledovým příkrovům. Taková odloučená zařízení by se mohla 
+  financovat z optimálně chlazené těžby bitcoinu a vytvářet tak umělé ledové kry nebo ledovce v Grónsku nebo v údolích Antarktidy, která 
+  se nacházejí v blízkosti pobřeží. Ve velmi vzdálené budoucnosti by tato technologie mohla být dokonce využita k teraformaci planet nebo měsíců.</big>
 
-Přestože moderní inženýři považují Barjotovy myšlenky za z velké části nerealizovatelné, nejsou nemožné. Barjotova elektrárna by mohla být umístěna na ostrovech v polární oblasti nebo na plošinách připevněných k ledovým příkrovům. Taková odloučená zařízení by se mohla financovat z optimálně chlazené těžby bitcoinu a vytvářet tak umělé ledové kry nebo ledovce v Grónsku nebo v údolích Antarktidy, která se nacházejí v blízkosti pobřeží. Ve velmi vzdálené budoucnosti by tato technologie mohla být dokonce využita k teraformaci planet nebo měsíců.
+<big>Proces ledovcového štěpování není nijak zvlášť obtížný. Když ve 12. století dorazily na území dnešního severního Pákistánu zprávy 
+  o Čingischánovi a postupujících Mongolech, vesničané prý zablokovali horské průsmyky tím, že přes ně nechali narůst ledovce. Umění roubování 
+  ledovců se definitivně praktikuje přinejmenším od počátku 19. století v horách Hindúkuše a Karakoru, a to za účelem zavlažování a zachování 
+  přístupu k čerstvé vodě.</big>
 
-Proces ledovcového štěpování není nijak zvlášť obtížný. Když ve 12. století dorazily na území dnešního severního Pákistánu zprávy o Čingischánovi a postupujících Mongolech, vesničané prý zablokovali horské průsmyky tím, že přes ně nechali narůst ledovce. Umění roubování ledovců se definitivně praktikuje přinejmenším od počátku 19. století v horách Hindúkuše a Karakoru, a to za účelem zavlažování a zachování přístupu k čerstvé vodě.
+<big>Barjotův návrh dále ilustruje, jak mohou vázané teplotní rozdíly produkovat značné množství energie a žádoucích vedlejších produktů, 
+  jako jsou živiny, umělé útesy, akvakultura, odsolená voda, minerály nebo dokonce ledové kry. V jistém smyslu by se dalo uvažovat o zadržené 
+  energii jako o vedlejším produktu, který lze snadno vyměnit za bitcoiny, aby se projekt stal skutečností.</big>
 
-Barjotův návrh dále ilustruje, jak mohou vázané teplotní rozdíly produkovat značné množství energie a žádoucích vedlejších produktů, jako jsou živiny, umělé útesy, akvakultura, odsolená voda, minerály nebo dokonce ledové kry. V jistém smyslu by se dalo uvažovat o zadržené energii jako o vedlejším produktu, který lze snadno vyměnit za bitcoiny, aby se projekt stal skutečností.
 
+## POSUN LIDSTVA KUPŘEDU
 
-POSUN LIDSTVA KUPŘEDU
-
-V roce 1964 navrhl sovětský astronom Nikolaj Kardašev tzv. Kardaševovu stupnici, metodu měření úrovně technologické vyspělosti civilizace na základě množství energie, kterou je schopna získat ze svého okolí. Využití volné energie oceánů planety je nezbytným předpokladem pro pokrok civilizace na této stupnici.
+<big>V roce 1964 navrhl sovětský astronom Nikolaj Kardašev tzv. Kardaševovu stupnici, metodu měření úrovně technologické vyspělosti civilizace na základě množství energie, kterou je schopna získat ze svého okolí. Využití volné energie oceánů planety je nezbytným předpokladem pro pokrok civilizace na této stupnici.
 
 Možnosti využití tepelné energie oceánů jsou téměř neomezené. Zatímco inovátoři minulé éry - včetně d'Arsonvala, Clauda, Campbella, Tesly a Barjota - se svých nápadů nedočkali, Bitcoin může pomoci uskutečnit jejich sny o prakticky bezplatné obnovitelné energii a hojnosti. Zatímco se vlády po celém světě pokoušejí pochopit smysl otevřených, inkluzivních a neutrálních globálních peněz, které monetizují energii, inovace v oblasti výroby energie zůstanou - bez využití Bitcoinu jako kupce poslední instance této vázané energie - utlumeny.
 
