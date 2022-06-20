@@ -24,14 +24,15 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   nevyužité energie z prototypů a pilotních zařízení, které budou nutné k prokázání funkčnosti tohoto systému. Navíc díky využití prakticky 
   neomezeného množství studené vody pro chlazení ASICů umístěných na těchto místech může být OTEC velmi dobře nejefektivnějším 
   a nejekologičtějším způsobem těžby bitcoinu.</big>
+  
+<img src="./pics/0741540-00-OTEC.webp" alt="" align="center">
+
 
 ## KONCEPT SYSTÉMU OTEC
 
 > <b>„Existuje mocná, poslušná, rychlá a snadno dostupná energie, které lze ke všemu použít a která vládne i na mé lodi. Vykonává zde 
 > všechnu práci. Svítí mi, hřeje mě, je duší mých strojů. A tato energie je elektřina."</b>
 > </br>Jules Verne - Dvacet tisíc mil pod mořem (pdf překlad)
-
-<img src="./pics/0741540-00-OTEC.webp" alt="" align="center">
 
 <big>Technologie OTEC se zrodila v roce 1881, kdy francouzský fyzik Jacques Arsene d'Arsonval navrhl získávat tepelnou energii vázanou v oceánu. 
   Inspiroval se románem Julese Verna "Dvacet tisíc mil pod mořem", kde kapitán Nemo poznamenává, že není nouze o energii, kterou by jeho 
@@ -49,6 +50,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   poskytovat bezplatné chlazení pro budovy, infrastrukturu nebo těžební zařízení. Stačí jen čerpat vodu na povrch a nechat pracovat fyziku.</big>
 
 <img src="./pics/0741540-01-OTEC-scheme.webp" alt="" align="center">
+<small>Image source: Makai Ocean Engineering</small>
 
 <big>Na d'Arsonvalův odkaz navázali další inženýři, například Ben J. Campbell, který v roce 1913 předpověděl, že tropické oceány by mohly 
   představovat neomezeně velkou a nevyčerpatelnou zásobárnu potenciální energie, jež by mohla bohatě pokrýt veškeré energetické potřeby 
@@ -59,6 +61,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   Ria de Janeira. Projekty, které sužovaly logistické problémy, bouře, pochybení a rostoucí náklady, nakonec ztroskotaly.</big>
   
 <img src="./pics/0741540-02-science-invention-1931.webp" alt="" align="center">
+<small>Image source: “Science and Invention,” January 1931</small>
 
 <big>Claude dokonce uvažoval o tom, že by, pro zvýšení výnosů své elektrárny, extrahoval z mořské vody pomocí OTEC mikroskopická zrnka zlata. 
   Nemohl tušit, že téměř o sto let později budou oceánografové využívat mořskou vodu k získávání nového druhu digitálního zlata z počítačů.</big>
@@ -67,6 +70,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   logistiku a ekonomiku. Oba inženýři zjistili, že jejich pokusy o využití bohaté zemské energie budou narážet na úspory z rozsahu.</big>
 
 <img src="./pics/0741540-03-NYTimes-1930.webp" alt="" align="center">
+<small>Image source: The New York Times, June 26, 1930</small>
 
 <big>Claudeovy ztráty způsobily, že se investoři začali technologii OTEC obávat. Během několika let došlo k objevu jaderného štěpení a v roce 1944 
   oznámil významný ropný geolog Everette DeGolyer americké vládě, že země Blízkého východu disponují nespočetným objemem ropy. DeGolyer ve své 
@@ -95,6 +99,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   v obtížnější situaci.</big>
 
 <img src="./pics/0741540-04-Hawaii.webp" alt="" align="center">
+<small>Image source: Only One</small>
 
 ## PROBLÉM OSTROVA OAHU
 
@@ -134,6 +139,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   ostrově. Jedná se o malou elektrárnu s uzavřeným cyklem o výkonu 100 kW, která stojí přímo na pobřeží.</big>
 
 <img src="./pics/0741540-05-Makai.webp" alt="" align="center">
+<small>Image source: Makai Ocean Engineering</small>
 
 <big>Přesto se zatím nepodařilo prokázat, že by OTEC bylo možné realizovat ve velkém měřítku. Kritici oprávněně poukazují na dlouhou historii 
   fyzikálních a ekonomických problémů. Elektrárna o výkonu 100 MW by potřebovala potrubí na studenou vodu o průměru asi 35 stop (~10,5m), 
@@ -152,6 +158,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   ceně nemají žádní odběratelé zájem, ale i přes neprodejnost takové elektřiny je možné v malém měřítku získat možnost financování.</big>
 
 <img src="./pics/0741540-06-off-on-shore.webp" alt="" align="center">
+<small>Image source: Makai Ocean Engineering</small>
 
 <big>Odhaduje se, že velká elektrárna OTEC o výkonu 100 až 400 MW by vyráběla elektřinu v rozmezí 6 až 20 centů za kilowatthodinu. Než však bude 
   možné simulovat a postavit velkou elektrárnu, musí inženýři postavit zkušební zařízení středního rozsahu (5 až 10 MW), které prokáže, že zvládne 
@@ -178,23 +185,27 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   okolností nachází v horké a bezvětrné oblasti podél rovníku zvané doldrums, proslavené uvízlými loděmi z dob plachetnic.</b></big>
   
 <img src="./pics/0741540-07-valley-of-death.webp" alt="" align="center">
+<small>Image modified from Ocean Energy Systems</small>
 
 <big></b>V rozhovoru pro tento článek Harmon uvedl, že účinnost výroby energie OTEC roste s kvadrátem delta T. Teoreticky lze zdvojnásobit účinnost 
   OTEC s dalšími 8ºC rozdílu teplot. Jinými slovy, přesunem z Havaje (kde je průměrná roční teplotní delta  20ºC) na rovník (kde je průměrná 
   roční delta T 28ºC) lze z 5 MW zařízení udělat 10 MW zařízení.</big>
 
 <img src="./pics/0741540-08-ocean-temp-delta.webp" alt="" align="center">
+<small>Image source: Ocean Energy Systems</small>
 
 <big>Harmon tvrdí, že díky všem těmto optimalizacím a snížení kapitálových výdajů může jeho tým snížit cenu za kilowatthodinu plovoucí středně velké 
   OTEC elektrárny na 11 centů. V kombinaci s bezplatným chlazením a přetaktovanými těžebními zařízeními by testovací zařízení bylo schopno prodávat 
   svou vázanou energii symbiotickému a vysoce optimalizovanému odběrateli ve společné lokalitě: bitcoinovým těžařům.</big>
 
 <img src="./pics/0741540-09-OTEC-scales.webp" alt="" align="center">
+<small>Image source: author</small>
 
 <big>Harmon také očekává, že středně velké testovací zařízení, plovoucí v mezinárodních vodách a optimalizované pro těžbu bitcoinu, umožní 
   technologii OTEC poprvé v historii překonat údolí smrti inovací.</big>
 
 <img src="./pics/0741540-10-medium-OTEC.webp" alt="" align="center">
+<small>Image source: “OTEC Technology- A World Of Clean Energy And Water”</small>
 
 
 ## HOJNOST ENERGIE A FLEXIBILNÍ VYTÍŽENÍ BITCOINU
@@ -216,6 +227,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   do obytných prostor.</big>
 
 <img src="./pics/0741540-11-sea-water-ac.webp" alt="" align="center">
+<small>Image modified from The Brando</small>
 
 
 ## HAVAJSKÁ TRADICE UDRŽITELNÝCH PŘÍRODNÍCH ZDROJŮ
@@ -227,6 +239,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   s vysokým obsahem živin a slané vody z oceánu pěstovaly jejich oblíbené ryby.</big>
 
 <img src="./pics/0741540-12-ahupua.webp" alt="" align="center">
+<small>Image source: Water for Life, Hawaii Board of Water Supply</small>
 
 <big>Před příjezdem kapitána Jamese Cooka na Havaj v roce 1778 zde žily statisíce lidí, kteří byli po stovky let zcela izolováni od okolního světa. 
   Dnes Havaj dováží přibližně 85 % svých potravin a 95 % energetických zdrojů.</big>
@@ -255,6 +268,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
 <big>Elektrolýzu mořské vody poháněnou technologií OTEC lze využít k vytváření samoopravných porézních útesů, které účinně rozptylují energii vln a chrání a obnovují erodované pláže, pobřeží a mořské prostředí rychleji, než může stoupat hladina moře. Tyto neuvěřitelně pevné struktury by jednoho dne mohly dokonce podporovat nová udržitelná lidská sídla a vytvářet umělá souostroví zásobovaná dostatkem elektřiny, sladké vody, potravin a paliva z OTEC zařízení.</big>
 
 <img src="./pics/0741540-13-ahupua-OTEC-BTC.webp" alt="" align="center">
+<small>Image source: Water for Life, Hawaii Board of Water Supply</small>
 
 
 ## POSTAVIT, TESTOVAT A STUDOVAT
@@ -320,6 +334,7 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
 </big>
 
 <img src="./pics/0741540-14-winds.webp" alt="" align="center">
+<small>Image source: NASA</small>
 
 <big>V roce 2010 Satoshi Nakamoto ve svém příspěvku na fóru Bitcointalk předpověděl, že těžba bitcoinu by mohla směřovat k zemským pólům, když 
   napsal: "Těžba bitcoinu by měla skončit tam, kde je nejlevnější. Možná to bude v chladném podnebí, kde se vužívá elektrického topení, které 
@@ -344,8 +359,8 @@ kterou brzdí škálovací náklady. Bitcoin jí může vdechnout nový život.
   by se rovnala energii vyrobené ze dvou galonů ropy. Odpadním produktem Barjotovy elektrárny je led.</big>
 
 <img src="./pics/0741540-15-scientific-american-1930.webp" alt="" align="center">
+<small>Image source: Scientific American, March 1930</small>
 
-  
 <big>Přestože moderní inženýři považují Barjotovy myšlenky za z velké části nerealizovatelné, nejsou nemožné. Barjotova elektrárna by mohla 
   být umístěna na ostrovech v polární oblasti nebo na plošinách připevněných k ledovým příkrovům. Taková odloučená zařízení by se mohla 
   financovat z optimálně chlazené těžby bitcoinu a vytvářet tak umělé ledové kry nebo ledovce v Grónsku nebo v údolích Antarktidy, která 
@@ -370,11 +385,12 @@ Možnosti využití tepelné energie oceánů jsou téměř neomezené. Zatímco
 Přesto se zdá, že Bitcoin je předurčen k využití tepelné energie oceánů. Těžba bitcoinů metodou OTEC v mezinárodních vodách by vytvořila ochrannou regulační bariéru před vládami, které by se snažily potlačit nestátní peníze. Díky síle, která by umožnila založit mořské citadely, by technologie OTEC mohla lidem umožnit udržitelný a nezávislý rozvoj v izolovaných vodách - mimo dosah vlád. Čím více budou vlády bojovat proti bitcoinu, tím více bude bitcoin přitahován do energeticky bohatých mezinárodních vod.
 
 <img src="./pics/0741540-16-politian.webp" alt="" align="center">
-
+<small>Image source: 20th Century Fox</small>
+  
 Schopnost Bitcoinu odemykat hojnost energie ztělesňuje to, co Brandon Quittem popisuje ve své eseji "Bitcoin je pionýrským druhem", kde Bitcoin napodobuje biologické systémy, které kolonizují nehostinná prostředí a uvolňují potenciální energii v surových prvcích, aby ji mohly využívat, a prosperovat z ní, pokročilejší druhy.
+  
 
-
-DOKAŽTE, ŽE TO FUNGUJE
+## DOKAŽTE, ŽE TO FUNGUJE
 
 Při vší představivosti a naději na budoucnost plnou energie, kterou by systém OTEC mohl přinést, je třeba zůstat realistou. Stále existují technické problémy, které je třeba vyřešit. V porovnání s tím, čeho bylo dosaženo v oblasti těžby ropy a zemního plynu na moři, však není nemožné tyto překážky překonat. Problémem v současnosti je, že výše uvedené výzvy brání lidstvu škálovat tuto technologii z 10 na 100 MW.
 
