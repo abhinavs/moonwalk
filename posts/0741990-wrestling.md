@@ -12,7 +12,7 @@ by @allenf32 originally published on Mar28/2022 by
 # Bitcoin jsou Benátky: Zápas s pravdou
 Jakkoli to může být překvapivé, historie bitcoinu reflektuje historii smíšených bojových umění.
 
-<img src="./pics/0741990-painting.webp" alt="">
+<img src="./pics/0741990-painting.jpg" alt="">
 
 <big>Začněme myšlenkovým experimentem: Historie bitcoinu se podobá historii smíšených bojových umění (Mixed Martial Arts - MMA).</big>
 
@@ -129,71 +129,140 @@ Jakkoli to může být překvapivé, historie bitcoinu reflektuje historii smí�
   Obávali se, že jejich znalosti přijdou vniveč a nic po nich nezbude. Jigoro nabízel prostředky, jak takové epistemologické katastrofě zabránit. 
   Svou novou školu nazval judo, jemná cesta.</big>
 
-<big>Vzhledem k zadanému úkolu a vysoké kvalitě výsledku se zdá, že Jigoro dokázal zázraky. Judo zůstává jedním z nejúčinnějších bojových umění a je skvělým základem pro začínající bojovníky. Jeho nedostatky však byly vlastní samotné Jigorově metodě. Tím, že rozhodoval, co ponechat a co zavrhnout, vystupoval jako autorita. Dalo by se říci, že jeho doktrína fungovala jako server a všichni, kdo ho následovali, byli pouhými klienty. Jako jediný server bez zpětné vazby ovšem doktrína sama vyvolala sebezranitelnost. Jigorem vytvořená pevná struktura chránila judo jak před kritikou zvenčí, tak před vnitřním experimentováním. Studenti se podřizovali svému senseiovi a pravidla dódžó zakazovala používat techniky jiných tradic.
+<big>Vzhledem k zadanému úkolu a vysoké kvalitě výsledku se zdá, že Jigoro dokázal zázraky. Judo zůstává jedním z nejúčinnějších bojových umění 
+  a je skvělým základem pro začínající bojovníky. Jeho nedostatky však byly vlastní samotné Jigorově metodě. Tím, že rozhodoval, co ponechat 
+  a co zavrhnout, vystupoval jako autorita. Dalo by se říci, že jeho doktrína fungovala jako server a všichni, kdo ho následovali, byli pouhými 
+  klienty. Jako jediný server bez zpětné vazby ovšem doktrína sama vyvolala sebezranitelnost. Jigorem vytvořená pevná struktura chránila judo 
+  jak před kritikou zvenčí, tak před vnitřním experimentováním. Studenti se podřizovali svému senseiovi a pravidla dódžó zakazovala používat 
+  techniky jiných tradic.</big>
 
-Co kdybych tě praštil dřív, než by ses přiblížil natolik, abys mě chytil za límec a shodil na zem? To se nesmí. Můžeš soutěžit pouze proti jiným vyznavačům svého umění. V důsledku toho pak takové umění pomalu ztrácí jakékoliv povědomí o reálném průběhu souboje a mění se ve hru, kterou hraje samo proti sobě. Nebijte, nechytejte za kalhoty, nepoužívejte zámky na nohy, necvrnkejte do genitálií. Nezkoušejte, jestli to funguje.
+<big>Co kdybych tě praštil dřív, než by ses přiblížil natolik, abys mě chytil za límec a shodil na zem? To se nesmí. Můžeš soutěžit pouze proti 
+  jiným vyznavačům svého umění. V důsledku toho pak takové umění pomalu ztrácí jakékoliv povědomí o reálném průběhu souboje a mění se ve hru, 
+  kterou hraje samo proti sobě. Nebijte, nechytejte za kalhoty, nepoužívejte zámky na nohy, necvrnkejte do genitálií. Nezkoušejte, jestli 
+  to funguje.</big>
 
-Rigidní techniky a pravidla dané školy vedou k tomu, že se vyvíjí jako druh uvězněný na ostrově. Stává se hyper-specializovaným pro své prostředí. Ale co když se prostředí změní? Trhlina v pověstném brnění dódžó se může objevit během exhibičního zápasu, v němž proti sobě stojí dva styly. V roce 1963 se boxer Milo Savage utkal s judistou Genem LeBellem v soutěži, která měla ukázat převahu amerického boxu.
+<big>Rigidní techniky a pravidla dané školy vedou k tomu, že se vyvíjí jako druh uvězněný na ostrově. Stává se hyper-specializovaným pro své 
+  prostředí. Ale co když se prostředí změní? Trhlina v pověstném brnění dódžó se může objevit během exhibičního zápasu, v němž proti sobě stojí 
+  dva styly. V roce 1963 se boxer Milo Savage utkal s judistou Genem LeBellem v soutěži, která měla ukázat převahu amerického boxu.</big>
 
-Věci však nešly podle organizátorských představ. LeBell shodil Savage na zem a škrtil ho do bezvědomí. Jednalo se o první schválený zápas smíšených bojových umění ve Spojených státech. Když se setkají dvě velmi odlišné hypotézy, můžeme se dočkat překvapivých výsledků. Bez zápasu to totiž nelze přesně určit. Musí se to vyzkoušet empiricky. Dalo by se říci, že to nelze modelovat. I kdybychom dokázali dokonale matematizovat schopnosti bojovníků a parametrizovat dynamiku zápasu, výsledek by byl stále výpočetně nezredukovatelný. Proč simulovat celý vesmír, když se vesmír spokojeně simuluje sám? Proč se prostě jen nedívat na probíhající zápas?
+<big>Věci však nešly podle organizátorských představ. LeBell shodil Savage na zem a škrtil ho do bezvědomí. Jednalo se o první schválený zápas 
+  smíšených bojových umění ve Spojených státech. Když se setkají dvě velmi odlišné hypotézy, můžeme se dočkat překvapivých výsledků. Bez zápasu 
+  to totiž nelze přesně určit. Musí se to vyzkoušet empiricky. Dalo by se říci, že to nelze modelovat. I kdybychom dokázali dokonale matematizovat 
+  schopnosti bojovníků a parametrizovat dynamiku zápasu, výsledek by byl stále výpočetně nezredukovatelný. Proč simulovat celý vesmír, když se vesmír 
+  spokojeně simuluje sám? Proč se prostě jen nedívat na probíhající zápas?</big>
 
-Další významný exhibiční zápas se odehrál v roce 1988, kdy kickboxer Rick Roufus bojoval s thajským boxerem Changpuekem Kiatsongritem. Bojovník Thai zvítězil jedinou technikou. Kopal Roufuse do nohou, dokud mu nepřestaly fungovat. Tato technika je v thajském boxu běžná, ale v americkém kickboxu se používala jen zřídka. Po zápase Rickův bratr Duke Roufus v rozhovoru řekl:
+<big>Další významný exhibiční zápas se odehrál v roce 1988, kdy kickboxer Rick Roufus bojoval s thajským boxerem Changpuekem Kiatsongritem. Bojovník 
+  Thai zvítězil jedinou technikou. Kopal Roufuse do nohou, dokud mu nepřestaly fungovat. Tato technika je v thajském boxu běžná, ale v americkém 
+  kickboxu se používala jen zřídka. Po zápase Rickův bratr Duke Roufus v rozhovoru řekl:</big>
 
-"Doufám, že si lidé uvědomí, že Thai boxeři, pokud budou bojovat podle našich pravidel, nevyhrají. A my nebudeme bojovat podle jejich pravidel. Dnes jsme experimentovali, ale zjistili jsme, že to nemá cenu. Ke kopání do nohou není potřeba příliš talentu."
+<big>"Doufám, že si lidé uvědomí, že Thai boxeři, pokud budou bojovat podle našich pravidel, nevyhrají. A my nebudeme bojovat podle jejich pravidel. 
+  Dnes jsme experimentovali, ale zjistili jsme, že to nemá cenu. Ke kopání do nohou není potřeba příliš talentu."</big>
 
-Duke se nakonec stal jedním z nejlepších trenérů thajského boxu v Americe. Uvědomil si, že na tuto jednoduchou, ale účinnou techniku stále nemá kickbox odpověď. Byla v podstatě nepředvídatelná, ale nyní, když byl proveden experiment, vyšla pravda najevo. Teď bylo úkolem tyto poznatky systematizovat.
+<big>Duke se nakonec stal jedním z nejlepších trenérů thajského boxu v Americe. Uvědomil si, že na tuto jednoduchou, ale účinnou techniku stále 
+  nemá kickbox odpověď. Byla v podstatě nepředvídatelná, ale nyní, když byl proveden experiment, vyšla pravda najevo. Teď bylo úkolem tyto 
+  poznatky systematizovat.</big>
 
-Celosvětová komunita bojových umění musela, od svých nejranějších počátků, najít způsob, jak techniky testovat opakovaně empiricky, nikoliv estetickým srovnáním nebo myšlenkovými experimenty. Jen tak můžeme doufat v odhalení pravdy.
-
-
-OKTAGON, ANEB ODVOLÁNÍ SE NA ROZUM A PRAKTICKÉ ZNALOSTI
-
-"Skutečné partnerství mezi holistickými lidmi v terénu a výzkumnými pracovníky, kteří jejich úsilí podporují, musí začínat vzájemným respektem. Od dob Descarta a počátků moderní vědy však společnost natolik povýšila status akademického badatele a natolik snížila status hospodáře na půdě, že výzkumník dnes zpravidla hovoří o hospodaření s větší autoritou než člověk, který skutečně denně hospodaří a vyrábí potraviny. A to i přesto, že to byli zemědělci a pastevci, kteří objevili, které rostliny a zvířata lze domestikovat, a z nich pak vyšlechtili tisíce odrůd několik tisíciletí předtím, než se vědci vůbec objevili."
-Allan Savory, “Holistic Management”
-
-Gracie Challenge byla otevřená pozvánka pro školy bojových umění v losangeleském údolí: přijďte se utkat s členem rodiny Gracie. Kung-fu, judo a karate, ti všichni přijali výzvu v naději, že předvedou převahu svého umění. Zrnité záběry, z nichž většina pochází z počátku 90. let, ukazují jednotný příběh. Graciovi sráželi své soupeře k zemi a škrtili je nebo jim blokovali klouby. Pěkné kopy a údery nebyly pro někoho, kdo se vyzná v boji na zemi, žádným soupeřem. Umění manželů Graciových je dnes celosvětově známé jako brazilské jiu-jitsu (BJJ). BJJ je základním kamenem moderního tréninku smíšených bojových umění. Na počátku 90. let 20. století však bylo prakticky neznámé.
-
-Příběh brazilského jiu-jitsu začíná u potulného japonského emigranta jménem Mitsuyo Maeda. Maeda se narodil v roce 1878 a studoval judo pod vedením jeho zakladatele Jigora. Cestoval po světě a údajně vyhrál více než 2000 profesionálních zápasů, mnoho z nich proti vyznavačům jiných umění. Nakonec se usadil v Brazílii, kde vyučoval verzi juda s velkým důrazem na boj na zemi. Nazval ji jiu-jitsu. Jeden z Maedových žáků se jmenoval Carlos Gracie. Umění se rozšířilo v rodině a nějakou dobu bylo známé jako Gracie Jiu-Jitsu.
-
-Přestože techniky BJJ jsou podobné technikám juda, jeho kultura a tréninková metodika není. BJJ podporuje hravé experimentování. Komunita neustále vyvíjí a testuje techniky nové. Oproti tomu judo má oficiální seznam technik, které může upravovat pouze oficiální orgán. Zatímco judo funguje na modelu klient/server, BJJ je skutečně bojovým uměním typu peer-to-peer; kde se judo zaměřuje na soutěžení v rámci své komunity, BJJ se od počátku soustředilo na testování sebe sama v porovnání s jinými uměními; zatímco judo se zdá být zaměřeno na zdokonalování estetické rovnováhy, BJJ je dynamický proces: nikdy se neustálí, vždy se snaží objevit své vlastní chyby a zlepšit se.
-
-Pravdivosti zakódované v judu je třeba důvěřovat, pravdivost zakódovanou v BJJ lze ověřit. Měřítkem úspěchu BJJ byla vždy efektivita. Nesklání se před autoritami ani se nesnaží přesvědčit estetikou. Odvolává se na rozum neboli logos a poskytuje vědění v podobě toho, co James C. Scott ve svém mistrovském díle " Seeing Like A State", na které opakovaně odkazujeme, nazývá mētis. O této formě poznání Scott píše:
-
-"Mētis se nejvíce uplatní v podobných, ale nikdy ne přesně stejných situacích, které vyžadují rychlou a cvičenou adaptaci, jež se pro praktikujícího stane téměř druhou přirozeností. Dovednosti mētis mohou zahrnovat i pravidla, ale tato pravidla se do značné míry získávají praxí (často v rámci formálního učení) a vyvinutým citem nebo strategickou obratností. Mētis se vzpírá zjednodušení na deduktivní principy, které lze úspěšně předat pomocí knih, neboť okolní prostředí je natolik složité a neopakovatelné, že formální postupy racionálního rozhodování nelze použít. V jistém smyslu se mētis nachází v onom velkém prostoru mezi oblastí geniality, na kterou nelze aplikovat žádný vzorec, a oblastí kodifikovaných znalostí, které se lze naučit zpaměti."
-
-Mētis - těžce nabyté, objevené, vyvíjející se praktické vědění - je potřebné k jednání, a tam, kde existuje nutnost lidského jednání, vzniká produktivní vědění pomocným, prakticky reflexivním způsobem. Scott píše:
-
-"Místní a lokální znalosti můžeme oprávněně považovat za znalosti participační, na rozdíl od znalostí obecných. To znamená, že držitel takové znalosti má obvykle vášnivý zájem na určitém výsledku. Pojistitel obchodní lodní dopravy pro velkou, vysoce kapitalizovanou námořní firmu si může dovolit spoléhat se na rozdělení pravděpodobnosti nehod. Ale pro námořníka nebo kapitána, který doufá v bezpečnou plavbu, je důležitý výsledek jediné události, jediné cesty. Mētis je schopnost a zkušenost nezbytná k ovlivnění výsledku - ke zlepšení šancí - v konkrétním případě."
-
-Bojovník MMA netouží po morálním nebo estetickém vítězství, nechce vyhrát hypotetický nebo průměrný, ale tento zápas. Má vášnivý zájem na konkrétním výsledku vlastního vítězství a na tom, aby se vyhnul fyzické bolesti spojené s prohrou. Je hluboce motivován k tomu, aby se učil v daném okamžiku; aby každou akci a reakci bral jako experiment, který může zlepšit jeho výkon. Nechce pouze sledovat výsledek: Chce ho ovlivnit.
-
-V Los Angeles se Rorion Gracie snažil oslovit širší publikum. Vítězství rodiny proti místním školám bojových umění rozšířila její pověst po celém údolí, ale ne daleko za jeho hranice. V roce 1993 Rorion vytvořil šampionát Ultimate Fighting Championship. Stejně jako soutěže neměl mít "žádný časový limit - žádná pravidla". Pozváni měli být bojovníci všech stylů. Rodina Gracieových přihlásila Royce Gracieho ne proto, že by byl jejich nejlepší, ale proto, že díky jeho štíhlé postavě by jeho vítězství bylo ještě výraznější. Royce se stal vítězem prvního ročníku UFC poté, co porazil větší a silnější soupeře technikami, jaké většina z nich nikdy předtím neviděla. Účinnost BJJ už nebylo možné popřít.
-
-Za 28 let se podařilo objasnit mnohé - téměř nic z toho se nedalo předvídat a už vůbec ne modelovat na základě matematických modelů boje. Ukázalo se, že celá umění, například aikido, jsou neúčinná, a efektní umění založená na úderech, jako kung-fu nebo karate, byla překonána prozaičtějším zápasem nebo boxem. Umění, která byla před několika desetiletími většinou neznámá, jako brazilské jiu-jitsu nebo ruské sambo, obě pocházející z juda (Jigoro byl vskutku unikátní), jsou nyní považována za jedny z nejúčinnějších. I dnes se objevují nové techniky, jako je kop do lýtka, který se snaží ochromit nohu protivníka zásahem do nervu pod kolenem.
-
-Kdykoli dva zápasníci vstoupí do oktagonu, dochází k experimentu. Techniky všech umění jsou empiricky testovány po stránce účinnosti. Úspěch znamená vítězství. Nejde o soutěž popularity ani o to, aby autority určovaly, co funguje a co ne. Žíněnka nelže, jak se říká v BJJ. Zkuste to a uvidíte. Je to jediná zkouška, na které záleží, a teprve z ní vyplyne pravda.
+<big>Celosvětová komunita bojových umění musela, od svých nejranějších počátků, najít způsob, jak techniky testovat opakovaně empiricky, nikoliv 
+  estetickým srovnáním nebo myšlenkovými experimenty. Jen tak můžeme doufat v odhalení pravdy.</big>
 
 
-FINÁLNÍ ÚTOK NEBO RUČNÍK DO RINGU
+## OKTAGON, ANEB ODVOLÁNÍ SE NA ROZUM A PRAKTICKÉ ZNALOSTI
 
-"Přestaň se mě snažit udeřit a udeř mě!"
-Laurence Fishburne as Morpheus, “The Matrix”
+> <b>"Skutečné partnerství mezi holistickými lidmi v terénu a výzkumnými pracovníky, kteří jejich úsilí podporují, musí začínat vzájemným 
+> respektem. Od dob Descarta a počátků moderní vědy však společnost natolik povýšila status akademického badatele a natolik snížila status 
+> hospodáře na půdě, že výzkumník dnes zpravidla hovoří o hospodaření s větší autoritou než člověk, který skutečně denně hospodaří a vyrábí 
+> potraviny. A to i přesto, že to byli zemědělci a pastevci, kteří objevili, které rostliny a zvířata lze domestikovat, a z nich pak vyšlechtili 
+> tisíce odrůd několik tisíciletí předtím, než se vědci vůbec objevili."</b>
+> <br>Allan Savory, “Holistic Management”
 
-Pravidla UFC drasticky zvýšila náklady a snížila výnosy z prodeje falešných bojových umění. Učitele kravin lze nyní odhalit a jednoznačně se ukázalo, že "umění", která prosazují, jsou neúčinná. Nestačí, aby se umění skrývalo za rouškou úctyhodnosti. Aby nebyla ignorována nebo dokonce zesměšňována, musí se autorita nejprve osvědčit v boji.
+<big>Gracie Challenge byla otevřená pozvánka pro školy bojových umění v losangeleském údolí: přijďte se utkat s členem rodiny Gracie. Kung-fu, 
+  judo a karate, ti všichni přijali výzvu v naději, že předvedou převahu svého umění. Zrnité záběry, z nichž většina pochází z počátku 90. let, 
+  ukazují jednotný příběh. Graciovi sráželi své soupeře k zemi a škrtili je nebo jim blokovali klouby. Pěkné kopy a údery nebyly pro někoho, 
+  kdo se vyzná v boji na zemi, žádným soupeřem. Umění manželů Graciových je dnes celosvětově známé jako brazilské jiu-jitsu (BJJ). BJJ je základním 
+  kamenem moderního tréninku smíšených bojových umění. Na počátku 90. let 20. století však bylo prakticky neznámé.</big>
 
-Tím, že UFC vytvořila prostor, v němž bylo možné empiricky testovat bojové myšlenky proti kreativnímu, motivovanému a odolnému soupeři, předznamenala zlatý věk objevů. Výsledek zvaný smíšená bojová umění se neustále vyvíjí, nezůstává statický. Není to cíl, ale proces. Není to seznam technik, ale způsob myšlení umožňující testovat nápady a přijmout jakýkoli, který se v boji ukáže jako účinný. MMA přijalo Jigorovo poznání "ponechat si to, co jsem cítil, že by se mělo ponechat, a zahodit to, co jsem cítil, že by se mělo zahodit", a rozšířilo ho nad rámec jednoho člověka na společenství cílevědomých aktérů.
+<big>Příběh brazilského jiu-jitsu začíná u potulného japonského emigranta jménem Mitsuyo Maeda. Maeda se narodil v roce 1878 a studoval judo pod vedením jeho zakladatele Jigora. Cestoval po světě a údajně vyhrál více než 2000 profesionálních zápasů, mnoho z nich proti vyznavačům jiných umění. Nakonec se usadil v Brazílii, kde vyučoval verzi juda s velkým důrazem na boj na zemi. Nazval ji jiu-jitsu. Jeden z Maedových žáků se jmenoval Carlos Gracie. Umění se rozšířilo v rodině a nějakou dobu bylo známé jako Gracie Jiu-Jitsu.</big>
 
-UFC zavedla nové motivace k objevování, uchovávání a ochraně pravdy bojovným, ale respektujícím způsobem. I když jsou její zápasy akty násilí, přesvědčuje nenásilnými prostředky. Apeluje na rozum. Bohužel až donedávna byly v lidských dějinách nenásilné prostředky přesvědčování druhých nutně společenské. A jako takové trpěly "paradoxem tolerance" Karla Poppera, kdy tolerance k netoleranci vede ke vládě té druhé jmenované. Ve společnosti pacifistů se osamělý nesnášenlivec stává králem.
+<big>Přestože techniky BJJ jsou podobné technikám juda, jeho kultura a tréninková metodika nikoli. BJJ podporuje hravé experimentování. Komunita 
+  neustále vyvíjí a testuje techniky nové. Oproti tomu judo má oficiální seznam technik, které může upravovat pouze oficiální orgán. Zatímco judo 
+  funguje na modelu klient/server, BJJ je skutečně bojovým uměním typu peer-to-peer; kde se judo zaměřuje na soutěžení v rámci své komunity, BJJ 
+  se od počátku soustředilo na testování sebe sama v porovnání s jinými uměními; zatímco judo se zdá být zaměřeno na zdokonalování estetické 
+  rovnováhy, BJJ je dynamický proces: nikdy se neustálí, vždy se snaží objevit své vlastní chyby a zlepšit se.</big>
 
-Násilí se vždy podařilo zabránit pouze jedním ze tří způsobů: přirozenou lidskou dobrotou, vědomou přínosnou spoluprací nebo věrohodnými či uskutečněnými hrozbami ještě většího násilí. Právě porozumění všem třem prvkům je důvodem, proč se učit bojovým uměním a sebeobraně obecně: To, že se dobří a stateční mohou bránit nejen sami, ale mohou spolupracovat s těmi, kteří se bránit nemohou, a to tak, že budou zlomyslným hrozit většími způsobenými náklady, než jejich očekávané nelegitimní zisky.
+<big>Pravdivosti zakódované v judu je třeba důvěřovat, pravdivost zakódovanou v BJJ lze ověřit. Měřítkem úspěchu BJJ byla vždy efektivita. Nesklání 
+  se před autoritami ani se nesnaží přesvědčit estetikou. Odvolává se na rozum neboli logos a poskytuje vědění v podobě toho, co James C. Scott 
+  ve svém mistrovském díle " Seeing Like A State", na které opakovaně odkazujeme, nazývá mētis. O této formě poznání Scott píše:</big>
 
-To vše může na první pohled znít intelektuálně působivě, ale ve skutečnosti nejde o nic jiného než o poukázání na to, že civilizace je nadřazena povaze přírody. Fakt, že podpora kapitálu a zastrašení morálky (tj. "civilizace") jsou historicky nejlepší a poslední obranou proti násilí, dává nemorálním lidem jasnou motivaci: Stigmatizovat a zesměšňovat morálku, démonizovat poctivou tvorbu kapitálu nebo infiltrovat instituce určené k podpoře jednoho či druhého (ať už dobrovolně zřízené či nikoliv), čímž jejich případné násilí může přinést vyšší výnosy.
+> "Mētis se nejvíce uplatní v podobných, ale nikdy ne přesně stejných situacích, které vyžadují rychlou a cvičenou adaptaci, jež se pro 
+> praktikujícího stane téměř druhou přirozeností. Dovednosti mētis mohou zahrnovat i pravidla, ale tato pravidla se do značné míry získávají 
+> praxí (často v rámci formálního učení) a vyvinutým citem nebo strategickou obratností. Mētis se vzpírá zjednodušení na deduktivní principy, 
+> které lze úspěšně předat pomocí knih, neboť okolní prostředí je natolik složité a neopakovatelné, že formální postupy racionálního rozhodování 
+> nelze použít. V jistém smyslu se mētis nachází v onom velkém prostoru mezi oblastí geniality, na kterou nelze aplikovat žádný vzorec, a oblastí 
+> kodifikovaných znalostí, které se lze naučit zpaměti."
 
-Nyní se však v této rovnici objevuje nová proměnná, která je navíc podbarvena historickou ironií: Po tisíciletích technologického pokroku, který nás dovedl od meče a štítu přes dlouhý luk, trebuchet, ruční zbraň, tank, bitevník dreadnought, stíhačku až k atomové bombě, lidstvo objevilo technologii, která násilí pouze brání, odrazuje od něj a nemá žádné jiné využití.
+<big>Mētis - těžce nabyté, objevené, vyvíjející se praktické vědění - je potřebné k jednání, a tam, kde existuje nutnost lidského jednání, vzniká 
+  produktivní vědění pomocným, prakticky reflexivním způsobem. Scott píše:</big>
 
-Stručně řečeno: Bitcoin fixes this. Dlouze: zbytek knihy "Bitcoin jsou Benátky".
+> "Místní a lokální znalosti můžeme oprávněně považovat za znalosti participační, na rozdíl od znalostí obecných. To znamená, že držitel takové 
+> znalosti má obvykle vášnivý zájem na určitém výsledku. Pojistitel obchodní lodní dopravy pro velkou, vysoce kapitalizovanou námořní firmu si může 
+> dovolit spoléhat se na rozdělení pravděpodobnosti nehod. Ale pro námořníka nebo kapitána, který doufá v bezpečnou plavbu, je důležitý výsledek 
+> jediné události, jediné cesty. Mētis je schopnost a zkušenost nezbytná k ovlivnění výsledku - ke zlepšení šancí - v konkrétním případě."
 
-<big></big>
+<big>Bojovník MMA netouží po morálním nebo estetickém vítězství, nechce vyhrát hypotetický nebo průměrný, ale tento zápas. Má vášnivý zájem 
+  na konkrétním výsledku vlastního vítězství a na tom, aby se vyhnul fyzické bolesti spojené s prohrou. Je hluboce motivován k tomu, aby 
+  se učil v daném okamžiku; aby každou akci a reakci bral jako experiment, který může zlepšit jeho výkon. Nechce pouze sledovat výsledek: 
+  Chce ho ovlivnit.</big>
+
+<big>V Los Angeles se Rorion Gracie snažil oslovit širší publikum. Vítězství rodiny proti místním školám bojových umění rozšířila její pověst 
+  po celém údolí, ale ne daleko za jeho hranice. V roce 1993 Rorion vytvořil šampionát Ultimate Fighting Championship. Stejně jako soutěže 
+  neměl mít "žádný časový limit - žádná pravidla". Pozváni měli být bojovníci všech stylů. Rodina Gracieových přihlásila Royce Gracieho ne proto, 
+  že by byl jejich nejlepší, ale proto, že díky jeho štíhlé postavě by jeho vítězství bylo ještě výraznější. Royce se stal vítězem prvního ročníku 
+  UFC poté, co porazil větší a silnější soupeře technikami, jaké většina z nich nikdy předtím neviděla. Účinnost BJJ už nebylo možné popřít.</big>
+
+<big>Za 28 let se podařilo objasnit mnohé - téměř nic z toho se nedalo předvídat a už vůbec ne modelovat na základě matematických modelů boje. 
+  Ukázalo se, že celá umění, například aikido, jsou neúčinná, a efektní umění založená na úderech, jako kung-fu nebo karate, byla překonána 
+  prozaičtějším zápasem nebo boxem. Umění, která byla před několika desetiletími většinou neznámá, jako brazilské jiu-jitsu nebo ruské sambo, 
+  obě pocházející z juda (Jigoro byl vskutku unikátní), jsou nyní považována za jedny z nejúčinnějších. I dnes se objevují nové techniky, jako 
+  je kop do lýtka, který se snaží ochromit nohu protivníka zásahem do nervu pod kolenem.</big>
+
+<big>Kdykoli dva zápasníci vstoupí do oktagonu, dochází k experimentu. Techniky všech umění jsou empiricky testovány po stránce účinnosti. 
+  Úspěch znamená vítězství. Nejde o soutěž popularity ani o to, aby autority určovaly, co funguje a co ne. Žíněnka nelže, jak se říká v BJJ. 
+  Zkuste to a uvidíte. Je to jediná zkouška, na které záleží, a teprve z ní vyplyne pravda.</big>
+
+
+## FINÁLNÍ ÚTOK NEBO RUČNÍK DO RINGU
+
+> "Přestaň se mě snažit udeřit a udeř mě!"
+> <br>Laurence Fishburne as Morpheus, “The Matrix”
+
+<big>Pravidla UFC drasticky zvýšila náklady a snížila výnosy z prodeje falešných bojových umění. Učitele kravin lze nyní odhalit a jednoznačně 
+  se ukázalo, že "umění", která prosazují, jsou neúčinná. Nestačí, aby se umění skrývalo za rouškou úctyhodnosti. Aby nebyla ignorována nebo 
+  dokonce zesměšňována, musí se autorita nejprve osvědčit v boji.</big>
+
+<big>Tím, že UFC vytvořil prostor, v němž bylo možné empiricky testovat bojové myšlenky proti kreativnímu, motivovanému a odolnému soupeři, 
+  předznamenala zlatý věk objevů. Výsledek zvaný smíšená bojová umění se neustále vyvíjí, nezůstává statický. Není to cíl, ale proces. Není to 
+  seznam technik, ale způsob myšlení umožňující testovat nápady a přijmout jakýkoli, který se v boji ukáže jako účinný. MMA přijala Jigorovo 
+  poznání "ponechat si to, co jsem cítil, že by se mělo ponechat, a zahodit to, co jsem cítil, že by se mělo zahodit", a rozšířila ho nad rámec 
+  jednoho člověka na společenství cílevědomých aktérů.</big>
+
+<big>UFC zavedl nové motivace k objevování, uchovávání a ochraně pravdy bojovným, ale respektujícím způsobem. I když jsou jejho zápasy akty 
+  násilí, přesvědčuje nenásilnými prostředky. Apeluje na rozum. Bohužel až donedávna byly v lidských dějinách nenásilné prostředky přesvědčování 
+  druhých nutně společenské. A jako takové trpěly "paradoxem tolerance" Karla Poppera, kdy tolerance k netoleranci vede ke vládě té druhé 
+  jmenované. Ve společnosti pacifistů se osamělý nesnášenlivec stává králem.</big>
+
+<big>Násilí se vždy podařilo zabránit pouze jedním ze tří způsobů: přirozenou lidskou dobrotou, vědomou přínosnou spoluprací nebo věrohodnými 
+  či uskutečněnými hrozbami ještě většího násilí. Právě porozumění všem třem prvkům je důvodem, proč se učit bojovým uměním a sebeobraně 
+  obecně: To, že se dobří a stateční mohou bránit nejen sami, ale mohou spolupracovat s těmi, kteří se bránit nemohou, a to tak, že budou 
+  zlomyslným hrozit většími způsobenými náklady, než budou jejich očekávané nelegitimní zisky.</big>
+
+<big>To vše může na první pohled znít intelektuálně působivě, ale ve skutečnosti nejde o nic jiného než o poukázání na to, že civilizace je 
+  nadřazena povaze přírody. Fakt, že podpora kapitálu a zastrašení morálky (tj. "civilizace") jsou historicky nejlepší a poslední obranou 
+  proti násilí, dává nemorálním lidem jasnou motivaci: Stigmatizovat a zesměšňovat morálku, démonizovat poctivou tvorbu kapitálu nebo infiltrovat 
+  instituce určené k podpoře jednoho či druhého (ať už dobrovolně zřízené či nikoliv), čímž jejich případné násilí může přinést vyšší výnosy.</big>
+
+<big>Nyní se však v této rovnici objevuje nová proměnná, která je navíc podbarvena historickou ironií: Po tisíciletích technologického pokroku, který nás dovedl od meče a štítu přes dlouhý luk, trebuchet, ruční zbraň, tank, bitevník dreadnought, stíhačku až k atomové bombě, lidstvo objevilo technologii, která násilí pouze brání, odrazuje od něj a nemá žádné jiné využití.</big>
+
+<big>Stručně řečeno: Bitcoin fixes this. Dlouze: zbytek knihy "Bitcoin jsou Benátky".
   
 
 ## ---
