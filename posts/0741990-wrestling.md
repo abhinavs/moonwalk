@@ -14,7 +14,7 @@ Jakkoli to může být překvapivé, historie bitcoinu reflektuje historii smí�
 
 <img src="./pics/0741990-painting.jpg" alt="">
 
-<big>Začněme myšlenkovým experimentem: Historie bitcoinu se podobá historii smíšených bojových umění (Mixed Martial Arts - MMA).</big>
+<big>Začněme myšlenkovým experimentem: Historie bitcoinu se podobá historii smíšených bojových umění (Mixed Martial Arts - MMA).<big>
 
 <big>Vezměte v úvahu, že ceny vznikají na základě jednání a pravda o cenách je výsledkem experimentování. Není nadiktována. Je opakovaně 
   objevována. Každá transakce šíří znalosti a posouvá cenu směrem k lepšímu konsensu, avšak samotný konsensus je pohyblivým cílem.</big>
@@ -232,7 +232,7 @@ Jakkoli to může být překvapivé, historie bitcoinu reflektuje historii smí�
 
 ## FINÁLNÍ ÚTOK NEBO RUČNÍK DO RINGU
 
-> "Přestaň se mě snažit udeřit a udeř mě!"
+> <b>"Přestaň se mě snažit udeřit a udeř mě!"</b>
 > <br>Laurence Fishburne as Morpheus, “The Matrix”
 
 <big>Pravidla UFC drasticky zvýšila náklady a snížila výnosy z prodeje falešných bojových umění. Učitele kravin lze nyní odhalit a jednoznačně 
