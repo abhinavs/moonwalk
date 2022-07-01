@@ -26,14 +26,17 @@ project_entries:
     desc: 740195 / original Oct02/2018 @clarkmoody
 #    highlight: ₿rand NEW
 
-
   - title: OTEC a bitcoin
     url: ./posts/0741540-OTEC-bitcoin
     desc: 741540 / original May23/2022 @level39
 #    highlight: NOVÉ
 
+  - title: Bitcoinu nikdo nerozumí
+    url: ./posts/0742718-nobody
+    desc: 742718 / original 456745 @lopp
+
   - title: Bitcoin je čas 
-    url: ₿rzy
+    url: ./posts/₿rzy
     desc: 740913 / original 666053 @dergigi
     highlight: ₿rzy
 
@@ -42,9 +45,9 @@ project_entries:
     desc: 789101 / @nekonecnik
     highlight: ???
 
-  - title: Bitcoin Astronomy I /III
-    url: ₿rzy
-    desc: 75xxxx / original Sep13/2019 @dhruvbansal
+#  - title: Bitcoin Astronomy I /III
+#    url: ₿rzy
+#    desc: 75xxxx / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
 
 #  - title: Project 7
