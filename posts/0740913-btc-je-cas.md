@@ -56,7 +56,7 @@ světa replikovat tak, že na kus papíru zapíšete, co se stalo.</big>
 obojek, a jakmile se ovce vrátí domů, obojek jednoduše sundáte a pověsíte do kůlny. Pokud máte pro každý obojek 
 jeden háček, budete vědět, že se každá ovce vrátila v pořádku, jakmile se všechny háčky zaplní. Samozřejmě je můžete 
 také spočítat a vést si jejich seznam. Budete však muset dbát na to, abyste pokaždé, když začnete počítat, vytvořili 
-nový seznam, a také budete muset dbát na to, abyste ani jednu ovci nepočítali dvakrát (nebo naopak vůbec).</big>
+nový seznam, a také budete muset dát pozor, abyste ani jednu ovci nepočítali dvakrát (nebo naopak vůbec).</big>
 
 <big>Peníze jsou v podstatě nástrojem pro evidenci toho, kdo komu co dluží. Obecně řečeno, vše, co jsme dosud používali 
 jako peníze, spadá do dvou kategorií: fyzické předměty a informační seznamy. Nebo, abychom použili běžnější řeč: 
@@ -87,7 +87,7 @@ je nesprávné označení. Token může představovat tajnou informaci, ale nikd
 nekopírovatelnou informaci.</big>
 
 <big>Tento rozdíl ve vlastnostech ukazuje, že skutečně neexistuje způsob, jak "předat" informace. Digitální token nelze přenechat 
-stejně jako fyzický token, protože si nikdy nemůžete být jisti, zda původní vlastník informace na své straně nezničil. Digitální 
+stejně jako fyzický token, protože si nikdy nemůžete být jisti, zda původní vlastník informace na své straně zničil. Digitální 
 tokeny, stejně jako všechny informace, lze pouze šířit, podobně jako myšlenku.</big>
 
 > <b>"... když máš jablko a já mám jablko a vyměníme si je - každý z nás skončí jen s jedním jablkem. Ale pokud máme oba nápad 
@@ -98,7 +98,7 @@ tokeny, stejně jako všechny informace, lze pouze šířit, podobně jako myšl
 mi předáte minci, vaše mince je pryč. Neexistuje žádná magická duplikace mince a jediný způsob, jak mi ji dát, je fyzicky mi ji předat. 
 Fyzikální zákony neumožňují, abyste ji utratili dvakrát.</big>
 
-<big>Double spending sice existuje i v nedigitální sféře - vzpomeňme na George Parkera, podvodníka, který proslul " double-spendnutím" 
+<big>Double spending sice existuje i v nedigitální sféře - vzpomeňme na George Parkera, podvodníka, který proslul "double-spendnutím" 
 Brooklynského mostu a dalších pamětihodností - ale vyžaduje to promyšlený podvod a důvěřivé kupující. Ne tak v digitální oblasti.</big>
 
 <big>V digitální sféře, kde se neustále pracuje s informacemi, je double spending neodmyslitelným problémem. Jak ví každý, kdo někdy 
