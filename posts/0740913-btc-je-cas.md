@@ -6,7 +6,7 @@
 </header>
 
 This is 🇨🇿 Czech translation of <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/">this article</a> 
-by @dergigi originally published @666053 
+by <a href="https://twitter.com/dergigi">@dergigi</a> originally published @666053 
 <br>Translated @740913 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je čas
