@@ -580,7 +580,7 @@ jaké transakce budou v budoucnu vůbec vyslány. A co je ještě důležitějš
 
 ## ---
 <big>Autor: <a href="https://twitter.com/dergigi">Der Gigi</a> <a href="https://dergigi.com/support/">🧡</a>
-<br>Původní článek: <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/">Dear Bitcoiners</a>
+<br>Původní článek: <a href="https://dergigi.com/2021/01/14/bitcoin-is-time/">Bitcoin Is Time</a>
 <br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
 PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
