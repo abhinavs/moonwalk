@@ -32,6 +32,9 @@ uvolněním. Svou náklonnost můžete projevit zasláním ₿ satů na
 V případě podpory, jež by mi to umožnila, jsem připraven věnovat tomuto projektu maximum kapacity. 
 Mám v zásobě hodiny a hodiny inspirativních textů...
 
+Celý projekt běží v bitcoinovém duchu kompletně open source. V případě jakýchkoliv dotazů, připomínek nebo chyb neváhejte 
+otevřít <a href="https://github.com/sifrant/jednadvacet">issue nebo pull request na githubu</a>.
+
 
 
 {% if site.theme_config.show_footer == true %}
