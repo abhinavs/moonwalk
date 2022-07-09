@@ -27,6 +27,7 @@ uvolněním. Svou náklonnost můžete projevit zasláním ₿ satů na
   handle <a href="https://twitter.com/nekonecnik">@nekonecnik</a> (DMs open)
   <br>⚡ lightning adresu <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a>
   <br>🔗 on-chain na Samourai PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
+  <br>použitím <a href ="https://fountain.fm/refer/nekonecnik-cec493b023">mého refferal linku</a> na <a href="https://twitter.com/fountain_app">Fountain Podcast App</a>, kde vám streamujou saty za to, že posloucháte svou oblíbenou show (!) - a mě snad budou, <a href="https://fountain.fm/refer/nekonecnik-cec493b023">v případě vaší podpory</a>, streamovat něco navíc.
 </big>
 
 V případě podpory, jež by mi to umožnila, jsem připraven věnovat tomuto projektu maximum kapacity. 
