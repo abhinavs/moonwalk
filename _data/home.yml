@@ -47,17 +47,17 @@ project_entries:
     desc: 742718 / original 456745 @lopp
 
   - title: 21 lekcí z překladu 21 lekcí
-    url: ./tickTock
+    url: ./ticktock
     desc: 765432 / @nekonecnik
     highlight: -₿rzy-
 
   - title: Bitcoin Astronomy I /III
-    url: ./tickTock
+    url: ./ticktock
     desc: 777777 / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
 
   - title: ???
-    url: ./tickTock
+    url: ./ticktock
     desc: 789101 / ???
 #    highlight: TDB
 #
