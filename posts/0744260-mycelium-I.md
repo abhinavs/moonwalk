@@ -6,7 +6,8 @@
 </header>
 
 This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
-by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> / Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
+<br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt=""></p>
@@ -51,8 +52,8 @@ hub a bitcoinu - paralely jsou ohromující.*
 <big>Houby jsou převážně tvořeny svou vegetativní částí "myceliem" - podhoubím - podzemní decentralizovanou inteligentní sítí, kterou 
   Paul Stamets popsal jako "přírodní internet Země".</big>
 
-<p style="text-align:center;"><img src="./pics/0744260-01-mycelium.jpeg" alt=""></p>
-<small>Image credit: John Upton</small>
+<p style="text-align:center;"><img src="./pics/0744260-01-mycelium.jpeg" alt=""><br>
+<small>Image credit: John Upton</small></p>
 
 > <b>"Věřím, že mycelium je neurologickou sítí přírody. Prolínající se mozaiky mycelia naplňují habitaty membránami sdílejícími informace. 
 > Tyto membrány jsou uvědomělé, reagují na změny a společně mají na paměti dlouhodobé zdraví hostitelského prostředí. Mycelium zůstává 
@@ -281,11 +282,12 @@ hub a bitcoinu - paralely jsou ohromující.*
 
 <big>O čem stromy mluví? V kanadských lesích douglasky tisolisté se podívejte, jak spolu stromy navzájem "mluví" vytvářením...</big>
 
-<video width="320" height="240" controls>
+<p style="text-align:center;">
+<video width="480" height="272" controls>
   <source src="./pics/0744260-04-nat-geo-video-ipod-pt-1-.mp4" type="video/mp4">
 <!--  <source src="movie.ogg" type="video/ogg">-->
 Your browser does not support the video tag.
-</video>
+</video></p>
 
 <big>Zjednodušeně řečeno, houby v podzemí těží minerály stromům výměnou za cukry (potravu), které stromy produkují prostřednictvím fotosyntézy. 
   Stromy tak získávají zvýšenou ochranu před útočníky a důležité minerální látky, které si samy nedokážou najít. Přemýšleli jste někdy o tom, 
