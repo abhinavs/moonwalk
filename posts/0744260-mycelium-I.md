@@ -6,7 +6,7 @@
 </header>
 
 This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
-by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> originally published @456745 / Translated @742718 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> / Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt=""></p>
@@ -51,7 +51,8 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> originally publish
 <big>Houby jsou převážně tvořeny svou vegetativní částí "myceliem" - podhoubím - podzemní decentralizovanou inteligentní sítí, kterou 
   Paul Stamets popsal jako "přírodní internet Země".</big>
 
-<p style="text-align:center;"><img src="./pics/0744260-01-mycelium.jpeg" alt="Image credit: John Upton"></p>
+<p style="text-align:center;"><img src="./pics/0744260-01-mycelium.jpeg" alt=""></p>
+<small>Image credit: John Upton</small>
 
 > <b>"Věřím, že mycelium je neurologickou sítí přírody. Prolínající se mozaiky mycelia naplňují habitaty membránami sdílejícími informace. 
 > Tyto membrány jsou uvědomělé, reagují na změny a společně mají na paměti dlouhodobé zdraví hostitelského prostředí. Mycelium zůstává 
@@ -101,7 +102,8 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> originally publish
   rozhoduje, jakým způsobem se chce zapojit, a souhrnný konsensus představuje síť.</big>
 
 <p style="text-align:center;"><img src="./pics/0744260-02-networx.png" alt=""></p>
-Zleva: lidské srdce, blesky, lidský mozek, mycelium, kořeny stromu, Velký Kaňon z leteckého záběru, větve stromu, vesmírná, kosmická pavučina vesmíru
+<small>Zleva: lidské srdce, blesky, lidský mozek, mycelium, kořeny stromu, Velký Kaňon z leteckého záběru, větve stromu, vesmírná, 
+  kosmická pavučina vesmíru</small>
 
 
 ### Decentralizované sítě jsou starší než lidstvo
@@ -134,148 +136,185 @@ Zleva: lidské srdce, blesky, lidský mozek, mycelium, kořeny stromu, Velký Ka
 
 ### Japonská vláda vs. pokorné hlenky
 
-<big>Ať už jde o centrální banky, které se snaží řídit ekonomiku, nebo o hierarchické korporace, které se snaží v informačním věku maximalizovat hodnotu... Centrální plánování má mnoho chyb.
+<big>Ať už jde o centrální banky, které se snaží řídit ekonomiku, nebo o hierarchické korporace, které se snaží v informačním věku maximalizovat hodnotu... Centrální plánování má mnoho chyb.</big>
 
-Při rozhodování v "informační ekonomice" jsou efektivnější decentralizované nebo ploché (nehierarchické) organizace. Odolávají korupci, minimalizují byrokracii a posouvají rozhodování do extrémů, kde mají jednotlivci (uzly) o daném problému nejaktuálnější informace.
+<big>Při rozhodování v "informační ekonomice" jsou efektivnější decentralizované nebo ploché (nehierarchické) organizace. Odolávají korupci, 
+  minimalizují byrokracii a posouvají rozhodování do extrémů, kde mají jednotlivci (uzly) o daném problému nejaktuálnější informace.</big>
 
-Pro ilustraci síly decentralizovaných sítí se podívejme na tokijské metro .
+<big>Pro ilustraci síly decentralizovaných sítí se podívejme na tokijské metro.</big>
 
-Vědci provedli <a href="https://www.science.org/doi/10.1126/science.1177894">experiment</a>, při němž byla pradávná houba (hlenka či slizovka) podněcována k tomu, aby znovu vytvořila systém tokijského metra. Každá zastávka metra (uzel) byla označena oblíbenou potravou hlenek (ovesnými vločkami).
+<big>Vědci provedli <a href="https://www.science.org/doi/10.1126/science.1177894">experiment</a>, při němž byla pradávná houba (hlenka 
+  či slizovka) podněcována k tomu, aby znovu vytvořila systém tokijského metra. Každá zastávka metra (uzel) byla označena oblíbenou potravou 
+  hlenek (ovesnými vločkami).</big>
 
-Po krátké době se hlenka rozrostla a propojila všechny uzly/zastávky v efektivnějším designu než centrálně plánovaná komise inženýrů najatých japonskou vládou.
+<big>Po krátké době se hlenka rozrostla a propojila všechny uzly/zastávky v efektivnějším designu než centrálně plánovaná komise inženýrů najatých japonskou vládou.</big>
 
-IMG 03 Tokio
-Hlenka navrhující systém tokijského metra
+<p style="text-align:center;"><img src="0744260-03-Tokio.jpeg" alt=""></p>
+<small>Hlenka navrhující systém tokijského metra</small>
 
-Z abstraktu:
-> Dopravní sítě jsou všudypřítomné jak v sociálních, tak v biologických systémech. Robustní výkonnost sítě zahrnuje složitý kompromis mezi náklady, efektivitou přenosu a odolností proti poruchám. Biologické sítě byly zdokonaleny mnoha cykly evolučního selekčního tlaku a pravděpodobně poskytují takovým kombinatorickým optimalizačním problémům rozumná řešení. Navíc se vyvíjejí bez centralizovaného řízení a mohou představovat snadno škálovatelné řešení pro rostoucí sítě obecně. Ukazujeme, že hlenka Vápenatka mnohohlavá vytváří sítě se srovnatelnou účinností, odolností proti poruchám a náklady jako sítě reálné infrastruktury - v tomto případě tokijský železniční systém. Základní mechanismy potřebné pro adaptivní tvorbu sítí lze zachytit v biologicky inspirovaném matematickém modelu, který může být užitečný pro řízení výstavby sítí v jiných oblastech.
+<big>Z abstraktu:</big>
+> Dopravní sítě jsou všudypřítomné jak v sociálních, tak v biologických systémech. Robustní výkonnost sítě zahrnuje složitý kompromis mezi 
+> náklady, efektivitou přenosu a odolností proti poruchám. Biologické sítě byly zdokonaleny mnoha cykly evolučního selekčního tlaku 
+> a pravděpodobně poskytují takovým kombinatorickým optimalizačním problémům rozumná řešení. Navíc se vyvíjejí bez centralizovaného řízení 
+> a mohou představovat snadno škálovatelné řešení pro rostoucí sítě obecně. Ukazujeme, že hlenka Vápenatka mnohohlavá vytváří sítě 
+> se srovnatelnou účinností, odolností proti poruchám a náklady jako sítě reálné infrastruktury - v tomto případě tokijský železniční systém. 
+> Základní mechanismy potřebné pro adaptivní tvorbu sítí lze zachytit v biologicky inspirovaném matematickém modelu, který může být užitečný 
+> pro řízení výstavby sítí v jiných oblastech.
 
-Když se zamyslíte nad náklady a složitostí takového infrastrukturního projektu, je docela vystřízlivující si uvědomit, že hlenka dokáže navrhnout lepší síť za jediný den.
+<big>Když se zamyslíte nad náklady a složitostí takového infrastrukturního projektu, je docela vystřízlivující si uvědomit, že hlenka 
+  dokáže navrhnout lepší síť za jediný den.</big>
 
-<b>Satoshi si sílu hlenek uvědomoval.</b>
+<big><b>Satoshi si sílu hlenek uvědomoval.</b></big>
 
-Bitcoin je nestátní peněžní statek, který posouvá složitost a rozhodování na okraj stejně jako houby. Postupem času tato decentralizace volného trhu umožňuje bitcoinu konkurovat různým zavedeným finančním systémům, které příliš nejdou s kůží na trh, trpí dilematem inovátora, časem křehnou a často se utápějí v byrokracii (nebo ještě hůře).
+<big>Bitcoin je nestátní peněžní statek, který posouvá složitost a rozhodování na okraj stejně jako houby. Postupem času tato decentralizace 
+  volného trhu umožňuje bitcoinu konkurovat různým zavedeným finančním systémům, které příliš nejdou s kůží na trh, trpí dilematem inovátora, 
+  časem křehnou a často se utápějí v byrokracii (nebo ještě hůře).</big>
 
 
 ### Život bez centrálního bodu selhání
 
-Mycelium nemá žádný "centrální řídící bod". Každá jednotlivá část může být odstraněna, ale systém jako celek přežije.
+<big>Mycelium nemá žádný "centrální řídící bod". Každá jednotlivá část může být odstraněna, ale systém jako celek přežije.</big>
 
-> "Jdeš-li po králi, střez se minout."
-Omar Little (<a href="https://en.wikipedia.org/wiki/The_Wire">The Wire</a>)
+> <b>"Jdeš-li po králi, střez se minout."</b>
+> <br>Omar Little (<a href="https://en.wikipedia.org/wiki/The_Wire">The Wire</a>)
 
-Národní státy a centrální banky čelí paradoxní výzvě. Pokud se pokusí svou konkurenci zničit, zdůrazní tím především samotnou potřebu bitcoinu. A přesto, čím déle budou čekat, tím silnější bitcoin bude.
+<big>Národní státy a centrální banky čelí paradoxní výzvě. Pokud se pokusí svou konkurenci zničit, zdůrazní tím především samotnou potřebu 
+  bitcoinu. A přesto, čím déle budou čekat, tím silnější bitcoin bude.</big>
 
-<b>Tvrzeni nevraživoství</b>
+<big><b>Tvrzeni nevraživoství</b></big>
 
-Mycelium i bitcoin přetrvávají v nejkonkurenčnějších ekosystémech naší planety a pro své přežití se musí neustále přizpůsobovat. Jdou s kůží na trh a utužují se nepřátelstvím.
+<big>Mycelium i bitcoin přetrvávají v nejkonkurenčnějších ekosystémech naší planety a pro své přežití se musí neustále přizpůsobovat. Jdou 
+  s kůží na trh a utužují se nepřátelstvím.</big>
 
-Houby žijí v nepřetržitém konkurenčním prostředí a neustále svádějí malé podzemní boje s různými bakteriemi, mikroby a konkurenčními houbami.
+<big>Houby žijí v nepřetržitém konkurenčním prostředí a neustále svádějí malé podzemní boje s různými bakteriemi, mikroby a konkurenčními houbami.</big>
 
-Pokud jeden myceliální "uzel" zaznamená predátora nebo kořist, pošle informaci "houbovým vědcům", kteří pak vytvoří nový enzym cílící přímo na dotyčného. Houbová síť tento nový enzym distribuuje tam, kde je to zapotřebí.
+<big>Pokud jeden myceliální "uzel" zaznamená predátora nebo kořist, pošle informaci "houbovým vědcům", kteří pak vytvoří nový enzym cílící 
+  přímo na dotyčného. Houbová síť tento nový enzym distribuuje tam, kde je to zapotřebí.</big>
 
-> Houbový fakt č. 2: Jako lidé využíváme léčivé látky vytvořené houbami. Nejslavnější je penicilin, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4520913/">náhodně objevený Alexanderem Flemingem</a>. Penicilín, který náhodně objevil Alexander Fleming. Penicilin se používal v boji proti bakteriálním epidemiím, které v minulosti decimovaly lidskou společnost. Od objevu penicilinu se naše populace ztrojnásobila.
+> Houbový fakt č. 2: Jako lidé využíváme léčivé látky vytvořené houbami. Nejslavnější je penicilin, 
+> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4520913/">náhodně objevený Alexanderem Flemingem</a>. Ten se používal v boji proti 
+> bakteriálním epidemiím, které v minulosti decimovaly lidskou společnost. Od objevu penicilinu se naše populace ztrojnásobila.
 
-Bitcoin reaguje na své okolí podobným způsobem. Jakmile jsou v systému nalezeny chyby/hrozby/příležitosti, informace putují k "bitcoinovým vědcům" (vývojářům), kteří vytvoří "enzym" ( softwarový patch) a tato aktualizace se šíří systémem. To umožňuje větší ekologickou úspěšnost i pro bitcoin. Bitcoin je antifragilní.
+<big>Bitcoin reaguje na své okolí podobným způsobem. Jakmile jsou v systému nalezeny chyby/hrozby/příležitosti, informace putují 
+  k "bitcoinovým vědcům" (vývojářům), kteří vytvoří "enzym" ( softwarový patch) a tato aktualizace se šíří systémem. To umožňuje větší 
+  ekologickou úspěšnost i pro bitcoin. Bitcoin je antifragilní.</big>
 
-***WHAT IS FUNGI APPROVAL PROCESS FOR UPDATES?***
+<big>Houby i bitcoiny časem zpevní svou obranu a naučí se konzumovat nové zdroje potravy. To má složený účinek, který časem zvyšuje 
+  antifragilitu i délku života.</big>
 
-Houby i bitcoiny časem zpevní svou obranu a naučí se konzumovat nové zdroje potravy. To má složený účinek, který časem zvyšuje antifragilitu i délku života.
-
-V jednom extrémním případě se podívejme na <a href="https://www.bbcearth.com/news/8-fantastic-facts-about-fungi">největší organismus na naší planetě, houbu václavku (Armillaria)</a>. Tento jediný organismus, který se nachází v Modrých horách ve východním Oregonu, měří přes 3,8 km. Jeho stáří se odhaduje na 1 900 až 8 650 let a v současné době pohlcuje celý les.
+<big>V jednom extrémním případě se podívejme na <a href="https://www.bbcearth.com/news/8-fantastic-facts-about-fungi">největší organismus 
+  na naší planetě, houbu václavku (Armillaria)</a>. Tento jediný organismus, který se nachází v Modrých horách ve východním Oregonu, měří 
+  přes 3,8 km. Jeho stáří se odhaduje na 1 900 až 8 650 let a v současné době pohlcuje celý les.</big>
 
 
 ### Konkurenční boj
 
-Houbové sítě kradou konkurenční výhody svým sousedům v podobě genetické informace, stejně jako bitcoin absorbuje konkurenční výhody, které nabízejí altcoiny.
+<big>Houbové sítě kradou konkurenční výhody svým sousedům v podobě genetické informace, stejně jako bitcoin absorbuje konkurenční výhody, 
+  které nabízejí altcoiny.</big>
 
-Existuje (mylné) přesvědčení lidí předpokládajících, že altcoiny budou implementovat skvělé nové funkce, které nakonec překonají bitcoin.
+<big>Existuje (mylné) přesvědčení lidí předpokládajících, že altcoiny budou implementovat skvělé nové funkce, které nakonec překonají bitcoin.</big>
 
-Opačný tábor se domnívá, že bitcoin nakonec absorbuje všechny nejlepší funkce poté, co budou otestovány na trhu, což způsobí, že alternativní měny nebudou schopny dlouhodobě konkurovat. Osobně se hlásím k tomuto táboru.
+<big>Opačný tábor se domnívá, že bitcoin nakonec absorbuje všechny nejlepší funkce poté, co budou otestovány na trhu, což způsobí, že alternativní měny nebudou schopny dlouhodobě konkurovat. Osobně se hlásím k tomuto názoru.
 
-<b>Podívejme se, jak ke své konkurenci přistupují houby...</b>
+<b>Podívejme se, jak ke své konkurenci přistupují houby...</b></big>
 
-Nejprve je třeba pochopit některé základní genetické poznatky. Geny se obvykle předávají z rodičů na potomky v rámci tzv. vertikálního přenosu genetické informace.
+<big>Nejprve je třeba pochopit některé základní genetické poznatky. Geny se obvykle předávají z rodičů na potomky v rámci tzv. vertikálního 
+  přenosu genetické informace.</big>
 
-Zajímavé je, že houby provádějí tzv. horizontální přenos genů - účinně přebírají genetickou informaci od různých druhů soupeřících v témže ekosystému.
+<big>Zajímavé je, že houby provádějí tzv. horizontální přenos genů - účinně přebírají genetickou informaci od různých druhů soupeřících 
+  v témže ekosystému.</big>
 
-Tento proces horizontálního přenosu genetické informace demonstrovaný houbami předznamenává budoucí stav, kdy bitcoin plošně integruje všechny osvědčené myšlenky pocházející z altcoinů.
+<big>Tento proces horizontálního přenosu genetické informace demonstrovaný houbami předznamenává budoucí stav, kdy bitcoin plošně integruje 
+  všechny osvědčené myšlenky pocházející z altcoinů.</big>
 
-<b>Například:</b> Kombinace rozšíření Lightning Joule Browser s nodou (spuštěním vlastní, použitím Casa nebo jinak) umožňuje mikrotransakce prostřednictvím prohlížeče. Tím se účinně eliminuje potřeba tokenů, jako je BAT.
+<big><b>Například:</b> Kombinace rozšíření Lightning Joule Browser s nodou (spuštěním vlastní, použitím Casa nebo jinak) umožňuje mikrotransakce prostřednictvím prohlížeče. Tím se účinně eliminuje potřeba tokenů, jako je BAT.</big>
 
-Dokonce byste mohli tvrdit, že bitcoin provádí horizontální přenos genů od doby, kdy Satoshi poprvé zkombinoval technologie používané v předchozích pokusech o elektronické peněžní systémy, jako jsou Hash Cash, E-gold atd.
+<big>Dokonce byste mohli tvrdit, že bitcoin provádí horizontální přenos genů od doby, kdy Satoshi poprvé zkombinoval technologie používané 
+  v předchozích pokusech o elektronické peněžní systémy, jako jsou Hash Cash, E-gold atd.</big>
 
 
 ### Arbitráž, pobídky a jejich uplatnění v ekologii
 
-Houby plní na Zemi dvě ekologické funkce: recyklují veškerou hmotu na základní prvky a fungují jako imunitní systém naší planety.
+<big>Houby plní na Zemi dvě ekologické funkce: recyklují veškerou hmotu na základní prvky a fungují jako imunitní systém naší planety.</big>
 
-> "Mycelia jsou velkolepými rozkládači přírody"
-Paul Stamets
+> <b>"Mycelia jsou velkolepými rozkládači přírody."</b>
+> <br>Paul Stamets
 
-Houby tráví své dny tichým rozkladem organických látek. Přeměňují kameny, větve, listí, uhynulá zvířata a ropné skvrny na základní prvky (uhlík, dusík, kyslík atd.). Tyto cenné prvky pak houby vyměňují s okolními organismy.
+<big>Houby tráví své dny tichým rozkladem organických látek. Přeměňují kameny, větve, listí, uhynulá zvířata a ropné skvrny na základní prvky 
+  (uhlík, dusík, kyslík atd.). Tyto cenné prvky pak houby vyměňují s okolními organismy.</big>
 
 > Houbový fakt č. 3: Naše lesy by byly pohřbeny stovkami metrů listí a větví, kdyby je houby nerozkládaly a nedistribuovaly živiny.
 
-Jinými slovy, houby odemykají nevyužité zdroje. Strom nemůže znovu použít své vlastní listy nebo větve, protože uhlík, dusík a fosfor jsou uzamčeny v nepoužitelné formě. Houby tak využívají arbitrážní příležitosti ve svém ekosystému.
+<big>Jinými slovy, houby odemykají nevyužité zdroje. Strom nemůže znovu použít své vlastní listy nebo větve, protože uhlík, dusík a fosfor 
+  jsou uzamčeny v nepoužitelné formě. Houby tak využívají arbitrážní příležitosti ve svém ekosystému.</big>
 
 
 ### Bitcoin díky mechanismu proof of work uvolňuje nevyužité zdroje v podobě energie
 
-se pustíme do bitcoinu, prozkoumejme fascinující historický příklad: Jak se používal hliník k "vývozu nevyužité obnovitelné energie" ze země, jako je Island.
+<big>Než se pustíme do bitcoinu, prozkoumejme fascinující historický příklad: Jak se používal hliník k "vývozu nevyužité obnovitelné energie" 
+  ze země, jako je Island.</big>
 
-Island vyrábí obnovitelnou geotermální energii, často na odlehlých místech. To vede k nadměrné nabídce, která nedokáže dosáhnout k poptávce (energie se špatně přepravuje na velké vzdálenosti).
+<big>Island vyrábí obnovitelnou geotermální energii, často na odlehlých místech. To vede k nadměrné nabídce, která nedokáže dosáhnout 
+  k poptávce (energie se špatně přepravuje na velké vzdálenosti).</big>
 
-Island využil přebytek energie k výrobě hliníku, což je energeticky velmi náročný proces. Island účinně přeměňuje přebytečnou energii na trvalou zásobu hodnoty (hliník), kterou lze vyvážet.
+<big>Island využil přebytek energie k výrobě hliníku, což je energeticky velmi náročný proces. Island účinně přeměňuje přebytečnou energii 
+  na trvalou zásobu hodnoty (hliník), kterou lze vyvážet.</big>
 
-Bitcoin dělá totéž. Místo nevyužité energie "ležící ladem" mohou její výrobci těžit bitcoin (nebo jen prodávat přebytečnou energii těžařům). I to umožňuje přeměnit přebytečnou produkci energie na trvalé uchování hodnoty. Efektem druhého řádu je, že bitcoin účinně dotuje projekty obnovitelné energie.
+<big>Bitcoin dělá totéž. Místo nevyužité energie "ležící ladem" mohou její výrobci těžit bitcoin (nebo jen prodávat přebytečnou energii těžařům). 
+  I to umožňuje přeměnit přebytečnou produkci energie na trvalé uchování hodnoty. Efektem druhého řádu je, že bitcoin účinně dotuje projekty 
+  obnovitelné energie.</big>
 
-Chcete-li tento koncept prozkoumat podrobněji, podívejte se na článek Dana Helda: <a href ="https://danhedl.medium.com/pow-is-efficient-aa3d442754d3">PoW is Efficient</a>.
+<big>Chcete-li tento koncept prozkoumat podrobněji, podívejte se na článek Dana Helda: <a href ="https://danhedl.medium.com/pow-is-efficient-aa3d442754d3">PoW is Efficient</a>.</big>
 
-> Houbový fakt č. 4: Houby pojídající horniny jsou hlavním důvodem, proč máme svrchní vrstvu půdy, jež nám umožňuje pěstovat potraviny. Houbám trvalo více než 1 miliardu let, než vytvořily jen asi 18 palců dnešní ornice.
+> Houbový fakt č. 4: Houby pojídající horniny jsou hlavním důvodem, proč máme svrchní vrstvu půdy, jež nám umožňuje pěstovat potraviny. 
+> Houbám trvalo více než 1 miliardu let, než vytvořily jen asi 18 palců dnešní ornice.
 
 
 ### Houby (a bitcoin) jsou ekologické imunitní systémy
 
-Houby jsou imunitním systémem jak vlastních ekosystémů, tak celé planety.
+<big>Houby jsou imunitním systémem jak vlastních ekosystémů, tak celé planety.</big>
 
-Houby produkují léčivé látky a chrání své ekosystémy prostřednictvím složitých symbiotických vztahů. Houby si v podzemí zprostředkovávají zdroje (prostřednictvím mycelia) mezi jednotlivými druhy, aby zajistily zdraví celého ekosystému.
+<big>Houby produkují léčivé látky a chrání své ekosystémy prostřednictvím složitých symbiotických vztahů. Houby si v podzemí zprostředkovávají 
+  zdroje (prostřednictvím mycelia) mezi jednotlivými druhy, aby zajistily zdraví celého ekosystému.</big>
 
-<b>Jak spolu stromy v lese tajně mluví</b>
+<big><b>Jak spolu stromy v lese tajně mluví</b></big>
 
-O čem stromy mluví? V kanadských lesích douglasky tisolisté se podívejte, jak spolu stromy navzájem "mluví" vytvářením...
+<big>O čem stromy mluví? V kanadských lesích douglasky tisolisté se podívejte, jak spolu stromy navzájem "mluví" vytvářením...</big>
 
-VID 04
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="0744260-04-nat-geo-video-ipod-pt-1-.mp4" type="video/mp4">
 <!--  <source src="movie.ogg" type="video/ogg">-->
 Your browser does not support the video tag.
 </video>
 
-Zjednodušeně řečeno, houby v podzemí těží minerály stromům výměnou za cukry (potravu), které stromy produkují prostřednictvím fotosyntézy. Stromy tak získávají zvýšenou ochranu před útočníky a důležité minerální látky, které si samy nedokážou najít. Přemýšleli jste někdy o tom, jak může mladý dub přežít na lesním podloží, kam se nedostane sluneční světlo?
+<big>Zjednodušeně řečeno, houby v podzemí těží minerály stromům výměnou za cukry (potravu), které stromy produkují prostřednictvím fotosyntézy. 
+  Stromy tak získávají zvýšenou ochranu před útočníky a důležité minerální látky, které si samy nedokážou najít. Přemýšleli jste někdy o tom, 
+  jak může mladý dub přežít na lesním podloží, kam se nedostane sluneční světlo?</big>
 
-Každý organismus zapojený do tohoto sdíleného systému incentiv zlepšuje evoluční kondici lesa. Věřím, že lesy jsou živé superorganismy složené z různých druhů.
+<big>Každý organismus zapojený do tohoto sdíleného systému incentiv zlepšuje evoluční kondici lesa. Věřím, že lesy jsou živé superorganismy 
+  složené z různých druhů.</big>
 
 
 ### Bitcoin plní podobnou ekologickou roli
 
-IMG 05 pomp
+<p style="text-align:center;"><img src="0744260-05-pomp.png" alt=""></p>
 
-Trh vysílá bitcoinu signály, aby vytvářel funkcionality, které vyhoví neuspokojeným požadavkům nebo vylepší bezpečnost, jakmile se objeví nové hrozby.
+<big>Trh vysílá bitcoinu signály, aby vytvářel funkcionality, které vyhoví neuspokojeným požadavkům nebo vylepší bezpečnost, jakmile se objeví nové hrozby.
+<br>- Poptávka po block space naroste nad kapacitu a vznikne síť Lightning Network.
+<br>- Čína potlačuje burzy, LocalBitcoins.com vzkvétá.
+<br>- Měny ve Venezuele, Turecku a Argentině podléhají hyperinflaci, bitcoin nastupuje jako nestátní úložiště hodnoty.
+<br>- Blockstream spouští satelity schopné vysílat bitcoinové transakce, aby zmírnil dopady katastrofických událostí.</big>
 
-- Poptávka po block space naroste nad kapacitu a vznikne síť Lightning Network.
-- Čína potlačuje burzy, LocalBitcoins.com vzkvétá.
-- Měny ve Venezuele, Turecku a Argentině podléhají hyperinflaci, bitcoin nastupuje jako nestátní úložiště hodnoty.
-- Blockstream spouští satelity schopné vysílat bitcoinové transakce, aby zmírnil dopady katastrofických událostí.
+<big><b>Kladná zpětná vazba</b></big>
 
-<b>Kladná zpětná vazba</b>
+<big>Bitcoin také získává z vyrovnaných pobídek mezi uživateli, full nody, těžaři, burzami a obchodníky. Jak se bitcoin lépe přizpůsobuje 
+  svému prostředí, lépe splňuje požadavky svých rostoucích uživatelů, což následně přitahuje další účastníky. Tato pozitivní zpětná vazba 
+  podporuje udržitelný růst sítě.</big>
 
-Bitcoin také získává z vyrovnaných pobídek mezi uživateli, full nody, těžaři, burzami a obchodníky. Jak se bitcoin lépe přizpůsobuje svému prostředí, lépe splňuje požadavky svých rostoucích uživatelů, což následně přitahuje další účastníky sítě. Tato pozitivní zpětná vazba podporuje udržitelný růst sítě.
+<big>Stejně jako houba václavka, která pohlcuje celé lesy v Oregonu, i bitcoin se postupem času zvětšuje a sílí.</big>
 
-Stejně jako houba václavka, která pohlcuje celé lesy v Oregonu, i bitcoin se postupem času zvětšuje a sílí.
-
-> Houbový fakt č. 5: Při psaní převážné části této eseje jsem konzumoval medicinální houby používané pro zlepšení kognitivních funkcí (Lions Mane, Chaga a Cordyceps).
-
+> Houbový fakt č. 5: Při psaní převážné části této eseje jsem konzumoval medicinální houby používané pro zlepšení kognitivních 
+> funkcí (Lions Mane, Chaga a Cordyceps).
 
 
 ## ---
