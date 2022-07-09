@@ -22,8 +22,8 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> / Translated @7442
   ctí vás zasvětit do fascinujícího světa hub.</big>
   
 *<b>Polymatická odpovědnost:</b>b> Jsem přesvědčen, že stejně jako Satoshi spojil jednotlivé obory, aby dal dohromady technologii, které 
-říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum hub a bitcoinu 
-- paralely jsou ohromující.*
+říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum 
+hub a bitcoinu - paralely jsou ohromující.*
 
 
 ## Kapitola 1: Bitcoin je decentralizovaný organismus (mycelium)
