@@ -26,7 +26,7 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> / Translated @7442
 hub a bitcoinu - paralely jsou ohromující.*
 
 
-## Kapitola 1: Bitcoin je decentralizovaný organismus (mycelium)
+# Kapitola 1: Bitcoin je decentralizovaný organismus (mycelium)
 
 <big>Na první pohled bitcoin vypadá jednoduše, ale pochopit tento systém je náročný úkol.</big>
 
@@ -60,7 +60,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 > <br>Paul Stamets, Mycelium Running: How Mushrooms Can Help Save the World
 
 
-### Úvod do hub
+## Úvod do hub
 
 <big>Houby patří do samostatné říše stejně jako rostliny a živočichové. Existuje více druhů hub než rostlin a živočichů dohromady.</big>
 
@@ -86,7 +86,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 <br>- Houby jsou schopné zachránit včely</big>
 
 
-### Houby jsou decentralizované inteligentní sítě
+## Houby jsou decentralizované inteligentní sítě
 
 <big>Houbové sítě nemají centralizovaný "mozek". Místo toho tvoří jednobuněčný "kořenový systém" zvaný mycelium. Tento podzemní žaludek 
   a distribuovaná inteligentní síť je schopna obousměrně posílat informace na velké vzdálenosti a dokonce i napříč druhy. Tyto houbové 
@@ -106,7 +106,7 @@ hub a bitcoinu - paralely jsou ohromující.*
   kosmická pavučina vesmíru</small>
 
 
-### Decentralizované sítě jsou starší než lidstvo
+## Decentralizované sítě jsou starší než lidstvo
 
 <big>Decentralizované sítě existovaly již dávno před příchodem lidí. Ve skutečnosti houby úspěšně zavádějí takové systémy již 1,3 miliardy let, 
   což z nich činí nejúspěšnější říši planety.</big>
@@ -120,7 +120,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 <big>Archetypem decentralizované sítě je <a href="https://en.wikipedia.org/wiki/Lindy_effect">Lindy</a>.</big>
 
 
-### Během miliardy let evoluce se houby staly mistry v přežití
+## Během miliardy let evoluce se houby staly mistry v přežití
 
 <big>Houby jsou jedinečně přizpůsobivé a neustále přežívají hromadná vymírání druhů.</big>
 
@@ -134,7 +134,7 @@ hub a bitcoinu - paralely jsou ohromující.*
   (neuspokojenou poptávku) a nepotřebuje vládní podporu. V případě masového vymírání peněz bitcoin "zdědí Zemi".</big>
 
 
-### Japonská vláda vs. pokorné hlenky
+## Japonská vláda vs. pokorné hlenky
 
 <big>Ať už jde o centrální banky, které se snaží řídit ekonomiku, nebo o hierarchické korporace, které se snaží v informačním věku maximalizovat hodnotu... Centrální plánování má mnoho chyb.</big>
 
@@ -149,7 +149,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 
 <big>Po krátké době se hlenka rozrostla a propojila všechny uzly/zastávky v efektivnějším designu než centrálně plánovaná komise inženýrů najatých japonskou vládou.</big>
 
-<p style="text-align:center;"><img src="0744260-03-Tokio.jpeg" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0744260-03-Tokio.jpeg" alt=""></p>
 <small>Hlenka navrhující systém tokijského metra</small>
 
 <big>Z abstraktu:</big>
@@ -171,7 +171,7 @@ hub a bitcoinu - paralely jsou ohromující.*
   časem křehnou a často se utápějí v byrokracii (nebo ještě hůře).</big>
 
 
-### Život bez centrálního bodu selhání
+## Život bez centrálního bodu selhání
 
 <big>Mycelium nemá žádný "centrální řídící bod". Každá jednotlivá část může být odstraněna, ale systém jako celek přežije.</big>
 
@@ -207,16 +207,16 @@ hub a bitcoinu - paralely jsou ohromující.*
   přes 3,8 km. Jeho stáří se odhaduje na 1 900 až 8 650 let a v současné době pohlcuje celý les.</big>
 
 
-### Konkurenční boj
+## Konkurenční boj
 
 <big>Houbové sítě kradou konkurenční výhody svým sousedům v podobě genetické informace, stejně jako bitcoin absorbuje konkurenční výhody, 
   které nabízejí altcoiny.</big>
 
 <big>Existuje (mylné) přesvědčení lidí předpokládajících, že altcoiny budou implementovat skvělé nové funkce, které nakonec překonají bitcoin.</big>
 
-<big>Opačný tábor se domnívá, že bitcoin nakonec absorbuje všechny nejlepší funkce poté, co budou otestovány na trhu, což způsobí, že alternativní měny nebudou schopny dlouhodobě konkurovat. Osobně se hlásím k tomuto názoru.
+<big>Opačný tábor se domnívá, že bitcoin nakonec absorbuje všechny nejlepší funkce poté, co budou otestovány na trhu, což způsobí, že alternativní měny nebudou schopny dlouhodobě konkurovat. Osobně se hlásím k tomuto názoru.</big>
 
-<b>Podívejme se, jak ke své konkurenci přistupují houby...</b></big>
+<big><b>Podívejme se, jak ke své konkurenci přistupují houby...</b></big>
 
 <big>Nejprve je třeba pochopit některé základní genetické poznatky. Geny se obvykle předávají z rodičů na potomky v rámci tzv. vertikálního 
   přenosu genetické informace.</big>
@@ -233,7 +233,7 @@ hub a bitcoinu - paralely jsou ohromující.*
   v předchozích pokusech o elektronické peněžní systémy, jako jsou Hash Cash, E-gold atd.</big>
 
 
-### Arbitráž, pobídky a jejich uplatnění v ekologii
+## Arbitráž, pobídky a jejich uplatnění v ekologii
 
 <big>Houby plní na Zemi dvě ekologické funkce: recyklují veškerou hmotu na základní prvky a fungují jako imunitní systém naší planety.</big>
 
@@ -249,7 +249,7 @@ hub a bitcoinu - paralely jsou ohromující.*
   jsou uzamčeny v nepoužitelné formě. Houby tak využívají arbitrážní příležitosti ve svém ekosystému.</big>
 
 
-### Bitcoin díky mechanismu proof of work uvolňuje nevyužité zdroje v podobě energie
+## Bitcoin díky mechanismu proof of work uvolňuje nevyužité zdroje v podobě energie
 
 <big>Než se pustíme do bitcoinu, prozkoumejme fascinující historický příklad: Jak se používal hliník k "vývozu nevyužité obnovitelné energie" 
   ze země, jako je Island.</big>
@@ -270,7 +270,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 > Houbám trvalo více než 1 miliardu let, než vytvořily jen asi 18 palců dnešní ornice.
 
 
-### Houby (a bitcoin) jsou ekologické imunitní systémy
+## Houby (a bitcoin) jsou ekologické imunitní systémy
 
 <big>Houby jsou imunitním systémem jak vlastních ekosystémů, tak celé planety.</big>
 
@@ -282,7 +282,7 @@ hub a bitcoinu - paralely jsou ohromující.*
 <big>O čem stromy mluví? V kanadských lesích douglasky tisolisté se podívejte, jak spolu stromy navzájem "mluví" vytvářením...</big>
 
 <video width="320" height="240" controls>
-  <source src="0744260-04-nat-geo-video-ipod-pt-1-.mp4" type="video/mp4">
+  <source src="./pics/0744260-04-nat-geo-video-ipod-pt-1-.mp4" type="video/mp4">
 <!--  <source src="movie.ogg" type="video/ogg">-->
 Your browser does not support the video tag.
 </video>
@@ -295,9 +295,9 @@ Your browser does not support the video tag.
   složené z různých druhů.</big>
 
 
-### Bitcoin plní podobnou ekologickou roli
+## Bitcoin plní podobnou ekologickou roli
 
-<p style="text-align:center;"><img src="0744260-05-pomp.png" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0744260-05-pomp.png" alt=""></p>
 
 <big>Trh vysílá bitcoinu signály, aby vytvářel funkcionality, které vyhoví neuspokojeným požadavkům nebo vylepší bezpečnost, jakmile se objeví nové hrozby.
 <br>- Poptávka po block space naroste nad kapacitu a vznikne síť Lightning Network.
