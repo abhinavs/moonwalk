@@ -102,9 +102,9 @@ hub a bitcoinu - paralely jsou ohromující.*
   které transakce mají být zahrnuty do bloků. Burzy, peněženky a obchodníci spravují velké skupiny uživatelů. Každý účastník bitcoinu se dobrovolně 
   rozhoduje, jakým způsobem se chce zapojit, a souhrnný konsensus představuje síť.</big>
 
-<p style="text-align:center;"><img src="./pics/0744260-02-networx.png" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0744260-02-networx.png" alt=""><br>
 <small>Zleva: lidské srdce, blesky, lidský mozek, mycelium, kořeny stromu, Velký Kaňon z leteckého záběru, větve stromu, vesmírná, 
-  kosmická pavučina vesmíru</small>
+  kosmická pavučina vesmíru</small></p>
 
 
 ## Decentralizované sítě jsou starší než lidstvo
@@ -150,8 +150,8 @@ hub a bitcoinu - paralely jsou ohromující.*
 
 <big>Po krátké době se hlenka rozrostla a propojila všechny uzly/zastávky v efektivnějším designu než centrálně plánovaná komise inženýrů najatých japonskou vládou.</big>
 
-<p style="text-align:center;"><img src="./pics/0744260-03-Tokio.jpeg" alt=""></p>
-<small>Hlenka navrhující systém tokijského metra</small>
+<p style="text-align:center;"><img src="./pics/0744260-03-Tokio.jpeg" alt=""><br>
+<small>Hlenka navrhující systém tokijského metra</small></p>
 
 <big>Z abstraktu:</big>
 > Dopravní sítě jsou všudypřítomné jak v sociálních, tak v biologických systémech. Robustní výkonnost sítě zahrnuje složitý kompromis mezi 
