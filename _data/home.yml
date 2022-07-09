@@ -16,15 +16,15 @@ navbar_entries:
 #    url: https://sifrant.github.io/21lekci
 
 project_entries:
-  - title: Bitcoin je mycelium peněz 
+  - title: Bitcoin je mycelium peněz 1 /4
     url: ./posts/0744260-mycelium-I
     desc: 744260 / original @bquittem
-    highlight: NEW
+    highlight: *NEW*
 
   - title: Bitcoin je čas 
     url: ./posts/0740913-btc-je-cas
     desc: 740913 / original 666053 @dergigi
-    highlight: NEW
+    highlight: *NEW*
 
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
@@ -48,7 +48,7 @@ project_entries:
   - title: 21 lekcí z překladu 21 lekcí
     url: ₿rzy
     desc: 789101 / @nekonecnik
-    highlight: ₿rzy
+    highlight: *₿rzy*
 
   - title: Bitcoin Astronomy I /III
     url: ₿rzy
