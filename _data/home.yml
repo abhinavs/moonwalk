@@ -3,7 +3,7 @@ navbar_entries:
     url: https://twentyone.world/
     
   - title: plnotučných 
-           textů o Bitcoinu
+           textů o bitcoinu
     url: https://sifrant.github.io/jednadvacet
       
   - title: 21 lekcí 🕳️ 🐰
@@ -125,7 +125,7 @@ project_entries:
 old_project_entries:
   - title: PODCAST stackuj.cz
     url: https://stackuj.cz/podcast.html
-    desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
+    desc: </a>Nejlepší 🇨🇿 bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
 #    highlight: NEW
 
 #  - title: Der Gigi 🙏🏻 🧡
