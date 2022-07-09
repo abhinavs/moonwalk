@@ -15,6 +15,26 @@ navbar_entries:
 #  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
 #    url: https://sifrant.github.io/21lekci
 
+
+old_project_entries:
+  - title: PODCAST stackuj.cz
+    url: https://stackuj.cz/podcast.html
+    desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
+#    highlight: NEW
+
+#  - title: Der Gigi 🙏🏻 🧡
+#    url: https://dergigi.com/
+#    desc: FOSS entity of ethereal body & ₿itcoin mind
+
+  - title: Braiins Publishing 📙
+    url: https://braiins.com/category/publishing
+    desc: Publikační aktivita miningových OGs 
+
+  - title: 🛂 liberation.travel 🛃
+    url: https://liberation.travel
+    desc: </a>Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
+
+
 project_entries:
   - title: Bitcoin je mycelium peněz 1 /4
     url: ./posts/0744260-mycelium-I
@@ -120,24 +140,7 @@ project_entries:
 #    desc: It also has a scalable vertical list (in case you need it)
 #    highlight: TDB
 
-
-old_project_entries:
-  - title: PODCAST stackuj.cz
-    url: https://stackuj.cz/podcast.html
-    desc: </a>Nejlepší 🇨🇿 Bitcoinový podcast od <a href="https://twitter.com/SatsJoseph">@SatsJoseph</a> 
-#    highlight: NEW
-
-#  - title: Der Gigi 🙏🏻 🧡
-#    url: https://dergigi.com/
-#    desc: FOSS entity of ethereal body & ₿itcoin mind
-
-  - title: Braiins Publishing 📙
-    url: https://braiins.com/category/publishing
-    desc: Publikační aktivita miningových OGs 
-
-  - title: 🛂 liberation.travel 🛃
-    url: https://liberation.travel
-    desc: </a>Trochu jiná cestovka od <a href="https://twitter.com/wilderko">@wilderko</a>
+# old_project_entries:
 
 #  - title: juraj.bednar.io 🧠 
 #    url: https://juraj.bednar.io/
