@@ -16,6 +16,16 @@ navbar_entries:
 #    url: https://sifrant.github.io/21lekci
 
 project_entries:
+  - title: Bitcoin je mycelium peněz 
+    url: ./posts/0744260-mycelium-I
+    desc: 744260 / original @bquittem
+    highlight: NEW
+
+  - title: Bitcoin je čas 
+    url: ./posts/0740913-btc-je-cas
+    desc: 740913 / original 666053 @dergigi
+    highlight: NEW
+
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
     desc: 739884 / original 623774 @dergigi
@@ -35,34 +45,19 @@ project_entries:
     url: ./posts/0742718-nobody
     desc: 742718 / original 456745 @lopp
 
-  - title: Bitcoin je čas 
-    url: ./posts/0740913-btc-je-cas
-    desc: 740913 / original 666053 @dergigi
-    highlight: NEW
-
   - title: 21 lekcí z překladu 21 lekcí
     url: ₿rzy
     desc: 789101 / @nekonecnik
-    highlight: ???
+    highlight: ₿rzy
 
-#  - title: Bitcoin Astronomy I /III
-#    url: ₿rzy
-#    desc: 75xxxx / original Sep13/2019 @dhruvbansal
+  - title: Bitcoin Astronomy I /III
+    url: ₿rzy
+    desc: 76xxxx / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
 
-#  - title: Project 7
-#    url: overview-post
-#    desc: It also has a scalable vertical list (in case you need it)
-#    highlight: TDB
-#
-#  - title: Project 8
-#    url: overview-post
-#    desc: It also has a scalable vertical list (in case you need it)
-#    highlight: TDB
-#
-#  - title: Project 9
-#    url: overview-post
-#    desc: It also has a scalable vertical list (in case you need it)
+  - title: ???
+    url: overview-post
+    desc: 78xxxx
 #    highlight: TDB
 #
 #  - title: Project 10
