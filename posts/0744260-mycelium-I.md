@@ -18,7 +18,7 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a>
 <big>Toto je PRVNÍ KAPITOLA za série bitcoin+houby. Mám více nepublikovaných materiálů, měl bych z toho udělat knihu? Dejte mi vědět 
   na twitteru, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? Zaregistrujte se zde.</big>
   
-<big>Musím pochválit Dana Helda za vydání jeho čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
+<big>Musím ocenit Dana Helda za vydání jeho čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
   seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi 
   ctí vás zasvětit do fascinujícího světa hub.</big>
   
