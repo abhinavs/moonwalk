@@ -9,7 +9,7 @@ This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoi
 by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
 <br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
-# Bitcoin je myceliem peněz
+# Bitcoin je myceliem peněz 2 /4
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt="">
 <small>Image credit: John Upton</small></p>
 
