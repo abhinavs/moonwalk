@@ -14,20 +14,6 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a>
 <small>Image credit: John Upton</small></p>
 
 
-## Předmluva
-
-<big>Toto je DRUHÁ KAPITOLA za série bitcoin+houby. Mám více nepublikovaných materiálů, měl bych z toho udělat knihu? Dejte mi vědět 
-  na twitteru, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? Zaregistrujte se zde.</big>
-  
-<big>Musím ocenit Dana Helda za vydání čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
-  seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi 
-  ctí vás zasvětit do fascinujícího světa hub.</big>
-  
-*<b>Polymatická odpovědnost:</b> Jsem přesvědčen, že stejně jako Satoshi spojil jednotlivé obory, aby dal dohromady technologii, které 
-říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum 
-hub a bitcoinu - paralely jsou ohromující.*
-
-
 # Kapitola 2: Bitcoin jako sociální fenomén (houba - plodnice)
 
 Zkoumání hype cyklů, etnomykologie a Satoshiho kultu
