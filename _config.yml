@@ -2,8 +2,9 @@ title: jednadvaCZet
 author: sifrant
 url: https://sifrant.github.io/jednadvacet # root address of the site
 description: > # description of the site (multiple lines allowed)
-  <big>Na této stránce postupně nabídnu váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu 
-  přeložených kompletně do češtiny. Nějakou dobu potrvá, než se bonboniéra jednotlivými dobrotami naplní. 
+  <big>Na této stránce postupně nabízím váženému čtenáři 21 kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu 
+  přeložených kompletně do češtiny. Tyoy články, eseje a další formáty zabírají řádově desítky minut k přečtení (a další 
+  desítky minut k přemýšlení) Nějakou dobu potrvá, než se bonboniéra jednotlivými dobrotami naplní. 
   Uvažte však, že se zde bavíme o neposkrněném početí nové formy života 🧡 </big>
 
 permalink: /:slug
