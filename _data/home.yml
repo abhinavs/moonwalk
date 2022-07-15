@@ -17,15 +17,20 @@ navbar_entries:
 
 
 project_entries:
+  - title: Bitcoin je myceliem peněz 2 /4
+    url: ./posts/0745093-mycelium-II
+    desc: 744260 / original @bquittem
+    highlight: -NEW-
+
   - title: Bitcoin je myceliem peněz 1 /4
     url: ./posts/0744260-mycelium-I
     desc: 744260 / original @bquittem
-    highlight: -NEW-
+#    highlight: -NEW-
 
   - title: Bitcoin je čas 
     url: ./posts/0740913-btc-je-cas
     desc: 740913 / original 666053 @dergigi
-    highlight: -NEW-
+#    highlight: -NEW-
 
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
@@ -56,9 +61,9 @@ project_entries:
     desc: 777777 / original Sep13/2019 @dhruvbansal
 #    highlight: ₿rzy
 
-  - title: ???
-    url: ./ticktock
-    desc: 789101 / ???
+#  - title: ???
+#    url: ./ticktock
+#    desc: 789101 / ???
 #    highlight: TDB
 #
 #  - title: Project 10
