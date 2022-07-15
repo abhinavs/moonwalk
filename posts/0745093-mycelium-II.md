@@ -9,8 +9,8 @@ This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoi
 by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
 <br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
-# Bitcoin je myceliem peněz 2 /4
 
+# Bitcoin je myceliem peněz
 
 
 # Kapitola 2: Bitcoin jako sociální fenomén (houba - plodnice)
