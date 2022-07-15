@@ -10,13 +10,14 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a>
 <br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz 2 /4
-<p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt="">
-<small>Image credit: John Upton</small></p>
+
 
 
 # Kapitola 2: Bitcoin jako sociální fenomén (houba - plodnice)
+*Zkoumání hype cyklů, etnomykologie a Satoshiho kultu*
 
-Zkoumání hype cyklů, etnomykologie a Satoshiho kultu
+<p style="text-align:center;"><img src="./pics/0745093-05x-Giblett.png" alt="">
+  <small>Original Artwork by <a href="http://www.richardgiblett.com.au/2dworks.html">Richard Giblett</a></small></p>
 
 V první části jsme zkoumali decentralizovanou architekturu bitcoinu z pohledu mycelia. Věnovali jsme se archetypu decentralizované sítě, antifragilitě, PoW, arbitráži, roli bitcoinu v jeho ekosystému a přednostem decentralizace.
 
@@ -34,7 +35,8 @@ Ponořme se do toho!
 Bitcoin se skládá z jednotlivých účastníků, z nichž každý má vlastní pohled na věc, motivace a schopnosti. Společně vytvářejí konsensus na pravidlech bitcoinové hry. Kód tuto společenskou shodu pouze ratifikuje.
 
 Z Hasuova zásadního článku Unpacking Bitcoin's Social Contract:
-> "Bitcoinový protokol automatizuje smlouvu odshouhlasenou na sociální vrstvě, zatímco sociální vrstva určuje pravidla bitcoinu na základě konsensu jeho uživatelů. Jsou v symbióze: jedno bez druhého by nepostačovalo."
+> "Bitcoinový protokol automatizuje smlouvu odshouhlasenou na sociální vrstvě, zatímco sociální vrstva určuje pravidla bitcoinu na základě 
+> konsensu jeho uživatelů. Jsou v symbióze: jedno bez druhého by nepostačovalo."
 
 Lidé jsou chaotické, emocionální a předvídatelně iracionální bytosti. Bitcoin, který je tvořen sítí lidí, není jiný.
 
