@@ -12,6 +12,10 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a>
 
 # Bitcoin je myceliem peněz
 
+*<b>Polymatická odpovědnost:</b> Jsem přesvědčen, že stejně jako Satoshi spojil jednotlivé obory, aby dal dohromady technologii, které 
+říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum 
+hub a bitcoinu - paralely jsou ohromující.*
+
 
 # Kapitola 2: Bitcoin jako sociální fenomén (houba - plodnice)
 *Zkoumání hype cyklů, etnomykologie a Satoshiho kultu*
