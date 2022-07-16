@@ -50,7 +50,7 @@ Jak včely cestují, roznášejí roztoče na všechny včely v okolí, což ved
 Včely jsou zásadním druhem, který je zodpovědný za opylování velkého procenta našich potravin (avokádo, mandle atd.). Pokud o včely 
 přijdeme, bude to mít nespočet následných dopadů, jako je ztráta pracovních míst, zničené ekosystémy a snížená potravinová bezpečnost.
 
-<p style="text-align:center;"><img src="./pics/0746280-14-bcell.png" alt="">
+<p style="text-align:center;"><img src="./pics/0746280-15-shop.png" alt="">
 <small><a href="https://www.planetbee.org/planet-bee-blog//no-bees-no-dinner-2">zdroj obrázku</a></small></p>
 
 Vraťme se k našemu mykologovi Paulovi, který v roce 2012 přišel s monumentálním zjištěním: je známo, že houby podporují imunitní 
