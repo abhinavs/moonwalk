@@ -34,7 +34,7 @@ V této části se budeme zabývat bitcoinem jako katalyzátorem lidské evoluce
 > očkatí a mořské sasanky
 
 
-## Start života na Terra Incognita
+## Počátek života na Terra Incognita
 
 Před pěti sty miliony let žil veškerý biologický život v oceánech. Souš, jak ji známe, byla sterilní sopečnou pustinou bez života. Tedy 
 až do chvíle, kdy rostliny a houby uzavřely osudové partnerství, které navždy změnilo běh dějin.
