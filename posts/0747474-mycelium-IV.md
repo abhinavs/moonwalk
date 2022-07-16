@@ -371,7 +371,7 @@ To podněcuje inovace v oblasti výroby levné energie, jako u přebytečného z
 Hash rate neustále roste, a to i v případě, že se cena nezvyšuje. Těžaři bitcoinu jsou ze své podstaty long na BTC. Vědí těžaři něco, 
 co vy nevíte? Místo strkání hlavy do písku je čas pohlédnout realitě do očí.
 
-<p style="text-align:center;"><img src="./pics/0747474-21-Frits.png" alt="">
+<p style="text-align:center;"><img src="./pics/0747474-24-hashrate.png" alt="">
   <small>Hash rate bitcoinu stále roste (<a href="https://bitcoinvisuals.com/chain-hash-rate">zdroj</a>)</small></p>
 
 Předpokládejme, že Bitcoin bude pokračovat ve své monetizaci. Nakonec se těžba bitcoinu stane otázkou národní bezpečnosti. Země, které 
