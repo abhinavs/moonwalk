@@ -73,8 +73,23 @@ project_entries:
 
   - title: Bitcoin Astronomy I /III
     url: ./ticktock
-    desc: 777777 / original Sep13/2019 @dhruvbansal
+    desc: 757575 / original Sep13/2019 @dhruvbansal
     highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy II /III
+#    url: ./ticktock
+#    desc: 767676 / original Mar08/2021 @dhruvbansal
+#    highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy III /III
+#    url: ./ticktock
+#    desc: 770077 / original Sep13/2019 @dhruvbansal
+#    highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy
+#    url: ./ticktock
+#    desc: 777777 / original 2019-2021 @dhruvbansal
+#    highlight: ₿rzy
 
 #  - title: ???
 #    url: ./ticktock
