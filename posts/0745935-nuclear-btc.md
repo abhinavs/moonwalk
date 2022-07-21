@@ -15,7 +15,9 @@ by <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres, published
 
 Představme si jadernou elektrárnu, která v místě integruje těžbu bitcoinu. Jaká bude její ziskovost ve srovnání se standardním provozem?
 
-Vítejte u druhé části série článků o bitcoinu a jaderné energii. Než se ponoříme hlouběji do témat druhé části, zrekapitulujeme si, co jsme probrali v části první
+<p style="text-align:center;"><img src="./pics/0745935-00-nuclear.webp" alt=""></p>
+
+Vítejte u druhé části série článků o bitcoinu a jaderné energii. Než se ponoříme hlouběji do témat druhé části, zrekapitulujeme si, co jsme probrali v části první.
 
 ## KLÍČOVÉ POZNATKY Z ČLÁNKU "PROČ JE BITCOIN BUDOUCNOSTÍ NAŠÍ ENERGETICKÉ SÍTĚ"
 
@@ -33,7 +35,7 @@ Vítejte u druhé části série článků o bitcoinu a jaderné energii. Než s
 
 Jaderné elektrárny odjakživa lidi fascinovaly, ale zatím jen málo obyčejných smrtelníků rozumí ekonomické stránce výstavby jaderné elektrárny ve velkém měřítku. Dnes si právě toto téma rozebereme, a to zábavnou a inovativní formou.
 
-Jak se říká v oboru: "Při výstavbě jaderné elektrárny záleží jen na dvou věcech - na kapitálových nákladech a ceně kapitálu."
+Jak se říká v oboru: "Při výstavbě jaderné elektrárny záleží jen na dvou věcech - na kapitálových nákladech a nákladech z kapitálu."
 
 ---
 
@@ -73,7 +75,7 @@ Beta Labs: výkon 1 GWe, 1 GWe k prodeji do sítě
 
 ## EKONOMIKA JADERNÝCH ELEKTRÁREN
 
-Nyní se nacházíme v druhé polovině roku 2016. Společnosti Alpha i Beta Labs oznámily výstavbu svých jaderných elektráren a aktivně se snaží získat kapitál.
+Nyní se nacházíme v druhé polovině roku 2016. Společnosti Alpha Labs i Beta Labs oznámily výstavbu svých jaderných elektráren a aktivně se snaží získat kapitál.
 
 Financování jaderných elektráren může mít mnoho různých, exotických forem a uspořádání. Struktura financování atomových elektráren není předmětem tohoto článku. Zde předpokládáme, že laboratoře Alpha Labs i Beta Labs získají financování pro své stavební závody za stejných podmínek, abychom mohli provést "srovnávací" projekci jejich kapitálových nákladů, příjmů a zisků/ztrát.
 
@@ -99,13 +101,13 @@ Na základě těchto podmínek by nyní společnost Beta Labs musela po dobu př
 
 Podobně by společnost Alpha Labs musela po dobu příštích 25 let každý rok zaplatit přibližně 114 milionů dolarů za každou miliardu dolarů, kterou by během prvních pěti let výstavby čerpala ze svého kreditu.
 
-IMG 01
-IMG 02
+<p style="text-align:center;"><img src="./pics/0745935-01-loan-beta.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-02-loan-alpha.webp" alt=""></p>
 
 Následně použijeme bloky kapitálu, které budou představovat ekonomiku společností Alpha Labs a Beta Labs v průběhu následujících mnoha let, abychom mohli porovnávat jejich dluhy a zisky.
 
-Předpokládejme, že zhruba 57 milionů dolarů je jeden blok. Na grafu jej budeme znázorňovat jako zelený blok.
-IMG 03
+Předpokládejme, že zhruba 57 milionů dolarů je jeden blok. Na grafu jej budeme znázorňovat jako zelený čtverec.
+<p style="text-align:center;"><img src="./pics/0745935-03-block.webp" alt=""></p>
 
 Je tedy polovina roku 2016 a výstavba obou jaderných elektráren je na spadnutí.
 
@@ -120,7 +122,7 @@ Alpha Labs: Vybírá první 2 miliardy dolarů na výstavbu. Na základě toho b
 Čerpaný kapitál celkem: 2 miliardy USD
 Dluh celkem: Dva bloky
 
-IMG 04 yr01
+<p style="text-align:center;"><img src="./pics/0745935-04-yr01.webp" alt=""></p>
 
 
 ### ROK DRUHÝ: 2017
@@ -133,7 +135,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 4 miliardy USD
 Dluh celkem: Šest bloků
 
-IMG 05 yr02
+<p style="text-align:center;"><img src="./pics/0745935-05-yr02.webp" alt=""></p>
 
 
 ### ROK TŘETÍ: 2018
@@ -146,7 +148,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 6 miliard USD
 Dluh celkem: 12 bloků
 
-IMG 06 yr03
+<p style="text-align:center;"><img src="./pics/0745935-06-yr03.webp" alt=""></p>
 
 
 ### ROK ČTVRTÝ: 2019
@@ -159,7 +161,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 8 miliard USD
 Dluh celkem: 20 bloků
 
-IMG 07 yr04
+<p style="text-align:center;"><img src="./pics/0745935-07-yr04.webp" alt=""></p>
 
 
 ### ROK PÁTÝ: 2020
@@ -172,7 +174,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 10 miliard USD
 Dluh celkem: 30 bloků
 
-IMG 08 yr05
+<p style="text-align:center;"><img src="./pics/0745935-08-yr05.webp" alt=""></p>
 
 
 ### ROK ŠESTÝ: 2021
@@ -185,7 +187,7 @@ Alpha Labs: Žádný další kapitál. Dále musí splácet dalších 10 bloků 
 Čerpaný kapitál celkem: 10 miliard USD
 Dluh celkem: 40 bloků
 
-IMG 09 yr06
+<p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
 
 
 ### ROK SEDMÝ: 2022
@@ -206,7 +208,7 @@ Teď to začíná být zajímavé. Obě společnosti Alpha Labs i Beta Labs doko
 
 - Předpokládejme, že společnost Alpha Labs je schopna zajistit pro své kolokované těžební centrum s kapacitou 1GWe ASIC minery nejnovější generace, přičemž cena každého z nich činí přibližně 10 000 USD. Na základě průměrného odběru energie jednoho těžaře by společnost Alpha Labs potřebovala přibližně 300 000 ASICů. Celkové kapitálové náklady na tuto část provozu by činily asi 3 miliardy dolarů, které by čerpala ze svého stávajícího kreditového rámce za stejných podmínek jako dosud. To znamená, že by za toto nové čerpání kapitálu musela každý rok do budoucna zaplatit další dluh ve výši přibližně 172 milionů dolarů (neboli ekvivalent tří bloků).
 
-IMG 10 loan
+<p style="text-align:center;"><img src="./pics/0745935-10-loan.webp" alt=""></p>
 
 - Předpokládejme, že těžební hardware bude mít životnost pět let.
 
@@ -230,7 +232,7 @@ Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedm�
 Roční zisk a ztráta = (9 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 19 bloků
 Celkový dluh = 40 bloků - 19 bloků = 21 bloků
 
-IMG 11 yr07
+<p style="text-align:center;"><img src="./pics/0745935-11-yr07.webp" alt=""></p>
 
 Jak nyní vidíte, Alpha Labs se dostává z pasti vymáhání pohledávek mnohem rychleji než Beta Labs, které bude trvat dlouho, než se stane ziskovou.
 
@@ -247,7 +249,7 @@ Celkový dluh = 21 bloků - 21 bloků = 0 bloků
 
 Společnost Alpha Labs dosáhla v osmém roce, tedy teprve ve druhém roce provozu JE, vyrovnaného hospodaření, zatímco společnosti Beta Labs zbývá v rozvaze ještě 16 bloků dluhu. Rozdíl v rozvahách obou společností je najednou překvapivě velký. Společnost Alpha Labs dokázala během pouhých dvou let provozu smazat 40 bloků dluhu.
 
-IMG 12 yr08
+<p style="text-align:center;"><img src="./pics/0745935-12-yr08.webp" alt=""></p>
 
 
 ### ROK DEVÁTÝ: 2024
@@ -260,7 +262,7 @@ Alpha Labs: 0 bloků dluhu, 10 dalších bloků stávajícího úvěru za devát
 Roční zisk a ztráta = (9 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 9 bloků
 Celkový zisk = 0 bloků + 9 bloků = 9 bloků
 
-IMG 13 yr09
+<p style="text-align:center;"><img src="./pics/0745935-13-yr09.webp" alt=""></p>
 
 
 ### ROK DESÁTÝ: 2025
@@ -273,7 +275,7 @@ Alpha Labs: 9 bloků zisku, 10 dalších bloků stávajícího úvěru za desát
 Roční zisk a ztráta = (9 bloků + 19 bloků) - (10 bloků + 3 bloky + 4 bloky) = 11 bloků
 Celkový zisk = 9 bloků + 11 bloků = 20 bloků
 
-IMG 14 yr10
+<p style="text-align:center;"><img src="./pics/0745935-14-yr10.webp" alt=""></p>
 
 
 ### ROK JEDENÁCTÝ: 2026
@@ -286,7 +288,7 @@ Alpha Labs: 20 bloků zisku, 10 dalších bloků stávajícího úvěru za jeden
 Roční zisk a ztráta = (9 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 14 bloků
 Celkový zisk = 20 bloků + 14 bloků = 34 bloků
 
-IMG 15 yr11
+<p style="text-align:center;"><img src="./pics/0745935-15-yr11.webp" alt=""></p>
 
 Jak nyní jasně vidíte, společnosti Beta Labs by trvalo asi 16 let, než by se dostala na hranici rentability (kolem roku 2031), zatímco společnost Alpha Labs se dostala na nulu už ve druhém roce svého provozu (v roce 2023) a v osmém roce po zahájení výstavby jaderné elektrárny v roce 2016.
 
@@ -301,7 +303,7 @@ Co kdybychom nyní provedli malý myšlenkový experiment a podívali se, zda sp
 
 Do šestého roku by nebyl žádný rozdíl, protože jaderné elektrárny se teprve dokončují, takže začneme od sedmého roku. Takto vypadají rozvahy obou společností na konci šestého roku:
 
-IMG 09 yr06
+<p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
 
 
 ### ROK SEDMÝ: 2022
@@ -318,7 +320,7 @@ Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedm�
 Roční zisk a ztráta = (5 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 15 bloků
 Celkový dluh = 40 bloků - 15 bloků = 25 bloků
 
-IMG 16 yr07
+<p style="text-align:center;"><img src="./pics/0745935-16-yr07.webp" alt=""></p>
 
 
 ### ROK OSMÝ: 2023
@@ -331,7 +333,7 @@ Alpha Labs: 25 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý
 Roční zisk a ztráta = (5 bloků + 29 bloků) - (10 bloků + 3 bloky + 4 bloky) = 17 bloků
 Celkový dluh = 25 bloků - 17 bloků = 8 bloků
 
-IMG 17 yr08
+<p style="text-align:center;"><img src="./pics/0745935-17-yr08.webp" alt=""></p>
 
 
 ### ROK DEVÁTÝ: 2024
@@ -344,7 +346,7 @@ Alpha Labs: 8 bloků dluhu, 10 dalších bloků stávajícího úvěru za devát
 Roční zisk a ztráta = (5 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 5 bloků
 Celkový dluh = 8 bloků - 5 bloků = 3 bloky
 
-IMG 18 yr09
+<p style="text-align:center;"><img src="./pics/0745935-18-yr09.webp" alt=""></p>
 
 
 ### ROK DESÁTÝ: 2025
@@ -360,7 +362,7 @@ Celkový zisk = 7 bloků - 3 bloky = 4 bloky
 V tomto případě společnost Alpha Labs dosáhla vyrovnaného hospodaření v desátém roce namísto osmého roku, tedy čtyři roky po zahájení činnosti. I tak je to ale úžasné, když uvážíme, že Beta Labs by se dostala do zisku až v 16. roce a Alpha Labs prodává 1 GWe elektřiny v porovnání s nimi za poloviční cenu.
 
 
-IMG 19 yr10
+<p style="text-align:center;"><img src="./pics/0745935-19-yr10.webp" alt=""></p>
 
 
 ### ROK JEDENÁCTÝ: 2026
@@ -373,7 +375,7 @@ Alpha Labs: 4 bloky zisku, 10 dalších bloků stávajícího úvěru za jedená
 Roční zisk a ztráta = (5 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 10 bloků
 Celkový zisk = 4 bloky + 10 bloků = 14 bloků
 
-IMG 20 yr11
+<p style="text-align:center;"><img src="./pics/0745935-20-yr11.webp" alt=""></p>
 
 Zakomponování bitcoinového těžebního centra bylo pro Alpha Labs skutečně převratným rozhodnutím, a i když prodávala elektřinu ve srovnání s Beta Labs za poloviční cenu, je v této fázi ve srovnání s ní podstatně ziskovější.
 
@@ -381,13 +383,13 @@ Zakomponování bitcoinového těžebního centra bylo pro Alpha Labs skutečně
 
 Zde předkládáme citlivostní analýzu clearingové ceny elektřiny prodávané společností Alpha Labs a její rozvahy na základě přírůstků bloků:
 
-IMG 21 
+<p style="text-align:center;"><img src="./pics/0745935-21-profits.webp" alt=""></p> 
 
 Jak je vidět z výše uvedené tabulky, ve všech případech ceny až do výše 2 centů za kWh by se společnost Alpha Labs dostala do zisku v 11. roce - tj. v pátem roce provozu elektrárny (vše zvýrazněno žlutě).
 
 Poté, co jsme prošli výpočty rozvah společností Alpha i Beta Labs, je třeba upozornit na několik důležitých věcí, jež je třeba mít na paměti:
 
-- Získat více než 10 miliard dolarů s 3% úrokem a podmínkami uvedenými v tomto článku pro výstavbu jaderné elektrárny s kolokovanou těžbou bitcoinů (dvě silně nepochopená odvětví) není v dnešním prostředí snadný úkol. Vybudování atomové elektrárny je velmi citlivé na kapitálové náklady a cenu kapitálu a pro dlouhodobou ziskovost je nezbytné pro výstavbu elektráren s integrovanou těžbou získat co nejlepší podmínky.
+- Získat více než 10 miliard dolarů s 3% úrokem a podmínkami uvedenými v tomto článku pro výstavbu jaderné elektrárny s kolokovanou těžbou bitcoinů (dvě silně nepochopená odvětví) není v dnešním prostředí snadný úkol. Vybudování atomové elektrárny je velmi citlivé na kapitálové náklady a náklady z kapitálu a pro dlouhodobou ziskovost je nezbytné pro výstavbu elektráren s integrovanou těžbou získat co nejlepší podmínky.
 
 - Výstavba jaderné elektrárny může trvat dlouho, přibližně šest let, za předpokladu, že nedojde ke zpoždění z mnoha možných důvodů, včetně protestů veřejnosti. V porovnání s tím může být elektrárna na zemní plyn <a href="https://proest.com/construction/cost-estimates/power-plants/#:~:text=Power%20plant%20construction%20is%20generally,with%20some%20extending%20considerably%20further.">uvedena do provozu přibližně za dva roky</a>. Vybudování jaderné elektrárny je nákladné a její provoz je neuvěřitelně levný, zatímco u elektráren na zemní plyn je tomu přesně naopak. Vzhledem k tomu, jak se těžební průmysl cyklicky vyvíjí a jak konkurenční se může v průběhu času stát, je obtížné pro financování a rozšiřování kapacit těžby v lokalitě předpovídat příjmy z těžby na šest let dopředu s nějakou danou jistotou.
 
@@ -408,11 +410,10 @@ Záměrem tohoto článku bylo poskytnout zevrubnou případovou studii o tom, j
 Disclaimer: Informace uvedené v tomto článku vycházejí z našich prognóz a odrážejí převládající tržní podmínky a naše názory k tomuto datu, které se mohou změnit. Článek obsahuje výhledové prognózy, které jsou spojeny s riziky a nejistotami. Veškerá prohlášení uvedená v článku vycházejí ze současných znalostí a předpokladů autorů. Různé faktory mohou způsobit, že skutečné budoucí výsledky, výkonnost nebo události se budou podstatně lišit od těch, které jsou popsány v těchto prohlášeních.
 
 
-
-
 ## ---
-<big>Autor: <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
-<br>Původní článek: <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">Bitcoin is The Mycelium of Money</a>
+<big>Autoři: <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres 
+<br>Původní článek: <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">CAN BITCOIN MINING 
+  MAKE NUCLEAR ENERGY ABUNDANT AND FREE?</a>
 <br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
 PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
 
