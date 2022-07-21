@@ -32,10 +32,20 @@ project_entries:
 #    desc: 747474 / original @bquittem
 #    highlight: -NEW-
 
+  - title: Bitcoin a jaderná enrgie "zdarma"
+    url: ./posts/0745935-nuclear-btc
+    desc: 745935 / original Jul12/2022 @purugyl
+    highlight: -NEW-
+
   - title: Bitcoin je myceliem peněz 2 /4
     url: ./posts/0745093-mycelium-II
     desc: 745093 / original @bquittem
     highlight: -NEW-
+
+  - title: Drazí Bitcoineři
+    url: ./posts/0739884-drazi-bitcoineri
+    desc: 739884 / original 623774 @dergigi
+#    highlight: ₿rand NEW
 
   - title: Bitcoin je myceliem peněz 1 /4
     url: ./posts/0744260-mycelium-I
@@ -46,11 +56,6 @@ project_entries:
     url: ./posts/0740913-btc-je-cas
     desc: 740913 / original 666053 @dergigi
 #    highlight: -NEW-
-
-  - title: Drazí Bitcoineři
-    url: ./posts/0739884-drazi-bitcoineri
-    desc: 739884 / original 623774 @dergigi
-#    highlight: ₿rand NEW
 
   - title: Bitcoin a meziplanetární hranice
     url: ./posts/0740195-btc-mezi-planety
@@ -71,10 +76,10 @@ project_entries:
     desc: 765432 / @nekonecnik
     highlight: -₿rzy-
 
-  - title: Bitcoin Astronomy I /III
-    url: ./ticktock
-    desc: 757575 / original Sep13/2019 @dhruvbansal
-    highlight: ₿rzy
+#  - title: Bitcoin Astronomy I /III
+#    url: ./ticktock
+#    desc: 757575 / original Sep13/2019 @dhruvbansal
+#    highlight: ₿rzy
 
 #  - title: Bitcoin Astronomy II /III
 #    url: ./ticktock
