@@ -223,7 +223,7 @@ Teď to začíná být zajímavé. Obě společnosti Alpha Labs i Beta Labs doko
 
 - Předpokládejme, že společnost Alpha Labs si z této těžby neponechá ve své rozvaze žádné bitcoiny, a proto veškeré příjmy z těžby převede na USD.
 
-- Proveďme několik výpočtů ziskovosti těžby pomocí Braiins OS, abychom získali prognózu, kolik příjmů by společnost Alpha Labs získala během příštích pěti let těžby s tímto zařízením:
+- Proveďme několik výpočtů ziskovosti těžby pomocí <a href="https://insights.braiins.com/en/profitability-calculator/">Braiins OS</a>, abychom získali prognózu, kolik příjmů by společnost Alpha Labs získala během příštích pěti let těžby s tímto zařízením:
 - Zde jsou zisky z těžby, které by společnost Alpha Labs dosáhla za každý rok:
 -- Rok sedmý: 1,5 miliardy USD tj. přibližně 27 bloků
 -- Rok osmý: 1,6 miliardy USD tj. přibližně 29 bloků
