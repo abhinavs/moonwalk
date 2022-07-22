@@ -8,7 +8,7 @@
 This is 🇨🇿 Czech translation of <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">this article</a> 
 by <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres, published on Jul12/2022 
 <a href="https://twitter.com/BitcoinMagazine">@BitcoinMagazine</a>  
-<br>Translated @745935 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+<br>Translated with 🧡 @745935 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 
 
 
 # MŮŽE TĚŽBA BITCOINU ZAJISTIT DOSTATEK JADERNÉ ENERGIE ZDARMA?
@@ -435,8 +435,8 @@ Disclaimer: Informace uvedené v tomto článku vycházejí z našich prognóz a
 <big>Autoři: <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres 
 <br>Původní článek: <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">CAN BITCOIN MINING 
   MAKE NUCLEAR ENERGY ABUNDANT AND FREE?</a>
-<br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
-PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
+<br>Přeložil:</big> <a href="https://twitter.com/nekonecnik">@nekonecnik</a> <a href="https://sifrant.github.io/jednadvacet/support">🧡</a>
+<br>Korektura / konzultace: <a href="https://twitter.com/nekonecnik">@SatsJoseph</a>
 
 {% if site.theme_config.show_footer == true %}
   <footer>
