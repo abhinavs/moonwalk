@@ -36,7 +36,7 @@ probrali v <a href="https://bitcoinmagazine.com/business/bitcoin-is-the-future-o
 
 Jaderné elektrárny odjakživa lidi fascinovaly, ale zatím jen málo obyčejných smrtelníků rozumí ekonomické stránce výstavby jaderné elektrárny ve velkém měřítku. Dnes si právě toto téma rozebereme, a to zábavnou a inovativní formou.
 
-Jak se říká v oboru: "Při výstavbě jaderné elektrárny záleží jen na dvou věcech - na kapitálových nákladech a nákladech z kapitálu."
+<a href="https://energypost.eu/putting-nuclear-energy-on-the-critical-path/">Jak se říká v oboru</a>: "Při výstavbě jaderné elektrárny záleží jen na dvou věcech - na kapitálových nákladech a nákladech kapitálu."
 
 ---
 
@@ -408,7 +408,7 @@ Jak je vidět z výše uvedené tabulky, ve všech případech ceny až do výš
 
 Poté, co jsme prošli výpočty rozvah společností Alpha i Beta Labs, je třeba upozornit na několik důležitých věcí, jež je třeba mít na paměti:
 
-- Získat více než 10 miliard dolarů s 3% úrokem a podmínkami uvedenými v tomto článku pro výstavbu jaderné elektrárny s kolokovanou těžbou bitcoinů (dvě silně nepochopená odvětví) není v dnešním prostředí snadný úkol. Vybudování atomové elektrárny je velmi citlivé na kapitálové náklady a náklady z kapitálu a pro dlouhodobou ziskovost je nezbytné pro výstavbu elektráren s integrovanou těžbou získat co nejlepší podmínky.
+- Získat více než 10 miliard dolarů s 3% úrokem a podmínkami uvedenými v tomto článku pro výstavbu jaderné elektrárny s kolokovanou těžbou bitcoinů (dvě silně nepochopená odvětví) není v dnešním prostředí snadný úkol. Vybudování atomové elektrárny je velmi citlivé na kapitálové náklady a náklady kapitálu a pro dlouhodobou ziskovost je nezbytné pro výstavbu elektráren s integrovanou těžbou získat co nejlepší podmínky.
 
 - Výstavba jaderné elektrárny může trvat dlouho, přibližně šest let, za předpokladu, že nedojde ke zpoždění z mnoha možných důvodů, včetně protestů veřejnosti. V porovnání s tím může být elektrárna na zemní plyn <a href="https://proest.com/construction/cost-estimates/power-plants/#:~:text=Power%20plant%20construction%20is%20generally,with%20some%20extending%20considerably%20further.">uvedena do provozu přibližně za dva roky</a>. Vybudování jaderné elektrárny je nákladné a její provoz je neuvěřitelně levný, zatímco u elektráren na zemní plyn je tomu přesně naopak. Vzhledem k tomu, jak se těžební průmysl cyklicky vyvíjí a jak konkurenční se může v průběhu času stát, je obtížné pro financování a rozšiřování kapacit těžby v lokalitě předpovídat příjmy z těžby na šest let dopředu s nějakou danou jistotou.
 
