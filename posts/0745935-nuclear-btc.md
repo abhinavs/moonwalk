@@ -72,6 +72,8 @@ Alpha Labs: výkon 2 GWe, 1 GWe k prodeji do sítě, 1 GWe integrovaná bitcoino
 
 Beta Labs: výkon 1 GWe, 1 GWe k prodeji do sítě
 
+---
+
 
 ## EKONOMIKA JADERNÝCH ELEKTRÁREN
 
@@ -111,6 +113,7 @@ Předpokládejme, že zhruba 57 milionů dolarů je jeden blok. Na grafu jej bud
 
 Je tedy polovina roku 2016 a výstavba obou jaderných elektráren je na spadnutí.
 
+---
 
 ### ROK PRVNÍ: 2016
 
@@ -124,6 +127,7 @@ Dluh celkem: Dva bloky
 
 <p style="text-align:center;"><img src="./pics/0745935-04-yr01.webp" alt=""></p>
 
+---
 
 ### ROK DRUHÝ: 2017
 
@@ -137,6 +141,7 @@ Dluh celkem: Šest bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-05-yr02.webp" alt=""></p>
 
+---
 
 ### ROK TŘETÍ: 2018
 
@@ -150,6 +155,7 @@ Dluh celkem: 12 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-06-yr03.webp" alt=""></p>
 
+---
 
 ### ROK ČTVRTÝ: 2019
 
@@ -163,6 +169,7 @@ Dluh celkem: 20 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-07-yr04.webp" alt=""></p>
 
+---
 
 ### ROK PÁTÝ: 2020
 
@@ -176,6 +183,7 @@ Dluh celkem: 30 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-08-yr05.webp" alt=""></p>
 
+---
 
 ### ROK ŠESTÝ: 2021
 
@@ -189,6 +197,7 @@ Dluh celkem: 40 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
 
+---
 
 ### ROK SEDMÝ: 2022
 
@@ -236,6 +245,7 @@ Celkový dluh = 40 bloků - 19 bloků = 21 bloků
 
 Jak nyní vidíte, Alpha Labs se dostává z pasti vymáhání pohledávek mnohem rychleji než Beta Labs, které bude trvat dlouho, než se stane ziskovou.
 
+---
 
 ### ROK OSMÝ: 2023
 
@@ -251,6 +261,7 @@ Společnost Alpha Labs dosáhla v osmém roce, tedy teprve ve druhém roce provo
 
 <p style="text-align:center;"><img src="./pics/0745935-12-yr08.webp" alt=""></p>
 
+---
 
 ### ROK DEVÁTÝ: 2024
 
@@ -264,6 +275,7 @@ Celkový zisk = 0 bloků + 9 bloků = 9 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-13-yr09.webp" alt=""></p>
 
+---
 
 ### ROK DESÁTÝ: 2025
 
@@ -277,6 +289,7 @@ Celkový zisk = 9 bloků + 11 bloků = 20 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-14-yr10.webp" alt=""></p>
 
+---
 
 ### ROK JEDENÁCTÝ: 2026
 
@@ -296,6 +309,8 @@ Umístění bitcoinové těžební farmy v elektrárně bylo pro společnost Alp
 
 Jak vyplývá z této případové studie, umístění bitcoinové těžby v atomové elektrárně zlepšuje výnosy projektu i dobu návratnosti, což zvyšuje atraktivitu investičního kapitálu. Mohla by těžba bitcoinu reálně pomoci prosadit jadernou energetiku opět do hlavního proudu? Otázka k zamyšlení.
 
+---
+
 
 ## ELEKTŘINA TÉMĚŘ ZDARMA: MYŠLENKOVÝ EXPERIMENT
 
@@ -305,6 +320,7 @@ Do šestého roku by nebyl žádný rozdíl, protože jaderné elektrárny se te
 
 <p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
 
+---
 
 ### ROK SEDMÝ: 2022
 
@@ -322,6 +338,7 @@ Celkový dluh = 40 bloků - 15 bloků = 25 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-16-yr07.webp" alt=""></p>
 
+---
 
 ### ROK OSMÝ: 2023
 
@@ -335,6 +352,7 @@ Celkový dluh = 25 bloků - 17 bloků = 8 bloků
 
 <p style="text-align:center;"><img src="./pics/0745935-17-yr08.webp" alt=""></p>
 
+---
 
 ### ROK DEVÁTÝ: 2024
 
@@ -348,6 +366,7 @@ Celkový dluh = 8 bloků - 5 bloků = 3 bloky
 
 <p style="text-align:center;"><img src="./pics/0745935-18-yr09.webp" alt=""></p>
 
+---
 
 ### ROK DESÁTÝ: 2025
 
@@ -361,9 +380,9 @@ Celkový zisk = 7 bloků - 3 bloky = 4 bloky
 
 V tomto případě společnost Alpha Labs dosáhla vyrovnaného hospodaření v desátém roce namísto osmého roku, tedy čtyři roky po zahájení činnosti. I tak je to ale úžasné, když uvážíme, že Beta Labs by se dostala do zisku až v 16. roce a Alpha Labs prodává 1 GWe elektřiny v porovnání s nimi za poloviční cenu.
 
-
 <p style="text-align:center;"><img src="./pics/0745935-19-yr10.webp" alt=""></p>
 
+---
 
 ### ROK JEDENÁCTÝ: 2026
 
@@ -401,10 +420,12 @@ Poté, co jsme prošli výpočty rozvah společností Alpha i Beta Labs, je tře
 
 Záměrem tohoto článku bylo poskytnout zevrubnou případovou studii o tom, jak by mohla vypadat kolokace bitcoinové těžby s výstavbou jaderné elektrárny a jak velký rozdíl by to mohlo skutečně znamenat pro rozvahu společnosti vlastnící takové výrobní aktivum. Jak vidno, strategii Alpha Labs byste preferovali před Beta Labs. Stačí, aby to ve vaší společnosti pochopil jeden inženýr a nadhodil vám to.
 
+---
+
 
 ## ODKAZY
 
-<a href="https://www.youtube.com/watch?v=UC_BCz0pzMw&t=649s">“The Economics Of Nuclear Energy</a>,” Real Engineering
+<a href="https://www.youtube.com/watch?v=UC_BCz0pzMw&t=649s">“The Economics Of Nuclear Energy</a>,” Real Engineering<br>
 <a href="https://www.youtube.com/watch?v=cbeJIwF1pVY&t=803s">“Economics Of Nuclear Reactor</a>,” Illinois EnergyProf
 
 Disclaimer: Informace uvedené v tomto článku vycházejí z našich prognóz a odrážejí převládající tržní podmínky a naše názory k tomuto datu, které se mohou změnit. Článek obsahuje výhledové prognózy, které jsou spojeny s riziky a nejistotami. Veškerá prohlášení uvedená v článku vycházejí ze současných znalostí a předpokladů autorů. Různé faktory mohou způsobit, že skutečné budoucí výsledky, výkonnost nebo události se budou podstatně lišit od těch, které jsou popsány v těchto prohlášeních.
