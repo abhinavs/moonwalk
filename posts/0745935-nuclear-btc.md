@@ -214,7 +214,7 @@ Teď to začíná být zajímavé. Obě společnosti Alpha Labs i Beta Labs doko
 
 - Analýza čísel a ziskovosti těžby byla pro tento článek provedena 18. června 2022, kdy cena bitcoinu byla přibližně 20 000 USD, obtížnost sítě byla 30 T a hash rate sítě (30 dní) byl 215 exahashe za sekundu (EH/s). Projekce výnosů z těžby zohledňují snížení na polovinu v roce 2024 a vycházejí z předpokladu, že cena bitcoinu i obtížnost se budou v průměru každý rok zvyšovat o 50 % po dobu následujících pěti let.
 
-- Předpokládejme, že společnost Alpha Labs je schopna zajistit pro své kolokované těžební centrum s kapacitou 1GWe ASIC minery nejnovější generace, přičemž cena každého z nich činí přibližně 10 000 USD. Na základě průměrného odběru energie jednoho těžaře by společnost Alpha Labs potřebovala přibližně 300 000 ASICů. Celkové kapitálové náklady na tuto část provozu by činily asi 3 miliardy dolarů, které by čerpala ze svého stávajícího kreditového rámce za stejných podmínek jako dosud. To znamená, že by za toto nové čerpání kapitálu musela každý rok do budoucna zaplatit další dluh ve výši přibližně 172 milionů dolarů (neboli ekvivalent tří bloků).
+- Předpokládejme, že společnost Alpha Labs je schopna zajistit pro své kolokované těžební centrum s kapacitou 1GWe ASIC minery nejnovější generace, přičemž cena každého z nich činí přibližně 10 000 USD. Na základě průměrného odběru energie jednoho těžebního zařízení by společnost Alpha Labs potřebovala přibližně 300 000 ASICů. Celkové kapitálové náklady na tuto část provozu by činily asi 3 miliardy dolarů, které by čerpala ze svého stávajícího kreditového rámce za stejných podmínek jako dosud. To znamená, že by za toto nové čerpání kapitálu musela každý rok do budoucna zaplatit další dluh ve výši přibližně 172 milionů dolarů (neboli ekvivalent tří bloků).
 
 <p style="text-align:center;"><img src="./pics/0745935-10-loan.webp" alt=""></p>
 
@@ -236,7 +236,7 @@ Beta Labs: 20 bloků dluhu, pět dalších bloků dluhu za sedmý rok, dva bloky
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 20 bloků - 2 bloky = 18 bloků
 
-Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedmý rok, tři další bloky dluhu za těžbu v sedmém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 27 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedmý rok, tři další bloky dluhu za ASICy v sedmém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 27 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (9 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 19 bloků<br>
 Celkový dluh = 40 bloků - 19 bloků = 21 bloků
 
@@ -252,7 +252,7 @@ Beta Labs: 18 bloků dluhu, pět dalších bloků dluhu za osmý rok, dva bloky 
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 18 bloků - 2 bloky = 16 bloků
 
-Alpha Labs: 21 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý rok, tři další bloky dluhu za těžbu v osmém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 29 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 21 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý rok, tři další bloky dluhu za ASICy v osmém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 29 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (9 bloků + 29 bloků) - (10 bloků + 3 bloky + 4 bloky) = 21 bloků<br>
 Celkový dluh = 21 bloků - 21 bloků = 0 bloků
 
@@ -268,7 +268,7 @@ Beta Labs: 16 bloků dluhu, pět dalších bloků dluhu za devátý rok, dva blo
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 16 bloků - 2 bloky = 14 bloků
 
-Alpha Labs: 0 bloků dluhu, 10 dalších bloků stávajícího úvěru za devátý rok, tři další bloky dluhu za těžbu v devátém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 17 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 0 bloků dluhu, 10 dalších bloků stávajícího úvěru za devátý rok, tři další bloky dluhu za ASICy v devátém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 17 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (9 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 9 bloků<br>
 Celkový zisk = 0 bloků + 9 bloků = 9 bloků
 
@@ -282,7 +282,7 @@ Beta Labs: 14 bloků dluhu, pět dalších bloků dluhu za desátý rok, dva blo
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 14 bloků - 2 bloky = 12 bloků
 
-Alpha Labs: 9 bloků zisku, 10 dalších bloků stávajícího úvěru za desátý rok, tři další bloky dluhu za těžbu v desátém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 19 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 9 bloků zisku, 10 dalších bloků stávajícího úvěru za desátý rok, tři další bloky dluhu za ASICy v desátém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 19 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (9 bloků + 19 bloků) - (10 bloků + 3 bloky + 4 bloky) = 11 bloků<br>
 Celkový zisk = 9 bloků + 11 bloků = 20 bloků
 
@@ -296,7 +296,7 @@ Beta Labs: 12 bloků dluhu, pět dalších bloků dluhu za jedenáctý rok, dva 
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 12 bloků - 2 bloky = 10 bloků
 
-Alpha Labs: 20 bloků zisku, 10 dalších bloků stávajícího úvěru za jedenáctý rok, tři další bloky dluhu za těžbu v jedenáctém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 22 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 20 bloků zisku, 10 dalších bloků stávajícího úvěru za jedenáctý rok, tři další bloky dluhu za ASICy v jedenáctém roce, čtyři bloky provozních nákladů, devět bloků výnosů z 1 GWe do sítě, 22 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (9 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 14 bloků<br>
 Celkový zisk = 20 bloků + 14 bloků = 34 bloků
 
@@ -331,7 +331,7 @@ Beta Labs: 20 bloků dluhu, pět dalších bloků dluhu za sedmý rok, dva bloky
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 20 bloků - 2 bloky = 18 bloků
 
-Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedmý rok, tři další bloky dluhu za těžbu v sedmém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 27 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedmý rok, tři další bloky dluhu za ASICy v sedmém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 27 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (5 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 15 bloků<br>
 Celkový dluh = 40 bloků - 15 bloků = 25 bloků
 
@@ -345,7 +345,7 @@ Beta Labs: 18 bloků dluhu, pět dalších bloků dluhu za osmý rok, dva bloky 
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 18 bloků - 2 bloky = 16 bloků
 
-Alpha Labs: 25 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý rok, tři další bloky dluhu za těžbu v osmém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 29 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 25 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý rok, tři další bloky dluhu za ASICy v osmém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 29 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (5 bloků + 29 bloků) - (10 bloků + 3 bloky + 4 bloky) = 17 bloků<br>
 Celkový dluh = 25 bloků - 17 bloků = 8 bloků
 
@@ -359,7 +359,7 @@ Beta Labs: 16 bloků dluhu, pět dalších bloků dluhu za devátý rok, dva blo
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 16 bloků - 2 bloky = 14 bloků
 
-Alpha Labs: 8 bloků dluhu, 10 dalších bloků stávajícího úvěru za devátý rok, tři další bloky dluhu za těžbu v devátém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 17 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 8 bloků dluhu, 10 dalších bloků stávajícího úvěru za devátý rok, tři další bloky dluhu za ASICy v devátém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 17 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (5 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 5 bloků<br>
 Celkový dluh = 8 bloků - 5 bloků = 3 bloky
 
@@ -373,7 +373,7 @@ Beta Labs: 14 bloků dluhu, pět dalších bloků dluhu za desátý rok, dva blo
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 14 bloků - 2 bloky = 12 bloků
 
-Alpha Labs: 3 bloky dluhu, 10 dalších bloků stávajícího úvěru za desátý rok, tři další bloky dluhu za těžbu v desátém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 19 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 3 bloky dluhu, 10 dalších bloků stávajícího úvěru za desátý rok, tři další bloky dluhu za ASICy v desátém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 19 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (5 bloků + 19 bloků) - (10 bloků + 3 bloky + 4 bloky) = 7 bloků<br>
 Celkový zisk = 7 bloků - 3 bloky = 4 bloky
 
@@ -389,7 +389,7 @@ Beta Labs: 12 bloků dluhu, pět dalších bloků dluhu za jedenáctý rok, dva 
 Roční zisk a ztráta = 9 bloků - (5 bloků + 2 bloky) = 2 bloky<br>
 Celkový dluh = 12 bloků - 2 bloky = 10 bloků
 
-Alpha Labs: 4 bloky zisku, 10 dalších bloků stávajícího úvěru za jedenáctý rok, tři další bloky dluhu za těžbu v jedenáctém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 22 bloků výnosů z 1 GWe těžby bitcoinu.<br>
+Alpha Labs: 4 bloky zisku, 10 dalších bloků stávajícího úvěru za jedenáctý rok, tři další bloky dluhu za ASICy v jedenáctém roce, čtyři bloky provozních nákladů, pět bloků výnosů z 1 GWe do sítě, 22 bloků výnosů z 1 GWe těžby bitcoinu.<br>
 Roční zisk a ztráta = (5 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 10 bloků<br>
 Celkový zisk = 4 bloky + 10 bloků = 14 bloků
 
