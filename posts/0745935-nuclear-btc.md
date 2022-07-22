@@ -404,7 +404,7 @@ Zde předkládáme citlivostní analýzu clearingové ceny elektřiny prodávan�
 
 <p style="text-align:center;"><img src="./pics/0745935-21-profits.webp" alt=""></p> 
 
-Jak je vidět z výše uvedené tabulky, ve všech případech ceny až do výše 2 centů za kWh by se společnost Alpha Labs dostala do zisku v 11. roce - tj. v pátem roce provozu elektrárny (vše zvýrazněno žlutě).
+Jak je vidět z výše uvedené tabulky, ve všech případech ceny až do výše 2 centů za kWh by se společnost Alpha Labs dostala do zisku v 11. roce - tj. v pátem roce provozu elektrárny s farmou (vše zvýrazněno žlutě).
 
 Poté, co jsme prošli výpočty rozvah společností Alpha i Beta Labs, je třeba upozornit na několik důležitých věcí, jež je třeba mít na paměti:
 
