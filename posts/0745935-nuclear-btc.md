@@ -7,8 +7,7 @@
 
 This is 🇨🇿 Czech translation of <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">this article</a> 
 by <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres, published on Jul12/2022 
-<a href="https://twitter.com/BitcoinMagazine">@BitcoinMagazine</a>  
-<br>Translated with 🧡 @745935 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 
+<a href="https://twitter.com/BitcoinMagazine">@BitcoinMagazine</a> / Translated with 🧡 @745935 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 
 
 
 # MŮŽE TĚŽBA BITCOINU ZAJISTIT DOSTATEK JADERNÉ ENERGIE ZDARMA?
