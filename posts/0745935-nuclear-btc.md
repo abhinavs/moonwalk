@@ -435,7 +435,9 @@ Disclaimer: Informace uvedené v tomto článku vycházejí z našich prognóz a
 <br>Původní článek: <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">CAN BITCOIN MINING 
   MAKE NUCLEAR ENERGY ABUNDANT AND FREE?</a>
 <br>Přeložil:</big> <a href="https://twitter.com/nekonecnik">@nekonecnik</a> <a href="https://sifrant.github.io/jednadvacet/support" style="text-decoration: none">🧡</a>
+<!--
 <br>Korektura / konzultace: <a href="https://twitter.com/@SatsJoseph">@SatsJoseph</a>
+-->
 
 {% if site.theme_config.show_footer == true %}
   <footer>
