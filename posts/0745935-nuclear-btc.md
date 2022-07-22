@@ -17,7 +17,8 @@ Představme si jadernou elektrárnu, která v místě integruje těžbu bitcoinu
 
 <p style="text-align:center;"><img src="./pics/0745935-00-nuclear.webp" alt=""></p>
 
-Vítejte u druhé části série článků o bitcoinu a jaderné energii. Než se ponoříme hlouběji do témat druhé části, zrekapitulujeme si, co jsme probrali v části první.
+Vítejte u druhé části série článků o bitcoinu a jaderné energii. Než se ponoříme hlouběji do témat druhé části, zrekapitulujeme si, co jsme 
+probrali v <a href="https://bitcoinmagazine.com/business/bitcoin-is-the-future-of-our-energy-grid">části první</a>.
 
 ## KLÍČOVÉ POZNATKY Z ČLÁNKU "PROČ JE BITCOIN BUDOUCNOSTÍ NAŠÍ ENERGETICKÉ SÍTĚ"
 
@@ -82,9 +83,9 @@ Financování jaderných elektráren může mít mnoho různých, exotických fo
 
 <b>PŘEDPOKLADY</b>
 
-- Předpokládejme, že stavba jaderné elektrárny bude u obou společností trvat šest let. Tedy od roku 2016 do roku 2022. To je v souladu s dobou výstavby většiny současných elektráren.
+- Předpokládejme, že stavba jaderné elektrárny bude u obou společností trvat šest let. Tedy od roku 2016 do roku 2022. To je <a href="https://inis.iaea.org/collection/NCLCollectionStore/_Public/42/105/42105221.pdf">v souladu</a> s dobou výstavby většiny současných elektráren.
 
-- Předpokládejme, že kapitálové náklady na výstavbu jaderné elektrárny pro obě společnosti činí 5 000 USD na kilowatt (kW). Tento orientační odhad odpovídá dosavadním nákladům na výstavbu atomových elektráren.
+- Předpokládejme, že kapitálové náklady na výstavbu jaderné elektrárny pro obě společnosti činí 5 000 USD na kilowatt (kW). Tento orientační odhad <a href="https://www.synapse-energy.com/sites/default/files/SynapsePaper.2008-07.0.Nuclear-Plant-Construction-Costs.A0022_0.pdf">odpovídá</a> dosavadním nákladům na výstavbu atomových elektráren.
 
 Na základě tohoto čísla zde uvádíme kapitálové závazky obou společností:
 
@@ -107,7 +108,7 @@ Podobně by společnost Alpha Labs musela po dobu příštích 25 let každý ro
 
 Následně použijeme bloky kapitálu, které budou představovat ekonomiku společností Alpha Labs a Beta Labs v průběhu následujících mnoha let, abychom mohli porovnávat jejich dluhy a zisky.
 
-Předpokládejme, že zhruba 57 milionů dolarů je jeden blok. Na grafu jej budeme znázorňovat jako zelený čtverec.
+Předpokládejme, že <b>zhruba 57 milionů dolarů je jeden blok</b>. Na grafu jej budeme znázorňovat jako zelený čtverec.
 <p style="text-align:center;"><img src="./pics/0745935-03-block.webp" alt=""></p>
 
 Je tedy polovina roku 2016 a výstavba obou jaderných elektráren je na spadnutí.
