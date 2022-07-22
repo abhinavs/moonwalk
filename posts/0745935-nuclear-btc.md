@@ -108,8 +108,8 @@ Podobně by společnost Alpha Labs musela po dobu příštích 25 let každý ro
 
 Následně použijeme bloky kapitálu, které budou představovat ekonomiku společností Alpha Labs a Beta Labs v průběhu následujících mnoha let, abychom mohli porovnávat jejich dluhy a zisky.
 
-Předpokládejme, že <b>zhruba 57 milionů dolarů je jeden blok</b>. Na grafu jej budeme znázorňovat jako zelený čtverec.
-<p style="text-align:center;"><img src="./pics/0745935-03-block.webp" alt=""></p>
+Předpokládejme, že <b>zhruba 57 milionů dolarů je jeden blok</b>. Na grafu jej budeme znázorňovat jako čtverec.
+<p style="text-align:center;"><img src="./pics/0745935-03-block-inv.png" alt=""></p>
 
 Je tedy polovina roku 2016 a výstavba obou jaderných elektráren je na spadnutí.
 
@@ -125,7 +125,7 @@ Alpha Labs: Vybírá první 2 miliardy dolarů na výstavbu. Na základě toho b
 Čerpaný kapitál celkem: 2 miliardy USD
 Dluh celkem: Dva bloky
 
-<p style="text-align:center;"><img src="./pics/0745935-04-yr01.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-04-yr01-inv.png" alt=""></p>
 
 ---
 
@@ -139,7 +139,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 4 miliardy USD<br>
 Dluh celkem: Šest bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-05-yr02.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-05-yr02-inv.png" alt=""></p>
 
 ---
 
@@ -153,7 +153,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 6 miliard USD<br>
 Dluh celkem: 12 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-06-yr03.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-06-yr03-inv.png" alt=""></p>
 
 ---
 
@@ -167,7 +167,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 8 miliard USD<br>
 Dluh celkem: 20 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-07-yr04.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-07-yr04-inv.png" alt=""></p>
 
 ---
 
@@ -181,7 +181,7 @@ Alpha Labs: Vybírá další 2 miliardy dolarů. Na základě toho bude muset sp
 Čerpaný kapitál celkem: 10 miliard USD<br>
 Dluh celkem: 30 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-08-yr05.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-08-yr05-inv.png" alt=""></p>
 
 ---
 
@@ -195,7 +195,7 @@ Alpha Labs: Žádný další kapitál. Dále musí splácet dalších 10 bloků 
 Čerpaný kapitál celkem: 10 miliard USD<br>
 Dluh celkem: 40 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-09-yr06-inv.png" alt=""></p>
 
 ---
 
@@ -241,7 +241,7 @@ Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedm�
 Roční zisk a ztráta = (9 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 19 bloků<br>
 Celkový dluh = 40 bloků - 19 bloků = 21 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-11-yr07.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-11-yr07-inv.png" alt=""></p>
 
 Jak nyní vidíte, Alpha Labs se dostává z pasti vymáhání pohledávek mnohem rychleji než Beta Labs, které bude trvat dlouho, než se stane ziskovou.
 
@@ -259,7 +259,7 @@ Celkový dluh = 21 bloků - 21 bloků = 0 bloků
 
 Společnost Alpha Labs dosáhla v osmém roce, tedy teprve ve druhém roce provozu JE, vyrovnaného hospodaření, zatímco společnosti Beta Labs zbývá v rozvaze ještě 16 bloků dluhu. Rozdíl v rozvahách obou společností je najednou překvapivě velký. Společnost Alpha Labs dokázala během pouhých dvou let provozu smazat 40 bloků dluhu.
 
-<p style="text-align:center;"><img src="./pics/0745935-12-yr08.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-12-yr08-inv.png" alt=""></p>
 
 ---
 
@@ -273,7 +273,7 @@ Alpha Labs: 0 bloků dluhu, 10 dalších bloků stávajícího úvěru za devát
 Roční zisk a ztráta = (9 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 9 bloků<br>
 Celkový zisk = 0 bloků + 9 bloků = 9 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-13-yr09.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-13-yr09-inv.png" alt=""></p>
 
 ---
 
@@ -287,7 +287,7 @@ Alpha Labs: 9 bloků zisku, 10 dalších bloků stávajícího úvěru za desát
 Roční zisk a ztráta = (9 bloků + 19 bloků) - (10 bloků + 3 bloky + 4 bloky) = 11 bloků<br>
 Celkový zisk = 9 bloků + 11 bloků = 20 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-14-yr10.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-14-yr10-inv.png" alt=""></p>
 
 ---
 
@@ -301,7 +301,7 @@ Alpha Labs: 20 bloků zisku, 10 dalších bloků stávajícího úvěru za jeden
 Roční zisk a ztráta = (9 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 14 bloků<br>
 Celkový zisk = 20 bloků + 14 bloků = 34 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-15-yr11.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-15-yr11-inv.png" alt=""></p>
 
 Jak nyní jasně vidíte, společnosti Beta Labs by trvalo asi 16 let, než by se dostala na hranici rentability (kolem roku 2031), zatímco společnost Alpha Labs se dostala na nulu už ve druhém roce svého provozu (v roce 2023) a v osmém roce po zahájení výstavby jaderné elektrárny v roce 2016.
 
@@ -318,7 +318,7 @@ Co kdybychom nyní provedli malý myšlenkový experiment a podívali se, zda sp
 
 Do šestého roku by nebyl žádný rozdíl, protože jaderné elektrárny se teprve dokončují, takže začneme od sedmého roku. Takto vypadají rozvahy obou společností na konci šestého roku:
 
-<p style="text-align:center;"><img src="./pics/0745935-09-yr06.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-09-yr06-inv.png" alt=""></p>
 
 ---
 
@@ -336,7 +336,7 @@ Alpha Labs: 40 bloků dluhu, 10 dalších bloků stávajícího úvěru za sedm�
 Roční zisk a ztráta = (5 bloků + 27 bloků) - (10 bloků + 3 bloky + 4 bloky) = 15 bloků<br>
 Celkový dluh = 40 bloků - 15 bloků = 25 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-16-yr07.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-16-yr07-inv.png" alt=""></p>
 
 ---
 
@@ -350,7 +350,7 @@ Alpha Labs: 25 bloků dluhu, 10 dalších bloků stávajícího úvěru za osmý
 Roční zisk a ztráta = (5 bloků + 29 bloků) - (10 bloků + 3 bloky + 4 bloky) = 17 bloků<br>
 Celkový dluh = 25 bloků - 17 bloků = 8 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-17-yr08.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-17-yr08-inv.png" alt=""></p>
 
 ---
 
@@ -364,7 +364,7 @@ Alpha Labs: 8 bloků dluhu, 10 dalších bloků stávajícího úvěru za devát
 Roční zisk a ztráta = (5 bloků + 17 bloků) - (10 bloků + 3 bloky + 4 bloky) = 5 bloků<br>
 Celkový dluh = 8 bloků - 5 bloků = 3 bloky
 
-<p style="text-align:center;"><img src="./pics/0745935-18-yr09.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-18-yr09-inv.png" alt=""></p>
 
 ---
 
@@ -380,7 +380,7 @@ Celkový zisk = 7 bloků - 3 bloky = 4 bloky
 
 V tomto případě společnost Alpha Labs dosáhla vyrovnaného hospodaření v desátém roce namísto osmého roku, tedy čtyři roky po zahájení činnosti. I tak je to ale úžasné, když uvážíme, že Beta Labs by se dostala do zisku až v 16. roce a Alpha Labs prodává 1 GWe elektřiny v porovnání s nimi za poloviční cenu.
 
-<p style="text-align:center;"><img src="./pics/0745935-19-yr10.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-19-yr10-inv.png" alt=""></p>
 
 ---
 
@@ -394,7 +394,7 @@ Alpha Labs: 4 bloky zisku, 10 dalších bloků stávajícího úvěru za jedená
 Roční zisk a ztráta = (5 bloků + 22 bloků) - (10 bloků + 3 bloky + 4 bloky) = 10 bloků<br>
 Celkový zisk = 4 bloky + 10 bloků = 14 bloků
 
-<p style="text-align:center;"><img src="./pics/0745935-20-yr11.webp" alt=""></p>
+<p style="text-align:center;"><img src="./pics/0745935-20-yr11-inv.png" alt=""></p>
 
 Zakomponování bitcoinového těžebního centra bylo pro Alpha Labs skutečně převratným rozhodnutím, a i když prodávala elektřinu ve srovnání s Beta Labs za poloviční cenu, je v této fázi ve srovnání s ní podstatně ziskovější.
 
