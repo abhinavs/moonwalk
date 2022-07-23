@@ -9,14 +9,14 @@ This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoi
 by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
 <br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
-# Bitcoin je myceliem peněz 1 /4
+# Bitcoin je myceliem peněz
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt=""></p>
 
 
 ## Předmluva
 
 Toto je celá (čtyřdílná) série bitcoin+houby spojená do jednoho článku. Mám více nepublikovaných materiálů, měl bych z toho udělat knihu? Dejte mi vědět 
-  na twitteru, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? Zaregistrujte se zde.
+  na <a href="https://twitter.com/Bquittem">twitteru</a>, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? <a href="https://marvelous-innovator-6728.ck.page/32ea4dd043">Zaregistrujte se zde</a>.
   
 Musím ocenit Dana Helda za vydání čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
   seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi 
