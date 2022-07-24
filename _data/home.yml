@@ -17,11 +17,6 @@ navbar_entries:
 
 
 project_entries:
-#  - title: Bitcoin je myceliem peněz 3 /4
-#    url: ./posts/0746xxx-mycelium-III
-#    desc: 746xxx / original @bquittem
-#    highlight: -NEW-
-
 #  - title: Bitcoin je myceliem peněz 4 /4
 #    url: ./posts/0747xxx-mycelium-IV
 #    desc: 747xxx / original @bquittem
@@ -32,20 +27,25 @@ project_entries:
 #    desc: 747474 / original @bquittem
 #    highlight: -NEW-
 
+  - title: Bitcoin je myceliem peněz 3 /4
+    url: ./posts/0746280-mycelium-III
+    desc: 746280 / original @bquittem
+    highlight: -NEW-
+
   - title: Bitcoin a energie jádra "zdarma"
     url: ./posts/0745935-nuclear-btc
     desc: 745935 / original Jul12/2022 @purugyl
-    highlight: -NEW-
-
-  - title: Bitcoin je myceliem peněz 2 /4
-    url: ./posts/0745093-mycelium-II
-    desc: 745093 / original @bquittem
     highlight: -NEW-
 
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
     desc: 739884 / original 623774 @dergigi
 #    highlight: ₿rand NEW
+
+  - title: Bitcoin je myceliem peněz 2 /4
+    url: ./posts/0745093-mycelium-II
+    desc: 745093 / original @bquittem
+#    highlight: 
 
   - title: Bitcoin je myceliem peněz 1 /4
     url: ./posts/0744260-mycelium-I
@@ -76,10 +76,10 @@ project_entries:
 #    desc: 765432 / original @allenf32
 #    highlight: -₿rzy-
 
-  - title: 21 lekcí z překladu 21 lekcí
-    url: ./ticktock
-    desc: 765432 / @nekonecnik
-    highlight: -₿rzy-
+#  - title: 21 lekcí z překladu 21 lekcí
+#    url: ./ticktock
+#    desc: 765432 / @nekonecnik
+#    highlight: -₿rzy-
 
 #  - title: Bitcoin Astronomy I /III
 #    url: ./ticktock
