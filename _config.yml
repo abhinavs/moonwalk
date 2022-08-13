@@ -1,8 +1,8 @@
-title: Moonwalk
+title: F3rnandoM
 author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://www.f3rnandom.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Este Blog Representa la de portafolis de Fernando mendoa Huertas card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
 
 permalink: /:slug
 
