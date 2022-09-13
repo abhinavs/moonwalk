@@ -3,6 +3,5 @@ layout: post
 title: About
 ---
 
-This is an example page!
+This is webiste is the notebooks that I made during my learning, which included some imporatnt and head conceopts.
 
-Actually, it has the same layout of a post...
