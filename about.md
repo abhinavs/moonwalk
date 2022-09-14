@@ -3,5 +3,5 @@ layout: post
 title: About
 ---
 
-This is webiste is the notebooks that I made during my learning, which included some imporatnt and head conceopts.
+Hi, this is Alicia. This is webiste is about the notebooks and projects that I made during my learning, which included some imporatnt concepts.
 
