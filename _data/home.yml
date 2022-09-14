@@ -1,17 +1,17 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
+  - title: Protfolio
     url: https://www.abhinav.co
 
 project_entries:
   - title: Marketing Campgain
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Shoule we send more people Marketing Email?
 
   - title: Recommendation
     url: overview-post
@@ -54,16 +54,16 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Alicia's homepage
     url: https://www.abhinav.co
 
   - title: twitter
     url: https://twitter.com/abhinav
 
-  - title: github
+  - title: Github
     url: https://github.com/abhinavs
 
-  - title: feed
+  - title: Tableau Pulic
     url: feed.xml
 
 misc_entries:
