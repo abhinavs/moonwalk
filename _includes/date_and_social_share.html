@@ -11,3 +11,15 @@
    data-twitter="SooprCo"
 >
 </div>
+
+{% if site.theme_config.show_reading_time == true %}
+<p class="post-date text-bold">
+  {% capture words %}
+  {{ content | number_of_words | minus: 180 }}
+  {% endcapture %}
+  {% unless words contains '-' %}
+  {{ words | append: ' Words, ' }}
+  {{ words | plus: 180 | divided_by: 180 | append: ' Minutes' }}
+  {% endunless %}
+</p>
+{% endif %}

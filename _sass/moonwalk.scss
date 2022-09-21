@@ -170,6 +170,7 @@ mark {
 }
 .text-upcase {
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
 p code, li code {
   background-color: var(--bg-secondary);

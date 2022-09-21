@@ -31,6 +31,8 @@
 3. `bin/bootstrap`
 4. [Optional] Sign up on Soopr, and add your `publish_token` in `_config.yml` file.
 
+If you are installing Moonwalk on Windows, please note that you might have to use Ruby 3.0.x instead of Ruby 3.1.x - you can see Windows specific installation instructions [here](https://github.com/abhinavs/moonwalk/blob/master/moonwalk_on_windows.md)
+
 ## Starting Server
 `bin/start` - development server will start at http://127.0.0.1:4000
 
