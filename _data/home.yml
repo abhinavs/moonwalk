@@ -1,6 +1,4 @@
 navbar_entries:
-  - title: Over
-    url: about
 
   - title: Artikelen
     url: blog
@@ -59,6 +57,11 @@ footer_entries:
 
   - title: Instagram
     url: https://instagram.com/abelvos
+
+  - title: E-mail
+    url: mailto:post@abelvos.nl
+
+
 
 misc_entries:
   - title: this is an example vertical list
