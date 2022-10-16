@@ -2,11 +2,8 @@ navbar_entries:
   - title: Over
     url: about
 
-  - title: blog
+  - title: artikelen
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -54,17 +51,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abelvos
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Twitter
+    url: https://twitter.com/abelvos
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: Instagram
+    url: https://github.com/abelvos
 
 misc_entries:
   - title: this is an example vertical list
