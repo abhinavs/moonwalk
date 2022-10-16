@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: about
+  - title: Over
     url: about
 
   - title: blog
@@ -38,7 +38,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
@@ -97,5 +97,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
