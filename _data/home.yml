@@ -2,7 +2,7 @@ navbar_entries:
   - title: Over
     url: about
 
-  - title: artikelen
+  - title: Artikelen
     url: blog
 
 project_entries:

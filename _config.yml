@@ -1,7 +1,7 @@
 title: Abel Vos
 author: Abel Vos
 url: http://abelvos.github.io/ # root address of the site
-description: redacteur bij 2Doc.nl
+description: Redacteur bij 2Doc.nl
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -16,8 +16,8 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  back_home_text: "terug..." # customize text for homepage link in post layout
+  date_format: "%d-%m-%y" # customize how date is formatted
   show_description: false # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
@@ -27,7 +27,7 @@ theme_config:
   show_blog: true # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  show_reading_time: true # show number of words and reading time in the blog posts
+  show_reading_time: false # show number of words and reading time in the blog posts
   # options for "home" page
   home:
     title_projects: Portfolio
