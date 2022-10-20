@@ -2,7 +2,7 @@ title: Abel Vos
 author: Abel Vos
 url: http://abelvos.github.io/ # root address of the site
 description: Redacteur bij 2Doc.nl
-permalink: /:slug
+permalink: /
 
 favicon: "./logo.png" # relative path to site's favicon
 
