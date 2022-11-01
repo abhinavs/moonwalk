@@ -30,6 +30,7 @@ theme_config:
   show_old_projects: true # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
+  show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
     title_projects: Portfolio
