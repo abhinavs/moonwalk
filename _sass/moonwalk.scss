@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 html { height: 100%; }
@@ -11,7 +11,7 @@ body {
   min-height: 100%;
 }
 pre, code {
-  font-family: "Anonymous Pro", "Courier New", monospace;
+  font-family: "Roboto Mono", "Courier New", monospace;
   font-size: 0.9rem;
 }
 
@@ -65,10 +65,11 @@ img {
 }
 html {
     --bg: #FFF;
-    --bg-secondary: #f8f8f8;
-    --headings: #000;
-    --text: #333;
-    --links: blue;
+    --bg-secondary: #f3f4f6;
+    --headings: #1e293b;
+    --text: #374151;
+    --text-secondary: #6b7280;
+    --links: #6366f1;
     --highlight: #FFECB2; // light yellow
     --code-text: #9D174D;
     --share-text: #999;
@@ -82,6 +83,7 @@ html {
       --bg: #1f242A;
       --bg-secondary: #323945;
       --text: #adb5bd;
+      --text-secondary: #9CA3AF;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
@@ -155,12 +157,13 @@ mark {
 }
 
 .post-date {
-  color: var(--secondary-text);
-  //margin-bottom: 1rem;
-  font-size: 0.8em;
+  color: var(--text-secondary);
+  margin-top: 1rem;
+  font-size: 0.7em;
+  font-family: "Roboto Mono", "Courier New", monospace;
 }
 .home-date {
-  font-family: monospace;
+  font-family: "Roboto Mono", "Courier New", monospace;
 }
 .post-list-item a {
   text-decoration: none;
@@ -197,4 +200,16 @@ p code, li code {
   a:hover {
     color: var(--links);
   }
+}
+.tag {
+  font-family: "Roboto Mono", "Courier New", monospace;
+  color: var(--text-secondary);
+  padding: 0.4em 1em;
+  margin-right: 0.5em;
+  border-radius: 1em;
+  background-color: var(--bg-secondary);
+  font-size: 0.7em;
+  font-weight: bold;
+  text-transform: lowercase;
+  //border: 1px solid var(--text-secondary);
 }

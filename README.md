@@ -90,24 +90,27 @@ The `home.yml` file accepts the following fields:
 ```css
 html {
     --bg: #fff;
-    --bg-secondary: #f8f9fa;
-    --headings: #000;
-    --text: #333;
-    --links: blue;
+    --bg-secondary: #f3f4f6;
+    --headings: #1e293b;
+    --text: #374151;
+    --text-secondary: #6b7280;
+    --links: #6366f1;
     --highlight: #ffecb2; // light yellow
+    --code-text: #9d174d;
 }
 ```
   - for dark mode customize these css variables
 ```css
 @mixin dark-appearance {
   html, body  {
-      --bg: #1f242A;
-      --bg-secondary: #323945;
-      --headings: #3D9970;
-      --text: #adb5bd;
+      --headings: #74c0fc;
       --links: #91a7ff;
-      --highlight: #ffd8a8;
-      --highlight: #ffd43b;
+      --highlight: #41c7c7;
+      --bg: #1f242a;
+      --bg-secondary: #323945;
+      --text: #adb5bd;
+      --text-secondary: #9ca3af;
+      --code-text: #91a7ff;
   };
 }
 ```
