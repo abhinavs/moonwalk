@@ -1,4 +1,25 @@
 {% if site.posts.size > 0 %}
+  <details>
+    <summary>Tags:</summary>
+    <ul>
+      {% for tag in site.tags %}
+        <li>
+          <details class="tag">
+            <summary>{{ tag[0] }}</summary>
+            <span id="{{tag[0]}}">
+              <ul>
+                {% for post in tag[1] %}
+                  <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </span>
+          </details>
+        </li>
+      {% endfor %}
+    </ul>
+  </details>
   <ul>
     {% for post in site.posts %}
       <li class="post-list-item">
