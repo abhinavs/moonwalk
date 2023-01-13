@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
 
 ## Quick Installation
+*Instructions for GitHub Pages available [here](github_pages.md)*
 ### Initial Setup
 1. [Fork this repository](https://github.com/abhinavs/moonwalk/fork).
 2. `cd moonwalk`
