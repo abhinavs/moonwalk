@@ -38,10 +38,13 @@ li { margin: 0.4em 0; }
 }
 
 table, th, td {
-  width: 100%;
   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4em;
+}
+
+table {
+  width: 100%;
 }
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
