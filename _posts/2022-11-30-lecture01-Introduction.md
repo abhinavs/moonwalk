@@ -6,7 +6,7 @@ tags: [Lectures, ML in genomics]
 
 # Lecture 01: Introuduction
 
-![Screenshot 2022-11-30 at 12.05.05 AM.png](http://ZhouYing0818/zying_blog/images/image_0.png)
+![Screenshot 2022-11-30 at 12.05.05 AM.png](images/image_0.png)
  表格中Lectures和教材的对应，对比浏览了一下，决定之后尽量看完视频之后按照这个表格把对应的章节阅读完
 
 - Why Computational Biology？
