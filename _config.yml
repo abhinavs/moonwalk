@@ -1,8 +1,8 @@
-title: 无界
+title: Boundless
 author: zying
 url: https://zhouying0818.github.io/zying_blog.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  活成“无限的游戏”，不要给自己设置边界，无畏折腾和踩坑
+  Live life as an 'infinite game' by avoiding setting limits，fearlessly experiment and learn from mistakes
 
 permalink: /:slug
 
@@ -33,10 +33,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Gallery
     title_misc_list: Details
     title_blog: Blog
-    title_old_projects: Old Projects
+    title_old_projects: Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
