@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      Lecture01 Introduction
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Lecture01 Introduction" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Lecture 01: Introuduction" />
+<meta property="og:description" content="Lecture 01: Introuduction" />
+<link rel="canonical" href="http://localhost:4000/lecture01-introduction" />
+<meta property="og:url" content="http://localhost:4000/lecture01-introduction" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture01-introduction" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-11-30T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture01-introduction" />
+<meta property="twitter:title" content="Lecture01 Introduction" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@zying" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/lecture01-introduction","headline":"Lecture01 Introduction","dateModified":"2022-11-30T00:00:00+08:00","datePublished":"2022-11-30T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"Lecture 01: Introuduction","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/lecture01-introduction"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">Lecture01 Introduction</h1>
+<p class="post-date text-bold">
+  
+    <span class="text-upcase">zying</span> / 
+  
+  
+    <span class="text-upcase">November 2022</span>
+  
+
+
+  
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">Lectures</span>
+    
+    <span class="tag">ML in genomics</span>
+    
+  </div>
+
+
+<h1 id="lecture-01-introuduction">Lecture 01: Introuduction</h1>
+
+<p><img src="../images/Screenshot 2022-11-30 at 12.05.05 AM.png" alt="Screenshot 2022-11-30 at 12.05.05 AM.png" />
+ 表格中Lectures和教材的对应，对比浏览了一下，决定之后尽量看完视频之后按照这个表格把对应的章节阅读完</p>
+
+<ul>
+  <li>Why Computational Biology？
+    <ol>
+      <li>Biological systems are fundamentally digital in nature: DNA，RNA基本构成都可以用数字表示，生物电能作为信号数据处理，显微镜照片，CT，MRI等为图像数据等等，基本通过一定的实验和仪器设备，生物现象越来越容易被量化成数据，并且通量越来越高</li>
+      <li>Biological switches：生物过程虽然通过分子工作，但基本为两种离散状态构成复杂系统，同工程应用有很多相似，可以通过工程角度的方法去理解生物系统</li>
+      <li>enormous an increasing amounts of data: 完成分析越多的数据，将得到更多的资金支持，发展技术产生更多的数据</li>
+      <li>算力增长，可用的算法增多</li>
+      <li>在处理非常大的数据集时需要考虑Running time &amp; memory</li>
+      <li>Noisy：生物数据集一定有噪声，而处理噪声就是计算问题</li>
+      <li>Machine learning：在推理、生物特征分类和识别稳健信号非常有用</li>
+      <li>生物系统是个整体，无法孤立分析，计算方法具有整合能力，data-driven discovery</li>
+      <li>Predict: 计算研究能预测假设、机制和理论去解释实验现象，假阳性需要依赖实验验证，能够指导实验，缩小验证范围，进行更为有效率的实验设计，而这些优势也能很好的激励数据收集</li>
+      <li>Datasets can be combined and effective visulization</li>
+      <li>simulate&amp;model：可以通过计算方法仿真模拟构建模型
+        <h3 id="final-project">Final Project</h3>
+        <h4 id="final-goals">Final Goals</h4>
+      </li>
+    </ol>
+  </li>
+  <li>preparing for original research in compbio
+    <ul>
+      <li>构建一个生物学问题</li>
+      <li>收集相关文献和数据集</li>
+      <li>用新算法，机器学习解决它</li>
+      <li>解释生物学结果</li>
+    </ul>
+  </li>
+  <li>present idea and research
+    <ul>
+      <li>起草研究计划</li>
+      <li>团队工作（不一定适用现在条件）</li>
+      <li>发现其他研究的问题，提出改进意见</li>
+      <li>收到反馈，修改提按</li>
+      <li>将结果写成文章</li>
+      <li>presenting a research</li>
+    </ul>
+  </li>
+  <li>科学研究的过程：idea-&gt;frame it-&gt;propose it-&gt;revise it-&gt;carry it out-&gt;present results
+    <h4 id="final-project-milestones">Final project milestones</h4>
+    <p>虽然这个属于这个课程的考核，但我感觉这个设计就像研究生培养一样，又比目前所接触的国内培养自由度更高，更具有启发性，惊讶居然这只是一门课程。刚好最近有一些碎片化的想法，现在又做计算，比生物实验好的地方就是更具独立性，所以也记录下这个milestones按这个模式，跟进这个课程学习的同时试试看能否做个小的project，没准还能成为课题。</p>
+  </li>
+</ul>
+
+<ol>
+  <li>Set-up：a brief overview of your experience and interest</li>
+  <li>Brainstorming: a list of initial project ideas and parners (感觉这个挺好的，考虑以后定期给自己放空自己来个brainstorming把想法都记录下来）</li>
+  <li>proposal：submit a project proporsal in the form of an NIH proposal (暂时把这个定位中短期目标吧，感觉国内研究生培养不太重视proposal，至少我目前见过的很多老师都是push着学生干活，不考虑研究完整性，导致培养出来的学生critical thinking能力不足，习惯了服从指挥，完成任务。目前对科研还有一定的兴趣，不希望自己成为这样，在开始做一个项目时，尽可能想明白的好）</li>
+  <li>proposal presentation，review，midterm progress report, final project report, final class presentation暂时应该都不需要，先略过
+    <h4 id="project--deliverables">Project  deliverables</h4>
+  </li>
+</ol>
+
+<ul>
+  <li>A Written presentation （这个可以自己写写，也许写的过程中可以有新的想法呢）</li>
+  <li>An oral presentation （感觉不一定有条件，如果一起学习的朋友有愿意一块弄的再说吧，个人感觉看课程视频只是非常小的一方面，project才是精华吧）
+    <h4 id="介绍生物基础知识的部分和后续lectures的overview跳过比较熟悉">介绍生物基础知识的部分和后续lectures的overview跳过（比较熟悉）</h4>
+  </li>
+</ul>
+
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>

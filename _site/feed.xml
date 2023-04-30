@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-30T23:39:17+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
+</subtitle><author><name>zying</name></author><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;../images/640.png&quot; alt=&quot;image1&quot; /&gt;
+最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sms-activate.org/cn/info/ChatGPT&quot;&gt;虚拟SMS激活指南：&lt;/a&gt; 申请虚拟手机号用于Open AI的注册&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://greasyfork.org/zh-CN/scripts/462804-keepchatgpt&quot;&gt;KeepChatGPT：&lt;/a&gt; 解决国内网络总是报错问题的油猴插件，得先装油猴&lt;/p&gt;
+
+&lt;p&gt;联网检索的Google chrome 插件：&lt;a href=&quot;https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn?hl=en-US&quot;&gt;https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn?hl=en-US&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;chatGPT proofread 插件: &lt;a href=&quot;https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk?hl=en-US&quot;&gt;https://chrome.google.com/webstore/detail/editgpt/mognjodfeldknhobgbnkoomipkmlnnhk?hl=en-US&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GPT强大的文字处理和代码编写能力让很多人担心会被替代，其实这只是一种直观感受，它的工作依然是依赖于人的。尽管GPT的出现冲击现有的一些行业工作模式，但同很多的新技术一样也带来了非常多的机遇。通过国内外的一些相关视频和推文，以及我自己的使用体验，体会到给GPT的指令很重要。而指令看似就像我们平时说话一样的命令GPT去做一些事情，但很快就会发现日常说话的方式并不能够使GPT很好的工作，甚至也有很多人在网上说指导GPT工作是一件非常痛苦的事情。&lt;/p&gt;
+
+&lt;p&gt;近期越来越多的文章提出指令工程（prompt engineering）的重要性，简单说就是通过不断试验修正指令优化GPT给出最理想的反馈，并记录形成指令库。这就像是我们得到了一个黑盒大致知道这个东西有什么用，但又不清楚具体输入和输出是怎么对应的，prompt engineering就是将输入和输出通过不断的试验对在一起，写过代码的人很快就会发现通过不断尝试修正最后可能就形成了一个用自然语言写的“代码块”或者“函数”，其实就也成了一个编程的过程。由于GPT已经同我们的日常语言几乎一致，又保留了代码的逻辑，在不断优化指令的过程中使用者的交流能力也被打磨提高了，开始习惯用简洁清晰的语句描述需求。由于GPT给出的结果不一定正确或者准确，给了不同指令得到同一个问题的多个结果之后需要比对，找出错误，选择更优的方案，无形之中能够养成批判性的思维习惯。总结来说：1）使用者和GPT是共同成长的；2）GPT的出现替代了繁琐重复的工作，统一了编程语言和自然语音，留下了大量的时间让人们关注问题的本质逻辑链以及思考如何清晰表达；3）这就对未来生活在到处都是LLM的人们提出了新的要求（关注问题本质逻辑，培养创造力，锻炼用某一种自然语言清晰表达想法的能力）&lt;/p&gt;
+
+&lt;p&gt;因为准备8月份考雅思，最近用到最多的就是让GPT辅助我学习雅思。这个过程中跟GPT的沟通我觉得确实也是体现了以上所讨论的内容，简单用这个来举例。&lt;/p&gt;
+
+&lt;p&gt;刚开始尝试GPT的时候网上教程也不多，我就自己尝试跟GPT发“rewrite the passage：” 把所写的作文粘在冒号后面，确实基本按原来文章的意思修改了，但我最开始作文写的逻辑有问题，论点也很匮乏，GPT的rewrite仅仅就是修改了拼写，语法，换个词和短语。后来受到B站一个视频的启发说在后面加in XXX style, 于是就试了一堆“ in native speaker style”,”in schoolar style”, “in college writing style”…确实改写了不同的风格版本。但是花里胡哨，不认识的词和句子给了我一堆，还是没有解决我作文论点和论据不足的问题。接着又尝试了”expand and rewrite the passage from more different angles or aspects”这类的限定语句，GPT开始给我作文扩写，甚至还添加一些故事作为证明。于是我就每次批改让GPT就作文主题直接给我列举一些可讨论的方向，这确实让我收获还挺大的。&lt;/p&gt;
+
+&lt;p&gt;前面提到的尝试是在还没安装KeepChatGPT之前，跟GPT的对话都不能称之为对话，基本就是一次性问答。后来让GPT给我按雅思标准打分，在这种一次性问答下分数给我笑死了，同一篇作文2-15分都给我打过，十分迷惑15分是什么鬼，总分不是9分吗，于是限定“total 9”，总算没有&amp;gt;9这么离谱的了。在安装KeepChatGPT之后，就能真正进行对话了，在开启一个新的对话的时候给GPT这样一个指令：“Now, you play a  patient and carefull IELTS expert examiner and teacher” 它就会把雅思作文的评分标准说一遍，之后打出来的分数就非常稳定了&lt;/p&gt;
+
+&lt;p&gt;今天看到吴恩达和OpenAI的开发者lza Fulford合作做的技术教程&lt;a href=&quot;https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&quot;&gt;《ChatGPT提示工程》&lt;/a&gt; &lt;font color=&quot;red&quot;&gt;（非常推荐有时间可以看看)&lt;/font&gt;原来指令还可以像代码一样拆分步骤，描述输入标识符，还能按JSON这样结构化输出。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (1).png&quot; alt=&quot;image2&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;lza Fulford用jupyter的演示&lt;/center&gt;
+
+&lt;p&gt;我尝试将我的雅思作文批改指令进行优化：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (2).png&quot; alt=&quot;image3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (3).png&quot; alt=&quot;image4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;本来打分修改写在一起的，但对话模式不能像用Python调用API 能处理多个步骤，于是我一步一步提交指令。第一步ChatGPT相对稳定的给了我打分（试了好多次都打分偏差都不大）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (4).png&quot; alt=&quot;image5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;第二步我不希望GPT只是给我修改后的内容，我想能有个表格每句话修改前修改后进行对比，并且解释为什么这么修改，修改了十几个版本的指令，基本实现了这个想法。需要提一下在网页版的GPT上输出内容是有限的，我开始直接让它把修改内容全部输出，发现尽管插件让它能输出更多内容了，但仍然不能完整输出，连带着提供的解释也非常简短。于是我添加限定条件把输入的作文分三部分进行修改输出，最终指令如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (5).png&quot; alt=&quot;image6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (6).png&quot; alt=&quot;image7&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之后同一个对话追加：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/640 (7).png&quot; alt=&quot;image8&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;GPT就接着上面修改输出的内容继续第二部分的修改了。我之后还会给一些就这个话题拓展观点，然后让它按观点给我提供范文，完全可以量身定制，在修改指令的过程中我发现我英文表达也有所提高，最近这种练习确实让我写作提高了些，也让我深刻体会到了prompts的重要，相信随着各种GPT prompt社群的增多，以后会激发出更多好的prompts让GPT更好的服务于我们的日常学习工作，也暗示了大家这是一个科技发展趋势，就如同计算机和智能手机的出现，不是它能替代人，而是提出来新的机遇和挑战，能很快适应并用其提高自己学习和工作效率的人自然是和它共同成长而不会被替代的。&lt;/p&gt;
+
+&lt;p&gt;期待GPT能带来一个更加有意思的世界！&lt;/p&gt;</content><author><name>zying</name></author><category term="Technologies" /><category term="ChatGPT" /><summary type="html">最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：</summary></entry><entry><title type="html">Lecture 10_ regulatory motifs</title><link href="http://localhost:4000/lecture-10-regulatory-motifs" rel="alternate" type="text/html" title="Lecture 10_ regulatory motifs" /><published>2023-02-18T00:00:00+08:00</published><updated>2023-02-18T00:00:00+08:00</updated><id>http://localhost:4000/Lecture%2010_%20Regulatory%20Motifs</id><content type="html" xml:base="http://localhost:4000/lecture-10-regulatory-motifs">&lt;h1 id=&quot;lecture-10-regulator-motifs-discovery&quot;&gt;Lecture 10: Regulator Motifs Discovery&lt;/h1&gt;
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;turned on/off response to changing environment&lt;/li&gt;
+  &lt;li&gt;no direct addressing: genes contain sequences of motifs (tags)&lt;/li&gt;
+  &lt;li&gt;specialized protein (TF) recognize these tags&lt;/li&gt;
+  &lt;li&gt;motif has many different class (enhancer, promoter, splicing…)&lt;/li&gt;
+  &lt;li&gt;not limited to DNA sequences (spicing signals, Domains and epitopes at protein level, recurring patterns at physiological level…)
+    &lt;h3 id=&quot;regulator-structure-to-recognize-motifs&quot;&gt;Regulator structure to recognize motifs&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;proteins chemical properties can recognized DNA fregments (don’t need open DNA)&lt;/li&gt;
+  &lt;li&gt;3D topology dictates specificity (fully constrained pos or ambiguous/degenerate pos)&lt;/li&gt;
+  &lt;li&gt;other types of recognition (micro RNA, Nucleosomes, RNAs structure)
+    &lt;h3 id=&quot;infomatics-perspect-of-motif&quot;&gt;Infomatics perspect of motif&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;summary information&lt;/li&gt;
+  &lt;li&gt;integrate many pos&lt;/li&gt;
+  &lt;li&gt;measure of information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(generative model)&lt;/p&gt;
+&lt;h2 id=&quot;challenges-of-motifs-discovery&quot;&gt;Challenges of motifs discovery&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;short (6-8 bp), sometimes degenerate&lt;/li&gt;
+  &lt;li&gt;can contain any set of nucleotides&lt;/li&gt;
+  &lt;li&gt;Act at variable distance (upstream of downstream)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/image_8.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;general-thoughts-of-motifs-discovery&quot;&gt;General thoughts of motifs discovery&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Two assumptions about the data
+    &lt;ul&gt;
+      &lt;li&gt;assume no pairwise correlations between bases (each base is independent) [the risk of overfitting data]&lt;/li&gt;
+      &lt;li&gt;all motifs have fixed lengths&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;methods for motif discovery
+    &lt;ul&gt;
+      &lt;li&gt;region-based (EM, Gibbs sampling, greedy algorithm…)
+        &lt;ul&gt;
+          &lt;li&gt;local alignment&lt;/li&gt;
+          &lt;li&gt;find non-random seqences&lt;/li&gt;
+          &lt;li&gt;reduce the search space by applying prior knowledge&lt;/li&gt;
+          &lt;li&gt;conserved blocks&lt;/li&gt;
+          &lt;li&gt;examine the requency of kmers&lt;/li&gt;
+          &lt;li&gt;probabilistic methods&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;genome-wide (conservation-based)&lt;/li&gt;
+      &lt;li&gt;In vitro/trans (protein domains): based experiments&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/image_9.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;expectation-maximization&quot;&gt;Expectation maximization&lt;/h1&gt;
+&lt;h2 id=&quot;key-idea-in-em&quot;&gt;Key idea in EM&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Starting positions&amp;lt;-&amp;gt;motif matrix
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Basic Iterative Approach:
+Given: length parameter W, traning &lt;span class=&quot;nb&quot;&gt;set &lt;/span&gt;of sequences
+    	&lt;span class=&quot;nb&quot;&gt;set &lt;/span&gt;initial value &lt;span class=&quot;k&quot;&gt;for &lt;/span&gt;motif
+    	&lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; 
+      	-&amp;gt; re-estimate starting-position from motif
+      	-&amp;gt; re-estimate motif from starting-position
+    	&lt;span class=&quot;k&quot;&gt;until &lt;/span&gt;convergence
+    	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;: motif,starting positions
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;EM is a deterministic algorithm: dependent on the initial starting points, maybe converged in local max but not global&lt;/li&gt;
+  &lt;li&gt;rerun the algorithm with different initial starting positions to try reduce the chance of converging on local max (MEME-Multiple EM for motif Elicitation)
+    &lt;h2 id=&quot;the-e-step-estimating-z_ij-from-the-pwm-profile-matrix&quot;&gt;The E step: estimating $Z_ij$ from the PWM (profile matrix)&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Initialization&lt;/strong&gt; (generate an initial probability weight matrix)
+    &lt;ul&gt;
+      &lt;li&gt;can initialize the PWM by choosing starting locations randomly&lt;/li&gt;
+      &lt;li&gt;if there is 0 probability, it is generally good idea to insert pseudo- counts into your probabilities&lt;/li&gt;
+      &lt;li&gt;keep a background distribution&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Expectation&lt;/strong&gt; (generate a vector $Z_ij$)
+    &lt;ul&gt;
+      &lt;li&gt;calculate $Z_ij$using Bayes’ Rule (can’t comprehense clearly)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;M step:&lt;/strong&gt; Finding the maximum likelihood motif from starting positions $Z_ij$&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Maximization&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Repeat&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;to measure how much each element in the PWM changes after step max is a possible way to test whether the profile matrix has converged
+        &lt;h1 id=&quot;gibbs-sampling-sample-from-joint-mz_ij&quot;&gt;Gibbs Sampling: Sample from joint $(M,Z_ij)$&lt;/h1&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sampling motif position based on the Z vector
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Initialization&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Remove&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Sample&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Iterate&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;More likely to find global maximum, easy to implement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;de-novo-motif-discovery&quot;&gt;De novo motif discovery&lt;/h1&gt;
+&lt;h2 id=&quot;motivation-for-de-novo-motif-discovery&quot;&gt;Motivation for de novo motif discovery&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TF and centric approaches are not comprehensive and are biased&lt;/li&gt;
+  &lt;li&gt;generally require TF (antibody to factor)&lt;/li&gt;
+  &lt;li&gt;De novo using conservation is unbiased, &lt;font color=&quot;red&quot;&gt; but can&apos;t match motif to factor and require multiple genomes&lt;/font&gt;
+    &lt;h2 id=&quot;using-genome-wide-conservation&quot;&gt;Using genome-wide conservation&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;validation-of-discovered-motifs-with-functional-datasets&quot;&gt;Validation of discovered motifs with functional datasets&lt;/h2&gt;
+
+&lt;h1 id=&quot;evolutionary-signatures-for-regulatory-motifs&quot;&gt;Evolutionary signatures for regulatory motifs&lt;/h1&gt;
+
+&lt;h1 id=&quot;de-novo-dissection-and-confirmation-of-regulaory-regions&quot;&gt;De novo Dissection and confirmation of regulaory regions&lt;/h1&gt;
+&lt;p&gt;#&lt;/p&gt;
+&lt;h1 id=&quot;others&quot;&gt;Others&lt;/h1&gt;
+&lt;h2 id=&quot;possibly-deprecated-stuff&quot;&gt;Possibly deprecated stuff&lt;/h2&gt;
+
+&lt;h2 id=&quot;comparing-different-methods&quot;&gt;Comparing different Methods&lt;/h2&gt;
+
+&lt;h2 id=&quot;oops-zoops-tcm&quot;&gt;OOPS, ZOOPS, TCM&lt;/h2&gt;
+
+&lt;h2 id=&quot;motif-representation-and-information-content&quot;&gt;Motif Representation and Information content&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Lecture 10: Regulator Motifs Discovery Features</summary></entry><entry><title type="html">Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures</title><link href="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" rel="alternate" type="text/html" title="Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures" /><published>2023-01-14T00:00:00+08:00</published><updated>2023-01-14T00:00:00+08:00</updated><id>http://localhost:4000/Lecture04%20HMMs1_2_%20Evaluation,%20Parsing,%20posterior%20decoding,%20learning,%20HMM%20architectures</id><content type="html" xml:base="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures">&lt;h2 id=&quot;hmm-basic-evaluation-parsing-posterior-decoding&quot;&gt;HMM basic, evaluation, parsing, posterior decoding&lt;/h2&gt;
+&lt;h3 id=&quot;observation-models-bayes-rule-bayesian-inference&quot;&gt;Observation, Models, Bayes’ rule, Bayesian inference&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/image_3.png&quot; alt=&quot;image.png&quot; /&gt;
+通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率
+该模型构建的目的就是通过P(observation|season) 推断P(season|observation)
+可以通过Bayes’ Rule计算得：&lt;/p&gt;
+
+&lt;h3&gt;&lt;img src=&quot;../images/image_4.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;markov-chains-and-hidden-markov-models&quot;&gt;Markov Chains and Hidden Markov Models&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;马尔可夫链主要特点是无记忆性，同HMM差别在于所有状态均可以被观测到，不存在隐藏状态&lt;/li&gt;
+  &lt;li&gt;HMM存在隐藏状态，可以通过observation推断隐藏状态&lt;/li&gt;
+  &lt;li&gt;通过HMM detecting GC-rich regions&lt;/li&gt;
+  &lt;li&gt;HMMs在基因组注释方面有广泛应用：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/image_5.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;calculating-joint-probability-of-one-seq-parse-px-pi&quot;&gt;Calculating joint probability of one (seq, parse) P(x, $\pi$)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;../images/image_6.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;计算某一条路径的联合概率&lt;/li&gt;
+  &lt;li&gt;以全是P，全是B，部分为P序列为例说明&lt;/li&gt;
+  &lt;li&gt;Joined prob. : $P(X,\pi)=P(X|\pi)P(\pi)=P(emissions|path)\times P(path)$
+    &lt;h3 id=&quot;viterbi-algorithm-choosing-optimal-path&quot;&gt;Viterbi algorithm (choosing optimal path)&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;类似DP的方法，根据给定状态序列$\pi^*$寻找具有最大total joint prob. 的最优路径$P[X,\pi]$&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/image_7.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;定义$V_k(i)=$Prob. of most likely path through state $!\pi_i=k$
+    &lt;h3 id=&quot;forawrd-algorithm&quot;&gt;Forawrd algorithm&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;posterior-decoding&quot;&gt;Posterior Decoding&lt;/h3&gt;
+&lt;h2 id=&quot;increasing-the-state-spaceadding-memory&quot;&gt;Increasing the ‘state’ space/adding memory&lt;/h2&gt;
+&lt;h3 id=&quot;finding-gc-rich-regions-vs-finding-cpg-islands&quot;&gt;Finding GC-rich regions vs. finding CpG islands&lt;/h3&gt;
+
+&lt;h3 id=&quot;gene-structures-genscan-chromatin-chromhmm&quot;&gt;Gene structures GENSCAN, chromatin ChromHMM&lt;/h3&gt;
+
+&lt;h2 id=&quot;learning-ml-training-baum-welch-viterbi-training&quot;&gt;Learning (ML training, Baum-Welch, Viterbi training)&lt;/h2&gt;
+&lt;h3 id=&quot;supervised&quot;&gt;Supervised&lt;/h3&gt;
+
+&lt;h3 id=&quot;unsupervised&quot;&gt;Unsupervised&lt;/h3&gt;
+&lt;h2 id=&quot;conditional-random-fields-crfs--dependencies&quot;&gt;Conditional Random Fields (CRFs) &amp;amp; dependencies&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：</summary></entry><entry><title type="html">Lecture03 hashing blast database search</title><link href="http://localhost:4000/lecture03-hashing-blast-database-search" rel="alternate" type="text/html" title="Lecture03 hashing blast database search" /><published>2022-12-10T00:00:00+08:00</published><updated>2022-12-10T00:00:00+08:00</updated><id>http://localhost:4000/Lecture03%20Hashing%20BLAST%20database%20search</id><content type="html" xml:base="http://localhost:4000/lecture03-hashing-blast-database-search">&lt;h2 id=&quot;global-alignment-vs-local-alignment&quot;&gt;Global alignment vs. Local alignment&lt;/h2&gt;
+&lt;h3 id=&quot;needleman-wunsch-and-smith-waterman&quot;&gt;Needleman-Wunsch and Smith-Waterman&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Needleman-Wunsch 就是lecture02讲的比对算法（find the longest common sbusequence）
+    &lt;ul&gt;
+      &lt;li&gt;a type of global alignment&lt;/li&gt;
+      &lt;li&gt;usually applied in homologous comparison&lt;/li&gt;
+      &lt;li&gt;less useful for rearrangements, inversion or aligning to reference sequences&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Comparison of global, local and semi-global alignment
+    &lt;ul&gt;
+      &lt;li&gt;global alignment: end-to-end alignment; local alignment: comparison of substrings from different long strings&lt;/li&gt;
+      &lt;li&gt;application:
+        &lt;ul&gt;
+          &lt;li&gt;comparing conserved parts of a gene in small domains&lt;/li&gt;
+          &lt;li&gt;searching-finding a small gene in a large chromosome&lt;/li&gt;
+          &lt;li&gt;analyzing rearrangements in large segments&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;From computional perspects, global align that starting at (0,0) and ending at Bottom right, but local align that starting at any position and ending anywhere&lt;/li&gt;
+      &lt;li&gt;semi-global initializing from top row/left column to bottom row/right column&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s enssential is a type of global alignment that cannot get penalty when exist gaps in the initial or terminal position&lt;/strong&gt;
+&lt;img src=&quot;../images/image_2.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Smith-Waterman作为local alignment 典型例子在needleman-wunsch的基础上，反复迭代每个位置作为起始位点记分至F=0止
+    &lt;ul&gt;
+      &lt;li&gt;也可以通过在对角线周围限定范围降低时间和空间复杂度，但不一定能得到最优结果，实践效果却不错&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Varying gap penalty functions
+    &lt;ul&gt;
+      &lt;li&gt;Linear gap penalty: w(k)=k*p (每个gap罚相同的p分, 当前index是否有gap）&lt;/li&gt;
+      &lt;li&gt;Quadratic: w(k)=p+q*rk^2 (考虑gap的长度，由于需要计算长度，增加了复杂度）&lt;/li&gt;
+      &lt;li&gt;加入binary value：starting a gap or not (添加第二个已经包含gap的矩阵）&lt;/li&gt;
+      &lt;li&gt;Length （mod 3) gap penalty for protein-coding regions (考虑编码蛋白的密码子区域）
+        &lt;ul&gt;
+          &lt;li&gt;将长度能被3整除的gaps赋予更少的得分（不会导致移码）&lt;/li&gt;
+          &lt;li&gt;要求更多的可能性声明&lt;/li&gt;
+          &lt;li&gt;possible state：starting， mod 1=1,mod 2=2, mod 3=0
+            &lt;h2 id=&quot;linear-time-exact-string-matching&quot;&gt;Linear-time exact string matching&lt;/h2&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Karp-Rabin algrithm and semi-numerical methods
+    &lt;ul&gt;
+      &lt;li&gt;interpret stings as numbers (fast comparison)&lt;/li&gt;
+      &lt;li&gt;main:
+        &lt;ul&gt;
+          &lt;li&gt;compute next based on precious one&lt;/li&gt;
+          &lt;li&gt;Hashing (mod p) to keep the numbers small&lt;/li&gt;
+          &lt;li&gt;deal with spurious hits due to hashing collisions (处理变换之后重复的问题）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hash functions and randomized algorithms
+    &lt;ul&gt;
+      &lt;li&gt;用mod p处理时间复杂度仍然高，减少数字范围优化
+        &lt;ul&gt;
+          &lt;li&gt;Hashing： 用hashing func mapping keys k in smaller space&lt;/li&gt;
+          &lt;li&gt;Hashing func examples: x=y-&amp;gt;h(x)=h(y) [reproducibility]; $x{\neq}y{\rightarrow}P(h(x)=h(y))=\frac{1}{m}$ [uniform output distrib] (输入字符不同，变换后相同的概率为1/m-均匀分布)&lt;/li&gt;
+          &lt;li&gt;存在一个新的问题：Collisions （不同的输入产生了相同的输出）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;dealing with collisions , due to hashing
+        &lt;ul&gt;
+          &lt;li&gt;verify that a hit correspond to valid match (把所有比对上的序列都重新计算检查一遍）[耗时]&lt;/li&gt;
+          &lt;li&gt;avoid worst-case behavior of many collisions (Choose random m) [合理]
+            &lt;h2 id=&quot;the-blast-algorithm-and-inexact-matching&quot;&gt;The BLAST algorithm and inexact matching&lt;/h2&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sequence Database search
+    &lt;ul&gt;
+      &lt;li&gt;Given a query seq to find similar old seqs&lt;/li&gt;
+      &lt;li&gt;query must be very fast for a new sequence&lt;/li&gt;
+      &lt;li&gt;most sequence will be completely unrelated to query&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;BLAST Overview
+    &lt;ul&gt;
+      &lt;li&gt;receive query
+        &lt;ul&gt;
+          &lt;li&gt;split query into overlapping words of length W [重要参数]&lt;/li&gt;
+          &lt;li&gt;find neighborhood words for each word until threshold T [重要参数]&lt;/li&gt;
+          &lt;li&gt;look in table where words occur: seeds S&lt;/li&gt;
+          &lt;li&gt;extend seeds S until score drops off under X&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;report significance and alignment of each match&lt;/li&gt;
+      &lt;li&gt;W choosing:
+        &lt;ul&gt;
+          &lt;li&gt;Sequence length: n&lt;/li&gt;
+          &lt;li&gt;Identities: t&lt;/li&gt;
+          &lt;li&gt;W=[n/(n-t+1)]&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Combs and Random projections
+        &lt;h2 id=&quot;probabilistic-foundations-of-sequence-alignment&quot;&gt;Probabilistic foundations of sequence alignment&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mismatch penalties, BLOSUM and PAM matrices
+    &lt;ul&gt;
+      &lt;li&gt;alignment score represent
+        &lt;ul&gt;
+          &lt;li&gt;likelihood ratio beteewn two hypotheses
+            &lt;ul&gt;
+              &lt;li&gt;H1: alignment due to chance (unrelated)&lt;/li&gt;
+              &lt;li&gt;H2:alignment due to ancestry (related)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;calcu probability
+            &lt;ul&gt;
+              &lt;li&gt;Pr(x,y|U): P of alignment x,y by model U (unrelated)&lt;/li&gt;
+              &lt;li&gt;Pr(x,y|R): P of alignment x,y by model R (related)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Alignment score: likelihood ratio between the two
+            &lt;ul&gt;
+              &lt;li&gt;P that align not due to chance = P(x,y|R)/P(x,y|U)&lt;/li&gt;
+              &lt;li&gt;Score=log(P)&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Key idea of substitution Matrices: trust alignments of related seqences provide information about biologically permissible mutations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Statistical significance of an alignment score
+    &lt;h2 id=&quot;deterministic-linear-time-exact-string-matching&quot;&gt;Deterministic linear-time exact string matching&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Key insight: gather more info from each comparison
+    &lt;ul&gt;
+      &lt;li&gt;Special case （all same and all diff）&lt;/li&gt;
+      &lt;li&gt;General case
+        &lt;ul&gt;
+          &lt;li&gt;learn internal redundancy structure of the pattern&lt;/li&gt;
+          &lt;li&gt;Pattern pre-processing step&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pre-processing, Z-algorithm, Boyer-More, KMP
+    &lt;ul&gt;
+      &lt;li&gt;预处理序列，找出多次重复的pattern-Z-box&lt;/li&gt;
+      &lt;li&gt;如果z-box不在query seq, 直接比对，如果query seq上也有，基于P移动比对&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman</summary></entry><entry><title type="html">Lecture02 sequence alignment and dynamic programming</title><link href="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" rel="alternate" type="text/html" title="Lecture02 sequence alignment and dynamic programming" /><published>2022-12-05T00:00:00+08:00</published><updated>2022-12-05T00:00:00+08:00</updated><id>http://localhost:4000/Lecture02%20Sequence%20Alignment%20and%20Dynamic%20Programming</id><content type="html" xml:base="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming">&lt;h2 id=&quot;alignment-算法的应用&quot;&gt;Alignment 算法的应用&lt;/h2&gt;
+
+&lt;p&gt;引入Alignment算法，对这块不熟悉，以后遇到再细看&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;发现同源序列&lt;/li&gt;
+  &lt;li&gt;比较找到功能相同的元件，保守区域&lt;/li&gt;
+  &lt;li&gt;develop methods for estimating the level of constraint (估计一些限制水平的方法，不大熟悉这一块，不是特别理解）
+    &lt;ul&gt;
+      &lt;li&gt;edit operations, substutions, gaps 等数量&lt;/li&gt;
+      &lt;li&gt;估计mutations的数量（包括back-mutations: 基因通过二次突变又变回原来的基因型和表型)&lt;/li&gt;
+      &lt;li&gt;conservation ‘windows’ (不是特别理解，一段保守区域？）&lt;/li&gt;
+      &lt;li&gt;估计限制的‘隐藏状态’ （HMM）&lt;/li&gt;
+      &lt;li&gt;用phylogeny估计突变比例树&lt;/li&gt;
+      &lt;li&gt;phylogenetics: Allow different portions of the tree to have different rates&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;各种功能的进化信号 （蛋白编码基因、RNA结构、microRNA、regulatory motifs）
+    &lt;h2 id=&quot;to-actually-align-two-genes&quot;&gt;To actually align two genes&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;From Bio to CS: Formalizing the problem
+    &lt;ul&gt;
+      &lt;li&gt;Define set of operations (insertion, deletion, mutation in evolutionary)&lt;/li&gt;
+      &lt;li&gt;Define optimality criterion (min number, min cost,Occam’s razor: find min)&lt;/li&gt;
+      &lt;li&gt;Design algorithm that achieves that optimality&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/image_1.png&quot; alt=&quot;image.png&quot; /&gt;
+这个图对Bio和comp的关系描述的很好，算法和模型是为了简化/公式化，忽略噪声信息，提取有意义的信息&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;各种align Formulations 构建思路（从简单到复杂，很好展示了一个建模思考过程）：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Longest common substring (no gaps)-&amp;gt;Longest common subsequence (gaps allowed)-&amp;gt;
+Allow gaps (fixed penalty)-&amp;gt;Varying penalties
+-&amp;gt;Varying gap cost models:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linear gap penalty (前面所说的几个都是线性）&lt;/li&gt;
+  &lt;li&gt;Affine gap penalty
+    &lt;ul&gt;
+      &lt;li&gt;给位于starting/ending position 的gap更大的成本&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;General gap penalty&lt;/li&gt;
+  &lt;li&gt;Frame-aware gap penalty
+    &lt;ul&gt;
+      &lt;li&gt;考虑编码框破坏的成本&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Seek duplicated regions，rearrangements, …
+    &lt;h2 id=&quot;introduction-to-principles-of-dynamic-programming&quot;&gt;Introduction to principles of dynamic programming&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;用Fibonacci num作为例子说明Top-down 和 bottom-up对算法复杂度的影响
+    &lt;ul&gt;
+      &lt;li&gt;Iterative solution do (迭代过程做了什么）：
+        &lt;ul&gt;
+          &lt;li&gt;reveal identical sub-problems&lt;/li&gt;
+          &lt;li&gt;odering to enable result reuse&lt;/li&gt;
+          &lt;li&gt;Systematically filled-in table of results&lt;/li&gt;
+          &lt;li&gt;Expressed larger problems from their subparts&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Ordering of computations matters (bottom-up 在这个问题上优于top-down)
+        &lt;ul&gt;
+          &lt;li&gt;bottom-top结构把所有子问题的解全都添加进入表格，并排序&lt;/li&gt;
+          &lt;li&gt;最终回溯只需要寻找解，而不必重复计算&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;（从这个层面看似乎需要回溯的问题考虑bottom-top结构更合适）&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dynamic programming in Theory
+    &lt;ul&gt;
+      &lt;li&gt;Hallmarks of DP
+        &lt;ul&gt;
+          &lt;li&gt;Optimal substructure: 问题的最优解包含子问题的最有解（区别于greedy algorithm：子问题最有解就是全局解）&lt;/li&gt;
+          &lt;li&gt;Overlapping subproblems: 有限数量不同的子问题，重复多次&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Typically for optimization problems
+        &lt;ul&gt;
+          &lt;li&gt;局部最优解&lt;/li&gt;
+          &lt;li&gt;search space 添加score&lt;/li&gt;
+          &lt;li&gt;traceable find optimal path&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Middle  of the road in range of difficulty (DP 为中等难度）
+        &lt;ul&gt;
+          &lt;li&gt;Easier: greedy choice possible at each step&lt;/li&gt;
+          &lt;li&gt;DynProg: requires a traceback to find that optimal path&lt;/li&gt;
+          &lt;li&gt;Harder: no options/substrains?&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DP recipe：
+    &lt;ul&gt;
+      &lt;li&gt;Parameterization （设计dimensions，选择合适variables）&lt;/li&gt;
+      &lt;li&gt;sub-problem space （一定要有限的subpro, 如果不能广泛reuse，DP不是一个很好的解决方案)&lt;/li&gt;
+      &lt;li&gt;traversal order&lt;/li&gt;
+      &lt;li&gt;recursion formula [larger problems=F（subparts)]&lt;/li&gt;
+      &lt;li&gt;trace-back
+        &lt;h2 id=&quot;dp-for-sequence-alignment&quot;&gt;DP for sequence alignment&lt;/h2&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Building up a solution from smaller parts
+    &lt;ul&gt;
+      &lt;li&gt;compute best alignment recursively&lt;/li&gt;
+      &lt;li&gt;compute optimal score based on smaller problems
+        &lt;ul&gt;
+          &lt;li&gt;key idea: cal max score of longer sequences based on pre-computed shorter (用短序列设计一个积分规则，保证所有短序列已经计算好了，并且可以被用于作为长序列比对的规则）&lt;/li&gt;
+          &lt;li&gt;Store all these alignments of any length this way（构建一个打分的矩阵）&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Prefix matrix: finite subproblems, exponential paths&lt;/li&gt;
+  &lt;li&gt;Compute alignments recursively
+    &lt;ul&gt;
+      &lt;li&gt;Local update rules (仅关注相邻的格子，根据前面比对结果计算下一个比对）&lt;/li&gt;
+      &lt;li&gt;compute scores for prefixes of increasing length
+        &lt;h2 id=&quot;advanced-topics-dynamic-programming-variants&quot;&gt;Advanced topics: Dynamic Programming variants&lt;/h2&gt;
+        &lt;p&gt;进一步优化算法，降低时间复杂度&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Linear-time bounded DP (heuristic)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;将traceback限制在一定范围之内–限制gap数量&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linear-space DP: Hirschberg algorithm （感觉像是类似添加了二分法的思想）&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Alignment 算法的应用</summary></entry><entry><title type="html">Lecture01 Introduction</title><link href="http://localhost:4000/lecture01-introduction" rel="alternate" type="text/html" title="Lecture01 Introduction" /><published>2022-11-30T00:00:00+08:00</published><updated>2022-11-30T00:00:00+08:00</updated><id>http://localhost:4000/lecture01-Introduction</id><content type="html" xml:base="http://localhost:4000/lecture01-introduction">&lt;h1 id=&quot;lecture-01-introuduction&quot;&gt;Lecture 01: Introuduction&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/Screenshot 2022-11-30 at 12.05.05 AM.png&quot; alt=&quot;Screenshot 2022-11-30 at 12.05.05 AM.png&quot; /&gt;
+ 表格中Lectures和教材的对应，对比浏览了一下，决定之后尽量看完视频之后按照这个表格把对应的章节阅读完&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why Computational Biology？
+    &lt;ol&gt;
+      &lt;li&gt;Biological systems are fundamentally digital in nature: DNA，RNA基本构成都可以用数字表示，生物电能作为信号数据处理，显微镜照片，CT，MRI等为图像数据等等，基本通过一定的实验和仪器设备，生物现象越来越容易被量化成数据，并且通量越来越高&lt;/li&gt;
+      &lt;li&gt;Biological switches：生物过程虽然通过分子工作，但基本为两种离散状态构成复杂系统，同工程应用有很多相似，可以通过工程角度的方法去理解生物系统&lt;/li&gt;
+      &lt;li&gt;enormous an increasing amounts of data: 完成分析越多的数据，将得到更多的资金支持，发展技术产生更多的数据&lt;/li&gt;
+      &lt;li&gt;算力增长，可用的算法增多&lt;/li&gt;
+      &lt;li&gt;在处理非常大的数据集时需要考虑Running time &amp;amp; memory&lt;/li&gt;
+      &lt;li&gt;Noisy：生物数据集一定有噪声，而处理噪声就是计算问题&lt;/li&gt;
+      &lt;li&gt;Machine learning：在推理、生物特征分类和识别稳健信号非常有用&lt;/li&gt;
+      &lt;li&gt;生物系统是个整体，无法孤立分析，计算方法具有整合能力，data-driven discovery&lt;/li&gt;
+      &lt;li&gt;Predict: 计算研究能预测假设、机制和理论去解释实验现象，假阳性需要依赖实验验证，能够指导实验，缩小验证范围，进行更为有效率的实验设计，而这些优势也能很好的激励数据收集&lt;/li&gt;
+      &lt;li&gt;Datasets can be combined and effective visulization&lt;/li&gt;
+      &lt;li&gt;simulate&amp;amp;model：可以通过计算方法仿真模拟构建模型
+        &lt;h3 id=&quot;final-project&quot;&gt;Final Project&lt;/h3&gt;
+        &lt;h4 id=&quot;final-goals&quot;&gt;Final Goals&lt;/h4&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;preparing for original research in compbio
+    &lt;ul&gt;
+      &lt;li&gt;构建一个生物学问题&lt;/li&gt;
+      &lt;li&gt;收集相关文献和数据集&lt;/li&gt;
+      &lt;li&gt;用新算法，机器学习解决它&lt;/li&gt;
+      &lt;li&gt;解释生物学结果&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;present idea and research
+    &lt;ul&gt;
+      &lt;li&gt;起草研究计划&lt;/li&gt;
+      &lt;li&gt;团队工作（不一定适用现在条件）&lt;/li&gt;
+      &lt;li&gt;发现其他研究的问题，提出改进意见&lt;/li&gt;
+      &lt;li&gt;收到反馈，修改提按&lt;/li&gt;
+      &lt;li&gt;将结果写成文章&lt;/li&gt;
+      &lt;li&gt;presenting a research&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;科学研究的过程：idea-&amp;gt;frame it-&amp;gt;propose it-&amp;gt;revise it-&amp;gt;carry it out-&amp;gt;present results
+    &lt;h4 id=&quot;final-project-milestones&quot;&gt;Final project milestones&lt;/h4&gt;
+    &lt;p&gt;虽然这个属于这个课程的考核，但我感觉这个设计就像研究生培养一样，又比目前所接触的国内培养自由度更高，更具有启发性，惊讶居然这只是一门课程。刚好最近有一些碎片化的想法，现在又做计算，比生物实验好的地方就是更具独立性，所以也记录下这个milestones按这个模式，跟进这个课程学习的同时试试看能否做个小的project，没准还能成为课题。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Set-up：a brief overview of your experience and interest&lt;/li&gt;
+  &lt;li&gt;Brainstorming: a list of initial project ideas and parners (感觉这个挺好的，考虑以后定期给自己放空自己来个brainstorming把想法都记录下来）&lt;/li&gt;
+  &lt;li&gt;proposal：submit a project proporsal in the form of an NIH proposal (暂时把这个定位中短期目标吧，感觉国内研究生培养不太重视proposal，至少我目前见过的很多老师都是push着学生干活，不考虑研究完整性，导致培养出来的学生critical thinking能力不足，习惯了服从指挥，完成任务。目前对科研还有一定的兴趣，不希望自己成为这样，在开始做一个项目时，尽可能想明白的好）&lt;/li&gt;
+  &lt;li&gt;proposal presentation，review，midterm progress report, final project report, final class presentation暂时应该都不需要，先略过
+    &lt;h4 id=&quot;project--deliverables&quot;&gt;Project  deliverables&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Written presentation （这个可以自己写写，也许写的过程中可以有新的想法呢）&lt;/li&gt;
+  &lt;li&gt;An oral presentation （感觉不一定有条件，如果一起学习的朋友有愿意一块弄的再说吧，个人感觉看课程视频只是非常小的一方面，project才是精华吧）
+    &lt;h4 id=&quot;介绍生物基础知识的部分和后续lectures的overview跳过比较熟悉&quot;&gt;介绍生物基础知识的部分和后续lectures的overview跳过（比较熟悉）&lt;/h4&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Lecture 01: Introuduction</summary></entry></feed>

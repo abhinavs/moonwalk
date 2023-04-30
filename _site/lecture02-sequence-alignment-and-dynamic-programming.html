@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      Lecture02 sequence alignment and dynamic programming
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Lecture02 sequence alignment and dynamic programming" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Alignment 算法的应用" />
+<meta property="og:description" content="Alignment 算法的应用" />
+<link rel="canonical" href="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" />
+<meta property="og:url" content="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-12-05T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" />
+<meta property="twitter:title" content="Lecture02 sequence alignment and dynamic programming" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@zying" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming","headline":"Lecture02 sequence alignment and dynamic programming","dateModified":"2022-12-05T00:00:00+08:00","datePublished":"2022-12-05T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"Alignment 算法的应用","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">Lecture02 sequence alignment and dynamic programming</h1>
+<p class="post-date text-bold">
+  
+    <span class="text-upcase">zying</span> / 
+  
+  
+    <span class="text-upcase">December 2022</span>
+  
+
+
+  
+  
+  (201 Words, 
+  2 Minutes)
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">Lectures</span>
+    
+    <span class="tag">ML in genomics</span>
+    
+  </div>
+
+
+<h2 id="alignment-算法的应用">Alignment 算法的应用</h2>
+
+<p>引入Alignment算法，对这块不熟悉，以后遇到再细看</p>
+
+<ul>
+  <li>发现同源序列</li>
+  <li>比较找到功能相同的元件，保守区域</li>
+  <li>develop methods for estimating the level of constraint (估计一些限制水平的方法，不大熟悉这一块，不是特别理解）
+    <ul>
+      <li>edit operations, substutions, gaps 等数量</li>
+      <li>估计mutations的数量（包括back-mutations: 基因通过二次突变又变回原来的基因型和表型)</li>
+      <li>conservation ‘windows’ (不是特别理解，一段保守区域？）</li>
+      <li>估计限制的‘隐藏状态’ （HMM）</li>
+      <li>用phylogeny估计突变比例树</li>
+      <li>phylogenetics: Allow different portions of the tree to have different rates</li>
+    </ul>
+  </li>
+  <li>各种功能的进化信号 （蛋白编码基因、RNA结构、microRNA、regulatory motifs）
+    <h2 id="to-actually-align-two-genes">To actually align two genes</h2>
+  </li>
+  <li>From Bio to CS: Formalizing the problem
+    <ul>
+      <li>Define set of operations (insertion, deletion, mutation in evolutionary)</li>
+      <li>Define optimality criterion (min number, min cost,Occam’s razor: find min)</li>
+      <li>Design algorithm that achieves that optimality</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="../images/image_1.png" alt="image.png" />
+这个图对Bio和comp的关系描述的很好，算法和模型是为了简化/公式化，忽略噪声信息，提取有意义的信息</p>
+
+<ul>
+  <li>各种align Formulations 构建思路（从简单到复杂，很好展示了一个建模思考过程）：</li>
+</ul>
+
+<p>Longest common substring (no gaps)-&gt;Longest common subsequence (gaps allowed)-&gt;
+Allow gaps (fixed penalty)-&gt;Varying penalties
+-&gt;Varying gap cost models:</p>
+
+<ul>
+  <li>Linear gap penalty (前面所说的几个都是线性）</li>
+  <li>Affine gap penalty
+    <ul>
+      <li>给位于starting/ending position 的gap更大的成本</li>
+    </ul>
+  </li>
+  <li>General gap penalty</li>
+  <li>Frame-aware gap penalty
+    <ul>
+      <li>考虑编码框破坏的成本</li>
+    </ul>
+  </li>
+  <li>Seek duplicated regions，rearrangements, …
+    <h2 id="introduction-to-principles-of-dynamic-programming">Introduction to principles of dynamic programming</h2>
+  </li>
+  <li>用Fibonacci num作为例子说明Top-down 和 bottom-up对算法复杂度的影响
+    <ul>
+      <li>Iterative solution do (迭代过程做了什么）：
+        <ul>
+          <li>reveal identical sub-problems</li>
+          <li>odering to enable result reuse</li>
+          <li>Systematically filled-in table of results</li>
+          <li>Expressed larger problems from their subparts</li>
+        </ul>
+      </li>
+      <li>Ordering of computations matters (bottom-up 在这个问题上优于top-down)
+        <ul>
+          <li>bottom-top结构把所有子问题的解全都添加进入表格，并排序</li>
+          <li>最终回溯只需要寻找解，而不必重复计算</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>（从这个层面看似乎需要回溯的问题考虑bottom-top结构更合适）</p>
+
+<ul>
+  <li>Dynamic programming in Theory
+    <ul>
+      <li>Hallmarks of DP
+        <ul>
+          <li>Optimal substructure: 问题的最优解包含子问题的最有解（区别于greedy algorithm：子问题最有解就是全局解）</li>
+          <li>Overlapping subproblems: 有限数量不同的子问题，重复多次</li>
+        </ul>
+      </li>
+      <li>Typically for optimization problems
+        <ul>
+          <li>局部最优解</li>
+          <li>search space 添加score</li>
+          <li>traceable find optimal path</li>
+        </ul>
+      </li>
+      <li>Middle  of the road in range of difficulty (DP 为中等难度）
+        <ul>
+          <li>Easier: greedy choice possible at each step</li>
+          <li>DynProg: requires a traceback to find that optimal path</li>
+          <li>Harder: no options/substrains?</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>DP recipe：
+    <ul>
+      <li>Parameterization （设计dimensions，选择合适variables）</li>
+      <li>sub-problem space （一定要有限的subpro, 如果不能广泛reuse，DP不是一个很好的解决方案)</li>
+      <li>traversal order</li>
+      <li>recursion formula [larger problems=F（subparts)]</li>
+      <li>trace-back
+        <h2 id="dp-for-sequence-alignment">DP for sequence alignment</h2>
+      </li>
+    </ul>
+  </li>
+  <li>Building up a solution from smaller parts
+    <ul>
+      <li>compute best alignment recursively</li>
+      <li>compute optimal score based on smaller problems
+        <ul>
+          <li>key idea: cal max score of longer sequences based on pre-computed shorter (用短序列设计一个积分规则，保证所有短序列已经计算好了，并且可以被用于作为长序列比对的规则）</li>
+          <li>Store all these alignments of any length this way（构建一个打分的矩阵）</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Prefix matrix: finite subproblems, exponential paths</li>
+  <li>Compute alignments recursively
+    <ul>
+      <li>Local update rules (仅关注相邻的格子，根据前面比对结果计算下一个比对）</li>
+      <li>compute scores for prefixes of increasing length
+        <h2 id="advanced-topics-dynamic-programming-variants">Advanced topics: Dynamic Programming variants</h2>
+        <p>进一步优化算法，降低时间复杂度</p>
+      </li>
+    </ul>
+  </li>
+  <li>Linear-time bounded DP (heuristic)</li>
+</ul>
+
+<p>将traceback限制在一定范围之内–限制gap数量</p>
+
+<ul>
+  <li>Linear-space DP: Hirschberg algorithm （感觉像是类似添加了二分法的思想）</li>
+</ul>
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>

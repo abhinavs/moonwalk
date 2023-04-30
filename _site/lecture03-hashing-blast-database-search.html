@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      Lecture03 hashing blast database search
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Lecture03 hashing blast database search" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman" />
+<meta property="og:description" content="Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman" />
+<link rel="canonical" href="http://localhost:4000/lecture03-hashing-blast-database-search" />
+<meta property="og:url" content="http://localhost:4000/lecture03-hashing-blast-database-search" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture03-hashing-blast-database-search" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-12-10T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture03-hashing-blast-database-search" />
+<meta property="twitter:title" content="Lecture03 hashing blast database search" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@zying" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/lecture03-hashing-blast-database-search","headline":"Lecture03 hashing blast database search","dateModified":"2022-12-10T00:00:00+08:00","datePublished":"2022-12-10T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/lecture03-hashing-blast-database-search"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">Lecture03 hashing blast database search</h1>
+<p class="post-date text-bold">
+  
+    <span class="text-upcase">zying</span> / 
+  
+  
+    <span class="text-upcase">December 2022</span>
+  
+
+
+  
+  
+  (399 Words, 
+  3 Minutes)
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">Lectures</span>
+    
+    <span class="tag">ML in genomics</span>
+    
+  </div>
+
+
+<h2 id="global-alignment-vs-local-alignment">Global alignment vs. Local alignment</h2>
+<h3 id="needleman-wunsch-and-smith-waterman">Needleman-Wunsch and Smith-Waterman</h3>
+
+<ul>
+  <li>Needleman-Wunsch 就是lecture02讲的比对算法（find the longest common sbusequence）
+    <ul>
+      <li>a type of global alignment</li>
+      <li>usually applied in homologous comparison</li>
+      <li>less useful for rearrangements, inversion or aligning to reference sequences</li>
+    </ul>
+  </li>
+  <li>Comparison of global, local and semi-global alignment
+    <ul>
+      <li>global alignment: end-to-end alignment; local alignment: comparison of substrings from different long strings</li>
+      <li>application:
+        <ul>
+          <li>comparing conserved parts of a gene in small domains</li>
+          <li>searching-finding a small gene in a large chromosome</li>
+          <li>analyzing rearrangements in large segments</li>
+        </ul>
+      </li>
+      <li>From computional perspects, global align that starting at (0,0) and ending at Bottom right, but local align that starting at any position and ending anywhere</li>
+      <li>semi-global initializing from top row/left column to bottom row/right column</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>It’s enssential is a type of global alignment that cannot get penalty when exist gaps in the initial or terminal position</strong>
+<img src="../images/image_2.png" alt="image.png" /></p>
+
+<ul>
+  <li>Smith-Waterman作为local alignment 典型例子在needleman-wunsch的基础上，反复迭代每个位置作为起始位点记分至F=0止
+    <ul>
+      <li>也可以通过在对角线周围限定范围降低时间和空间复杂度，但不一定能得到最优结果，实践效果却不错</li>
+    </ul>
+  </li>
+  <li>Varying gap penalty functions
+    <ul>
+      <li>Linear gap penalty: w(k)=k*p (每个gap罚相同的p分, 当前index是否有gap）</li>
+      <li>Quadratic: w(k)=p+q*rk^2 (考虑gap的长度，由于需要计算长度，增加了复杂度）</li>
+      <li>加入binary value：starting a gap or not (添加第二个已经包含gap的矩阵）</li>
+      <li>Length （mod 3) gap penalty for protein-coding regions (考虑编码蛋白的密码子区域）
+        <ul>
+          <li>将长度能被3整除的gaps赋予更少的得分（不会导致移码）</li>
+          <li>要求更多的可能性声明</li>
+          <li>possible state：starting， mod 1=1,mod 2=2, mod 3=0
+            <h2 id="linear-time-exact-string-matching">Linear-time exact string matching</h2>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Karp-Rabin algrithm and semi-numerical methods
+    <ul>
+      <li>interpret stings as numbers (fast comparison)</li>
+      <li>main:
+        <ul>
+          <li>compute next based on precious one</li>
+          <li>Hashing (mod p) to keep the numbers small</li>
+          <li>deal with spurious hits due to hashing collisions (处理变换之后重复的问题）</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Hash functions and randomized algorithms
+    <ul>
+      <li>用mod p处理时间复杂度仍然高，减少数字范围优化
+        <ul>
+          <li>Hashing： 用hashing func mapping keys k in smaller space</li>
+          <li>Hashing func examples: x=y-&gt;h(x)=h(y) [reproducibility]; $x{\neq}y{\rightarrow}P(h(x)=h(y))=\frac{1}{m}$ [uniform output distrib] (输入字符不同，变换后相同的概率为1/m-均匀分布)</li>
+          <li>存在一个新的问题：Collisions （不同的输入产生了相同的输出）</li>
+        </ul>
+      </li>
+      <li>dealing with collisions , due to hashing
+        <ul>
+          <li>verify that a hit correspond to valid match (把所有比对上的序列都重新计算检查一遍）[耗时]</li>
+          <li>avoid worst-case behavior of many collisions (Choose random m) [合理]
+            <h2 id="the-blast-algorithm-and-inexact-matching">The BLAST algorithm and inexact matching</h2>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Sequence Database search
+    <ul>
+      <li>Given a query seq to find similar old seqs</li>
+      <li>query must be very fast for a new sequence</li>
+      <li>most sequence will be completely unrelated to query</li>
+    </ul>
+  </li>
+  <li>BLAST Overview
+    <ul>
+      <li>receive query
+        <ul>
+          <li>split query into overlapping words of length W [重要参数]</li>
+          <li>find neighborhood words for each word until threshold T [重要参数]</li>
+          <li>look in table where words occur: seeds S</li>
+          <li>extend seeds S until score drops off under X</li>
+        </ul>
+      </li>
+      <li>report significance and alignment of each match</li>
+      <li>W choosing:
+        <ul>
+          <li>Sequence length: n</li>
+          <li>Identities: t</li>
+          <li>W=[n/(n-t+1)]</li>
+        </ul>
+      </li>
+      <li>Combs and Random projections
+        <h2 id="probabilistic-foundations-of-sequence-alignment">Probabilistic foundations of sequence alignment</h2>
+      </li>
+    </ul>
+  </li>
+  <li>Mismatch penalties, BLOSUM and PAM matrices
+    <ul>
+      <li>alignment score represent
+        <ul>
+          <li>likelihood ratio beteewn two hypotheses
+            <ul>
+              <li>H1: alignment due to chance (unrelated)</li>
+              <li>H2:alignment due to ancestry (related)</li>
+            </ul>
+          </li>
+          <li>calcu probability
+            <ul>
+              <li>Pr(x,y|U): P of alignment x,y by model U (unrelated)</li>
+              <li>Pr(x,y|R): P of alignment x,y by model R (related)</li>
+            </ul>
+          </li>
+          <li>Alignment score: likelihood ratio between the two
+            <ul>
+              <li>P that align not due to chance = P(x,y|R)/P(x,y|U)</li>
+              <li>Score=log(P)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Key idea of substitution Matrices: trust alignments of related seqences provide information about biologically permissible mutations</li>
+    </ul>
+  </li>
+  <li>Statistical significance of an alignment score
+    <h2 id="deterministic-linear-time-exact-string-matching">Deterministic linear-time exact string matching</h2>
+  </li>
+  <li>Key insight: gather more info from each comparison
+    <ul>
+      <li>Special case （all same and all diff）</li>
+      <li>General case
+        <ul>
+          <li>learn internal redundancy structure of the pattern</li>
+          <li>Pattern pre-processing step</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Pre-processing, Z-algorithm, Boyer-More, KMP
+    <ul>
+      <li>预处理序列，找出多次重复的pattern-Z-box</li>
+      <li>如果z-box不在query seq, 直接比对，如果query seq上也有，基于P移动比对</li>
+    </ul>
+  </li>
+</ul>
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>
