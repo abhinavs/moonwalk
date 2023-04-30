@@ -21,7 +21,7 @@ tags: [Lectures, ML in genomics]
    - semi-global initializing from top row/left column to bottom row/right column
 
 **It's enssential is a type of global alignment that cannot get penalty when exist gaps in the initial or terminal position**
-![image.png](../images/image_2.png)
+![image.png](images/image_2.png)
 
 - Smith-Waterman作为local alignment 典型例子在needleman-wunsch的基础上，反复迭代每个位置作为起始位点记分至F=0止
    - 也可以通过在对角线周围限定范围降低时间和空间复杂度，但不一定能得到最优结果，实践效果却不错

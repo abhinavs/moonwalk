@@ -30,7 +30,7 @@ tags: [Lectures, ML in genomics]
 - can contain any set of nucleotides
 - Act at variable distance (upstream of downstream)
 
-![image.png](../images/image_8.png)
+![image.png](images/image_8.png)
 ## General thoughts of motifs discovery
 
 - Two assumptions about the data
@@ -47,7 +47,7 @@ tags: [Lectures, ML in genomics]
    - genome-wide (conservation-based)
    - In vitro/trans (protein domains): based experiments
 
-![image.png](../images/image_9.png)
+![image.png](images/image_9.png)
 # Expectation maximization
 ## Key idea in EM
 

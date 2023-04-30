@@ -24,7 +24,7 @@ tags: [Lectures, ML in genomics]
    - Define optimality criterion (min number, min cost,Occam's razor: find min)
    - Design algorithm that achieves that optimality
 
-![image.png](../images/image_1.png)
+![image.png](images/image_1.png)
 这个图对Bio和comp的关系描述的很好，算法和模型是为了简化/公式化，忽略噪声信息，提取有意义的信息
 
 - 各种align Formulations 构建思路（从简单到复杂，很好展示了一个建模思考过程）：
