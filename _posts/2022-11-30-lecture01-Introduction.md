@@ -4,9 +4,9 @@ author: zying
 tags: [Lectures, ML in genomics]
 ---
 
-# Lecture01: Introuduction
+# Lecture 01: Introuduction
 
-![Screenshot 2022-11-30 at 12.05.05 AM.png](https://cdn.nlark.com/yuque/0/2022/png/34544949/1669737910185-0aa73c12-b782-4a02-b515-a8a148a18eb4.png#averageHue=%23cecccb&clientId=u3532d19f-ba2b-4&from=drop&id=u2dafaf6b&originHeight=850&originWidth=1376&originalType=binary&ratio=1&rotation=0&showTitle=false&size=972458&status=done&style=none&taskId=u14ee8f86-d855-4ec6-828c-b475694810b&title=)
+![Screenshot 2022-11-30 at 12.05.05 AM.png](../images/Screenshot 2022-11-30 at 12.05.05 AM.png)
  表格中Lectures和教材的对应，对比浏览了一下，决定之后尽量看完视频之后按照这个表格把对应的章节阅读完
 
 - Why Computational Biology？
