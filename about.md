@@ -24,17 +24,17 @@ title: About me
  </center>
  
 <hr width="100%" color="#483D8B">
-### Basic Information
+### Brief Introduction
 
 > As someone who is highly curious about the world and a fan of new technologies, I enjoy venturing into unexplored territories. My interest lies in applying computational perspectives and bioinformatics techniques to unravel scientific problems and discover new biological mechanisms in the field of neurobiological development or related disorders. I firmly believe that self-discovery and exploring the captivating world we inhabit will form the foundation of my lifelong career. Moreover, personal growth, immersive experiences, and meeting fascinating people will serve as my sources of motivation.
 
 ### Educational Experiences
 
-* 2022.09-Present: MSc of Bioinformatics, Harbin Medical Univeristy
+* 2022.09-Present: MSc of Bioinformatics, Harbin Medical University
 
-* 2016.09-2020.01: MSc of Neurobiology, FuDan University
+* 2016.09-2020.01: MSc of Neurobiology, Fudan University
 
-* 2012.09-2016.7: BSc of Bioengineering, HuNan Agricultural University 
+* 2012.09-2016.7: BSc of Bioengineering, Hunan Agricultural University 
 
 ### Research Projects
 

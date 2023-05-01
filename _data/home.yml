@@ -8,8 +8,8 @@ navbar_entries:
   - title: Booklist and Interests
     url: Booklist and interests
 
-  - title: News
-    url: News
+  - title: Milestones
+    url: milestones
 
 project_entries:
   - title: Study the types of neural cell in tumor microenvironment through deconvolution methods, decoding information from bulk RNA-seq data

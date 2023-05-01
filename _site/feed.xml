@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-01T18:03:03+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
-</subtitle><author><name>zying</name></author><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-02T04:02:48+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
+</subtitle><author><name>zying</name></author><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
+
+&lt;p&gt;又是不小心跑偏的三天假期，本来计划把上周的文献看了，整理能用的数据，然后从写ChatGPT的推文之后就停不下来了。前几年尝试过在GitHub上尝试建过一个，主要靠着抄模板，完全没去看HTML和CSS写的啥，没多久就不知道为啥不能用了。想到现在有GPT，肯定能行，果然经过GPT的辅助，理解了一些模板的内容，并且成功把projects的卡片修改成了相册，还把之前公众号的游记链接在了相册图片上。并且还构建了一个时间轴，在网站上更新了简历。虽然坐着将近个小时，还没吃饭，但成就感满满。&lt;/p&gt;
+
+&lt;h2 id=&quot;两篇公众号推文的感想&quot;&gt;两篇公众号推文的感想&lt;/h2&gt;
+
+&lt;p&gt;看了姚大力教授在《中华读书报》的专访有些共鸣。刚离开复旦那会儿心里有些膈应，现在想来虽然依然不认同很多的人和事，但可能放下了吧，愿意去回忆让自己开心和成长的一些事情了，而不是去纠结于那些只会增加负面情绪，自己并没办法改变的东西。剔除那些，在复旦的这几年确实给我打开了新世界，无论促成这些的是外力和内力。&lt;/p&gt;
+
+&lt;p&gt;姚教授在采访里说自己很幸运在一般院校自己当不了副教授，但在复旦两年就升为了正教授，他是近二十年里，全国唯一的一个未出专著就获得正教授职位的人。我不知道是不是因为时代的不同，我所遇见的复旦有所出入，但我好像也确实在这几年得到了完全自由探索的机会，确实当时只考虑兴趣独立探索，享受解决一些小问题的我是最幸福的时候。特别是当时研一频繁听到的：“自由而无用”我真的一度以为是校训，后来才知道是“民间校训”，但我好像一只都挺念着这句话。我想姚教授应该就是得益于信奉“自由而无用”的时代吧。&lt;/p&gt;
+
+&lt;p&gt;他说他一直由着性子东找西找的挑书读，“由着性子” ，读过的书，实际上大多数都会在后来所从事的研究中被派上用场。我发现虽然读研的后来算不上愉快，我那时也已经不如姚教授当年了，但也许是我的个性所致“自由”被我放的很大，我也确实度过了几年挑材料阅读，跨校区，院校听讲座，”由着性子“实验探索的生活。当然也是成长迅速，而大多人普遍认为的科研产出几乎没有。也就是姚教授在采访中所说的”学术弱势群体“。&lt;/p&gt;
+
+&lt;p&gt;他提出不要把弱势看作弱智，健康的、多样化的学术生态，应该平等地允许并鼓励人们去从事各种各样在形式与风格上互有差异的学术活动。让我有一种共鸣之感。姚教授在采访中问：”一个写了八篇文章的人，就一定比只写过六篇的人水平更高吗？“ 我现在能非常自信的回答”不一定“。因为看过了不少文章发的多，分高近看实际工作却”一言难尽“。尽管开始念那些年的好，我却从未后悔当初离开的选择，接触了不同的圈子让我更加坚定和自信，且独立思考，更加不会以职称，文章评定一个人的学术工作，甚至是人本身。我也逐渐不在受他人的褒贬而欣喜或难过，只会欣喜于自己的成长，接受自己的不足并相信可以随着时间和努力变好。&lt;/p&gt;
+
+&lt;p&gt;当同以前的自己逐渐和解，越来越多能看见一些我觉得是正面的文章和观点，也许是心态变了，也许是这个圈子也在逐渐变好。总之我现在接受我不适应目前学术圈的游戏规则，但我不认为规则就全然是对的。我会尽力在不妥协于不认可规则的前提下，在个圈子里待着，期待着变好的那一天，我相信最终真理掌握在关注科研本身的人手里，我只是自己的修炼也没到那个境界，还走进不了那样的圈子，但总能接近，没准某一天就成为了自己最像要的样子呢。&lt;/p&gt;
+
+&lt;p&gt;另一篇让我觉得受到启发的推文是”赛先生“上转发的一篇推文《写论文好痛苦，一直拖延怎么办？》碰巧看上去跟前文所述“不盯着文章产出，做自己感兴趣的研究”观点有所矛盾。我觉得也不矛盾，就像2019年陆雄文教授的毕业致辞所讨论的“自由而有用”和“自由而无用”一样，“无用“是说摒弃浮躁心态，不要急功近利，而“有用”是说要有“大用”，而不意味着“效用”和直接“变现”。我不认同为了发文章而发文章，随意灌水文章，甚至造假发文章。但我认同写作是一个思考的过程，是对科研者很重要的一个研究过程，而我就是这篇文章所说的严重拖延症患者，道理都懂，就是行动缓慢。英语和写作也是我这几年最想攻克的东西了，不为别的就为更大的自由，和自身的成长。所以我点进去，认真阅读了这篇推文。&lt;/p&gt;
+
+&lt;p&gt;作者提到的鼓励自己每篇论文做笔记，我最近也逐渐开始这么做了，只是可能还做不到作者那么细致，然后用英文写还是有点障碍。这也算是给我了一个目标和方向，接下来我会给自己划一些小目标，像是给读过的文章写summary，同类分类的论文写小综述，在到写一些comments，尝试写自己的观点之类的。总之，抓住关键“提前动笔，抓紧写，多码字”&lt;/p&gt;
+
+&lt;p&gt;作者用Paula England在Twitter上的写作心得鼓励自己，我也一样记录于此，之后想放弃之时来看一眼&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oh, have I been there (5 hours on two paragraphs) !!! Painful, but the consolation is that you are indeed 5 hours ahead of where you would be had you not persisted. It eventually gets written only if you keep working on it when it seems impossible. It is a key lesson!&lt;/p&gt;
+
+  &lt;p&gt;This is so my experience too! 40 yrs into my career writing 1st and 2nd drafts is SO painful and they are so bad. Editing later drafts fun. But as Eman says, experience gives us trust that if we just keep working on it~daily it will get done and get better.&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;—Paula England&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;最后总结一下这两篇文章的收获，要稳住心态，做自己感兴趣的研究，同时思考和写作不能停，拖延症得治，最好的办法就是提前动手写。&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
 最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sms-activate.org/cn/info/ChatGPT&quot;&gt;虚拟SMS激活指南：&lt;/a&gt; 申请虚拟手机号用于Open AI的注册&lt;/p&gt;
@@ -48,7 +80,139 @@
 
 &lt;p&gt;GPT就接着上面修改输出的内容继续第二部分的修改了。我之后还会给一些就这个话题拓展观点，然后让它按观点给我提供范文，完全可以量身定制，在修改指令的过程中我发现我英文表达也有所提高，最近这种练习确实让我写作提高了些，也让我深刻体会到了prompts的重要，相信随着各种GPT prompt社群的增多，以后会激发出更多好的prompts让GPT更好的服务于我们的日常学习工作，也暗示了大家这是一个科技发展趋势，就如同计算机和智能手机的出现，不是它能替代人，而是提出来新的机遇和挑战，能很快适应并用其提高自己学习和工作效率的人自然是和它共同成长而不会被替代的。&lt;/p&gt;
 
-&lt;p&gt;期待GPT能带来一个更加有意思的世界！&lt;/p&gt;</content><author><name>zying</name></author><category term="Technologies" /><category term="ChatGPT" /><summary type="html">最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：</summary></entry><entry><title type="html">Lecture 10_ regulatory motifs</title><link href="http://localhost:4000/lecture-10-regulatory-motifs" rel="alternate" type="text/html" title="Lecture 10_ regulatory motifs" /><published>2023-02-18T00:00:00+08:00</published><updated>2023-02-18T00:00:00+08:00</updated><id>http://localhost:4000/Lecture%2010_%20Regulatory%20Motifs</id><content type="html" xml:base="http://localhost:4000/lecture-10-regulatory-motifs">&lt;h1 id=&quot;lecture-10-regulator-motifs-discovery&quot;&gt;Lecture 10: Regulator Motifs Discovery&lt;/h1&gt;
+&lt;p&gt;期待GPT能带来一个更加有意思的世界！&lt;/p&gt;</content><author><name>zying</name></author><category term="Technologies" /><category term="ChatGPT" /><summary type="html">最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：</summary></entry><entry><title type="html">2023 Ticsso 单细胞及空间组学大会</title><link href="http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A" rel="alternate" type="text/html" title="2023 Ticsso 单细胞及空间组学大会" /><published>2023-04-15T00:00:00+08:00</published><updated>2023-04-15T00:00:00+08:00</updated><id>http://localhost:4000/2023-TICSSO-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A</id><content type="html" xml:base="http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A">&lt;h1 id=&quot;development-and-application-of-single-cell-spacial-multi-omics-methods&quot;&gt;Development and Application of single-cell spacial multi-omics methods&lt;/h1&gt;
+&lt;p&gt;华中农业大学，曹罡
+&lt;img src=&quot;images/TISCCO_image.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;images/TISCCO_image_1.png&quot; alt=&quot;image.png&quot; /&gt;
+Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述）
+主要开发分析技术，应用于神经-免疫的研究&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;https://cdn.nlark.com/yuque/__latex/bbda4dc7717f48d39d93b997247d1332.svg#card=math&amp;amp;code=%5Cpi-FISH&amp;amp;id=j2RIc&quot; alt=&quot;&quot; /&gt;, co-detection of DNA, RNA, Protein&lt;/li&gt;
+  &lt;li&gt;FISH+空间转录组：多色FISH，擦除荧光信号之后再标记，通过FISH检测splicing variation&lt;/li&gt;
+  &lt;li&gt;高通量In situ sequencing (可以耦合各种成像技术）
+    &lt;ul&gt;
+      &lt;li&gt;Neurotransmitter&lt;/li&gt;
+      &lt;li&gt;钙成像&lt;/li&gt;
+      &lt;li&gt;拉曼成像&lt;/li&gt;
+      &lt;li&gt;电压成像&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3D in situ sequencing: 透明化，自动化FISH&lt;/li&gt;
+  &lt;li&gt;Connectome: combine retro-virus, adding barcode (projectome 1.0), retro-seq (测retro barcode的scRNA-seq), 可以得到基因表达加投射信息，有望联合patch的数据&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/TISCCO_image_2.png&quot; alt=&quot;image.png&quot; /&gt;)&lt;/p&gt;
+&lt;h1 id=&quot;单细胞表观多组学技术及应用&quot;&gt;单细胞表观多组学技术及应用&lt;/h1&gt;
+&lt;p&gt;北京大学，何爱彬
+&lt;img src=&quot;images/TISCCO_image_3.png&quot; alt=&quot;image.png&quot; /&gt;
+CoBATCH同CUT&amp;amp;TAG类似
+&lt;img src=&quot;images/TISCCO_image_4.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;提到抗体标记后不适合做ChIP&lt;/li&gt;
+  &lt;li&gt;用histone modification和TF信息做pseudo-trajectory&lt;/li&gt;
+  &lt;li&gt;dynamic is important, motif changes，pioneering chromatin states&lt;/li&gt;
+  &lt;li&gt;CUT&amp;amp;TAG这种类型技术，酶比抗体更重要&lt;/li&gt;
+  &lt;li&gt;Perscective
+    &lt;ul&gt;
+      &lt;li&gt;多种修饰到同一个细胞&lt;/li&gt;
+      &lt;li&gt;cfEpiTracing, cfDNA-methylation, a pannel histone modification&lt;/li&gt;
+      &lt;li&gt;deconvolution tissue sample
+        &lt;h1 id=&quot;基于变分自编码器的bulk转录组数据单细胞空间重构算法bulk2space&quot;&gt;基于变分自编码器的Bulk转录组数据单细胞空间重构算法Bulk2Space&lt;/h1&gt;
+        &lt;p&gt;浙江大学长江三角洲智慧绿洲创新中心
+Bulk2Space没听到
+scSpace
+&lt;img src=&quot;images/TISCCO_image_5.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+        &lt;h1 id=&quot;人类胚胎细胞发育图谱的构建&quot;&gt;人类胚胎细胞发育图谱的构建&lt;/h1&gt;
+        &lt;p&gt;中国海洋，万乘基因，施威扬&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;人类细胞图谱计划（Human Cell Atlas)&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;images/TISCCO_image_6.png&quot; alt=&quot;image.png&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;切割成了不同发育部分&lt;/li&gt;
+      &lt;li&gt;人类早期胚胎细胞类型数目及组成&lt;/li&gt;
+      &lt;li&gt;发育生物学基础的细胞分类与注释&lt;/li&gt;
+      &lt;li&gt;胚胎细胞类群空间分布，single center&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;解析经典单细胞模型
+    &lt;ul&gt;
+      &lt;li&gt;A-P axis&lt;/li&gt;
+      &lt;li&gt;D-V axis&lt;/li&gt;
+      &lt;li&gt;肢体发育&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;数据整合
+    &lt;ul&gt;
+      &lt;li&gt;难以整合，分化细胞丢失&lt;/li&gt;
+      &lt;li&gt;更多以时间点数据整合发育轨迹&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;images/TISCCO_image_7.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;展望
+    &lt;ul&gt;
+      &lt;li&gt;表观多组学&lt;/li&gt;
+      &lt;li&gt;通量&lt;/li&gt;
+      &lt;li&gt;样本制备与保存 （固定，膜，应用与临床）&lt;/li&gt;
+      &lt;li&gt;空间
+        &lt;h1 id=&quot;单细胞线粒体基因突变分析&quot;&gt;单细胞线粒体基因突变分析&lt;/h1&gt;
+        &lt;p&gt;中山大学，徐锦
+线粒体瓶颈效应，做lineage分析&lt;/p&gt;
+        &lt;h1 id=&quot;空间转录组分析算法比较与挖掘&quot;&gt;空间转录组分析算法比较与挖掘&lt;/h1&gt;
+        &lt;p&gt;北生所，黎斌
+&lt;img src=&quot;images/TISCCO_image_8.png&quot; alt=&quot;image.png&quot; /&gt;
+空转分类：&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;基于测序：不是单细胞分辨率&lt;/li&gt;
+  &lt;li&gt;基于成像：不是全转录组，受光学分辨率限制&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/TISCCO_image_9.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;images/TISCCO_image_10.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;images/TISCCO_image_11.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;images/TISCCO_image_12.png&quot; alt=&quot;image.png&quot; /&gt;
+非凸优化避开收敛到局部最小值的问题，能得到全局最小值
+&lt;img src=&quot;images/TISCCO_image_13.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;images/TISCCO_image_14.png&quot; alt=&quot;image.png&quot; /&gt;
+各种分析算法提出，需要比较与数据挖掘，benchmarking工作
+&lt;img src=&quot;images/TISCCO_image_15.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;收集数据，模拟数据&lt;/li&gt;
+  &lt;li&gt;收集分析方法&lt;/li&gt;
+  &lt;li&gt;评价方法
+    &lt;ul&gt;
+      &lt;li&gt;pearson: 计算结果和标准结果的相关性&lt;/li&gt;
+      &lt;li&gt;SSIM 结构相似度：评价图像的相似性&lt;/li&gt;
+      &lt;li&gt;Jenson-Shannon散度，与KL散度类似：评价误差&lt;/li&gt;
+      &lt;li&gt;MSE: 均方根误差&lt;/li&gt;
+      &lt;li&gt;合并成rank score&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;下采样评价robust&lt;/li&gt;
+  &lt;li&gt;伪造convolution数据评价deconvolution效果&lt;/li&gt;
+  &lt;li&gt;模拟数据集（单细胞模拟spacial）&lt;/li&gt;
+  &lt;li&gt;结论
+    &lt;ul&gt;
+      &lt;li&gt;各数据集的质量对算法影响大，稀疏度越大（dropout）对结果影响越大&lt;/li&gt;
+      &lt;li&gt;Normalization很重要&lt;/li&gt;
+      &lt;li&gt;非凸优化预测空间结构效果好，概率模型deconvolution效果好&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Perspective
+    &lt;ul&gt;
+      &lt;li&gt;Spacial domain的分析&lt;/li&gt;
+      &lt;li&gt;increase resolution：借鉴图像处理算法&lt;/li&gt;
+      &lt;li&gt;三位重构：解决旋转，形变等图像问题&lt;/li&gt;
+      &lt;li&gt;Cell-Cell communication&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><summary type="html">Development and Application of single-cell spacial multi-omics methods 华中农业大学，曹罡 Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述） 主要开发分析技术，应用于神经-免疫的研究</summary></entry><entry><title type="html">Lecture 10_ regulatory motifs</title><link href="http://localhost:4000/lecture-10-regulatory-motifs" rel="alternate" type="text/html" title="Lecture 10_ regulatory motifs" /><published>2023-02-18T00:00:00+08:00</published><updated>2023-02-18T00:00:00+08:00</updated><id>http://localhost:4000/Lecture%2010_%20Regulatory%20Motifs</id><content type="html" xml:base="http://localhost:4000/lecture-10-regulatory-motifs">&lt;h1 id=&quot;lecture-10-regulator-motifs-discovery&quot;&gt;Lecture 10: Regulator Motifs Discovery&lt;/h1&gt;
 &lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
 
 &lt;ul&gt;

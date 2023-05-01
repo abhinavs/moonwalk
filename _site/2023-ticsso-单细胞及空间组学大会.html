@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      2023 Ticsso 单细胞及空间组学大会
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="2023 Ticsso 单细胞及空间组学大会" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Development and Application of single-cell spacial multi-omics methods 华中农业大学，曹罡 Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述） 主要开发分析技术，应用于神经-免疫的研究" />
+<meta property="og:description" content="Development and Application of single-cell spacial multi-omics methods 华中农业大学，曹罡 Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述） 主要开发分析技术，应用于神经-免疫的研究" />
+<link rel="canonical" href="http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A" />
+<meta property="og:url" content="http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-04-15T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A" />
+<meta property="twitter:title" content="2023 Ticsso 单细胞及空间组学大会" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A","headline":"2023 Ticsso 单细胞及空间组学大会","dateModified":"2023-04-15T00:00:00+08:00","datePublished":"2023-04-15T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"Development and Application of single-cell spacial multi-omics methods 华中农业大学，曹罡 Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述） 主要开发分析技术，应用于神经-免疫的研究","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023-ticsso-%E5%8D%95%E7%BB%86%E8%83%9E%E5%8F%8A%E7%A9%BA%E9%97%B4%E7%BB%84%E5%AD%A6%E5%A4%A7%E4%BC%9A"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">2023 Ticsso 单细胞及空间组学大会</h1>
+<p class="post-date text-bold">
+  
+    <span class="text-upcase">zying</span> / 
+  
+  
+    <span class="text-upcase">April 2023</span>
+  
+
+
+  
+  
+  (70 Words, 
+  1 Minutes)
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">Lectures</span>
+    
+  </div>
+
+
+<h1 id="development-and-application-of-single-cell-spacial-multi-omics-methods">Development and Application of single-cell spacial multi-omics methods</h1>
+<p>华中农业大学，曹罡
+<img src="images/TISCCO_image.png" alt="image.png" />
+<img src="images/TISCCO_image_1.png" alt="image.png" />
+Spatially resolve transcriptomes-Nex Generation Tools for Tissue Exploration (空转方法综述）
+主要开发分析技术，应用于神经-免疫的研究</p>
+
+<ul>
+  <li><img src="https://cdn.nlark.com/yuque/__latex/bbda4dc7717f48d39d93b997247d1332.svg#card=math&amp;code=%5Cpi-FISH&amp;id=j2RIc" alt="" />, co-detection of DNA, RNA, Protein</li>
+  <li>FISH+空间转录组：多色FISH，擦除荧光信号之后再标记，通过FISH检测splicing variation</li>
+  <li>高通量In situ sequencing (可以耦合各种成像技术）
+    <ul>
+      <li>Neurotransmitter</li>
+      <li>钙成像</li>
+      <li>拉曼成像</li>
+      <li>电压成像</li>
+    </ul>
+  </li>
+  <li>3D in situ sequencing: 透明化，自动化FISH</li>
+  <li>Connectome: combine retro-virus, adding barcode (projectome 1.0), retro-seq (测retro barcode的scRNA-seq), 可以得到基因表达加投射信息，有望联合patch的数据</li>
+</ul>
+
+<p><img src="images/TISCCO_image_2.png" alt="image.png" />)</p>
+<h1 id="单细胞表观多组学技术及应用">单细胞表观多组学技术及应用</h1>
+<p>北京大学，何爱彬
+<img src="images/TISCCO_image_3.png" alt="image.png" />
+CoBATCH同CUT&amp;TAG类似
+<img src="images/TISCCO_image_4.png" alt="image.png" /></p>
+
+<ul>
+  <li>提到抗体标记后不适合做ChIP</li>
+  <li>用histone modification和TF信息做pseudo-trajectory</li>
+  <li>dynamic is important, motif changes，pioneering chromatin states</li>
+  <li>CUT&amp;TAG这种类型技术，酶比抗体更重要</li>
+  <li>Perscective
+    <ul>
+      <li>多种修饰到同一个细胞</li>
+      <li>cfEpiTracing, cfDNA-methylation, a pannel histone modification</li>
+      <li>deconvolution tissue sample
+        <h1 id="基于变分自编码器的bulk转录组数据单细胞空间重构算法bulk2space">基于变分自编码器的Bulk转录组数据单细胞空间重构算法Bulk2Space</h1>
+        <p>浙江大学长江三角洲智慧绿洲创新中心
+Bulk2Space没听到
+scSpace
+<img src="images/TISCCO_image_5.png" alt="image.png" /></p>
+        <h1 id="人类胚胎细胞发育图谱的构建">人类胚胎细胞发育图谱的构建</h1>
+        <p>中国海洋，万乘基因，施威扬</p>
+      </li>
+    </ul>
+  </li>
+  <li>人类细胞图谱计划（Human Cell Atlas)</li>
+  <li><img src="images/TISCCO_image_6.png" alt="image.png" />
+    <ul>
+      <li>切割成了不同发育部分</li>
+      <li>人类早期胚胎细胞类型数目及组成</li>
+      <li>发育生物学基础的细胞分类与注释</li>
+      <li>胚胎细胞类群空间分布，single center</li>
+    </ul>
+  </li>
+  <li>解析经典单细胞模型
+    <ul>
+      <li>A-P axis</li>
+      <li>D-V axis</li>
+      <li>肢体发育</li>
+    </ul>
+  </li>
+  <li>数据整合
+    <ul>
+      <li>难以整合，分化细胞丢失</li>
+      <li>更多以时间点数据整合发育轨迹</li>
+    </ul>
+  </li>
+  <li><img src="images/TISCCO_image_7.png" alt="image.png" /></li>
+  <li>展望
+    <ul>
+      <li>表观多组学</li>
+      <li>通量</li>
+      <li>样本制备与保存 （固定，膜，应用与临床）</li>
+      <li>空间
+        <h1 id="单细胞线粒体基因突变分析">单细胞线粒体基因突变分析</h1>
+        <p>中山大学，徐锦
+线粒体瓶颈效应，做lineage分析</p>
+        <h1 id="空间转录组分析算法比较与挖掘">空间转录组分析算法比较与挖掘</h1>
+        <p>北生所，黎斌
+<img src="images/TISCCO_image_8.png" alt="image.png" />
+空转分类：</p>
+      </li>
+    </ul>
+  </li>
+  <li>基于测序：不是单细胞分辨率</li>
+  <li>基于成像：不是全转录组，受光学分辨率限制</li>
+</ul>
+
+<p><img src="images/TISCCO_image_9.png" alt="image.png" />
+<img src="images/TISCCO_image_10.png" alt="image.png" />
+<img src="images/TISCCO_image_11.png" alt="image.png" />
+<img src="images/TISCCO_image_12.png" alt="image.png" />
+非凸优化避开收敛到局部最小值的问题，能得到全局最小值
+<img src="images/TISCCO_image_13.png" alt="image.png" />
+<img src="images/TISCCO_image_14.png" alt="image.png" />
+各种分析算法提出，需要比较与数据挖掘，benchmarking工作
+<img src="images/TISCCO_image_15.png" alt="image.png" /></p>
+
+<ul>
+  <li>收集数据，模拟数据</li>
+  <li>收集分析方法</li>
+  <li>评价方法
+    <ul>
+      <li>pearson: 计算结果和标准结果的相关性</li>
+      <li>SSIM 结构相似度：评价图像的相似性</li>
+      <li>Jenson-Shannon散度，与KL散度类似：评价误差</li>
+      <li>MSE: 均方根误差</li>
+      <li>合并成rank score</li>
+    </ul>
+  </li>
+  <li>下采样评价robust</li>
+  <li>伪造convolution数据评价deconvolution效果</li>
+  <li>模拟数据集（单细胞模拟spacial）</li>
+  <li>结论
+    <ul>
+      <li>各数据集的质量对算法影响大，稀疏度越大（dropout）对结果影响越大</li>
+      <li>Normalization很重要</li>
+      <li>非凸优化预测空间结构效果好，概率模型deconvolution效果好</li>
+    </ul>
+  </li>
+  <li>Perspective
+    <ul>
+      <li>Spacial domain的分析</li>
+      <li>increase resolution：借鉴图像处理算法</li>
+      <li>三位重构：解决旋转，形变等图像问题</li>
+      <li>Cell-Cell communication</li>
+    </ul>
+  </li>
+</ul>
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>
