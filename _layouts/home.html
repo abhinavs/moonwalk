@@ -12,23 +12,29 @@ layout: default
   {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
+<img src="images/20230501031231.jpg" style="opacity:0.8" width="50%">
 </header>
 
 {{ content }}
+
+{% if site.theme_config.show_blog == true %}
+  <h2>{{ site.theme_config.home.title_blog }}</h2>
+  {% include post_list.html %}
+{% endif %}
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
 
+{% if site.theme_config.show_gallery == true %}
+  <h2>{{ site.theme_config.home.title_gallery }}</h2>
+  {% include photo_list.html collection=site.data.home.gallery_entries %}
+{% endif %}
+
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
-{% endif %}
-
-{% if site.theme_config.show_blog == true %}
-  <h2>{{ site.theme_config.home.title_blog }}</h2>
-  {% include post_list.html %}
 {% endif %}
 
 {% if site.theme_config.show_old_projects == true %}

@@ -7,7 +7,7 @@ ul.horizontal-list {
 
   li {
     display:inline;
-    margin-right: 1em;
+    margin-right: 0.5em;
   }
 
   li a {
@@ -20,7 +20,7 @@ ul.horizontal-list {
 .card {
   padding: 1em;
   border: 1px var(--text) solid;
-  width: 11em;
+  width: calc(45% - 1em);
   height: auto;
   text-align: center;
   font-size: 1em;

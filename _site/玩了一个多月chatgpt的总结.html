@@ -37,8 +37,6 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" />
 <meta property="twitter:title" content="玩了一个多月chatgpt的总结" />
-<meta name="twitter:site" content="@" />
-<meta name="twitter:creator" content="@zying" />
 <script type="application/ld+json">
 {"url":"http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93","headline":"玩了一个多月chatgpt的总结","dateModified":"2023-04-30T00:00:00+08:00","datePublished":"2023-04-30T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93"},"@context":"https://schema.org"}</script>
 <script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
@@ -128,7 +126,7 @@
   </div>
 
 
-<p><img src="../images/640.png" alt="image1" />
+<p><img src="images/640.png" alt="image1" />
 最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：</p>
 
 <p><a href="https://sms-activate.org/cn/info/ChatGPT">虚拟SMS激活指南：</a> 申请虚拟手机号用于Open AI的注册</p>
@@ -151,29 +149,29 @@
 
 <p>今天看到吴恩达和OpenAI的开发者lza Fulford合作做的技术教程<a href="https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315">《ChatGPT提示工程》</a> <font color="red">（非常推荐有时间可以看看)</font>原来指令还可以像代码一样拆分步骤，描述输入标识符，还能按JSON这样结构化输出。</p>
 
-<p><img src="../images/640 (1).png" alt="image2" /></p>
+<p><img src="images/640 (1).png" alt="image2" /></p>
 
 <center>lza Fulford用jupyter的演示</center>
 
 <p>我尝试将我的雅思作文批改指令进行优化：</p>
 
-<p><img src="../images/640 (2).png" alt="image3" /></p>
+<p><img src="images/640 (2).png" alt="image3" /></p>
 
-<p><img src="../images/640 (3).png" alt="image4" /></p>
+<p><img src="images/640 (3).png" alt="image4" /></p>
 
 <p>本来打分修改写在一起的，但对话模式不能像用Python调用API 能处理多个步骤，于是我一步一步提交指令。第一步ChatGPT相对稳定的给了我打分（试了好多次都打分偏差都不大）</p>
 
-<p><img src="../images/640 (4).png" alt="image5" /></p>
+<p><img src="images/640 (4).png" alt="image5" /></p>
 
 <p>第二步我不希望GPT只是给我修改后的内容，我想能有个表格每句话修改前修改后进行对比，并且解释为什么这么修改，修改了十几个版本的指令，基本实现了这个想法。需要提一下在网页版的GPT上输出内容是有限的，我开始直接让它把修改内容全部输出，发现尽管插件让它能输出更多内容了，但仍然不能完整输出，连带着提供的解释也非常简短。于是我添加限定条件把输入的作文分三部分进行修改输出，最终指令如下：</p>
 
-<p><img src="../images/640 (5).png" alt="image6" /></p>
+<p><img src="images/640 (5).png" alt="image6" /></p>
 
-<p><img src="../images/640 (6).png" alt="image7" /></p>
+<p><img src="images/640 (6).png" alt="image7" /></p>
 
 <p>之后同一个对话追加：</p>
 
-<p><img src="../images/640 (7).png" alt="image8" /></p>
+<p><img src="images/640 (7).png" alt="image8" /></p>
 
 <p>GPT就接着上面修改输出的内容继续第二部分的修改了。我之后还会给一些就这个话题拓展观点，然后让它按观点给我提供范文，完全可以量身定制，在修改指令的过程中我发现我英文表达也有所提高，最近这种练习确实让我写作提高了些，也让我深刻体会到了prompts的重要，相信随着各种GPT prompt社群的增多，以后会激发出更多好的prompts让GPT更好的服务于我们的日常学习工作，也暗示了大家这是一个科技发展趋势，就如同计算机和智能手机的出现，不是它能替代人，而是提出来新的机遇和挑战，能很快适应并用其提高自己学习和工作效率的人自然是和它共同成长而不会被替代的。</p>
 

@@ -5,38 +5,37 @@ navbar_entries:
   - title: Blog
     url: blog
     
-  - title: Gallery
-    url: about
+  - title: Booklist and Interests
+    url: Booklist and interests
 
   - title: News
     url: News
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Study the types of neural cell in tumor microenvironment through deconvolution methods, decoding information from bulk RNA-seq data
+    #url:
+    desc: This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate BGM bulk RNA-seq samples and a variety of brain metastasis samples to analysis types of neural cell and its profiles in tumor microenvironment.
+  #- title: Project 2
+    #url: overview-post
+    #desc: Projects are shown in card layout
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  #- title: Project 3
+    #url: overview-post
+    #desc: You can control visibility from _config.yml file
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Entropy Weight Ensemble in variants auto-interpretation
+    url: https://github.com/ZhouYing0818/Entropy_Weight_Ensemble
+    desc: This project ensembled the results of Xrare, Examiner and deepPVP through entropy weight, constructed a optimized analysis strategy based on real clinical data to semiauto-interprete variants across wide range of diseases
+    #highlight: WIP
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Cleaning clinical raw data
+    url: https://github.com/ZhouYing0818/xinhua_berry_report_extraction
+    desc: Some scripts about extract information from sever and a vast array of pdf or word files
+    #highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Interneuron E-type classification
+    url: https://github.com/ZhouYing0818/interneuron-e-type-
+    desc: The first bioinformatics project, bad organization scripts
 
 old_project_entries:
   - title: Soopr
@@ -65,6 +64,56 @@ footer_entries:
 
   - title: feed
     url: feed.xml
+
+gallery_entries:
+  - title: 长白山滑雪
+    #url:
+    img_url: https://thumbnail1.baidupcs.com/thumbnail/09470b687o924bc90bfb5ae84782ef9c?fid=1261248229-250528-470207844766355&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-shfbccpA8nqNnkZAF19wzKCGL%2fU%3d&expires=8h&chkbd=0&chkv=0&dp-logid=481097470122168194&dp-callid=0&time=1682881200&size=c1440_u900&quality=90&vuk=1261248229&ft=image&autopolicy=1
+    desc:
+    highlight: New
+
+  - title: 日本之行
+    url: https://mp.weixin.qq.com/s/goK5TmvvhVLBhQcdXJdeEA
+    img_url: https://thumbnail1.baidupcs.com/thumbnail/09dcfb65a6784058d38811a96f1bb88f?fid=1261248229-250528-274095689481950&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-sAK4rrfd2W%2bdBZ7X97oqvBWUyL4%3d&expires=8h&chkbd=0&chkv=0&dp-logid=481589044733836716&dp-callid=0&time=1682884800&size=c1440_u900&quality=90&vuk=1261248229&ft=image&autopolicy=1
+    desc: 本科毕业旅行, 第一次出国
+    #highlight: WIP
+
+  - title: 嵊泗跳岛游-徒步，露营
+    url: https://mp.weixin.qq.com/s/IQJ7aAXD4HRxp_MYuWhGkA
+    img_url: images/20230501045309.jpg
+    desc: 体验感最强，最累，钱花的最少的一次旅行
+
+  - title: 柏林之行
+    url: https://mp.weixin.qq.com/s/kW_cJ7asu1R-Oputg2utyQ
+    img_url: https://thumbnail1.baidupcs.com/thumbnail/272f5372cf00ee3b0c1eca8696d3a69e?fid=1261248229-250528-693548586365881&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-LqqK793WPXu62xVHVKgyKrKqwhk%3d&expires=8h&chkbd=0&chkv=0&dp-logid=481916057013700951&dp-callid=0&time=1682884800&size=c1440_u900&quality=90&vuk=1261248229&ft=image&autopolicy=1
+    desc: 攻略做的最详细的一次，拍人像最满意的一次旅行
+
+  - title: 郴州行
+    url: https://mp.weixin.qq.com/s/xMb62D5FgBhf0LBnY9mguQ
+    img_url: https://thumbnail1.baidupcs.com/thumbnail/6105ccb7bi4725ab66341aa1f17bf5d4?fid=1261248229-250528-755273433469462&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-qEozTRA9fSK522EFJxpsXVs7j%2bg%3d&expires=8h&chkbd=0&chkv=0&dp-logid=481251975798065910&dp-callid=0&time=1682884800&size=c1440_u900&quality=90&vuk=1261248229&ft=image&autopolicy=1
+    desc: 郴州体验什么叫网红景点，还好莽山还可以
+    #highlight:
+
+  - title: 大围山的星空
+    url: https://mp.weixin.qq.com/s/nUO9xlAwKbWr1EHVNTlVOw
+    img_url: https://thumbnail1.baidupcs.com/thumbnail/90dff9f3d3316a5701531e320010946e?fid=1261248229-250528-627182442135752&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2bturwHNBXGPQ8zmRPj1ddwJSXh4%3d&expires=8h&chkbd=0&chkv=0&dp-logid=481215885392395540&dp-callid=0&time=1682884800&size=c1440_u900&quality=90&vuk=1261248229&ft=image&autopolicy=1
+    desc: 上山那天大雾，本以为无望看到星空，没想到午夜雾散，第一次拍到星轨和流星
+
+  - title: 苏杭，乌镇，周庄一路玩回家
+    url: https://mp.weixin.qq.com/s/3dDbQ4CTnIZsOlpQsGMvtA
+    img_url: images/20230501050115.jpg
+    desc: 旅行时间最长的一次旅行，在周庄外的白蚬湖，拍到了至今为止，拍到过的最美日落
+
+  - title: 泰山-长岛游
+    url: https://mp.weixin.qq.com/s/9CocHC-Qhr7CfDw8BEsHnQ
+    img_url: images/20230501050621.jpg
+    desc: 第一次知道生蚝能够如此便宜，感受到渔民的淳朴实在, 也被师姐的体力和恢复力震撼到了
+
+  - title: 体验台风，搞笑的“赶海”
+    url: https://mp.weixin.qq.com/s/48pe8EjHSf6Kzs43871AQw
+    img_url: images/20230501050438.jpg
+    desc: 赶在台风登陆在外面吃火锅，离谱的“赶海”，满载而归的出海打鱼
+
 
 misc_entries:
   - title: this is an example vertical list
