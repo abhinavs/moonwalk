@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-02T04:04:50+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-03T03:09:29+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
 </subtitle><author><name>zying</name></author><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
 
 &lt;p&gt;又是不小心跑偏的三天假期，本来计划把上周的文献看了，整理能用的数据，然后从写ChatGPT的推文之后就停不下来了。前几年尝试过在GitHub上尝试建过一个，主要靠着抄模板，完全没去看HTML和CSS写的啥，没多久就不知道为啥不能用了。想到现在有GPT，肯定能行，果然经过GPT的辅助，理解了一些模板的内容，并且成功把projects的卡片修改成了相册，还把之前公众号的游记链接在了相册图片上。并且还构建了一个时间轴，在网站上更新了简历。虽然坐着将近个小时，还没吃饭，但成就感满满。&lt;/p&gt;
@@ -31,7 +31,97 @@
 
 &lt;p&gt;最后总结一下这两篇文章的收获，要稳住心态，做自己感兴趣的研究，同时思考和写作不能停，拖延症得治，最好的办法就是提前动手写。&lt;/p&gt;
 
-&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
+&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">五一假期的生活 2</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2" rel="alternate" type="text/html" title="五一假期的生活 2" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2">&lt;h1 id=&quot;翻看石见石页&quot;&gt;翻看“石见石页”&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/&quot;&gt;石见石页&lt;/a&gt;是现在导师在上周请来给我们做报告的初砚硕个人博客, 当时他做报告我刚睡醒，11点的报告，10:57醒了匆忙登入腾讯会议，当时听就感觉在介绍工具，像tmux这种工具我也是日常使用；snackmake这种我做过一些基本尝试；emacs这种我觉得跟vim差不多，我vim用习惯了，不是那么想换；工程思维和文件夹构成我还比较认可。当时没觉得有什么特别的，被cue有没有问题，我直接说没问题，都是我在用的工具。&lt;/p&gt;
+
+&lt;p&gt;然而，之后随手进到群里分享的PPT链接发现了他的这个博客，突然就觉得很有意思，也就成了前两天刺激我建现在这个博客的直接原因。而那两天沉迷于让这个博客变成我想要的样子，没特别认真翻看“石见石页”的详细内容，只是大致翻看了几篇，直觉感受是我欣赏的风格，有阅读、有思考、有各种技术的折腾，生活气息满满。这样一个私人站点的好处是完全自由的空间，可以非常随意，不需要被关注，有留有个人的痕迹。&lt;/p&gt;
+
+&lt;p&gt;今天下午就想着翻看一下，果真十分愉悦：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;旧电脑坏了，犯了一个低级错误，写好了一半的&lt;a href=&quot;https://yanshuo.site/cn/2017/08/newcomputer/&amp;quot;https://github.com/dustincys/hithesis&amp;quot;&quot;&gt;hithesis&lt;/a&gt;文档，只有本地 commit, 没有推送&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;太有共鸣了，毕竟前段时间刚把mac烧了，没来的及存的代码也痛苦的重写了。包括提到的树莓派、爬虫、LaTeX、ChatGPT等&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;，都对我有极大吸引力，又因为种种原因被浅尝之后搁置了，看博客文章的时候就想，也许我有个这样的跟自己自由对话的空间就能推着自己去继续折腾吧。反正树莓派+爬虫是打算要安排上了，我都买多少外置传感器了，最后装个系统就扔家里了…..&lt;/p&gt;
+
+&lt;p&gt;另外，看了emacs相关的文章，和他早年vim的文章发现是我浅薄了，从用vim转到用emacs还是有其道理的，当即安装了emacs，但未经配置的emacs太难用了，毕竟我也是其文中所述配置狂&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;vim和zsh的配置文件和history我都定期备份呢。有空我再慢慢探索一下emacs&lt;/p&gt;
+
+&lt;p&gt;总之，很高兴又了解到有这么一个有趣的人和博客，丰富了假期生活&lt;/p&gt;
+
+&lt;h1 id=&quot;发现两只笔&quot;&gt;发现两只笔&lt;/h1&gt;
+
+&lt;p&gt;晚上就想着来读刚买的施一公教授的新书《自我突围》，太久没读过实体书了，有点不适应，想着去笔筒里找只笔，就翻出来了下图两只笔。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/两支笔.jpg&quot; alt=&quot;两支笔&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;绿色这只是从东三搬走时收错了，是极具CZP风格的一支笔，我立刻发信息跟她说这只笔跟着我搬了几次家，居然还跟来了哈尔滨，我之后出国去找她，一定带着这支笔去。另一只是TLM送我的生日礼物，是玻璃吹成的“钢笔”，配套还有本《纳兰饮水词》，闲来无事蘸墨水写过几次，但那字体太不适合我了。现如今这两只笔都不能写字了，笔之前的主人一个在荷兰，一个在上海，而笔跟着我来了哈尔滨。&lt;/p&gt;
+
+&lt;p&gt;这两只笔的主人一个是陪伴了我本科时期的成长，跟我一起做实验，聊科研，聊施一公，颜宁……一起考研到上海，通知我植生所生信的线下活动，颜宁的讲座，助我前进。另一个陪伴了我当时在上海研究生期间的成长，一起通宵讨论课题和作图，一起养猫，养兔子，一起延期，一起考三级计算机，迷茫和找工作……那段时光虽有很多痛苦和迷茫，但在东三也是留下了很多的美好。物品就是这样，本来只有使用作用，因为背后有了人和故事，有了回忆，变得特别了。&lt;/p&gt;
+
+&lt;h1 id=&quot;读自我突围自序&quot;&gt;读《自我突围》自序&lt;/h1&gt;
+
+&lt;p&gt;翻开这本书，今晚就读了自序，就让我又是笔的回忆，又是理想的热血。续篇主要就是施教授回忆大三以前的理想主义，从清华毕业之后被现实打击，意识到：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;理想主义者需要经受现实的淬炼，在骨感的现实中找到一条实现理想的道路并一直奋斗下去，所以我把自己定义为”现实的理想主义者“——任凭风吹雨打，不坠青云之志！&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;
+    ——施一公 《自我突围》
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我也是从小到大一直都是理想主义者，从小学美术，初中生物奥赛中南六省一等奖（当时生物没有全国竞赛，已经算是最高竞赛奖项了），高中进了理科重点班，成绩也还不错，非要考艺考，还执念学油画，谁劝都不听，就是要去北京集训。最后爸妈同意让我高三去北京集训，但坚决不能学油画，认为以后搞纯艺我可能自己都养不活。去北京待了大半年学设计，非常不喜欢也不擅长设计，全国各地去考试，没几所考上的，当时备受打击。回到学校离高考就三个月了，也算被艺考成绩刺激之后，回去第一次月考生物不知道怎么考了年级第一，在生物上受到鼓舞。依着之前文化课程的底子和在重点班课上的快，去北京之前也上完了新课，没有缺课，后来高考还是考了个一本。&lt;/p&gt;
+
+&lt;p&gt;当时生物已经被传成天坑专业，我爸极力反对我专业填报生物，觉得我应该报计算机、自动化或者医学，我就坚持什么学校都填生物工程一志愿，计算机二志愿，坚决不学医和其他生物专业，因为觉得自己不能上解剖课。几轮偷偷改志愿的斗智斗勇，我最终如愿去农大读了生物工程。然后又理想的觉得做科研很好，自由探索，又有成就感。总之就是我的选择一直就是这样，现实因素不是第一位，自己的体验感一定第一考虑。当然也是不断受挫，跟现实磨合。现在想来也是很感激家人一直的不理解也包容。还挺戏剧性的，当年的不能解剖，我做雪貂课题的时候不知道解剖了多少只，不学医，去了复旦上医读研，在医院工作了两年，现在又到哈医大来读研。不读计算机，转了生信，越来越沉迷计算机。可能父母真的是了解孩子的吧。&lt;/p&gt;
+
+&lt;p&gt;我可能未来依然会理想化，但不断丰富的经历让我认清了现实，开始不断平衡理想和现实，才能让理想有可能成为现实。写及此处刚好放着喜欢的歌：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我不想改变 残酷的世界&lt;/p&gt;
+
+  &lt;p&gt;我只想不被 这世界改变&lt;/p&gt;
+
+  &lt;p&gt;我不怕偏见 我只怕自己从来没意见&lt;/p&gt;
+
+  &lt;p&gt;怕活成没表情的人类&lt;/p&gt;
+
+  &lt;p&gt;……&lt;/p&gt;
+
+  &lt;p&gt;灰头又土脸 至少喜欢自己的嘴脸&lt;/p&gt;
+
+  &lt;p&gt;十年后的某天 会微笑 会流泪&lt;/p&gt;
+
+  &lt;p&gt;想起了此刻 会不会后悔&lt;/p&gt;
+
+  &lt;p&gt;……&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;
+    ——八三夭 《我不想改变世界，我只想不被世界改变》
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;十年后不知道，但活至此刻有遇见痛苦的事，但从未后悔过，相信以后也不会！&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;
+    2023.5.2写于哈尔滨医科大学
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/2017/08/newcomputer/#comment_thread&quot;&gt;电脑不如新&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/2023/04/raspberry-smart-speaker/#comment_thread&quot;&gt;总有些东西在召唤我&lt;/a&gt;, &lt;a href=&quot;https://yanshuo.site/cn/2020/09/houstonbbs/#comment_thread&quot;&gt;两只爬虫&lt;/a&gt;, &lt;a href=&quot;https://yanshuo.site/cn/2014/09/latexeditor/#comment_thread&quot;&gt;LaTeX编辑器大杀器&lt;/a&gt;, &lt;a href=&quot;https://yanshuo.site/cn/2023/03/email/#comment_thread&quot;&gt;如何快速写好邮件之二 — chatGPT api&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/2013/11/editor/#comment_thread&quot;&gt;配置的烦恼&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">翻看“石见石页”</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
 最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sms-activate.org/cn/info/ChatGPT&quot;&gt;虚拟SMS激活指南：&lt;/a&gt; 申请虚拟手机号用于Open AI的注册&lt;/p&gt;
