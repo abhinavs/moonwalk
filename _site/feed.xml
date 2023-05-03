@@ -1,37 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-03T03:14:08+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
-</subtitle><author><name>zying</name></author><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-03T22:14:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
+</subtitle><author><name>zying</name></author><entry><title type="html">五一假期结束</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F" rel="alternate" type="text/html" title="五一假期结束" /><published>2023-05-03T00:00:00+08:00</published><updated>2023-05-03T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F">&lt;p&gt;五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了&lt;a href=&quot;https://www.cnblogs.com/ElEGenT/p/12855692.html&quot;&gt;一段代码&lt;/a&gt;，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。
+总结下充实的这几天：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;完成了计划的ChatGPT推文&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;重建了基本满意的&lt;a href=&quot;https://zhouying0818.github.io/zying_blog/&quot;&gt;blog&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;整理了书单，并进行了阅读，没有拖延写了总结文章&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;又是不小心跑偏的三天假期，本来计划把上周的文献看了，整理能用的数据，然后从写ChatGPT的推文之后就停不下来了。前几年尝试过在GitHub上尝试建过一个，主要靠着抄模板，完全没去看HTML和CSS写的啥，没多久就不知道为啥不能用了。想到现在有GPT，肯定能行，果然经过GPT的辅助，理解了一些模板的内容，并且成功把projects的卡片修改成了相册，还把之前公众号的游记链接在了相册图片上。并且还构建了一个时间轴，在网站上更新了简历。虽然坐着将近个小时，还没吃饭，但成就感满满。&lt;/p&gt;
+&lt;p&gt;还有几个想要探索实现的东西，可以之后研究试试：&lt;/p&gt;
 
-&lt;h2 id=&quot;两篇公众号推文的感想&quot;&gt;两篇公众号推文的感想&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;”石见石页“博客文章提到的emacs生态&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;Python+ChatGPT自动化邮件&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;优化现在github的使用&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;MetaSRA下载SRA原始测序数据以及经过处理的表达矩阵的接口和方法&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;Snakemake写流程，重构之前的一些代码（之前弄过一点，总被着急解决眼前的问题给影响了)&lt;/font&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;font color=&quot;#00BFFF&quot;&gt;Python自动化的一些方案尝试（之前工作的时候玩过一些，后来也没时间成体系）&lt;/font&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;看了姚大力教授在《中华读书报》的专访有些共鸣。刚离开复旦那会儿心里有些膈应，现在想来虽然依然不认同很多的人和事，但可能放下了吧，愿意去回忆让自己开心和成长的一些事情了，而不是去纠结于那些只会增加负面情绪，自己并没办法改变的东西。剔除那些，在复旦的这几年确实给我打开了新世界，无论促成这些的是外力和内力。&lt;/p&gt;
-
-&lt;p&gt;姚教授在采访里说自己很幸运在一般院校自己当不了副教授，但在复旦两年就升为了正教授，他是近二十年里，全国唯一的一个未出专著就获得正教授职位的人。我不知道是不是因为时代的不同，我所遇见的复旦有所出入，但我好像也确实在这几年得到了完全自由探索的机会，确实当时只考虑兴趣独立探索，享受解决一些小问题的我是最幸福的时候。特别是当时研一频繁听到的：“自由而无用”我真的一度以为是校训，后来才知道是“民间校训”，但我好像一只都挺念着这句话。我想姚教授应该就是得益于信奉“自由而无用”的时代吧。&lt;/p&gt;
-
-&lt;p&gt;他说他一直由着性子东找西找的挑书读，“由着性子” ，读过的书，实际上大多数都会在后来所从事的研究中被派上用场。我发现虽然读研的后来算不上愉快，我那时也已经不如姚教授当年了，但也许是我的个性所致“自由”被我放的很大，我也确实度过了几年挑材料阅读，跨校区，院校听讲座，”由着性子“实验探索的生活。当然也是成长迅速，而大多人普遍认为的科研产出几乎没有。也就是姚教授在采访中所说的”学术弱势群体“。&lt;/p&gt;
-
-&lt;p&gt;他提出不要把弱势看作弱智，健康的、多样化的学术生态，应该平等地允许并鼓励人们去从事各种各样在形式与风格上互有差异的学术活动。让我有一种共鸣之感。姚教授在采访中问：”一个写了八篇文章的人，就一定比只写过六篇的人水平更高吗？“ 我现在能非常自信的回答”不一定“。因为看过了不少文章发的多，分高近看实际工作却”一言难尽“。尽管开始念那些年的好，我却从未后悔当初离开的选择，接触了不同的圈子让我更加坚定和自信，且独立思考，更加不会以职称，文章评定一个人的学术工作，甚至是人本身。我也逐渐不在受他人的褒贬而欣喜或难过，只会欣喜于自己的成长，接受自己的不足并相信可以随着时间和努力变好。&lt;/p&gt;
-
-&lt;p&gt;当同以前的自己逐渐和解，越来越多能看见一些我觉得是正面的文章和观点，也许是心态变了，也许是这个圈子也在逐渐变好。总之我现在接受我不适应目前学术圈的游戏规则，但我不认为规则就全然是对的。我会尽力在不妥协于不认可规则的前提下，在个圈子里待着，期待着变好的那一天，我相信最终真理掌握在关注科研本身的人手里，我只是自己的修炼也没到那个境界，还走进不了那样的圈子，但总能接近，没准某一天就成为了自己最像要的样子呢。&lt;/p&gt;
-
-&lt;p&gt;另一篇让我觉得受到启发的推文是”赛先生“上转发的一篇推文《写论文好痛苦，一直拖延怎么办？》碰巧看上去跟前文所述“不盯着文章产出，做自己感兴趣的研究”观点有所矛盾。我觉得也不矛盾，就像2019年陆雄文教授的毕业致辞所讨论的“自由而有用”和“自由而无用”一样，“无用“是说摒弃浮躁心态，不要急功近利，而“有用”是说要有“大用”，而不意味着“效用”和直接“变现”。我不认同为了发文章而发文章，随意灌水文章，甚至造假发文章。但我认同写作是一个思考的过程，是对科研者很重要的一个研究过程，而我就是这篇文章所说的严重拖延症患者，道理都懂，就是行动缓慢。英语和写作也是我这几年最想攻克的东西了，不为别的就为更大的自由，和自身的成长。所以我点进去，认真阅读了这篇推文。&lt;/p&gt;
-
-&lt;p&gt;作者提到的鼓励自己每篇论文做笔记，我最近也逐渐开始这么做了，只是可能还做不到作者那么细致，然后用英文写还是有点障碍。这也算是给我了一个目标和方向，接下来我会给自己划一些小目标，像是给读过的文章写summary，同类分类的论文写小综述，在到写一些comments，尝试写自己的观点之类的。总之，抓住关键“提前动笔，抓紧写，多码字”&lt;/p&gt;
-
-&lt;p&gt;作者用Paula England在Twitter上的写作心得鼓励自己，我也一样记录于此，之后想放弃之时来看一眼&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Oh, have I been there (5 hours on two paragraphs) !!! Painful, but the consolation is that you are indeed 5 hours ahead of where you would be had you not persisted. It eventually gets written only if you keep working on it when it seems impossible. It is a key lesson!&lt;/p&gt;
-
-  &lt;p&gt;This is so my experience too! 40 yrs into my career writing 1st and 2nd drafts is SO painful and they are so bad. Editing later drafts fun. But as Eman says, experience gives us trust that if we just keep working on it~daily it will get done and get better.&lt;/p&gt;
-
-  &lt;p align=&quot;right&quot;&gt;—Paula England&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;最后总结一下这两篇文章的收获，要稳住心态，做自己感兴趣的研究，同时思考和写作不能停，拖延症得治，最好的办法就是提前动手写。&lt;/p&gt;
-
-&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">五一假期的生活 2</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2" rel="alternate" type="text/html" title="五一假期的生活 2" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2">&lt;h1 id=&quot;翻看石见石页&quot;&gt;翻看“石见石页”&lt;/h1&gt;
+&lt;p&gt;闲时尝试探索不同提高效率的方法，当效率提高了，就能有更多的时间成长和思考。&lt;strong&gt;事情的发展结果无法控制，能做的是增大发生概率。&lt;/strong&gt;&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了一段代码，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。 总结下充实的这几天： 完成了计划的ChatGPT推文</summary></entry><entry><title type="html">五一假期的生活 2</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2" rel="alternate" type="text/html" title="五一假期的生活 2" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2">&lt;h1 id=&quot;翻看石见石页&quot;&gt;翻看“石见石页”&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/&quot;&gt;石见石页&lt;/a&gt;是现在导师在上周请来给我们做报告的初砚硕个人博客, 当时他做报告我刚睡醒，11点的报告，10:57醒了匆忙登入腾讯会议，当时听就感觉在介绍工具，像tmux这种工具我也是日常使用；snackmake这种我做过一些基本尝试；emacs这种我觉得跟vim差不多，我vim用习惯了，不是那么想换；工程思维和文件夹构成我还比较认可。当时没觉得有什么特别的，被cue有没有问题，我直接说没问题，都是我在用的工具。&lt;/p&gt;
 
@@ -121,7 +126,39 @@
       &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/2013/11/editor/#comment_thread&quot;&gt;配置的烦恼&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">翻看“石见石页”</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
+&lt;/div&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">翻看“石见石页”</summary></entry><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-01T00:00:00+08:00</published><updated>2023-05-01T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
+
+&lt;p&gt;又是不小心跑偏的三天假期，本来计划把上周的文献看了，整理能用的数据，然后从写ChatGPT的推文之后就停不下来了。前几年尝试过在GitHub上尝试建过一个，主要靠着抄模板，完全没去看HTML和CSS写的啥，没多久就不知道为啥不能用了。想到现在有GPT，肯定能行，果然经过GPT的辅助，理解了一些模板的内容，并且成功把projects的卡片修改成了相册，还把之前公众号的游记链接在了相册图片上。并且还构建了一个时间轴，在网站上更新了简历。虽然坐着将近个小时，还没吃饭，但成就感满满。&lt;/p&gt;
+
+&lt;h2 id=&quot;两篇公众号推文的感想&quot;&gt;两篇公众号推文的感想&lt;/h2&gt;
+
+&lt;p&gt;看了姚大力教授在《中华读书报》的专访有些共鸣。刚离开复旦那会儿心里有些膈应，现在想来虽然依然不认同很多的人和事，但可能放下了吧，愿意去回忆让自己开心和成长的一些事情了，而不是去纠结于那些只会增加负面情绪，自己并没办法改变的东西。剔除那些，在复旦的这几年确实给我打开了新世界，无论促成这些的是外力和内力。&lt;/p&gt;
+
+&lt;p&gt;姚教授在采访里说自己很幸运在一般院校自己当不了副教授，但在复旦两年就升为了正教授，他是近二十年里，全国唯一的一个未出专著就获得正教授职位的人。我不知道是不是因为时代的不同，我所遇见的复旦有所出入，但我好像也确实在这几年得到了完全自由探索的机会，确实当时只考虑兴趣独立探索，享受解决一些小问题的我是最幸福的时候。特别是当时研一频繁听到的：“自由而无用”我真的一度以为是校训，后来才知道是“民间校训”，但我好像一只都挺念着这句话。我想姚教授应该就是得益于信奉“自由而无用”的时代吧。&lt;/p&gt;
+
+&lt;p&gt;他说他一直由着性子东找西找的挑书读，“由着性子” ，读过的书，实际上大多数都会在后来所从事的研究中被派上用场。我发现虽然读研的后来算不上愉快，我那时也已经不如姚教授当年了，但也许是我的个性所致“自由”被我放的很大，我也确实度过了几年挑材料阅读，跨校区，院校听讲座，”由着性子“实验探索的生活。当然也是成长迅速，而大多人普遍认为的科研产出几乎没有。也就是姚教授在采访中所说的”学术弱势群体“。&lt;/p&gt;
+
+&lt;p&gt;他提出不要把弱势看作弱智，健康的、多样化的学术生态，应该平等地允许并鼓励人们去从事各种各样在形式与风格上互有差异的学术活动。让我有一种共鸣之感。姚教授在采访中问：”一个写了八篇文章的人，就一定比只写过六篇的人水平更高吗？“ 我现在能非常自信的回答”不一定“。因为看过了不少文章发的多，分高近看实际工作却”一言难尽“。尽管开始念那些年的好，我却从未后悔当初离开的选择，接触了不同的圈子让我更加坚定和自信，且独立思考，更加不会以职称，文章评定一个人的学术工作，甚至是人本身。我也逐渐不在受他人的褒贬而欣喜或难过，只会欣喜于自己的成长，接受自己的不足并相信可以随着时间和努力变好。&lt;/p&gt;
+
+&lt;p&gt;当同以前的自己逐渐和解，越来越多能看见一些我觉得是正面的文章和观点，也许是心态变了，也许是这个圈子也在逐渐变好。总之我现在接受我不适应目前学术圈的游戏规则，但我不认为规则就全然是对的。我会尽力在不妥协于不认可规则的前提下，在个圈子里待着，期待着变好的那一天，我相信最终真理掌握在关注科研本身的人手里，我只是自己的修炼也没到那个境界，还走进不了那样的圈子，但总能接近，没准某一天就成为了自己最像要的样子呢。&lt;/p&gt;
+
+&lt;p&gt;另一篇让我觉得受到启发的推文是”赛先生“上转发的一篇推文《写论文好痛苦，一直拖延怎么办？》碰巧看上去跟前文所述“不盯着文章产出，做自己感兴趣的研究”观点有所矛盾。我觉得也不矛盾，就像2019年陆雄文教授的毕业致辞所讨论的“自由而有用”和“自由而无用”一样，“无用“是说摒弃浮躁心态，不要急功近利，而“有用”是说要有“大用”，而不意味着“效用”和直接“变现”。我不认同为了发文章而发文章，随意灌水文章，甚至造假发文章。但我认同写作是一个思考的过程，是对科研者很重要的一个研究过程，而我就是这篇文章所说的严重拖延症患者，道理都懂，就是行动缓慢。英语和写作也是我这几年最想攻克的东西了，不为别的就为更大的自由，和自身的成长。所以我点进去，认真阅读了这篇推文。&lt;/p&gt;
+
+&lt;p&gt;作者提到的鼓励自己每篇论文做笔记，我最近也逐渐开始这么做了，只是可能还做不到作者那么细致，然后用英文写还是有点障碍。这也算是给我了一个目标和方向，接下来我会给自己划一些小目标，像是给读过的文章写summary，同类分类的论文写小综述，在到写一些comments，尝试写自己的观点之类的。总之，抓住关键“提前动笔，抓紧写，多码字”&lt;/p&gt;
+
+&lt;p&gt;作者用Paula England在Twitter上的写作心得鼓励自己，我也一样记录于此，之后想放弃之时来看一眼&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oh, have I been there (5 hours on two paragraphs) !!! Painful, but the consolation is that you are indeed 5 hours ahead of where you would be had you not persisted. It eventually gets written only if you keep working on it when it seems impossible. It is a key lesson!&lt;/p&gt;
+
+  &lt;p&gt;This is so my experience too! 40 yrs into my career writing 1st and 2nd drafts is SO painful and they are so bad. Editing later drafts fun. But as Eman says, experience gives us trust that if we just keep working on it~daily it will get done and get better.&lt;/p&gt;
+
+  &lt;p align=&quot;right&quot;&gt;—Paula England&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;最后总结一下这两篇文章的收获，要稳住心态，做自己感兴趣的研究，同时思考和写作不能停，拖延症得治，最好的办法就是提前动手写。&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
 最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sms-activate.org/cn/info/ChatGPT&quot;&gt;虚拟SMS激活指南：&lt;/a&gt; 申请虚拟手机号用于Open AI的注册&lt;/p&gt;

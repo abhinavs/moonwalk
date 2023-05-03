@@ -47,7 +47,6 @@ table td:nth-child(4) {
 |:---:|:----:|:------:|:-----:|
 |世界很喧嚣，做自己就好|老杨的猫头鹰|Y||
 |成为黑马|托德罗斯 奥吉奥加斯/陈友勋 译|Y||
-|终极算法|佩德罗 多明戈斯/ 黄芳萍 译|Y||
 |The 7 Habits of Highly Effective People|Stephen R. Covey|Y||
 |学习的方法|圣地亚哥 拉蒙 卡哈尔|Y||
 |如何阅读一本书|莫提默 艾德勒，查尔斯 范多伦|Y||
@@ -57,6 +56,7 @@ table td:nth-child(4) {
 |好的孤独|陈果|Y||
 |自我突围|施一公|||
 |The scientist's guide to writing|Stephen B. Heard|||
+|终极算法|佩德罗 多明戈斯/ 黄芳萍 译|||
 |复杂性思考|Allen B. Downey|||
 |复杂|Melanie Milchell|||
 |What Mad Pursuit|Francis Crick|||
