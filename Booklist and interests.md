@@ -48,9 +48,15 @@ table td:nth-child(4) {
 |世界很喧嚣，做自己就好|老杨的猫头鹰|Y||
 |成为黑马|托德罗斯 奥吉奥加斯/陈友勋 译|Y||
 |终极算法|佩德罗 多明戈斯/ 黄芳萍 译|Y||
-|自我突围|施一公|||
 |The 7 Habits of Highly Effective People|Stephen R. Covey|Y||
 |学习的方法|圣地亚哥 拉蒙 卡哈尔|Y||
+|如何阅读一本书|莫提默 艾德勒，查尔斯 范多伦|Y||
+|一只特立独行的猪|王小波|Y||
+|寻羊冒险记|村上春树|Y||
+|人生只有一次，去做自己喜欢的事|摩西奶奶|Y||
+|好的孤独|陈果|Y||
+|自我突围|施一公|||
+|The scientist's guide to writing|Stephen B. Heard|||
 |复杂性思考|Allen B. Downey|||
 |复杂|Melanie Milchell|||
 |What Mad Pursuit|Francis Crick|||
@@ -58,17 +64,12 @@ table td:nth-child(4) {
 |深度学习之TensorFlow|李金洪|||
 |HTML5入门经典||||
 |我的世界观|阿尔伯特 爱因斯坦|||
-|人生只有一次，去做自己喜欢的事|摩西奶奶|Y||
-|好的孤独|陈果|Y||
 |爱因斯坦：想象颠覆世界|刘继军|||
 |知识的边界|戴维 温伯格|||
 |老子的智慧|林语堂|||
 |Python 深度学习：基于TensorFlow|吴茂贵|||
 |GitHub入门与实践|[日]大塚弘记|||
-|如何阅读一本书|莫提默 艾德勒，查尔斯 范多伦|Y||
 |The Art of learning|Josh Waitzkin|||
-|一只特立独行的猪|王小波|Y||
-|寻羊冒险记|村上春树|Y||
 |瓦尔登湖|梭罗|||
 |高度敏感的力量|卡特琳 佐斯特|||
 |被讨厌的勇气|岸见一郎 古贺史健|||
