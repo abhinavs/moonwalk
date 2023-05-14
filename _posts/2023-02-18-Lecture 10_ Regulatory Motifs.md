@@ -1,7 +1,7 @@
 ---
 layout: post
 author: zying
-tags: [Lectures, ML in genomics]
+tags: [Lectures, ML_in_genomics]
 ---
 
 # Lecture 10: Regulator Motifs Discovery

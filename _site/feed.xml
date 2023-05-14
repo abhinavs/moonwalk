@@ -1,5 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-03T22:16:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
-</subtitle><author><name>zying</name></author><entry><title type="html">五一假期结束</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F" rel="alternate" type="text/html" title="五一假期结束" /><published>2023-05-03T00:00:00+08:00</published><updated>2023-05-03T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F">&lt;p&gt;五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了&lt;a href=&quot;https://www.cnblogs.com/ElEGenT/p/12855692.html&quot;&gt;一段代码&lt;/a&gt;，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-14T15:36:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Boundless</title><subtitle>Live life as an &apos;infinite game&apos; by avoiding setting limits，fearlessly experiment and learn from mistakes
+</subtitle><author><name>zying</name></author><entry><title type="html">总结这周重构知识体系构建方法的“折腾”</title><link href="http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE" rel="alternate" type="text/html" title="总结这周重构知识体系构建方法的“折腾”" /><published>2023-05-12T00:00:00+08:00</published><updated>2023-05-12T00:00:00+08:00</updated><id>http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84%E2%80%9C%E6%8A%98%E8%85%BE%E2%80%9D</id><content type="html" xml:base="http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE">&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#zotero配置&quot;&gt;zotero配置&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#obsidian配置&quot;&gt;obsidian配置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这周源于在B站上刷到一个zotero的插件视频，加之五一期间倒腾完blog就想要在开题之前一遍优化下自己现有的工作/学习流，于是开启了zotero, obsidian, jupyterf重新配置，给自己构建了一个新的学习笔记模式，为避免日后换设备，或者其他情况需要重新配置花时间回忆，写这篇文章把用到的插件，教程资源，加之目前的配置和使用情况记录于此。&lt;/p&gt;
+
+&lt;h2 id=&quot;zotero配置&quot;&gt;&lt;a href=&quot;#zotero配置&quot;&gt;zotero配置&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;zotero所使用插件及资源&quot;&gt;zotero所使用插件及资源&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tara: 备份插件&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/018/zotcard&quot;&gt;ZotCard&lt;/a&gt;: 做一些碎片化的笔记非常方便&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/windingwind/zotero-better-notes#readme&quot;&gt;Zotero Better Notes&lt;/a&gt;: 笔记神器，特别是笔记链接功能，且有非常多模板可以学习&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ethanwillis/zotero-scihub&quot;&gt;Sci-Hub Plugin for Zotero &lt;/a&gt;: 文献下载神器，结合connector插件，在Google浏览器上可以直接将打开的pubMed文献界面文献元数据抓到zotero，然后从sci-hub抓取原文&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/muisedestiny/zotero-reference#readme&quot;&gt;Zotero Reference&lt;/a&gt;: 装了sci-hub插件之后，用这个插件可以直接抓取在读文献的参考文献原文&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/windingwind/zotero-pdf-translate#readme&quot;&gt;Zotero PDF Translate&lt;/a&gt;: 当选取文献文本时翻译选取内容，并且可以设置插入笔记的内容自带翻译，快速浏览文章的时候非常方便&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/muisedestiny/zotero-style#readme&quot;&gt;Zotero Style&lt;/a&gt;: 个人非常喜欢这款插件，让文献阅读变得有趣&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;https://github.com/Dominic-DallOsto/zotero-reading-list&quot;&gt;Reading List for Zotero&lt;/a&gt;: 标记文章阅读状态，跟style的功能有重叠&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://retorque.re/zotero-better-bibtex/&quot;&gt;Better BibTex for Zotero&lt;/a&gt;: 这个插件没探索，主要是为了跟zotero联动装的&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;这些工具相关资源&quot;&gt;这些工具相关资源&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ZotCard 和 Zotero better notes
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://zotero.yuque.com/staff-gkhviy/better-notes/biigg4?&quot;&gt;官方中文教程&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Fg411H7ZH/?vd_source=6484613d0fb2e9fedd3003eb36c6e0c6&quot;&gt;B站zotero better notes教程&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1mW4y1u7jA/?spm_id_from=333.788.recommend_more_video.0&amp;amp;vd_source=6484613d0fb2e9fedd3003eb36c6e0c6&quot;&gt;B站zotreo和Zotcard连用&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Zotero Style
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.notion.so/Zotero-Style-bc2aebbbb6df4b7baa858e376e4fc5be&quot;&gt;官方教程&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;配置&quot;&gt;配置&lt;/h2&gt;
+&lt;p&gt;这里说的只是我个人配置，可以根据自己需求进行配置。大部分不需要单独配置，主要就Zotero Style, zotcart 和 zotero better notes需要配置&lt;/p&gt;
+&lt;font color=&quot;red&quot;&gt;另外，因为之前一直也是用的Zotero, 还是有初始配置的，关联坚果云同步文献，Google浏览器对应插件以及word插参考文献插件已经配置好了的，这里就不在写了，如果刚开始使用，建议先网上找教程配置这些，特别是坚果云同步，避免文献储存多了之后配置麻烦&lt;/font&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Zotero Style
+    &lt;ul&gt;
+      &lt;li&gt;标签图标（用zotero自带的颜色标签也行，换成图标主要为了让自己开心，得用markdown图标替换，1-9快捷键设置）
+        &lt;ul&gt;
+          &lt;li&gt;🎯: 正中靶心，这篇文章跟目前研究主题非常相关&lt;/li&gt;
+          &lt;li&gt;💧: 湿实验文章&lt;/li&gt;
+          &lt;li&gt;🌞: 干实验文章&lt;/li&gt;
+          &lt;li&gt;🧬:  实验方法&lt;/li&gt;
+          &lt;li&gt;🧰:  工具开发的文章&lt;/li&gt;
+          &lt;li&gt;💾:  数据资源可用文章&lt;/li&gt;
+          &lt;li&gt;💡:  有所启发的文章&lt;/li&gt;
+          &lt;li&gt;⏳:  要仔细阅读的文章（沙漏说明需要花时间精读）&lt;/li&gt;
+          &lt;li&gt;❌: 不精读或者暂缓精读的文章&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;另有# 标签栏，且右击可以设置正则匹配符号，默认是# 号，这个标签可以嵌套使用，非常方便&lt;/li&gt;
+      &lt;li&gt;可以分不同视图显示，这个功能我也很喜欢，配置了3个视图（标签，阅读，信息），其他显示颜色之类的都是右击表头设置，全都可调，这个插件的github上还有非常都教程可以参考&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ZotCard 和 Zotero better notes的配置上面放的几个视频已经解释的非常好了，主要是根据自己需求配置模板，目前直接用的B站评论去推荐的精读，泛读，单词短语积累的模板，插件和所用模板百度网盘链接：
+    &lt;blockquote&gt;
+      &lt;p&gt;链接：https://pan.baidu.com/s/1Wl0kt48tARNKFCcdNOhaHQ 
+提取码：gu9p&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/better_notes_精读模板.png&quot; alt=&quot;精读模板&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/better_notes_泛读模板.png&quot; alt=&quot;泛读模板&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这些模板能在阅读文献的时候提供提示词，在阅读过程中填这些内容的时候能够主动去思考这些问题，读完文献，填完这些内容有成就感&lt;/p&gt;
+&lt;h2 id=&quot;obsidian配置&quot;&gt;&lt;a href=&quot;#obsidian配置&quot;&gt;obsidian配置&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Obsidian目前用的不是特别熟悉，目前比较主要喜欢日待办清单，看板以及跟Zotero联动，基本替代typora写markdown。先记录一下目前装的插件，以及一些教程资源。&lt;/p&gt;
+
+&lt;h3 id=&quot;目前所用插件&quot;&gt;目前所用插件&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Advanced Slides：用markdown做PPT&lt;/li&gt;
+  &lt;li&gt;Advanced Tables：方便写markdown表格&lt;/li&gt;
+  &lt;li&gt;Calendar：显示日历&lt;/li&gt;
+  &lt;li&gt;cMenu&lt;/li&gt;
+  &lt;li&gt;Dataview&lt;/li&gt;
+  &lt;li&gt;Day Planner：设置日清单&lt;/li&gt;
+  &lt;li&gt;Excalidraw&lt;/li&gt;
+  &lt;li&gt;Journey&lt;/li&gt;
+  &lt;li&gt;Juggl&lt;/li&gt;
+  &lt;li&gt;Kanban：设置看板&lt;/li&gt;
+  &lt;li&gt;Mind Map：文档大纲可以可视化为思维导图&lt;/li&gt;
+  &lt;li&gt;QuickAdd&lt;/li&gt;
+  &lt;li&gt;Templater：设置不同文件夹下新建文档的模板&lt;/li&gt;
+  &lt;li&gt;Zotero Integration：Zotero联动的插件 
+obsidian的插件基本都可以在设置里面的第三方插件&amp;gt;浏览里面直接搜索安装，可以直接连接到的说明文档，进行学习&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;相关教程资源&quot;&gt;相关教程资源&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eryinote.com/post/46&quot;&gt;Obsidian 的 8 种进阶用法&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/column/c_1413472005866266624&quot;&gt;# 想一小时上手obsidian？这一篇就够了。【玩转Obsidian的保姆级教程】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zhihu.com/question/22601502/answer/39574527&quot;&gt;# 哪位能提供下关于KANBAN（看板管理）的基础知识？概念性的，基础性的最好？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6%95%99%E7%A8%8B&quot;&gt;Obsidian中文教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="technologies" /><category term="learning" /><summary type="html">Table of contents zotero配置 obsidian配置</summary></entry><entry><title type="html">五一假期结束</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F" rel="alternate" type="text/html" title="五一假期结束" /><published>2023-05-03T00:00:00+08:00</published><updated>2023-05-03T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%BB%93%E6%9D%9F">&lt;p&gt;五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了&lt;a href=&quot;https://www.cnblogs.com/ElEGenT/p/12855692.html&quot;&gt;一段代码&lt;/a&gt;，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。
 总结下充实的这几天：&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
@@ -36,7 +150,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;闲时尝试探索不同提高效率的方法，当效率提高了，就能有更多的时间成长和思考。&lt;strong&gt;事情的发展结果无法控制，能做的是增大发生概率。&lt;/strong&gt;&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了一段代码，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。 总结下充实的这几天： 完成了计划的ChatGPT推文</summary></entry><entry><title type="html">五一假期的生活 2</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2" rel="alternate" type="text/html" title="五一假期的生活 2" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2">&lt;h1 id=&quot;翻看石见石页&quot;&gt;翻看“石见石页”&lt;/h1&gt;
+&lt;p&gt;闲时尝试探索不同提高效率的方法，当效率提高了，就能有更多的时间成长和思考。&lt;strong&gt;事情的发展结果无法控制，能做的是增大发生概率。&lt;/strong&gt;&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading_and_thinking" /><summary type="html">五一假期马上结束了,宅了这么些天，做了一堆“不务正业”但非常开心的事。今天算是调整状态，读了“The scientist’s guide to writing” 里面提到通过写log的方式让自己主动记录一段时间做了什么，再根据记录调整到专注状态。我现尝试用终端echo写记录到文件，觉得不太好形成周期性，就想能否通过Python弄个弹窗，定时弹出来让输入记录。于是Goole找有没有相关能用的代码，没想到还真找到了一段代码，tkinter设计UI，通过系统的定时触发就能实现定时弹窗，输入内容写入markdown文件。完全符合我的设想，明天就开始试试。 总结下充实的这几天： 完成了计划的ChatGPT推文</summary></entry><entry><title type="html">五一假期的生活 2</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2" rel="alternate" type="text/html" title="五一假期的生活 2" /><published>2023-05-02T00:00:00+08:00</published><updated>2023-05-02T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-2">&lt;h1 id=&quot;翻看石见石页&quot;&gt;翻看“石见石页”&lt;/h1&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/&quot;&gt;石见石页&lt;/a&gt;是现在导师在上周请来给我们做报告的初砚硕个人博客, 当时他做报告我刚睡醒，11点的报告，10:57醒了匆忙登入腾讯会议，当时听就感觉在介绍工具，像tmux这种工具我也是日常使用；snackmake这种我做过一些基本尝试；emacs这种我觉得跟vim差不多，我vim用习惯了，不是那么想换；工程思维和文件夹构成我还比较认可。当时没觉得有什么特别的，被cue有没有问题，我直接说没问题，都是我在用的工具。&lt;/p&gt;
 
@@ -126,7 +240,7 @@
       &lt;p&gt;&lt;a href=&quot;https://yanshuo.site/cn/2013/11/editor/#comment_thread&quot;&gt;配置的烦恼&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">翻看“石见石页”</summary></entry><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-01T00:00:00+08:00</published><updated>2023-05-01T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
+&lt;/div&gt;</content><author><name>zying</name></author><category term="Reading_and_thinking" /><summary type="html">翻看“石见石页”</summary></entry><entry><title type="html">五一假期的生活 1</title><link href="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1" rel="alternate" type="text/html" title="五一假期的生活 1" /><published>2023-05-01T00:00:00+08:00</published><updated>2023-05-01T00:00:00+08:00</updated><id>http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1</id><content type="html" xml:base="http://localhost:4000/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E7%94%9F%E6%B4%BB-1">&lt;h2 id=&quot;初步构建个人网站&quot;&gt;初步构建个人网站&lt;/h2&gt;
 
 &lt;p&gt;又是不小心跑偏的三天假期，本来计划把上周的文献看了，整理能用的数据，然后从写ChatGPT的推文之后就停不下来了。前几年尝试过在GitHub上尝试建过一个，主要靠着抄模板，完全没去看HTML和CSS写的啥，没多久就不知道为啥不能用了。想到现在有GPT，肯定能行，果然经过GPT的辅助，理解了一些模板的内容，并且成功把projects的卡片修改成了相册，还把之前公众号的游记链接在了相册图片上。并且还构建了一个时间轴，在网站上更新了简历。虽然坐着将近个小时，还没吃饭，但成就感满满。&lt;/p&gt;
 
@@ -158,7 +272,7 @@
 
 &lt;p&gt;最后总结一下这两篇文章的收获，要稳住心态，做自己感兴趣的研究，同时思考和写作不能停，拖延症得治，最好的办法就是提前动手写。&lt;/p&gt;
 
-&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading and thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
+&lt;p align=&quot;right&quot;&gt;2023.5.2 凌晨3.52写于哈尔滨医科大学  (多加一个flag：早点睡觉)&lt;/p&gt;</content><author><name>zying</name></author><category term="Reading_and_thinking" /><summary type="html">初步构建个人网站</summary></entry><entry><title type="html">玩了一个多月chatgpt的总结</title><link href="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93" rel="alternate" type="text/html" title="玩了一个多月chatgpt的总结" /><published>2023-04-30T00:00:00+08:00</published><updated>2023-04-30T00:00:00+08:00</updated><id>http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatGPT%E7%9A%84%E6%80%BB%E7%BB%93</id><content type="html" xml:base="http://localhost:4000/%E7%8E%A9%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88chatgpt%E7%9A%84%E6%80%BB%E7%BB%93">&lt;p&gt;&lt;img src=&quot;images/640.png&quot; alt=&quot;image1&quot; /&gt;
 最近chatGPT非常火，对新科技充满好奇的我自然是抵不住如此巨大的诱惑，试了国内镜像和一些公众号，不是每天限制使用就是需要付费使用，不甘于被困墙里，找了解决教程成功用上了官方的chatGPT，并尝试了几个不错的插件，解决了国内网络总是报错的问题，终于可以流畅的和GPT对话了。用到的教程和插件链接如下：&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://sms-activate.org/cn/info/ChatGPT&quot;&gt;虚拟SMS激活指南：&lt;/a&gt; 申请虚拟手机号用于Open AI的注册&lt;/p&gt;
@@ -478,7 +592,7 @@ Given: length parameter W, traning &lt;span class=&quot;nb&quot;&gt;set &lt;/spa
 
 &lt;h2 id=&quot;oops-zoops-tcm&quot;&gt;OOPS, ZOOPS, TCM&lt;/h2&gt;
 
-&lt;h2 id=&quot;motif-representation-and-information-content&quot;&gt;Motif Representation and Information content&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Lecture 10: Regulator Motifs Discovery Features</summary></entry><entry><title type="html">Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures</title><link href="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" rel="alternate" type="text/html" title="Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures" /><published>2023-01-14T00:00:00+08:00</published><updated>2023-01-14T00:00:00+08:00</updated><id>http://localhost:4000/Lecture04%20HMMs1_2_%20Evaluation,%20Parsing,%20posterior%20decoding,%20learning,%20HMM%20architectures</id><content type="html" xml:base="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures">&lt;h2 id=&quot;hmm-basic-evaluation-parsing-posterior-decoding&quot;&gt;HMM basic, evaluation, parsing, posterior decoding&lt;/h2&gt;
+&lt;h2 id=&quot;motif-representation-and-information-content&quot;&gt;Motif Representation and Information content&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML_in_genomics" /><summary type="html">Lecture 10: Regulator Motifs Discovery Features</summary></entry><entry><title type="html">Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures</title><link href="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" rel="alternate" type="text/html" title="Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures" /><published>2023-01-14T00:00:00+08:00</published><updated>2023-01-14T00:00:00+08:00</updated><id>http://localhost:4000/Lecture04%20HMMs1_2_%20Evaluation,%20Parsing,%20posterior%20decoding,%20learning,%20HMM%20architectures</id><content type="html" xml:base="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures">&lt;h2 id=&quot;hmm-basic-evaluation-parsing-posterior-decoding&quot;&gt;HMM basic, evaluation, parsing, posterior decoding&lt;/h2&gt;
 &lt;h3 id=&quot;observation-models-bayes-rule-bayesian-inference&quot;&gt;Observation, Models, Bayes’ rule, Bayesian inference&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;images/image_3.png&quot; alt=&quot;image.png&quot; /&gt;
 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率
@@ -526,7 +640,7 @@ Given: length parameter W, traning &lt;span class=&quot;nb&quot;&gt;set &lt;/spa
 &lt;h3 id=&quot;supervised&quot;&gt;Supervised&lt;/h3&gt;
 
 &lt;h3 id=&quot;unsupervised&quot;&gt;Unsupervised&lt;/h3&gt;
-&lt;h2 id=&quot;conditional-random-fields-crfs--dependencies&quot;&gt;Conditional Random Fields (CRFs) &amp;amp; dependencies&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：</summary></entry><entry><title type="html">Lecture03 hashing blast database search</title><link href="http://localhost:4000/lecture03-hashing-blast-database-search" rel="alternate" type="text/html" title="Lecture03 hashing blast database search" /><published>2022-12-10T00:00:00+08:00</published><updated>2022-12-10T00:00:00+08:00</updated><id>http://localhost:4000/Lecture03%20Hashing%20BLAST%20database%20search</id><content type="html" xml:base="http://localhost:4000/lecture03-hashing-blast-database-search">&lt;h2 id=&quot;global-alignment-vs-local-alignment&quot;&gt;Global alignment vs. Local alignment&lt;/h2&gt;
+&lt;h2 id=&quot;conditional-random-fields-crfs--dependencies&quot;&gt;Conditional Random Fields (CRFs) &amp;amp; dependencies&lt;/h2&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML_in_genomics" /><summary type="html">HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：</summary></entry><entry><title type="html">Lecture03 hashing blast database search</title><link href="http://localhost:4000/lecture03-hashing-blast-database-search" rel="alternate" type="text/html" title="Lecture03 hashing blast database search" /><published>2022-12-10T00:00:00+08:00</published><updated>2022-12-10T00:00:00+08:00</updated><id>http://localhost:4000/Lecture03%20Hashing%20BLAST%20database%20search</id><content type="html" xml:base="http://localhost:4000/lecture03-hashing-blast-database-search">&lt;h2 id=&quot;global-alignment-vs-local-alignment&quot;&gt;Global alignment vs. Local alignment&lt;/h2&gt;
 &lt;h3 id=&quot;needleman-wunsch-and-smith-waterman&quot;&gt;Needleman-Wunsch and Smith-Waterman&lt;/h3&gt;
 
 &lt;ul&gt;
@@ -686,7 +800,7 @@ Given: length parameter W, traning &lt;span class=&quot;nb&quot;&gt;set &lt;/spa
       &lt;li&gt;如果z-box不在query seq, 直接比对，如果query seq上也有，基于P移动比对&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman</summary></entry><entry><title type="html">Lecture02 sequence alignment and dynamic programming</title><link href="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" rel="alternate" type="text/html" title="Lecture02 sequence alignment and dynamic programming" /><published>2022-12-05T00:00:00+08:00</published><updated>2022-12-05T00:00:00+08:00</updated><id>http://localhost:4000/Lecture02%20Sequence%20Alignment%20and%20Dynamic%20Programming</id><content type="html" xml:base="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming">&lt;h2 id=&quot;alignment-算法的应用&quot;&gt;Alignment 算法的应用&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML_in_genomics" /><summary type="html">Global alignment vs. Local alignment Needleman-Wunsch and Smith-Waterman</summary></entry><entry><title type="html">Lecture02 sequence alignment and dynamic programming</title><link href="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming" rel="alternate" type="text/html" title="Lecture02 sequence alignment and dynamic programming" /><published>2022-12-05T00:00:00+08:00</published><updated>2022-12-05T00:00:00+08:00</updated><id>http://localhost:4000/Lecture02%20Sequence%20Alignment%20and%20Dynamic%20Programming</id><content type="html" xml:base="http://localhost:4000/lecture02-sequence-alignment-and-dynamic-programming">&lt;h2 id=&quot;alignment-算法的应用&quot;&gt;Alignment 算法的应用&lt;/h2&gt;
 
 &lt;p&gt;引入Alignment算法，对这块不熟悉，以后遇到再细看&lt;/p&gt;
 
@@ -828,66 +942,4 @@ Allow gaps (fixed penalty)-&amp;gt;Varying penalties
 
 &lt;ul&gt;
   &lt;li&gt;Linear-space DP: Hirschberg algorithm （感觉像是类似添加了二分法的思想）&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Alignment 算法的应用</summary></entry><entry><title type="html">Lecture01 Introduction</title><link href="http://localhost:4000/lecture01-introduction" rel="alternate" type="text/html" title="Lecture01 Introduction" /><published>2022-11-30T00:00:00+08:00</published><updated>2022-11-30T00:00:00+08:00</updated><id>http://localhost:4000/lecture01-Introduction</id><content type="html" xml:base="http://localhost:4000/lecture01-introduction">&lt;h1 id=&quot;lecture-01-introuduction&quot;&gt;Lecture 01: Introuduction&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/image_0.png&quot; alt=&quot;Screenshot 2022-11-30 at 12.05.05 AM.png&quot; /&gt;
- 表格中Lectures和教材的对应，对比浏览了一下，决定之后尽量看完视频之后按照这个表格把对应的章节阅读完&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Why Computational Biology？
-    &lt;ol&gt;
-      &lt;li&gt;Biological systems are fundamentally digital in nature: DNA，RNA基本构成都可以用数字表示，生物电能作为信号数据处理，显微镜照片，CT，MRI等为图像数据等等，基本通过一定的实验和仪器设备，生物现象越来越容易被量化成数据，并且通量越来越高&lt;/li&gt;
-      &lt;li&gt;Biological switches：生物过程虽然通过分子工作，但基本为两种离散状态构成复杂系统，同工程应用有很多相似，可以通过工程角度的方法去理解生物系统&lt;/li&gt;
-      &lt;li&gt;enormous an increasing amounts of data: 完成分析越多的数据，将得到更多的资金支持，发展技术产生更多的数据&lt;/li&gt;
-      &lt;li&gt;算力增长，可用的算法增多&lt;/li&gt;
-      &lt;li&gt;在处理非常大的数据集时需要考虑Running time &amp;amp; memory&lt;/li&gt;
-      &lt;li&gt;Noisy：生物数据集一定有噪声，而处理噪声就是计算问题&lt;/li&gt;
-      &lt;li&gt;Machine learning：在推理、生物特征分类和识别稳健信号非常有用&lt;/li&gt;
-      &lt;li&gt;生物系统是个整体，无法孤立分析，计算方法具有整合能力，data-driven discovery&lt;/li&gt;
-      &lt;li&gt;Predict: 计算研究能预测假设、机制和理论去解释实验现象，假阳性需要依赖实验验证，能够指导实验，缩小验证范围，进行更为有效率的实验设计，而这些优势也能很好的激励数据收集&lt;/li&gt;
-      &lt;li&gt;Datasets can be combined and effective visulization&lt;/li&gt;
-      &lt;li&gt;simulate&amp;amp;model：可以通过计算方法仿真模拟构建模型
-        &lt;h3 id=&quot;final-project&quot;&gt;Final Project&lt;/h3&gt;
-        &lt;h4 id=&quot;final-goals&quot;&gt;Final Goals&lt;/h4&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;preparing for original research in compbio
-    &lt;ul&gt;
-      &lt;li&gt;构建一个生物学问题&lt;/li&gt;
-      &lt;li&gt;收集相关文献和数据集&lt;/li&gt;
-      &lt;li&gt;用新算法，机器学习解决它&lt;/li&gt;
-      &lt;li&gt;解释生物学结果&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;present idea and research
-    &lt;ul&gt;
-      &lt;li&gt;起草研究计划&lt;/li&gt;
-      &lt;li&gt;团队工作（不一定适用现在条件）&lt;/li&gt;
-      &lt;li&gt;发现其他研究的问题，提出改进意见&lt;/li&gt;
-      &lt;li&gt;收到反馈，修改提按&lt;/li&gt;
-      &lt;li&gt;将结果写成文章&lt;/li&gt;
-      &lt;li&gt;presenting a research&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;科学研究的过程：idea-&amp;gt;frame it-&amp;gt;propose it-&amp;gt;revise it-&amp;gt;carry it out-&amp;gt;present results
-    &lt;h4 id=&quot;final-project-milestones&quot;&gt;Final project milestones&lt;/h4&gt;
-    &lt;p&gt;虽然这个属于这个课程的考核，但我感觉这个设计就像研究生培养一样，又比目前所接触的国内培养自由度更高，更具有启发性，惊讶居然这只是一门课程。刚好最近有一些碎片化的想法，现在又做计算，比生物实验好的地方就是更具独立性，所以也记录下这个milestones按这个模式，跟进这个课程学习的同时试试看能否做个小的project，没准还能成为课题。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Set-up：a brief overview of your experience and interest&lt;/li&gt;
-  &lt;li&gt;Brainstorming: a list of initial project ideas and parners (感觉这个挺好的，考虑以后定期给自己放空自己来个brainstorming把想法都记录下来）&lt;/li&gt;
-  &lt;li&gt;proposal：submit a project proporsal in the form of an NIH proposal (暂时把这个定位中短期目标吧，感觉国内研究生培养不太重视proposal，至少我目前见过的很多老师都是push着学生干活，不考虑研究完整性，导致培养出来的学生critical thinking能力不足，习惯了服从指挥，完成任务。目前对科研还有一定的兴趣，不希望自己成为这样，在开始做一个项目时，尽可能想明白的好）&lt;/li&gt;
-  &lt;li&gt;proposal presentation，review，midterm progress report, final project report, final class presentation暂时应该都不需要，先略过
-    &lt;h4 id=&quot;project--deliverables&quot;&gt;Project  deliverables&lt;/h4&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A Written presentation （这个可以自己写写，也许写的过程中可以有新的想法呢）&lt;/li&gt;
-  &lt;li&gt;An oral presentation （感觉不一定有条件，如果一起学习的朋友有愿意一块弄的再说吧，个人感觉看课程视频只是非常小的一方面，project才是精华吧）
-    &lt;h4 id=&quot;介绍生物基础知识的部分和后续lectures的overview跳过比较熟悉&quot;&gt;介绍生物基础知识的部分和后续lectures的overview跳过（比较熟悉）&lt;/h4&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML in genomics" /><summary type="html">Lecture 01: Introuduction</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>zying</name></author><category term="Lectures" /><category term="ML_in_genomics" /><summary type="html">Alignment 算法的应用</summary></entry></feed>
