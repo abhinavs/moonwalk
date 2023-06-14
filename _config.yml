@@ -1,16 +1,18 @@
-title: Moonwalk
-author: Abhinav Saxena
+title: Multimodal Art Projection
+author: Yizhi Li
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Multimodal Art Projection (MAP) is an opensource research community. 
+  The coummnity members are working towards Music AGI (Artificial General Intelligence)~ We pre-train large music models (LMMs)~🔥
+  See our released models at our [huggingface organization page](https://huggingface.co/m-a-p).
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+# twitter:
+#     username: yizhilll # update or delete this
+#     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
