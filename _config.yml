@@ -19,8 +19,8 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: "go back.." # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
@@ -50,4 +50,4 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
