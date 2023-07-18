@@ -1,6 +1,4 @@
 navbar_entries:
-  - title: Vagus Nerve
-  
   - title: About
     url: about
 
@@ -11,30 +9,25 @@ navbar_entries:
     url: https://faradaypost.wordpress.com/
 
 project_entries:
-  - title: Eating pattern
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Nutrition pattern
+    url: eating-patterns
+    desc: Looking for the healthiest diet and type of fasting.
 
   - title: Brain health
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: The science of keeping the brain young
 
   - title: Medical intervention
     url: overview-post
     desc: You can control visibility from _config.yml file
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Telegram
+    url: https://t.me/ageing_biology
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Youtube
+    url: 
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -46,18 +39,6 @@ misc_entries:
   - title: and you can add data in _data/home.yml
     url: false
 
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
