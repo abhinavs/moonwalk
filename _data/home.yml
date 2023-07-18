@@ -6,18 +6,18 @@ navbar_entries:
     url: blog
 
   - title: Mindmap
-    url: https://www.abhinav.co
+    url: https://faradaypost.wordpress.com/
 
 project_entries:
-  - title: Project 1
+  - title: Eating pattern
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 2
+  - title: Brain health
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: Medical intervention
     url: overview-post
     desc: You can control visibility from _config.yml file
 
