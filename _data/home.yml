@@ -10,16 +10,17 @@ navbar_entries:
 
 project_entries:
   - title: Nutrition pattern
-    url: eating-patterns
+    url: nutrition-pattern
     desc: Looking for the healthiest diet and type of fasting.
 
   - title: Brain health
-    url: overview-post
+    url: brain-health
     desc: The science of keeping the brain young
 
-  - title: Medical intervention
+    - title: Skin care
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Interventions for impaired skin integrity
+
 
 footer_entries:
   - title: Telegram
