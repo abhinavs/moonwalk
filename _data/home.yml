@@ -1,4 +1,6 @@
 navbar_entries:
+  - title: Vagus Nerve
+  
   - title: About
     url: about
 
