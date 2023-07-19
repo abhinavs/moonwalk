@@ -63,16 +63,18 @@ img {
   display: block;
   margin: 0 auto;
 }
-html {
-    --bg: #FFF;
-    --bg-secondary: #f3f4f6;
-    --headings: #1e293b;
-    --text: #374151;
-    --text-secondary: #6b7280;
-    --links: #6366f1;
-    --highlight: #FFECB2; // light yellow
-    --code-text: #9D174D;
-    --share-text: #999;
+@mixin light-appearance {
+  html, body {
+      --bg: #FFF;
+      --bg-secondary: #f3f4f6;
+      --headings: #1e293b;
+      --text: #374151;
+      --text-secondary: #6b7280;
+      --links: #6366f1;
+      --highlight: #FFECB2; // light yellow
+      --code-text: #9D174D;
+      --share-text: #999;
+  }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
