@@ -46,8 +46,3 @@ misc_entries:
         entries:
           - title: this is nested inside a nested list
             url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
