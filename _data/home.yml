@@ -12,12 +12,12 @@ project_entries:
   - title: Nutrition pattern
     url: false
     desc: Looking for the healthiest diet and type of fasting.
-
-  - title: Brain health
+    
+    - title: Brain health
     url: false
     desc: The science of keeping the brain young
 
-    - title: Skin care
+    - title: Skincare
     url: overview-post
     desc: Interventions for impaired skin integrity
 
