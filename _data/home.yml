@@ -40,9 +40,24 @@ misc_entries:
   - title: and you can add data in _data/home.yml
     url: false
 
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
         entries:
           - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
