@@ -1,4 +1,4 @@
-title: false
+title: 
 author: Vagus Nerve
 url: https://vagus-nerve.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
@@ -12,14 +12,12 @@ twitter:
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "go back.." # customize text for homepage link in post layout
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_title: false
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: false # show footer links in home page,add in _data/home.yml
