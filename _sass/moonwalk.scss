@@ -88,11 +88,17 @@ html {
       --share-text: #C4C4C4;
   };
 }
+
 html[data-theme="dark"] { @include dark-appearance; }
+html[data-theme="light"] { @include light-appearance; }
 
 @media (prefers-color-scheme: dark) {
   body[data-theme="auto"] { @include dark-appearance; }
 }
+@media (prefers-color-scheme: light) {
+  body[data-theme="auto"] { @include light-appearance; }
+}
+  
 // -------------------------------------------- //
 
 html, body {
