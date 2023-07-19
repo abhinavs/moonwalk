@@ -6,15 +6,15 @@ navbar_entries:
     url: blog
 
   - title: Mindmap
-    url: https://faradaypost.wordpress.com/
+    url: false
 
 project_entries:
   - title: Nutrition pattern
-    url: nutrition-pattern
+    url: false
     desc: Looking for the healthiest diet and type of fasting.
 
   - title: Brain health
-    url: brain-health
+    url: false
     desc: The science of keeping the brain young
 
     - title: Skin care
