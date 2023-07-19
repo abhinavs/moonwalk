@@ -27,7 +27,7 @@ footer_entries:
     url: https://t.me/ageing_biology
 
   - title: Youtube
-    url: 
+    url: false
 
 
 misc_entries:
