@@ -1,6 +1,7 @@
 title:    
 author: Vagus Nerve
 description: > # description of the site (multiple lines allowed)
+url: https://vagus-nerve.github.io/ # root address of the site
 
 permalink: /:slug
 
