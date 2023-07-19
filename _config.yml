@@ -26,7 +26,7 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
