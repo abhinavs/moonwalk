@@ -23,6 +23,7 @@ theme_config:
   show_footer: false # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
+  show_title: false
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
