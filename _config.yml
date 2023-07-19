@@ -1,5 +1,5 @@
-title: Vagus Nerve
-author: Illia Runtcister
+title: 
+author: Vagus Nerve
 url: https://vagus-nerve.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
 
@@ -30,15 +30,13 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
+  show_theme: false
   # options for "home" page
   home:
     title_projects: 
     title_misc_list: Details
     title_blog: News
     title_old_projects: Old Projects
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
