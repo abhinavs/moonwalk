@@ -6,21 +6,16 @@ Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus 
 
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
-- [Excercise regularly](#excercice-regularly)
 - [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
 - [Diet](#the-middle)
+- [Excercise regularly](#excercice-regularly)
 - [Stay mentally active](#the-middle)
 - [Blood vessels](#the-end)
 - [Stay socially engaged](#stay-socially-engaged)
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression.
-
-## [Excercise regularly](#excercice-regularly)
-
-Exercise has many known benefits, and regular physical activity also benefits the brain.
-
+The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression. Even small head injuries increase the risk of cognitive impairment.
 
 ## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
 
@@ -31,7 +26,11 @@ You can improve your sleep regimen with these healthy sleep tips:
 
 ## [Diet](#diet)
 
-Consider following a Mediterranean diet, which emphasizes plant-based foods, whole grains, fish, and healthy fats, such as olive oil.
+Consider following a Mediterranean diet, which emphasizes whole grains, plant-based foods, fish, and olive oil.
+
+## [Excercise regularly](#excercice-regularly)
+
+Exercise has many known benefits. In particular, physical activity benefits cognitive function.
 
 # [Stay mentally active](#the-middle)
 
@@ -41,11 +40,14 @@ Your brain is similar to a muscle — you need to use it or lose it
 
 The health of your arteries and veins is essential to your heart health but it is also critical for brain health.
 
-## Stay socially engaged
+## Stay socially engaged(#the-middle)
 
 Social interaction helps ward off depression and stress.
 
 
 References:
+1. gre
+2. f
+3. g
 
 
