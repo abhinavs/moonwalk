@@ -2,24 +2,50 @@
 layout: post
 ---
 
-# Brain health
-
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [The start](#the-start)
-- [The middle](#the-middle)
-- [The end](#the-end)
-
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
 
-## [The start](#the-start)
+## Contents
+- [Avoid head injuries](#avoid-head-injuries)
+- [Excercise regularly](#excercice-regularly)
+- [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
+- [Diet](#the-middle)
+- [Stay mentally active](#the-middle)
+- [Blood vessels](#the-end)
+- [Stay socially engaged](#stay-socially-engaged)
 
-Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.
+## [Avoid head injuries](#avoid-head-injuries)
 
-## [The middle](#the-middle)
+The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression.
 
-Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.
+## [Excercise regularly](#excercice-regularly)
 
-## The end
+Exercise has many known benefits, and regular physical activity also benefits the brain.
 
-Donec ex lectus, tempu
+
+## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
+
+The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright outside.
+You can improve your sleep regimen with these healthy sleep tips:
+•   Aim for a minimum of seven hours of sleep on a regular basis
+•   Stop drinking caffeine four to six hours before bed
+
+## [Diet](#diet)
+
+Consider following a Mediterranean diet, which emphasizes plant-based foods, whole grains, fish, and healthy fats, such as olive oil.
+
+# [Stay mentally active](#the-middle)
+
+Your brain is similar to a muscle — you need to use it or lose it
+
+## Blood vessels(#the-middle)
+
+The health of your arteries and veins is essential to your heart health but it is also critical for brain health.
+
+## Stay socially engaged
+
+Social interaction helps ward off depression and stress.
+
+
+References:
+
+
