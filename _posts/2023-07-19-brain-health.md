@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Brain health refers to the preservation of brain integrity and cognitive function. Because brain health does not depend on a single factor, the multi-model approach to maintaining brain health is proposed.
+Brain health refers to the preservation of brain integrity and cognitive function. Because brain health does not depend on a single factor, the multi-model approach to maintaining brain health is proposed. 
 
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
@@ -22,7 +22,8 @@ Although the human brain is the best-protected organ in the human body, the brai
 ## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
 
 The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright outside.
-Below we provide a list of tips that may improve the quality of your sleep:
+
+Tips:
 -   Go outside for 10 minutes after you wake up.
 -   Aim for a minimum of seven hours of sleep on a regular basis
 -   Stop drinking caffeine four to six hours before bed
@@ -30,9 +31,11 @@ Below we provide a list of tips that may improve the quality of your sleep:
 -   Consider trying static stretching exercises before bedtime.
   
 
-## [Diet](#diet)
+## [Follow a plant-rich diet](#[Follow-Mediterranean-diet)
 
-Consider following a Mediterranean diet, which emphasizes whole grains, plant-based foods, fish, and olive oil.
+Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. One dietary pattern that is rich in these nutrients and has repeatedly shown positive effects on health is the Mediterranean diet []. 
+
+(For more information about evidence-based nutrition patterns, you can read a separate article on this topic).
 
 
 ## [Excercise regularly](#excercice-regularly)
@@ -42,27 +45,28 @@ Exercise has many known benefits. In particular, physical activity benefits cogn
 
 ## [Stay mentally active](#the-middle)
 
-Your brain is similar to a muscle — you need to use it or lose it
 
 
-## Blood vessels(#the-middle)
 
-The health of your arteries and veins is essential to your heart health but it is also critical for brain health.
+## [Keep blood vessels healthy](#the-middle)
+
+The health of the arteries and veins is essential to heart health, but it is also critical for brain health.
 
 
-## Stay socially engaged(#the-middle)
+## [Stay socially engaged](#the-middle)
 
 Social interaction helps ward off depression and stress.
 
 
 ## Follow lifestyle habits for mental health
 
-Get a personal "Not to-do list".
+-   Consider getting a personal "Not to-do list".
+-   
 
 
-References:
-1. https://doi.org/10.3389/fnins.2023.1141568
-2. https://www.pennmedicine.org/news/news-releases/2021/march/head-injury-25-years-later-penn-study-finds-increased-risk-of-dementia
-3. 
+## References
+1.   https://doi.org/10.3389/fnins.2023.1141568
+2.   https://www.pennmedicine.org/news/news-releases/2021/march/head-injury-25-years-later-penn-study-finds-increased-risk-of-dementia
+3.   Dinu, M; Pagliai, G; Casini, A; Sofi, F (10 May 2017). "Mediterranean diet and multiple health outcomes: an umbrella review of meta-analyses of observational studies and randomised trials". European Journal of Clinical Nutrition. 72 (1): 30–43. doi:10.1038/ejcn.2017.58. hdl:2158/1081996. PMID 28488692. S2CID 7702206.
 
 
