@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Brain health refers to the preservation of brain integrity and cognitive function. Because brain health does not depend on a single factor, below we propose a multi-model approach to maintaining brain health.
+Brain health refers to the preservation of brain integrity and cognitive function. Because brain health does not depend on a single factor, the multi-model approach to maintaining brain health is proposed.
 
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
@@ -12,10 +12,11 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 - [Stay mentally active](#the-middle)
 - [Blood vessels](#the-end)
 - [Stay socially engaged](#stay-socially-engaged)
+- [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2]. Moreover, more head injuries are associated with a greater risk of dementia [2].
+The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2]. Moreover, it should be noted that more head injuries are associated with a greater risk of dementia [2].
 
 
 ## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
