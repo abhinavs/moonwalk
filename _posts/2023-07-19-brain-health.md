@@ -40,7 +40,7 @@ Consider following a Mediterranean diet, which emphasizes whole grains, plant-ba
 Exercise has many known benefits. In particular, physical activity benefits cognitive function.
 
 
-# [Stay mentally active](#the-middle)
+## [Stay mentally active](#the-middle)
 
 Your brain is similar to a muscle — you need to use it or lose it
 
