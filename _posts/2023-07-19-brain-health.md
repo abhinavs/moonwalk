@@ -16,17 +16,19 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-The brain's softness makes it vulnerable to damage from contact with the skull's interior and compression [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2]. Moreover, it should be noted that more head injuries are associated with a greater risk of dementia [2].
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2].
 
 
 ## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
 
 The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright outside.
 Below we provide a list of tips that may improve the quality of your sleep:
-•   Aim for a minimum of seven hours of sleep on a regular basis
-•   Stop drinking caffeine four to six hours before bed
-•   Stop using tablets one hour before bedtime.
-•   Consider trying static stretching exercises before bedtime.
+-   Go outside for 10 minutes after you wake up.
+-   Aim for a minimum of seven hours of sleep on a regular basis
+-   Stop drinking caffeine four to six hours before bed
+-   Stop using tablets one hour before bedtime.
+-   Consider trying static stretching exercises before bedtime.
+  
 
 ## [Diet](#diet)
 
@@ -51,6 +53,11 @@ The health of your arteries and veins is essential to your heart health but it i
 ## Stay socially engaged(#the-middle)
 
 Social interaction helps ward off depression and stress.
+
+
+## Follow lifestyle habits for mental health
+
+Get a personal "Not to-do list".
 
 
 References:
