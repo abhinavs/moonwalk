@@ -21,7 +21,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 ## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
 
-The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright outside.
+The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright.
 
 Tips:
 -   Go outside for 10 minutes after you wake up.
@@ -32,7 +32,7 @@ Tips:
 -   Consider trying static stretching exercises before bedtime.
   
 
-## [Follow a plant-rich diet](#[Follow-Mediterranean-diet)
+## [Follow a plant-rich diet](#Follow-a-plant-rich-diet)
 
 Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. Examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health are Mediterranean and MIND diets []. 
 
@@ -41,7 +41,7 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-Physical activity has many known benefits. In particular, it benefits cognitive function.
+Research shows that physical activity reduces the risk of developing many chronic conditions, clinical depression, and dementia, as well as boosts self-esteem and sleep quality.
 
 
 ## [Stay mentally active](#the-middle)
