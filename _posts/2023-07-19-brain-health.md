@@ -7,10 +7,10 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
 - [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
-- [Diet](#the-middle)
+- [Follow a plant-rich diet](#the-middle)
 - [Excercise regularly](#excercice-regularly)
 - [Stay mentally active](#the-middle)
-- [Blood vessels](#the-end)
+- [Prevent and treat blood vessel damage](#the-end)
 - [Stay socially engaged](#stay-socially-engaged)
 - [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
@@ -41,7 +41,7 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-Physical exercises have many known benefits. In particular, they benefit cognitive function.
+Physical activity has many known benefits. In particular, it benefits cognitive function.
 
 
 ## [Stay mentally active](#the-middle)
@@ -49,9 +49,11 @@ Physical exercises have many known benefits. In particular, they benefit cogniti
 
 
 
-## [Keep blood vessels healthy](#the-middle)
+## [Prevent and treat blood vessel damage](#the-middle)
 
-The health of the arteries and veins is essential to heart health, but it is also critical for brain health.
+By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The condition of these blood vessels is critical not only for maintaining heart health but also for any other organ in the human body.
+
+also plays a critical role in maintaining brain health.
 
 
 ## [Stay socially engaged](#the-middle)
