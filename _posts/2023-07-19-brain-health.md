@@ -6,8 +6,8 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
-- [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
-- [Follow a plant-rich diet](#the-middle)
+- [Improve your sleep hygiene](#improve-your-sleep-hygiene)
+- [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 - [Excercise regularly](#excercice-regularly)
 - [Stay mentally active](#the-middle)
 - [Prevent and treat blood vessel damage](#the-end)
@@ -19,7 +19,7 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2].
 
 
-## [Get in touch with your circadian rhythm](#get-in-touch-with-your-circadian-rhythm)
+## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
 
 The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright outside.
 
@@ -51,9 +51,10 @@ Physical activity has many known benefits. In particular, it benefits cognitive 
 
 ## [Prevent and treat blood vessel damage](#the-middle)
 
-By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The condition of these blood vessels is critical not only for maintaining heart health but also for any other organ in the human body.
+By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
 
-also plays a critical role in maintaining brain health.
+Tips:
+-   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
 
 
 ## [Stay socially engaged](#the-middle)
