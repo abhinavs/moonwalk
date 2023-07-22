@@ -51,7 +51,7 @@ Physical activity has many known benefits. In particular, it benefits cognitive 
 
 ## [Prevent and treat blood vessel damage](#the-middle)
 
-By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
+By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
 
 Tips:
 -   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
