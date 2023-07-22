@@ -10,7 +10,7 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 - [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 - [Excercise regularly](#excercice-regularly)
 - [Stay mentally active](#the-middle)
-- [Prevent and treat blood vessel damage](#the-end)
+- [Prevent blood vessel damage](#Prevent-blood-vessel-damage)
 - [Stay socially engaged](#stay-socially-engaged)
 - [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
@@ -49,12 +49,14 @@ Research shows that physical activity reduces the risk of developing many chroni
 
 
 
-## [Prevent and treat blood vessel damage](#the-middle)
+## [Prevent blood vessel damage](#Prevent-blood-vessel-damage)
 
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
 
 Tips:
 -   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
+-   Control blood pressure
+-   Control blood sugar
 
 
 ## [Stay socially engaged](#the-middle)
