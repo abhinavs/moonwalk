@@ -62,7 +62,7 @@ Tips:
 
 ## [Stay socially engaged](#the-middle)
 
-In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [https://www.nature.com/articles/s41562-023-01617-6].  Non-stressful interpersonal relationships
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections,  stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [https://www.nature.com/articles/s41562-023-01617-6].  Non-stressful interpersonal relationships
 
 
 
@@ -71,7 +71,7 @@ In terms of effects on the brain, building social networks and participating in 
 -   Think about getting a personal "Not to-do list".
 -   
 
-## Consider living in the natural environment (#consider-middle)
+## Consider living to a non-urban area (#consider-middle)
 
 Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
 Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
