@@ -25,11 +25,11 @@ The biggest cues are light and noise. Our body is naturally programmed to sleep 
 
 Tips:
 -   Go outside for 10 minutes after you wake up.
--   Aim for a minimum of seven hours of sleep regularly
--   Stop drinking caffeine four to six hours before bed
+-   Aim for a minimum of 7 hours of sleep regularly
+-   Stop drinking caffeine 4 to 6 hours before bed
 -   If you need a nap and you are not sleep deprived, keep it short — the best nap length for adults is about 20 minutes and no longer than 30 minutes - so it doesn't affect your next sleep session
--   Stop using tablets one hour before bedtime.
--   Drink one glass of water one hour before bedtime.
+-   Avoid bright light 2 hours before bedtime, since this is part of the three gaps when the circadian clock is the most sensitive to light
+-   Drink one glass of water 1 hour before bedtime.
 -   Consider trying static stretching exercises before bedtime.
   
 
