@@ -26,6 +26,8 @@
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png" />
 
 ## Quick Installation
+*Instructions for GitHub Pages available [here](github_pages.md)*
+### Initial Setup
 1. [Fork this repository](https://github.com/abhinavs/moonwalk/fork).
 2. `cd moonwalk`
 3. `bin/bootstrap`
@@ -33,7 +35,7 @@
 
 If you are installing Moonwalk on Windows, please note that you might have to use Ruby 3.0.x instead of Ruby 3.1.x - you can see Windows specific installation instructions [here](https://github.com/abhinavs/moonwalk/blob/master/moonwalk_on_windows.md)
 
-## Starting Server
+### Starting Server
 `bin/start` - development server will start at http://127.0.0.1:4000
 
 ## Deployment
