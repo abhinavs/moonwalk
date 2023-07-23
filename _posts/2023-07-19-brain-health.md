@@ -9,11 +9,10 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 - [Improve your sleep hygiene](#improve-your-sleep-hygiene)
 - [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 - [Excercise regularly](#excercice-regularly)
-- [Stay mentally active](#the-middle)
 - [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 - [Stay socially engaged](#stay-socially-engaged)
 - [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
-- [Consider living in a non-urban area](#consider-living-in-a-non-urban-area)
+- [Spend more time in the rural areas](#spend-more-time-in-the-rural-areas)
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
@@ -46,11 +45,6 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 The physically inactive males between the ages of 25 and 60 experience a gradual decline in both muscle mass and strength, with a loss rate of 0.5 percent per year. Once men reach the age of 60, the rate of muscle loss doubles to approximately 1 percent per year. Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression, as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
 
  
-## [Stay mentally active](#the-middle)
-
-
-
-
 ## [Prevent blood vessel damage](#Prevent-blood-vessel-damage)
 
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
@@ -69,10 +63,12 @@ In terms of effects on the brain, building social networks and participating in 
 
 ## Follow lifestyle habits for mental health
 
--   Think about getting a personal "Not to-do list".
--   
+Tips:
+-   Get a personal "Not to-do list".
+-   Practice a foreign language and/or a programming language.
 
-## Consider living in a non-urban area (#consider-living-in-a-non-urban-area)
+
+## Spend more time in the rural areas (#spend-more-time-in-the-rural-areas)
 
 Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
 Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
