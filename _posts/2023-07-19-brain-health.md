@@ -21,7 +21,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 ## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
 
-The biggest cues are light and noise. Our body is naturally programmed to sleep in darkness and silence but stay awake when it's bright and noisy.
+The biggest cues are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy.
 
 Tips:
 -   Go outside for 10 minutes after you wake up.
@@ -35,7 +35,7 @@ Tips:
 
 ## [Follow a plant-rich diet](#Follow-a-plant-rich-diet)
 
-Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. Examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health are Mediterranean and MIND diets []. 
+Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. Examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health are DASH, Mediterranean, and MIND diets []. 
 
 (For more information about evidence-based nutrition patterns, you can read a separate article on this topic).
 
