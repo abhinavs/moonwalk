@@ -10,9 +10,10 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 - [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 - [Excercise regularly](#excercice-regularly)
 - [Stay mentally active](#the-middle)
-- [Prevent blood vessel damage](#Prevent-blood-vessel-damage)
+- [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 - [Stay socially engaged](#stay-socially-engaged)
 - [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
+- [Consider living in a non-urban area](#consider-living-in-a-non-urban-area)
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
@@ -35,9 +36,9 @@ Tips:
 
 ## [Follow a plant-rich diet](#Follow-a-plant-rich-diet)
 
-Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. Examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health are DASH, Mediterranean, and MIND diets []. 
+Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health []. 
 
-(For more information about evidence-based nutrition patterns, you can read a separate article on this topic).
+(For more information about evidence-based nutrition patterns, read a separate article on this topic).
 
 
 ## [Excercise regularly](#excercice-regularly)
@@ -71,7 +72,7 @@ In terms of effects on the brain, building social networks and participating in 
 -   Think about getting a personal "Not to-do list".
 -   
 
-## Consider living to a non-urban area (#consider-middle)
+## Consider living in a non-urban area (#consider-living-in-a-non-urban-area)
 
 Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
 Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
