@@ -42,7 +42,18 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-Research shows that physical activity reduces the risk of developing many chronic conditions, clinical depression, and dementia, as well as boosts self-esteem and sleep quality.
+Aerobic exercises 
+Anaerobic exercises 
+Stretching exercises
+
+Aerobic exercises, including jogging, swimming, cycling, walking, gardening, and dancing, have been proven to reduce anxiety and depression,
+as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Moreover, a small amount of weight exercise triggers molecular processes which lead to the formation of new neurons and increased synaptic plasticity
+
+ triggers 
+
+Research shows that physical activity reduces the risk of developing many chronic conditions, clinical depression, and dementia, as well as 
+
+
 
 
 ## [Stay mentally active](#the-middle)
