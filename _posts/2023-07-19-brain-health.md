@@ -16,7 +16,7 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild head injuries increase the risk of cognitive decline or dementia years after the original head injury [2].
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury [2].
 
 
 ## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
@@ -42,20 +42,9 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-Aerobic exercises 
-Anaerobic exercises 
-Stretching exercises
+Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression, as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
 
-Aerobic exercises, including jogging, swimming, cycling, walking, gardening, and dancing, have been proven to reduce anxiety and depression,
-as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Moreover, a small amount of weight exercise triggers molecular processes which lead to the formation of new neurons and increased synaptic plasticity
-
- triggers 
-
-Research shows that physical activity reduces the risk of developing many chronic conditions, clinical depression, and dementia, as well as 
-
-
-
-
+ 
 ## [Stay mentally active](#the-middle)
 
 
@@ -67,8 +56,8 @@ By adulthood, the human body on average contains about 100 000 kilometers of blo
 
 Tips:
 -   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
--   Control blood pressure
--   Control blood sugar
+-   Control blood pressure. If your blood pressure has been stable for a long time, you might only need to measure it once every 4 to 6 months.
+-   Control blood sugar. For most people without diabetes or pancreatic diseases, blood sugar testing is recommended once a year.
 
 
 ## [Stay socially engaged](#the-middle)
