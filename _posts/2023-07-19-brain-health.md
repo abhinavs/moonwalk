@@ -42,7 +42,7 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression, as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
+The physically inactive males between the ages of 25 and 60 experience a gradual decline in both muscle mass and strength, with a loss rate of 0.5 percent per year. Once men reach the age of 60, the rate of muscle loss doubles to approximately 1 percent per year. Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression, as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
 
  
 ## [Stay mentally active](#the-middle)
@@ -62,13 +62,26 @@ Tips:
 
 ## [Stay socially engaged](#the-middle)
 
-Social interaction helps ward off depression and stress.
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [https://www.nature.com/articles/s41562-023-01617-6].  Non-stressful interpersonal relationships
+
 
 
 ## Follow lifestyle habits for mental health
 
--   Consider getting a personal "Not to-do list".
+-   Think about getting a personal "Not to-do list".
 -   
+
+## Consider living in the natural environment (#consider-middle)
+
+Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
+Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
+
+Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
+
+Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
+], and schizophrenia, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol [Park BJ, Tsunetsugu Y, Kasetani T, Kagawa T, Miyazaki Y. The physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest bathing): evidence from field experiments in 24 forests across Japan. Environ Health Prev Med. 2010;15:18–26.
+
+Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
 
 
 ## References
