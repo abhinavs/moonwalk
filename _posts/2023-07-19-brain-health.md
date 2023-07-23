@@ -19,7 +19,7 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury [2].
 
 
-## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
+## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
 
 The biggest cues are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy.
 
@@ -33,7 +33,7 @@ Tips:
 -   Consider trying static stretching exercises before bedtime.
   
 
-## [Follow a plant-rich diet](#Follow-a-plant-rich-diet)
+## [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 
 Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health []. 
 
@@ -45,7 +45,7 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 The physically inactive males between the ages of 25 and 60 experience a gradual decline in both muscle mass and strength, with a loss rate of 0.5 percent per year. Once men reach the age of 60, the rate of muscle loss doubles to approximately 1 percent per year. Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression, as well as boost self-esteem and sleep quality. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
 
  
-## [Prevent blood vessel damage](#Prevent-blood-vessel-damage)
+## [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
 
@@ -55,7 +55,7 @@ Tips:
 -   Control blood sugar. For most people without diabetes or pancreatic diseases, blood sugar testing is recommended once a year.
 
 
-## [Stay socially engaged](#the-middle)
+## [Stay socially engaged](#stay-socially-engaged)
 
 In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections,  stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [https://www.nature.com/articles/s41562-023-01617-6].  Non-stressful interpersonal relationships
 
@@ -68,7 +68,7 @@ Tips:
 -   Practice a foreign language and/or a programming language.
 
 
-## Spend more time in the rural areas (#spend-more-time-in-the-rural-areas)
+## Spend more time in the rural areas(#spend-more-time-in-the-rural-areas)
 
 Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
 Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
