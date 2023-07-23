@@ -21,7 +21,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 ## [Improve your sleep hygiene](#get-in-touch-with-your-circadian-rhythm)
 
-The biggest cue is light. Our body is naturally programmed to sleep in darkness and stay awake when it's bright.
+The biggest cues are light and noise. Our body is naturally programmed to sleep in darkness and silence but stay awake when it's bright and noisy.
 
 Tips:
 -   Go outside for 10 minutes after you wake up.
@@ -29,6 +29,7 @@ Tips:
 -   Stop drinking caffeine four to six hours before bed
 -   If you need a nap and you are not sleep deprived, keep it short — the best nap length for adults is about 20 minutes and no longer than 30 minutes - so it doesn't affect your next sleep session
 -   Stop using tablets one hour before bedtime.
+-   Drink one glass of water one hour before bedtime.
 -   Consider trying static stretching exercises before bedtime.
   
 
