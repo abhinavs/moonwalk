@@ -23,7 +23,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 The biggest cues are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy.
 
-#### Tips:
+### Tips:
 -   Go outside for 10 minutes after you wake up.
 -   Aim for a minimum of 7 hours of sleep regularly
 -   Stop drinking caffeine 4 to 6 hours before bed
@@ -49,7 +49,7 @@ The physically inactive males between the ages of 25 and 60 experience a gradual
 
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
 
-#### Tips:
+### Tips:
 -   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
 -   Control blood pressure. If your blood pressure has been stable for a long time, you might only need to measure it once every 4 to 6 months.
 -   Control blood sugar. For most people without diabetes or pancreatic diseases, blood sugar testing is recommended once a year.
@@ -63,7 +63,7 @@ In terms of effects on the brain, building social networks and participating in 
 
 ## Follow lifestyle habits for mental health
 
-#### Tips:
+### Tips:
 -   Get a personal "Not to-do list".
 -   Practice a foreign language and/or a programming language.
 
