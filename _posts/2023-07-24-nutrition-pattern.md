@@ -16,8 +16,19 @@ Based on a comparison of the nutritional values of different foods, results of s
 -  Drinking water first thing in the morning prevents kidney stones and protects your colon and bladder from infections.
 -  Eat 100-150 g of low-fat yogurt with berries, which are sources of vitamin C and polyphenols
 -  Drink 1 cup of green matcha tea, which is a source of polyphenols.
-
+Calcium
 ## [Lunch](#lunch)
+
+|       Food, 100 g     |  Vitamin A  |  Vitamin B  | Vitamin B6  | Vitamin B12 |  Vitamin C  |  Vitamin D  |    Iron     |     Zink    | Selem
+| --------------------- |:-----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:|
+| Brown rice            | right       | $1600       |
+| Couscous rice         | cent        |   $12       |
+| Potato (baked)        |             |   $12       |
+| Potato (boiled)       |             |   $12       |
+| Sweet potato (baked)  | c           |   $12       |
+| Sweet potato (boiled) |             |   $12      |
+
+
 
 -  Eat a bowl of brown rice, which is a source of magnesium and fiber
 -  Eat a bowl of couscous rice, which is a source of Selenium and fiber.
@@ -30,7 +41,7 @@ Based on a comparison of the nutritional values of different foods, results of s
 -  Sweet potato
 -  Baked salmon
 -  Conserved tuna
-
+-  Broccoli
 
 ## [Food to avoid](food-to-avoid)
 
