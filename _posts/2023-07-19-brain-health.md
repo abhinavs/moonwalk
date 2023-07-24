@@ -16,7 +16,7 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression. [1]. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury [2].
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression [1]. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury [2].
 
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
@@ -37,7 +37,7 @@ The biggest cues are light and noise. Our body is naturally programmed to sleep 
 
 Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health []. 
 
-(For more information about evidence-based nutrition patterns, read a separate article on this topic).
+(For more information about evidence-based nutrition patterns, read a separate <a href="https://vagus-nerve.github.io/nutrition-pattern/">article</a> on this topic).
 
 
 ## [Excercise regularly](#excercice-regularly)
