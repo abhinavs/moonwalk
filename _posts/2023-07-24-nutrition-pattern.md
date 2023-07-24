@@ -19,14 +19,14 @@ Based on a comparison of the nutritional values of different foods, results of s
 Calcium
 ## [Lunch](#lunch)
 
-|       Food, 100 g     |  Vitamin A  |  Vitamin B  | Vitamin B6  | Vitamin B12 |  Vitamin C  |  Vitamin D  |    Iron     |     Zink    | Selem
+|       Food, 100 g     |  A  |  B  | B6  | B12 |  C  |  D  | Fe  | Zn  | Se  |  P  |  K  |  Na |
 | --------------------- |:-----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:|
 | Brown rice            | right       | $1600       |
 | Couscous rice         | cent        |   $12       |
 | Potato (baked)        |             |   $12       |
 | Potato (boiled)       |             |   $12       |
 | Sweet potato (baked)  | c           |   $12       |
-| Sweet potato (boiled) |             |   $12      |
+| Sweet potato (boiled) |             |   $12       |
 
 
 
