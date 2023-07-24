@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Nutrition pattern
-    url: false
+    url: nutrition-pattern
     desc: Looking for the healthiest nutrition pattern
 
   - title: Brain health
@@ -18,7 +18,7 @@ project_entries:
     desc: The science of keeping the brain young
 
   - title: Skincare
-    url: overview-post
+    url: skincare
     desc: Interventions for impaired skin integrity
 
 
