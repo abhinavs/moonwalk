@@ -36,5 +36,6 @@ Based on a comparison of the nutritional values of different foods, results of s
 
 -  Alcohol - even one glass a day of alcohol affects the viability of the brain cells.
 -  Milk and other dairy products (exception: low-fat yogurt), which are the number one source of saturated fat.
+-  Red and processed meats
   
 
