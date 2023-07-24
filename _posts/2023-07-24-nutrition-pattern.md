@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Based on a comparison of the nutritional values of different foods, results of studies on fasting, and risks of death from various chronic diseases for plant-based diets, such as Meditarian, DASH, and MIND, the following nutrition pattern is proposed.
+Based on a comparison of the nutritional values of different foods, results of studies on fasting, and risks of death from various chronic diseases for non-plant-based and plant-based diets, the following nutrition pattern is proposed.
 
 ## Contents
 - [Breakfast](#breakfast)
@@ -22,12 +22,14 @@ Based on a comparison of the nutritional values of different foods, results of s
 -  Eat a bowl of brown rice, which is a source of magnesium and fiber
 -  Eat a bowl of couscous rice, which is a source of Selenium and fiber.
 -  Eat a few almonds, which are a source of magnesium, vitamin E, and fiber
-Peanuts
-Walnuts
+-  Peanuts
+-  Walnuts
 
 ## [Dinner](#dinner)
 
 -  Sweet potato
+-  Baked salmon
+-  Conserved tuna
 
 
 ## [Food to avoid](food-to-avoid)
