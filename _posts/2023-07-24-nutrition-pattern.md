@@ -2,8 +2,6 @@
 layout: post
 ---
 
-Based on a comparison of the nutritional values of different foods, results of studies on fasting, and risks of death from various chronic diseases for non-plant-based and plant-based diets, the following nutrition pattern is proposed.
-
 ## Contents
 - [Breakfast](#breakfast)
 - [Lunch](#lunch)
@@ -19,16 +17,14 @@ Based on a comparison of the nutritional values of different foods, results of s
 Calcium
 ## [Lunch](#lunch)
 
-|       Food, 100 g     |  A  |  B  | B6  | B12 |  C  |  D  | Fe  | Zn  | Se  |  P  |  K  |  Na |
-| --------------------- |:-----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:|
-| Brown rice            | right       | $1600       |
-| Couscous rice         | cent        |   $12       |
-| Potato (baked)        |             |   $12       |
-| Potato (boiled)       |             |   $12       |
-| Sweet potato (baked)  | c           |   $12       |
-| Sweet potato (boiled) |             |   $12       |
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+|      Food, 100 g     |  A  |  B  | B6  | B12 |  C  |  D  | Fe  | Zn  | Se  |  P  |  K  |  Na |
+|----------------------|:-----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:|
+| Brown rice           | right       | $1600       |
+| Couscous rice        | cent        |   $12       |
+| Potato (baked)       |             |   $12       |
+| Potato (boiled)      |             |   $12       |
+| Sweet potato (baked) | c           |   $12       |
+| Sweet potato (boiled)|             |   $12       |
 
 
 -  Eat a bowl of brown rice, which is a source of magnesium and fiber
