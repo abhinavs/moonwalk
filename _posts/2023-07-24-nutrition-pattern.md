@@ -17,14 +17,15 @@ layout: post
 Calcium
 ## [Lunch](#lunch)
 
-|      Food, 100 g     |  A  |  B  | B6  | B12 |  C  |  D  | Fe  | Zn  | Se  |  P  |  K  |  Na |
+|      Food, 100 g     |                   Vitamins                    |Chol|                             Minerals                          |
+|                      | A | B2| B3| B5| B6| B7| B9|B12| C | D | E | K |    | Ca|Cl-| Ch| Cu|Fl-| I | Fe| Mg| Mn| Mo| Ni| P | K | Se| Na| Zn| 
 |----------------------|:-----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:|
-| Brown rice           | right       | $1600       |
-| Couscous rice        | cent        |   $12       |
-| Potato (baked)       |             |   $12       |
-| Potato (boiled)      |             |   $12       |
-| Sweet potato (baked) | c           |   $12       |
-| Sweet potato (boiled)|             |   $12       |
+| Brown rice           | right       |        |
+| Couscous rice        | cent        |          |
+| Potato (baked)       |             |          |
+| Potato (boiled)      |             |          |
+| Sweet potato (baked) | c           |          |
+| Sweet potato (boiled)|             |          |
 
 
 -  Eat a bowl of brown rice, which is a source of magnesium and fiber
