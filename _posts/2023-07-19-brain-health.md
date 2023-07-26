@@ -48,16 +48,16 @@ The physically inactive adults between the ages of 25 and 60 experience a gradua
  
 ## [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 
-By adulthood, the human body on average contains about 100 000 kilometers of blood vessels [40]. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body [41-43].
+By adulthood, the human body on average contains about 100 000 kilometers of blood vessels <sup>[40]</sup>. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body <sup>[41-43]</sup>.
 
 ### Recommendations:
--   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term [44].
+-   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term <sup>[44]</sup>.
 -   Control blood pressure and blood sugar on a regular basis.
 
 
 ## [Stay socially engaged](#stay-socially-engaged)
 
-In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [45].
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality <sup>[45]</sup>.
 
 
 ## Follow lifestyle habits for mental health
@@ -69,7 +69,7 @@ In terms of effects on the brain, building social networks and participating in 
 
 ## Spend more time in the rural areas(#spend-more-time-in-the-rural-areas)
 
-Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia [46-48], along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol [46,49].
+Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia <sup>[46-48]</sup>, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol <sup>[46,49]</sup>.
 
 
 ## References
