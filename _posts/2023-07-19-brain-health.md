@@ -48,18 +48,16 @@ The physically inactive adults between the ages of 25 and 60 experience a gradua
  
 ## [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 
-By adulthood, the human body on average contains about 100 000 kilometers of blood vessels. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body.
+By adulthood, the human body on average contains about 100 000 kilometers of blood vessels [40]. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body [41-43].
 
 ### Recommendations:
--   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term.
--   Control blood pressure. If your blood pressure has been stable for a long time, you might only need to measure it once every 4 to 6 months.
--   Control blood sugar. For most people without diabetes or pancreatic diseases, blood sugar testing is recommended once a year.
+-   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term [44].
+-   Control blood pressure and blood sugar on a regular basis.
 
 
 ## [Stay socially engaged](#stay-socially-engaged)
 
-In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections,  stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [https://www.nature.com/articles/s41562-023-01617-6].  Non-stressful interpersonal relationships
-
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality [45].
 
 
 ## Follow lifestyle habits for mental health
@@ -71,18 +69,11 @@ In terms of effects on the brain, building social networks and participating in 
 
 ## Spend more time in the rural areas(#spend-more-time-in-the-rural-areas)
 
-Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression [
-Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
-
-Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
-
-Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
-], and schizophrenia, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol [Park BJ, Tsunetsugu Y, Kasetani T, Kagawa T, Miyazaki Y. The physiological effects of Shinrin-yoku (taking in the forest atmosphere or forest bathing): evidence from field experiments in 24 forests across Japan. Environ Health Prev Med. 2010;15:18–26.
-
-Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
+Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia [46-48], along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol [46,49].
 
 
 ## References
+
 1.  Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683
 2.  Kim, M., & Park, J. M. (2017). Factors affecting cognitive function according to gender in community-dwelling elderly individuals. Epidemiology and health, 39, e2017054. https://doi.org/10.4178/epih.e2017054
 3.  Li, W., Wang, T., & Xiao, S. (2016). Type 2 diabetes mellitus might be a risk factor for mild cognitive impairment progressing to Alzheimer's disease. Neuropsychiatric disease and treatment, 12, 2489–2495. https://doi.org/10.2147/NDT.S111298
@@ -122,7 +113,16 @@ Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term fore
 37. Hooge, R.; Hellinckx, T.; Van Laethem, C.; Stegen, S.; De Schepper, J.; Van Aken, S.; Dewolf, D.; Calders, P. (2011). "Influence of combined aerobic and resistance training on metabolic control, cardiovascular fitness and quality of life in adolescents with type 1 diabetes: a randomized controlled trial". Clinical Rehabilitation. 25 (4): 349–359. doi:10.1177/0269215510386254
 38. Cassilhas, R. C., Tufik, S., & de Mello, M. T. (2016). Physical exercise, neuroplasticity, spatial learning and memory. Cellular and molecular life sciences : CMLS, 73(5), 975–983. https://doi.org/10.1007/s00018-015-2102-0
 39. Huang, J., Wang, X., Zhu, Y., Li, Z., Zhu, Y. T., Wu, J. C., Qin, Z. H., Xiang, M., & Lin, F. (2019). Exercise activates lysosomal function in the brain through AMPK-SIRT1-TFEB pathway. CNS neuroscience & therapeutics, 25(6), 796–807. https://doi.org/10.1111/cns.13114
-40. 
+40. Lymphedema Management. (2013). Physiology. https://doi.org/10.1055/b-002-89585
+41. Carmeliet, P. Angiogenesis in health and disease (2003). Nat Med 9, 653–660.
+42. Deanfield JE, Halcox JP, Rabelink TJ. Circulation (2007). 115:1285–1295.
+43. Melo L.G., Gnecchi M., Ward C.A., Dzau V.J. (2007) Vascular Remodeling in Health and Disease. In: Willerson J.T., Wellens H.J.J., Cohn J.N., Holmes D.R. (eds) Cardiovascular Medicine. Springer, London.
+44. Tiidus P. M. (1997). Manual massage and recovery of muscle function following exercise: a literature review. The Journal of orthopaedic and sports physical therapy, 25(2), 107–112. https://doi.org/10.2519/jospt.1997.25.2.107
+45. Wang, F., Gao, Y., Han, Z. et al. A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality. Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01617-6
+46. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
+47. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
+48. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
+49. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
 
 
 
