@@ -43,7 +43,7 @@ Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B
 
 ## [Excercise regularly](#excercice-regularly)
 
-The physically inactive adults between the ages of 25 and 60 experience a gradual decline in both muscle mass and strength [30-31], with a loss rate of 0.5 percent per year [30]. Once a person reaches the age of 60, the rate of muscle loss doubles to approximately 1 percent per year [30]. Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression [31-33], as well as boost self-esteem and sleep quality [34-35]. Whereas anaerobic exercises help increase muscle mass and strength. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity.
+The physically inactive adults between the ages of 25 and 60 experience a gradual decline in both muscle mass and strength <sup>[30-31]</sup>, with a loss rate of 0.5 percent per year <sup>[30]</sup>. Once a person reaches the age of 60, the rate of muscle loss doubles to approximately 1 percent per year <sup>[30]</sup>. Aerobic exercises, including jogging, swimming, cycling, walking, and dancing, along with stretching exercises, have been shown to reduce anxiety and depression <sup>[31-33]</sup>, as well as boost self-esteem and sleep quality <sup>[34-35]</sup>. Whereas anaerobic exercises help increase lean muscle mass and strength [36-37]. Importantly, all three types of physical activity trigger molecular processes, which lead to the formation of new neurons and increased synaptic plasticity [38-39].
 
  
 ## [Prevent blood vessel damage](#prevent-blood-vessel-damage)
@@ -118,10 +118,11 @@ Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term fore
 33. Stonerock, G. L., Hoffman, B. M., Smith, P. J., & Blumenthal, J. A. (2015). Exercise as Treatment for Anxiety: Systematic Review and Analysis. Annals of behavioral medicine : a publication of the Society of Behavioral Medicine, 49(4), 542–556. https://doi.org/10.1007/s12160-014-9685-9
 34. Moreno Reyes, P., Muñoz Gutiérrez, C., Pizarro Mena, R., & Jiménez Torres, S. (2020). Efectos del ejercicio físico sobre la calidad del sueño, insomnio y somnolencia diurna en personas mayores. Revisión de la literatura [Effects of physical exercise on sleep quality, insomnia, and daytime sleepiness in the elderly. A literature review]. Revista espanola de geriatria y gerontologia, 55(1), 42–49. https://doi.org/10.1016/j.regg.2019.07.003
 35. Jak A. J. (2012). The impact of physical and mental activity on cognitive aging. Current topics in behavioral neurosciences, 10, 273–291. https://doi.org/10.1007/7854_2011_141
-
-36. Cassilhas, R. C., Tufik, S., & de Mello, M. T. (2016). Physical exercise, neuroplasticity, spatial learning and memory. Cellular and molecular life sciences : CMLS, 73(5), 975–983. https://doi.org/10.1007/s00018-015-2102-0
-37. Huang, J., Wang, X., Zhu, Y., Li, Z., Zhu, Y. T., Wu, J. C., Qin, Z. H., Xiang, M., & Lin, F. (2019). Exercise activates lysosomal function in the brain through AMPK-SIRT1-TFEB pathway. CNS neuroscience & therapeutics, 25(6), 796–807. https://doi.org/10.1111/cns.13114
-38. 
+36. Aouadi, R.; Khalifa, R.; Aouidet, A.; Ben Mansour, A.; Ben Rayana, M.; Mdini, F.; Bahri, S.; Stratton, G. (2011). "Aerobic training programs and glycemic control in diabetic children in relation to exercise frequency". The Journal of Sports Medicine and Physical Fitness. 51 (3): 393–400
+37. Hooge, R.; Hellinckx, T.; Van Laethem, C.; Stegen, S.; De Schepper, J.; Van Aken, S.; Dewolf, D.; Calders, P. (2011). "Influence of combined aerobic and resistance training on metabolic control, cardiovascular fitness and quality of life in adolescents with type 1 diabetes: a randomized controlled trial". Clinical Rehabilitation. 25 (4): 349–359. doi:10.1177/0269215510386254
+38. Cassilhas, R. C., Tufik, S., & de Mello, M. T. (2016). Physical exercise, neuroplasticity, spatial learning and memory. Cellular and molecular life sciences : CMLS, 73(5), 975–983. https://doi.org/10.1007/s00018-015-2102-0
+39. Huang, J., Wang, X., Zhu, Y., Li, Z., Zhu, Y. T., Wu, J. C., Qin, Z. H., Xiang, M., & Lin, F. (2019). Exercise activates lysosomal function in the brain through AMPK-SIRT1-TFEB pathway. CNS neuroscience & therapeutics, 25(6), 796–807. https://doi.org/10.1111/cns.13114
+40. 
 
 
 
