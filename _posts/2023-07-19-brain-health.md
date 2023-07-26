@@ -16,27 +16,27 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
-Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression [8]. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury [9].
+Although the human brain is the best-protected organ in the human body, the brain’s softness makes it vulnerable to damage from contact with the skull’s interior and compression <sup>[8]</sup>. Thus, even mild traumatic brain injuries increase the risk of cognitive decline or dementia years after the original brain injury <sup>[9]</sup>.
 
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
 
-The biggest cues here are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy [10-11].
+The biggest cues here are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy <sup>[10-11]</sup>.
 
 ### Recommendations
--   Go outside for 10 minutes after you wake up [12].
--   Aim for a minimum of 7 hours of sleep regularly [13]
--   Stop drinking caffeine 4 to 6 hours before bed [14].
--   If you need a nap and you are not sleep deprived, keep it short — the best nap length for adults is about 20 minutes and no longer than 30 minutes - so it doesn't affect your next sleep session [15-16]
--   Avoid bright light 2-3 hours before bedtime [12]
--   Drink 1 or 2 glasses of water 2 hours before bedtime, thus, you will stay hydrated at night and it will not affect your sleep [17-18].
--   Consider trying static stretching exercises before bedtime [19-20].
--   The sleep environment should be as dark as possible [12].
+-   Go outside for 10 minutes after you wake up <sup>[12]</sup>.
+-   Aim for a minimum of 7 hours of sleep regularly <sup>[13]</sup>.
+-   Stop drinking caffeine 4 to 6 hours before bed <sup>[14]</sup>.
+-   If you need a nap and you are not sleep deprived, keep it short — the best nap length for adults is about 20 minutes and no longer than 30 minutes - so it doesn't affect your next sleep session <sup>[15-16]</sup>.
+-   Avoid bright light 2-3 hours before bedtime <sup>[12]</sup>.
+-   Drink 1 or 2 glasses of water 2 hours before bedtime, thus, you will stay hydrated at night and it will not affect your sleep <sup>[17-18]</sup>.
+-   Consider trying static stretching exercises before bedtime <sup>[19-20]</sup>.
+-   The sleep environment should be as dark as possible <sup>[12]</sup>.
   
 
 ## [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 
-Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people [21-26]. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health [27-29]. 
+Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people <sup>[21-26]</sup>. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health <sup>[27-29]</sup>. 
 
 (For more information about evidence-based nutrition patterns, read a separate <a href="https://vagus-nerve.github.io/nutrition-pattern/">article</a> on this topic).
 
