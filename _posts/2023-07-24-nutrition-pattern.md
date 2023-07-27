@@ -27,7 +27,13 @@ Calcium
 | Sweet potato (baked) |              
 | Sweet potato (boiled)|                   
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<iframe 
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?widget=true&amp;headers=false"> 
+  title="Nutritional value"
+  height="200" 
+  width="300"
+</iframe>
 
 -  Eat a bowl of brown rice, which is a source of magnesium and fiber
 -  Eat a bowl of couscous rice, which is a source of Selenium and fiber.
