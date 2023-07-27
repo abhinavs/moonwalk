@@ -11,8 +11,8 @@ Brain health refers to the preservation of brain integrity and cognitive functio
 - [Excercise regularly](#excercice-regularly)
 - [Prevent blood vessel damage](#prevent-blood-vessel-damage)
 - [Stay socially engaged](#stay-socially-engaged)
-- [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 - [Spend more time in the rural areas](#spend-more-time-in-the-rural-areas)
+- [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
 ## [Avoid head injuries](#avoid-head-injuries)
 
@@ -57,19 +57,19 @@ By adulthood, the human body on average contains about 100 000 kilometers of blo
 
 ## [Stay socially engaged](#stay-socially-engaged)
 
-In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality <sup>[45]</sup>.
-
-
-## Follow lifestyle habits for mental health
-
-### Recommendations
--   Get a personal "Not to-do list".
--   Practice a foreign language and/or a programming language.
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress <sup>[45]</sup>. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality <sup>[46]</sup>.
 
 
 ## Spend more time in the rural areas(#spend-more-time-in-the-rural-areas)
 
-Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia <sup>[46-48]</sup>, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol <sup>[46,49]</sup>.
+Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia <sup>[47-49]</sup>, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol <sup>[47,50]</sup>.
+
+
+## Follow lifestyle habits for mental health(#follow-lifestyle-habits-for-mental-health)
+
+## Recommendations
+-   Get a personal "Not to-do list".
+-   Practice a foreign language and/or a programming language.
 
 
 ## References
@@ -118,11 +118,12 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 42. Deanfield JE, Halcox JP, Rabelink TJ. Circulation (2007). 115:1285–1295.
 43. Melo L.G., Gnecchi M., Ward C.A., Dzau V.J. (2007) Vascular Remodeling in Health and Disease. In: Willerson J.T., Wellens H.J.J., Cohn J.N., Holmes D.R. (eds) Cardiovascular Medicine. Springer, London.
 44. Tiidus P. M. (1997). Manual massage and recovery of muscle function following exercise: a literature review. The Journal of orthopaedic and sports physical therapy, 25(2), 107–112. https://doi.org/10.2519/jospt.1997.25.2.107
-45. Wang, F., Gao, Y., Han, Z. et al. A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality. Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01617-6
-46. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
-47. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
-48. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
-49. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
+45. Nelson, L. A., Noonan, C. J., Goldberg, J., & Buchwald, D. S. (2013). Social engagement and physical and cognitive health among American Indian participants in the health and retirement study. Journal of cross-cultural gerontology, 28(4), 453. https://doi.org/10.1007/s10823-013-9213-6
+46. Wang, F., Gao, Y., Han, Z. et al. A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality. Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01617-6
+47. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
+48. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
+49. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
+50. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
 
 
 
