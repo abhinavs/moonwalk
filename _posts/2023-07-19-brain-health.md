@@ -23,7 +23,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 The biggest cues here are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy <sup>[10-11]</sup>.
 
-### Recommendations
+#### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[12]</sup>.
 -   Aim for a minimum of 7 hours of sleep regularly <sup>[13]</sup>.
 -   Stop drinking caffeine 4 to 6 hours before bed <sup>[14]</sup>.
@@ -50,7 +50,7 @@ The physically inactive adults between the ages of 25 and 60 experience a gradua
 
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels <sup>[40]</sup>. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body <sup>[41-43]</sup>.
 
-### Recommendations:
+#### Recommendations:
 -   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term <sup>[44]</sup>.
 -   Control blood pressure and blood sugar on a regular basis.
 
@@ -67,7 +67,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 
 ## [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
-## Recommendations
+#### Recommendations
 -   Get a personal "Not to-do list".
 -   Practice a foreign language and/or a programming language.
 
