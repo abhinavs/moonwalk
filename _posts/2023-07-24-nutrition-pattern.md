@@ -28,6 +28,7 @@ layout: post
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:300px;width:750px;" ></iframe>
 
+Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat
 
 
 ## [Recommendations](recommendations)
