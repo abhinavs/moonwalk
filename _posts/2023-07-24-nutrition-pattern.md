@@ -26,10 +26,7 @@ layout: post
 
 ## [Lunch](#lunch)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false">
-  height="200" 
-  width="1700"
-</iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false"> style="height:200px;width:700px;" ></iframe>
 
 
 
