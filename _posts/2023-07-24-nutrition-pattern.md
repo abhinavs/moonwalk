@@ -32,9 +32,9 @@ Although nuts are high in calories, fibers, and fats, nut consumption is not con
 <iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:235px;width:100%;frameborder:0px" ></iframe>
 Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
 
-|                |                       Nutrients, % daily value*         
-|   Food, 100 g  |  TF  SF  Fiber  P    |  Vitamins                    |Chol|                             Minerals                          |
-|                | A | B2| B3| B5| B6| B7| B9|B12| C | D | E | K |    | Ca|Cl-| Ch| Cu|Fl-| I | Fe| Mg| Mn| Mo| Ni| P | K | Se| Na| Zn| 
+|                                             Nutrients, % daily value*         
+|   Food, 100 g  |  Total Fats  | Satured Fats | Fiber |  Protein  |       Vitamins             |              Minerals                         
+|                |                         | B6 |  C  |  E  |  K  |         | Ca | Fe| Mg | Mn | K | 
 |----------------|--:|--:|--:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| ----------------:|
 | Almonds        | right       |             
 | Hazelnuts      | cent        |          
