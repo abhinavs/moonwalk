@@ -4,7 +4,7 @@ layout: post
 
 ## Contents
 
-- [Nutrient contents of selected foods](nutrient-contents-of-selected-foods)
+- [Nutrient contents of foods](nutrient-contents-of-foods)
 - [Comparison of diets](comparison-of-diets)
 - [Fasting](#fasting)
 - [Food to avoid](#food-to-avoid)
@@ -15,18 +15,27 @@ layout: post
 
 ### Vegetables
 
+-  Broccoli
 
 ### Fruits
 
 
-### Porridge
+### Grains
 
 
 ### Nuts
 
+<iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:225px;width:100%;frameborder:0px" ></iframe>
+Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
+
+
+### Seeds
+
 
 ### Seafood
 
+-  Conserved tuna
+-  Baked salmon
 
 ### Meat
 
@@ -35,15 +44,8 @@ layout: post
 
 
 
--  Baked salmon
--  Conserved tuna
--  Broccoli
--  
+### Beverages
 
-## [Lunch](#lunch)
-
-<iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:225px;width:100%;frameborder:0px" ></iframe>
-Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
 
 
 ## [Recommendations](recommendations)
