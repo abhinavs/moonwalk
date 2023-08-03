@@ -27,6 +27,9 @@ layout: post
 
 <img src="/images/almonds-964x172.jpg" alt="alternatetext" style="width:100%"> 
 
+Although nuts and seeds are high in energy and fats, eating nuts is not connected with weight gain [1].
+Almonds and hazelnuts are the lowest in saturated fat, while walnuts are a vegetarian source of omega-3 fats.
+
 <iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:235px;width:100%;frameborder:0px" ></iframe>
 Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
 
@@ -63,3 +66,5 @@ Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fibe
 -  Milk and other dairy products (exception: low-fat yogurt), which are the number one source of saturated fat.
 -  Red and processed meats
   
+References:
+  1. Nishi SK, Viguiliouk E, Blanco Mejia S, et al. Are fatty nuts a weighty concern? A systematic review and meta‐analysis and dose-response meta‐regression of prospective cohorts and randomized controlled trials. Obes Rev. 2021:e13330. doi:10.1111/obr.13330
