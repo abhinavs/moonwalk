@@ -33,13 +33,13 @@ Although nuts are high in calories, fibers, and fats, nut consumption is not con
 Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
 
 |                                             Nutrients, % daily value*         
-|   Food, 100 g  |  Total Fats  | Satured Fats | Fiber |  Protein  |       Vitamins             |              Minerals                         
-|                |                         | B6 |  C  |  E  |  K  |         | Ca | Fe| Mg | Mn | K | 
-|----------------|--:|--:|--:| -----------:| -----------:| -----------:| -----------:| -----------:| -----------:| ----------------:|
-| Almonds        | right       |             
-| Hazelnuts      | cent        |          
-| Pistachio      |             |          
-| Walnuts        |             |          
+|   Food, 100 g  | Tot. Fat| Sat. Fat|  Fiber  | Protein |   Vitamins   |         Minerals       |                
+|                |                                       | B6 | C  | E  | Ca | Fe | Mg | Mn | K  | 
+| --------------:| -------:| -------:| -------:| -------:| --:| --:| --:| --:| --:| --:| --:| --:|
+| Almonds        |   75%   |   5%    |   49%   |   42%   |    |    | 48%| 26%| 21%| 18%| 27%| 16%|
+| Hazelnuts      |        
+| Pistachio      |         
+| Walnuts        |       
 
 
 ### Seeds
