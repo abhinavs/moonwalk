@@ -29,18 +29,8 @@ layout: post
 
 Although nuts are high in calories, fibers, and fats, nut consumption is not connected with weight gain [1]. On the contrary, including nuts in a diet may actually help with weight control [1]. Almonds and hazelnuts are the lowest in saturated fat, while walnuts are a good source of omega-3 fats.
 
-<iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:235px;width:100%;frameborder:0px" ></iframe>
+<iframe allowtransparency="true" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=2112263921&amp;single=true&amp;widget=true&amp;headers=false" style="height:232px;width:100%;frameborder:0px" ></iframe>
 Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fiber; SF = saturated fat; P- protein
-
-|                                     Nutrients, % daily value*                                  |  
-|   Food, 100 g  | Tot. Fat| Sat. Fat|  Fiber  | Protein |   Vitamins   |         Minerals       |                
-|                |                                       | B6 | C  | E  | Ca | Fe | Mg | Mn | K  | 
-| --------------:| -------:| -------:| -------:| -------:| --:| --:| --:| --:| --:| --:| --:| --:|
-| Almonds        |   75%   |   5%    |   49%   |   42%   |    |    | 48%| 26%| 21%| 18%| 27%| 16%|
-| Hazelnuts      |        
-| Pistachio      |         
-| Walnuts        |       
-
 
 ### Seeds
 
