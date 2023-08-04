@@ -34,6 +34,8 @@ Daily values are based on a 2,000 calorie diet. Abbreviations: DF = dietary fibe
 
 ### Seeds
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=448240991&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 ### Seafood
 
