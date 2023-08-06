@@ -38,12 +38,10 @@ Although nuts are high in calories, fibers, and fats, nut consumption is not con
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=448240991&amp;single=true&amp;widget=true&amp;headers=false" style="height:266px;width:100%;frameborder:0px;transparency=true" ></iframe>
 
 
-
-
 ### Seafood
 
--  Conserved tuna
--  Baked salmon
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQBPRIgtkht6gWdVDhJESPsngZ20JCD20vzts7qe_1sGdpDb_UUdXzUfFjLb27DO_1Onxgp6kmeLY-B/pubhtml?gid=611338981&amp;single=true&amp;widget=true&amp;headers=false" style="height:266px;width:100%;frameborder:0px;transparency=true" ></iframe>
+
 
 ### Meat
 
