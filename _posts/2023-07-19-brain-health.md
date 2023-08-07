@@ -21,13 +21,13 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
 
-The biggest cues here are light and noise. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy <sup>[10-11]</sup>.
+Circadian rhythm is the internally driven body’s changes that regulate the brain's cycles of alertness and sleepiness, following approximately a 24-hour cycle. Within the circadian cycle, there are two peak periods for sleepiness. The first peak period is during the night, and the second one typically falls in the early afternoon. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy <sup>[10-11]</sup>. That is why the biggest cues for good sleep hygiene are light and noise.
 
 #### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[12]</sup>.
 -   Aim for a minimum of 7 hours of sleep regularly <sup>[13]</sup>.
 -   Stop drinking caffeine 4 to 6 hours before bed <sup>[14]</sup>.
--   If you need a nap and you are not sleep deprived, keep it short — the best nap length for adults is about 20 minutes and no longer than 30 minutes - so it doesn't affect your next sleep session <sup>[15-16]</sup>.
+-   If you need a nap and you are not sleep deprived, keep it short - about 20 minutes, but no longer than 30 minutes - eight or more hours before bedtime, so it doesn't affect your next sleep session <sup>[15-16]</sup>.
 -   Avoid bright light 2-3 hours before bedtime <sup>[12]</sup>.
 -   Drink 1 or 2 glasses of water 2 hours before bedtime, thus, you will stay hydrated at night and it will not affect your sleep <sup>[17-18]</sup>.
 -   Consider trying static stretching exercises before bedtime <sup>[19-20]</sup>.
