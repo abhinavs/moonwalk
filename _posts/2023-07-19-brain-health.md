@@ -32,7 +32,7 @@ Circadian rhythm is driven by the neurons of the suprachiasmatic nucleus of the 
 -   Avoid bright light 2-3 hours before bedtime <sup>[13]</sup>.
 -   Drink 1 or 2 glasses of water 2 hours before bedtime, thus, you will stay hydrated at night and it will not affect your sleep <sup>[17-18]</sup>.
 -   Consider trying static stretching exercises before bedtime <sup>[20-21]</sup>.
--   The best time for most people to fall asleep is between 10 and 11 p.m. [22].
+-   The best time for most people to fall asleep is between 10 and 11 p.m. <sup>[22]</sup>.
 -   The sleep environment should be as dark as possible <sup>[13]</sup>.
 
   
