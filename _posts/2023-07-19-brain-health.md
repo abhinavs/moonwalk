@@ -21,7 +21,9 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 ## [Improve your sleep hygiene](#improve-your-sleep-hygiene)
 
-Circadian rhythm is the internally driven body’s changes that regulate the brain's cycles of alertness and sleepiness, following approximately a 24-hour cycle. Within the circadian cycle, there are two peak periods for sleepiness. The first peak period is during the night, and the second one typically falls in the early afternoon. Our body is naturally programmed to sleep in darkness and silence, whereas to stay awake when it's bright and noisy <sup>[10-11]</sup>. That is why the biggest cues for good sleep hygiene are light and noise.
+
+
+Circadian rhythm is driven by the neurons of the suprachiasmatic nucleus of the hypothalamus brain's changes  that synchronize the body's cycles of alertness and sleepiness to the external 24-hour light-dark cycle [10]. These physiological processes respond primarily to light and dark <sup>[10]</sup>. Within the circadian cycle, there are two peak periods for sleepiness. The first peak period is during the night (between 2 a.m. and 4 a.m.), and the second one typically falls in the early afternoon (between 1 p.m. and 3 p.m.) [11]. 
 
 #### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[12]</sup>.
@@ -31,8 +33,10 @@ Circadian rhythm is the internally driven body’s changes that regulate the bra
 -   Avoid bright light 2-3 hours before bedtime <sup>[12]</sup>.
 -   Drink 1 or 2 glasses of water 2 hours before bedtime, thus, you will stay hydrated at night and it will not affect your sleep <sup>[17-18]</sup>.
 -   Consider trying static stretching exercises before bedtime <sup>[19-20]</sup>.
+-   The best time for most people to fall asleep is between 10 and 11 p.m.
 -   The sleep environment should be as dark as possible <sup>[12]</sup>.
   
+Shahram Nikbakhtian and others, Accelerometer-derived sleep onset timing and cardiovascular disease incidence: a UK Biobank cohort study, European Heart Journal - Digital Health, Volume 2, Issue 4, December 2021, Pages 658–666, https://doi.org/10.1093/ehjdh/ztab088
 
 ## [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 
