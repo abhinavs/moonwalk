@@ -23,6 +23,7 @@ Although the human brain is the best-protected organ in the human body, the brai
 
 The suprachiasmatic nucleus (SCN) of the hypothalamus is a bilateral structure containing 20,000 neurons that generate circadian rhythms, i.e. synchronizes the mammalian body's cycles of alertness and sleepiness to the external 24-hour light-dark cycle <sup>[10-11]</sup>. If these neurons are weakly coupled, the circadian rhythm of the SCN is lost or weakened. And vice versa, the synchronization between neurons is enhanced, if the neurons are strongly coupled. Circadian rhythms rely upon circadian time cues (zeitgebers), such as light, eating, or drinking patterns, to remain appropriately oriented to the individual's environment and desired routine. Melatonin secretion serves also as a zeitgeber and promotes sleep anticipation in the brain default mode network. The daily rhythm of plasma melatonin concentrations peaks in the middle of the night, between 2 and 4 a.m., and gradually falls during the second half of the night <sup>[12]</sup>.
 
+<img src="/images/biological-clock.png" alt="alternatetext" style="width:100%"> 
 
 #### Recommendations
 -   Go outside for 10 minutes after you wake up <sup>[13]</sup>.
