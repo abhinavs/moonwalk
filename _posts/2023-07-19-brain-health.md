@@ -73,9 +73,9 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 -   Get a personal "Not to-do list".
 -   Practice a foreign or a programming language.
 
-<p hidden>## References</p>
- 
-
+<details>
+  <summary>## References</summary>
+  
   1.  Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683
   2.  Kim, M., & Park, J. M. (2017). Factors affecting cognitive function according to gender in community-dwelling elderly individuals. Epidemiology and health, 39, e2017054. https://doi.org/10.4178/epih.e2017054
   3.  Li, W., Wang, T., & Xiao, S. (2016). Type 2 diabetes mellitus might be a risk factor for mild cognitive impairment progressing to Alzheimer's disease. Neuropsychiatric disease and treatment, 12, 2489–2495. https://doi.org/10.2147/NDT.S111298
@@ -129,7 +129,6 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
   51. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
   52. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
   53. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
-
-
+</details>
 
 
