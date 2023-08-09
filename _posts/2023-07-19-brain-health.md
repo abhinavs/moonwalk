@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Brain health refers to the preservation of brain integrity and cognitive function <sup>[1]</sup>. Because brain health does not depend on a single factor <sup>[2-7]</sup>, the multi-model approach to maintaining brain health is proposed. 
+<strong>Brain health refers to the preservation of brain integrity and cognitive function <sup>[1]</sup>. Because brain health does not depend on a single factor <sup>[2-7]</sup>, the multi-model approach to maintaining brain health is proposed</strong>. 
 
 ## Contents
 - [Avoid head injuries](#avoid-head-injuries)
