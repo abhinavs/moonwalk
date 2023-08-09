@@ -1,10 +1,6 @@
 ---
 layout: post
 ---
-.drop-cap::first-letter {
-  -webkit-initial-letter: 2;
-          initial-letter: 2;
-          
 <p style="font-weight: 500"> Brain health refers to the preservation of brain integrity and cognitive function <sup>[1]</sup>. Because brain health does not depend on a single factor <sup>[2-7]</sup>, the multi-model approach to maintaining brain health is proposed.</p>
 
 ## Contents
@@ -77,7 +73,7 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 -   Practice a foreign or a programming language.
 
 <details>
-  <summary <h3> References </h3></summary>
+  <summary style="font-size:24px;font-style:bold" References></summary>
 
   
   1.  Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683
