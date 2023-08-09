@@ -73,8 +73,8 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
 -   Get a personal "Not to-do list".
 -   Practice a foreign or a programming language.
 
-
-## References 
+<p hidden>## References</p>
+ 
 
   1.  Wang Y, Pan Y, Li H. What is brain health and why is it important? BMJ 2020; 371 :m3683 doi:10.1136/bmj.m3683
   2.  Kim, M., & Park, J. M. (2017). Factors affecting cognitive function according to gender in community-dwelling elderly individuals. Epidemiology and health, 39, e2017054. https://doi.org/10.4178/epih.e2017054
