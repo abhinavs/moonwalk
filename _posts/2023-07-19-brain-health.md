@@ -40,9 +40,7 @@ The suprachiasmatic nucleus (SCN) of the hypothalamus is a bilateral structure c
   
 ## [Follow a plant-rich diet](#follow-a-plant-rich-diet)
 
-Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people <sup>[23-28]</sup>. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health <sup>[29-31]</sup>. 
-
-(For more information about evidence-based nutrition patterns, read a separate <a href="https://vagus-nerve.github.io/nutrition-pattern/">article</a> on this topic).
+Specific nutrients in food - such as omega-3 fatty acids, flavonoids, vitamins B, D, and E, and choline - have been associated with improved cognitive function in older people <sup>[23-28]</sup>. DASH, Mediterranean, and MIND diets are examples of dietary patterns that are rich in these nutrients and have repeatedly shown positive effects on health <sup>[29-31]</sup>. (For more information about evidence-based nutrition patterns, read a separate <a href="https://vagus-nerve.github.io/nutrition-pattern/">article</a> on this topic).
 
 
 ## [Excercise regularly](#excercice-regularly)
@@ -55,25 +53,25 @@ The physically inactive adults between the ages of 25 and 60 experience a gradua
 By adulthood, the human body on average contains about 100 000 kilometers of blood vessels <sup>[42]</sup>. The overall condition of these blood vessels is critical not only for maintaining heart health but also for maintaining the viability of any other organ in the human body <sup>[43-45]</sup>.
 
 #### Recommendations:
--   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term <sup>[46]</sup>.
+-   Try massage therapy - it can have a beneficial impact on circulation - at least in the short-term <sup>[46-47]</sup>.
 -   Control blood pressure and blood sugar on a regular basis.
 
 
 ## [Stay socially engaged](#stay-socially-engaged)
 
-In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress <sup>[47]</sup>. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality <sup>[48]</sup>.
+In terms of effects on the brain, building social networks and participating in social activities are similar to physical exercise, because they lead to the formation of new neural connections, stimulate attention and memory, in conjunction with helping ward off depression and stress <sup>[48]</sup>. On the contrary, both social isolation and loneliness are significantly associated with an increased risk of all-cause mortality <sup>[49]</sup>.
 
 
 ## [Spend more time in the rural areas](#spend-more-time-in-the-rural-areas)
 
-Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia <sup>[49-51]</sup>, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol <sup>[49,52]</sup>.
+Living in a rural area has a list of benefits. For example, compared to urban areas, it is associated with a lower risk for mental disorders such as anxiety disorders, depression, and schizophrenia <sup>[50-52]</sup>, along with decreased levels of heart rate, blood pressure, and the stress-related hormone cortisol <sup>[50,53]</sup>.
 
 
 ## [Follow lifestyle habits for mental health](#follow-lifestyle-habits-for-mental-health)
 
 #### Recommendations
 -   Get a personal "Not to-do list".
--   Practice a foreign language and/or a programming language.
+-   Practice a foreign or a programming language.
 
 
 ## References 
@@ -124,12 +122,13 @@ Living in a rural area has a list of benefits. For example, compared to urban ar
   44. Deanfield JE, Halcox JP, Rabelink TJ. Circulation (2007). 115:1285–1295.
   45. Melo L.G., Gnecchi M., Ward C.A., Dzau V.J. (2007) Vascular Remodeling in Health and Disease. In: Willerson J.T., Wellens H.J.J., Cohn J.N., Holmes D.R. (eds) Cardiovascular Medicine. Springer, London.
   46. Tiidus P. M. (1997). Manual massage and recovery of muscle function following exercise: a literature review. The Journal of orthopaedic and sports physical therapy, 25(2), 107–112. https://doi.org/10.2519/jospt.1997.25.2.107
-  47. Nelson, L. A., Noonan, C. J., Goldberg, J., & Buchwald, D. S. (2013). Social engagement and physical and cognitive health among American Indian participants in the health and retirement study. Journal of cross-cultural gerontology, 28(4), 453. https://doi.org/10.1007/s10823-013-9213-6
-  48. Wang, F., Gao, Y., Han, Z. et al. A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality. Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01617-6
-  49. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
-  50. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
-  51. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
-  52. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
+  47. Fazeli, M. S., Pourrahmat, M. M., Liu, M., Guan, L., & Collet, J. P. (2016). The Effect of Head Massage on the Regulation of the Cardiac Autonomic Nervous System: A Pilot Randomized Crossover Trial. Journal of alternative and complementary medicine (New York, N.Y.), 22(1), 75–80. https://doi.org/10.1089/acm.2015.0141
+  48. Nelson, L. A., Noonan, C. J., Goldberg, J., & Buchwald, D. S. (2013). Social engagement and physical and cognitive health among American Indian participants in the health and retirement study. Journal of cross-cultural gerontology, 28(4), 453. https://doi.org/10.1007/s10823-013-9213-6
+  49. Wang, F., Gao, Y., Han, Z. et al. A systematic review and meta-analysis of 90 cohort studies of social isolation, loneliness and mortality. Nat Hum Behav (2023). https://doi.org/10.1038/s41562-023-01617-6
+  50. Park B-J, Tsunetsugu Y, Kasetani T, Hirano H, Kagawa T, Sato M, et al. Physiological effects of shinrin-yoku (taking in the atmosphere of the forest)—using salivary cortisol and cerebral activity as indicators—. J Physiol Anthropol. 2007;26:123–8.
+  51. Tost H, Reichert M, Braun U, Reinhard I, Peters R, Lautenbach S, et al. Neural correlates of individual differences in affective benefit of real-life urban green space exposure. Nat Neurosci. 2019;22:1389–93.
+  52. Oh B, Lee KJ, Zaslawski C, Yeung A, Rosenthal D, Larkey L, et al. Health and well-being benefits of spending time in forests: systematic review. Environ Health Prev Med. 2017;22:71.
+  53. Mao GX, Lan XG, Cao YB, Chen ZM, He ZH, Lv YD, et al. Effects of short-term forest bathing on human health in a broad-leaved evergreen forest in Zhejiang Province, China. Biomed Environ Sci. 2012;25:317–24].
 
 
 
