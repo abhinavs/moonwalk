@@ -37,8 +37,14 @@ li { margin: 0.4em 0; }
   padding: 4em 2em;
 }
 
-table, th, td {
+table {
   width: 100%;
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4em;
+}
+
+th, td{
   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4em;
