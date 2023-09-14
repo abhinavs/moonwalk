@@ -12,9 +12,9 @@ navbar_entries:
     url: milestones
 
 project_entries:
-  - title: Study the types of neural cell in tumor microenvironment through deconvolution methods, decoding information from bulk RNA-seq data
-    #url:
-    desc: This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate BGM bulk RNA-seq samples and a variety of brain metastasis samples to analysis types of neural cell and its profiles in tumor microenvironment.
+  - title: Benchmarking study deconvolution methods in GBM to deplore neural-tumor interaction
+    url:https://github.com/ZhouYing0818/Deconv_in_GBM
+    desc: This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate BGM bulk RNA-seq samples to analysis types of neural cell and its profiles in tumor microenvironment.
     highlight: Preparing to start
   #- title: Project 2
     #url: overview-post
