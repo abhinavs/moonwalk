@@ -10,7 +10,7 @@ title: About me
              <img src="https://raw.githubusercontent.com/CyC2018/Markdown-Resume/7438472644daad5dbb6a7578643a6f37bfc82639/assets/envelope-solid.svg" width="20px">
              zhouying_ch@qq.com
          </span>
-         
+
          <span style="float: left; width: 200px">
              <img src="https://raw.githubusercontent.com/CyC2018/Markdown-Resume/7438472644daad5dbb6a7578643a6f37bfc82639/assets/github-brands.svg" width="20px">
              <a href="https://github.com/ZhouYing0818">ZhouYing0818</a>
@@ -22,7 +22,7 @@ title: About me
          </span>
      </div>
  </center>
- 
+
 <hr width="100%" color="#483D8B">
 ### Brief Introduction
 
@@ -39,15 +39,19 @@ title: About me
 ### Research Projects
 
 * **Study the types of neural cell in tumor microenvironment through deconvolution methods, decoding information from bulk RNA-seq data**
-	> This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate BGM bulk RNA-seq samples and a variety of brain metastasis samples to analysis types of neural cell and its profiles in tumor microenvironment.
-
+	
+	> This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate GBM bulk RNA-seq samples and a variety of brain metastasis samples to analysis types of neural cell and its profiles in tumor microenvironment.
+	
 * **Improving variant prioritization in exome analysis by entropy-weighted ensemble of multiple tools**
+	
 	> This project evaluated the efficacy of variant prioritization tools, such as Exomiser, Xrare, and DeepPVP, in a large rare disease cohort with heterogeneous phenotypic information and used an entropy-weighted ensemble of multiple tools to improve variant prioritization and accelerate molecular diagnosis in exome/genome sequencing.
-
+	
 * **Sncg, Mybpc1, and Parm1 Classify subpopulations of VIP-expressing interneurons in layers 2/3 of the somatosensory cortex**
+	
 	> This project identifies distinct subpopulations of neocortical VIP+ interneurons in mouse somatosensory cortex based on their morpho-electrophysiological properties and molecular markers, which provides a foundation for future research investigating their physiological functions.
-
+	
 * **Effects of Cell Cycle and migration on Cortical Folding During Brain Development in ferret**
+	
 	> To study how stem cell activity affects cortical folding during development, we used antibodies to mark different types of stem cells, analyzed their differentiation, estimated cell division by injecting Brdu at specific times, and tracked stem cell movement using virus injections.
 
 ### Wroking Experiences
