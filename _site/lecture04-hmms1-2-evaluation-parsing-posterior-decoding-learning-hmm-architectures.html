@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Lecture04 hmms12 evaluation, parsing, posterior decoding, learning, hmm architectures" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：" />
+<meta property="og:description" content="HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：" />
+<link rel="canonical" href="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" />
+<meta property="og:url" content="http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-01-14T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures" />
+<meta property="twitter:title" content="Lecture04 hmms12 evaluation, parsing, posterior decoding, learning, hmm architectures" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures","headline":"Lecture04 hmms12 evaluation, parsing, posterior decoding, learning, hmm architectures","dateModified":"2023-01-14T00:00:00+08:00","datePublished":"2023-01-14T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"HMM basic, evaluation, parsing, posterior decoding Observation, Models, Bayes’ rule, Bayesian inference 通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率 该模型构建的目的就是通过P(observation|season) 推断P(season|observation) 可以通过Bayes’ Rule计算得：","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/lecture04-hmms1-2-evaluation-parsing-posterior-decoding-learning-hmm-architectures"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">Lecture04 hmms1_2_ evaluation, parsing, posterior decoding, learning, hmm architectures</h1>
+<p class="post-date text-bold">
+  
+    <span class="text-upcase">zying</span> / 
+  
+  
+    <span class="text-upcase">January 2023</span>
+  
+
+
+  
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">Lectures</span>
+    
+    <span class="tag">ML_in_genomics</span>
+    
+  </div>
+
+
+<h2 id="hmm-basic-evaluation-parsing-posterior-decoding">HMM basic, evaluation, parsing, posterior decoding</h2>
+<h3 id="observation-models-bayes-rule-bayesian-inference">Observation, Models, Bayes’ rule, Bayesian inference</h3>
+<p><img src="images/image_3.png" alt="image.png" />
+通过观测每天天气推断所处季节时，observations指的是能够直接观测获取到的数据（每天的天气），可以推断处于某个季节观测到某种天气的概率
+该模型构建的目的就是通过P(observation|season) 推断P(season|observation)
+可以通过Bayes’ Rule计算得：</p>
+
+<h3><img src="images/image_4.png" alt="image.png" /></h3>
+<h3 id="markov-chains-and-hidden-markov-models">Markov Chains and Hidden Markov Models</h3>
+
+<ul>
+  <li>马尔可夫链主要特点是无记忆性，同HMM差别在于所有状态均可以被观测到，不存在隐藏状态</li>
+  <li>HMM存在隐藏状态，可以通过observation推断隐藏状态</li>
+  <li>通过HMM detecting GC-rich regions</li>
+  <li>HMMs在基因组注释方面有广泛应用：</li>
+</ul>
+
+<p><img src="images/image_5.png" alt="image.png" /></p>
+<h3 id="calculating-joint-probability-of-one-seq-parse-px-pi">Calculating joint probability of one (seq, parse) P(x, $\pi$)</h3>
+<p><img src="images/image_6.png" alt="image.png" /></p>
+
+<ul>
+  <li>计算某一条路径的联合概率</li>
+  <li>以全是P，全是B，部分为P序列为例说明</li>
+  <li>Joined prob. : $P(X,\pi)=P(X|\pi)P(\pi)=P(emissions|path)\times P(path)$
+    <h3 id="viterbi-algorithm-choosing-optimal-path">Viterbi algorithm (choosing optimal path)</h3>
+  </li>
+  <li>类似DP的方法，根据给定状态序列$\pi^*$寻找具有最大total joint prob. 的最优路径$P[X,\pi]$</li>
+</ul>
+
+<p><img src="images/image_7.png" alt="image.png" /></p>
+
+<ul>
+  <li>定义$V_k(i)=$Prob. of most likely path through state $!\pi_i=k$
+    <h3 id="forawrd-algorithm">Forawrd algorithm</h3>
+  </li>
+</ul>
+
+<h3 id="posterior-decoding">Posterior Decoding</h3>
+<h2 id="increasing-the-state-spaceadding-memory">Increasing the ‘state’ space/adding memory</h2>
+<h3 id="finding-gc-rich-regions-vs-finding-cpg-islands">Finding GC-rich regions vs. finding CpG islands</h3>
+
+<h3 id="gene-structures-genscan-chromatin-chromhmm">Gene structures GENSCAN, chromatin ChromHMM</h3>
+
+<h2 id="learning-ml-training-baum-welch-viterbi-training">Learning (ML training, Baum-Welch, Viterbi training)</h2>
+<h3 id="supervised">Supervised</h3>
+
+<h3 id="unsupervised">Unsupervised</h3>
+<h2 id="conditional-random-fields-crfs--dependencies">Conditional Random Fields (CRFs) &amp; dependencies</h2>
+
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>

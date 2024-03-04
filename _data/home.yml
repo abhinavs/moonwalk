@@ -1,39 +1,43 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
+    
+  - title: Booklist and Interests
+    url: Booklist and interests
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Milestones
+    url: milestones
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Benchmarking study deconvolution methods in GBM to deplore neural-tumor interaction
+    url: https://github.com/ZhouYing0818/Deconv_in_GBM
+    desc: This project prepare for using several sets of scRNA-seq or snRNA-seq data across different brain region to evaluate the impact of annotation data on deconvolution. The optimized annotation input strategy will be used to calculate BGM bulk RNA-seq samples to analysis types of neural cell and its profiles in tumor microenvironment.
+    highlight: Preparing to start
+  #- title: Project 2
+    #url: overview-post
+    #desc: Projects are shown in card layout
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  #- title: Project 3
+    #url: overview-post
+    #desc: You can control visibility from _config.yml file
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Entropy Weight Ensemble in variants auto-interpretation
+    url: https://github.com/ZhouYing0818/Entropy_Weight_Ensemble
+    desc: This project integrated the results from Xrare, Examiner, and deepPVP, utilizing entropy-weighted method, to devise an improved analysis approach utilizing actual clinical data to semi-automatically ranking genetic mutations for a broad spectrum of disorders. The objective is to expedite the molecular diagnosis in genome/exome sequencing.
+    highlight: Finished
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Cleaning clinical raw data
+    url: https://github.com/ZhouYing0818/xinhua_berry_report_extraction
+    desc: Some scripts about extract information from sever and a vast array of pdf or word files
+    highlight: Modular
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Interneuron E-type classification
+    url: https://github.com/ZhouYing0818/interneuron-e-type-
+    desc: The first bioinformatics project, bad organization scripts
+    highlight: Refactoring
 
 old_project_entries:
   - title: Soopr
@@ -54,17 +58,74 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: zying's homepage
+    url: https://zhouying0818.github.io/zying_blog.github.io
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/ZhouYing0818
 
   - title: feed
     url: feed.xml
+
+gallery_entries:
+  - title: 哈尔滨-漠河之旅
+    url: https://mp.weixin.qq.com/s/I1nGvVEp-ibqAPmmzkDulA
+    img_url: images/mo-river.jpg
+    desc: 完成心念了很久的漠河之旅，成功打开中国最北，泼水成冰加上后期的调色效果太震撼了
+    highlight: New
+
+  - title: 长白山滑雪
+    url: https://mp.weixin.qq.com/s/9iQJur7yu5G5EFHIVY7fig
+    img_url: images/09470b687o924bc90bfb5ae84782ef9c.jpg
+    desc: 疫情解封之后的第一次旅行，滑雪没想象的难，除了被人从后边撞了一下摔了，自己滑完全没摔，感觉很棒
+    highlight: New
+
+  - title: 日本之行
+    url: https://mp.weixin.qq.com/s/goK5TmvvhVLBhQcdXJdeEA
+    img_url: images/japan_dear.jpg
+    desc: 本科毕业旅行, 第一次出国
+    #highlight: WIP
+
+  - title: 嵊泗跳岛游-徒步，露营
+    url: https://mp.weixin.qq.com/s/IQJ7aAXD4HRxp_MYuWhGkA
+    img_url: images/20230501045309.jpg
+    desc: 体验感最强，最累，钱花的最少的一次旅行
+
+  - title: 柏林之行
+    url: https://mp.weixin.qq.com/s/kW_cJ7asu1R-Oputg2utyQ
+    img_url: images/272f5372cf00ee3b0c1eca8696d3a69e.jpg
+    desc: 攻略做的最详细的一次，玩的很满足
+
+  - title: 郴州行
+    url: https://mp.weixin.qq.com/s/xMb62D5FgBhf0LBnY9mguQ
+    img_url: images/chenzhou.jpg
+    desc: 郴州体验什么叫网红景点，还好莽山还可以
+    #highlight:
+
+  - title: 大围山的星空
+    url: https://mp.weixin.qq.com/s/nUO9xlAwKbWr1EHVNTlVOw
+    img_url: images/daweishan.jpg
+    desc: 上山那天大雾，本以为无望看到星空，没想到午夜雾散，第一次拍到星轨和流星，碰巧当天生日，非常棒的生日礼物
+
+  - title: 苏杭，乌镇，周庄一路玩回家
+    url: https://mp.weixin.qq.com/s/3dDbQ4CTnIZsOlpQsGMvtA
+    img_url: images/20230501050115.jpg
+    desc: 旅行时间最长的一次旅行，在周庄外的白蚬湖，拍到了至今为止，拍到过的最美日落
+
+  - title: 泰山-长岛游
+    url: https://mp.weixin.qq.com/s/9CocHC-Qhr7CfDw8BEsHnQ
+    img_url: images/20230501050621.jpg
+    desc: 第一次知道生蚝能够如此便宜，感受到渔民的淳朴实在, 也被师姐的体力和恢复力震撼到了
+
+  - title: 体验台风，搞笑的“赶海”
+    url: https://mp.weixin.qq.com/s/48pe8EjHSf6Kzs43871AQw
+    img_url: images/20230501050438.jpg
+    desc: 赶在台风登陆在外面吃火锅，体验了台风的强悍，吹坏了两把伞，离谱的“赶海”，满载而归的出海打鱼
+
+  - title: 浅游成都
+    url: https://mp.weixin.qq.com/s/z3UfO2sdQfxS-KlcPZjwfw
+    img_url: images/chengdu.jpg
+    desc: 趁着开会顺便游了成都，时间比较短，也没做攻略就跟着玩，似乎是吃也吃了个“假成都”，以后有机会一定要再去好好深度游，四姑娘山都念了好多年了
 
 misc_entries:
   - title: this is an example vertical list

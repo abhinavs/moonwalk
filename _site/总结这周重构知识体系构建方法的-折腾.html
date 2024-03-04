@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en" class="html" data-theme="dark"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <script> 
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']],
+      processEscapes: true
+    }
+  };
+  </script>
+
+  <title>
+    
+      总结这周重构知识体系构建方法的“折腾”
+    
+  </title>
+
+  <!-- Begin Jekyll SEO tag v2.7.3 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="总结这周重构知识体系构建方法的“折腾”" />
+<meta name="author" content="zying" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Table of contents zotero配置 obsidian配置" />
+<meta property="og:description" content="Table of contents zotero配置 obsidian配置" />
+<link rel="canonical" href="http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE" />
+<meta property="og:url" content="http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE" />
+<meta property="og:site_name" content="Boundless" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-05-12T00:00:00+08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:image" content="https://soopr.xyz/images/card?url=http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE" />
+<meta property="twitter:title" content="总结这周重构知识体系构建方法的“折腾”" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE","headline":"总结这周重构知识体系构建方法的“折腾”","dateModified":"2023-05-12T00:00:00+08:00","datePublished":"2023-05-12T00:00:00+08:00","@type":"BlogPosting","author":{"@type":"Person","name":"zying"},"description":"Table of contents zotero配置 obsidian配置","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/%E6%80%BB%E7%BB%93%E8%BF%99%E5%91%A8%E9%87%8D%E6%9E%84%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%9E%84%E5%BB%BA%E6%96%B9%E6%B3%95%E7%9A%84-%E6%8A%98%E8%85%BE"},"@context":"https://schema.org"}</script>
+<script async defer data-soopr-token="" src="https://sdk.soopr.co/soopr.js"  ></script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Boundless" />
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/images/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+  <!-- Favicon -->
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  
+    <script type="text/javascript">
+  window.addEventListener('load', themeChange);
+  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+  if (currentTheme)
+    document.documentElement.setAttribute('data-theme', currentTheme);
+
+  function themeChange() {
+    let button = document.querySelector('.theme-toggle');
+
+    button.addEventListener('click', function (e) {
+      let currentTheme = document.documentElement.getAttribute('data-theme');
+      if (currentTheme === 'dark') {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        transition();
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+    });
+
+    let transition = () => {
+      document.documentElement.classList.add('transition');
+      window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+      }, 1000);
+    }
+  }
+</script>
+
+
+  
+</head>
+<body>
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/">home..</a>
+<h1 class="post-title">总结这周重构知识体系构建方法的“折腾”</h1>
+<p class="post-date text-bold">
+  
+  
+    <span class="text-upcase">May 2023</span>
+  
+
+
+  
+  
+  (26 Words, 
+  1 Minutes)
+  
+
+</p>
+
+<div class="soopr-btn"
+   data-twitter="SooprCo"
+>
+</div>
+
+
+  <div class="">
+    
+    <span class="tag">technologies</span>
+    
+    <span class="tag">learning</span>
+    
+  </div>
+
+
+<h2 id="table-of-contents">Table of contents</h2>
+<ul>
+  <li><a href="#zotero配置">zotero配置</a></li>
+  <li><a href="#obsidian配置">obsidian配置</a></li>
+</ul>
+
+<p>这周源于在B站上刷到一个zotero的插件视频，加之五一期间倒腾完blog就想要在开题之前一遍优化下自己现有的工作/学习流，于是开启了zotero, obsidian, jupyterf重新配置，给自己构建了一个新的学习笔记模式，为避免日后换设备，或者其他情况需要重新配置花时间回忆，写这篇文章把用到的插件，教程资源，加之目前的配置和使用情况记录于此。</p>
+
+<h2 id="zotero配置"><a href="#zotero配置">zotero配置</a></h2>
+
+<h2 id="zotero所使用插件及资源">zotero所使用插件及资源</h2>
+
+<ul>
+  <li>Tara: 备份插件</li>
+  <li><a href="https://github.com/018/zotcard">ZotCard</a>: 做一些碎片化的笔记非常方便</li>
+  <li><a href="https://github.com/windingwind/zotero-better-notes#readme">Zotero Better Notes</a>: 笔记神器，特别是笔记链接功能，且有非常多模板可以学习</li>
+  <li><a href="https://github.com/ethanwillis/zotero-scihub">Sci-Hub Plugin for Zotero </a>: 文献下载神器，结合connector插件，在Google浏览器上可以直接将打开的pubMed文献界面文献元数据抓到zotero，然后从sci-hub抓取原文</li>
+  <li><a href="https://github.com/muisedestiny/zotero-reference#readme">Zotero Reference</a>: 装了sci-hub插件之后，用这个插件可以直接抓取在读文献的参考文献原文</li>
+  <li><a href="https://github.com/windingwind/zotero-pdf-translate#readme">Zotero PDF Translate</a>: 当选取文献文本时翻译选取内容，并且可以设置插入笔记的内容自带翻译，快速浏览文章的时候非常方便</li>
+  <li><a href="https://github.com/muisedestiny/zotero-style#readme">Zotero Style</a>: 个人非常喜欢这款插件，让文献阅读变得有趣</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/Dominic-DallOsto/zotero-reading-list">Reading List for Zotero</a>: 标记文章阅读状态，跟style的功能有重叠</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://retorque.re/zotero-better-bibtex/">Better BibTex for Zotero</a>: 这个插件没探索，主要是为了跟zotero联动装的</li>
+</ul>
+
+<h2 id="这些工具相关资源">这些工具相关资源</h2>
+<ul>
+  <li>ZotCard 和 Zotero better notes
+    <ul>
+      <li><a href="https://zotero.yuque.com/staff-gkhviy/better-notes/biigg4?">官方中文教程</a></li>
+      <li><a href="https://www.bilibili.com/video/BV1Fg411H7ZH/?vd_source=6484613d0fb2e9fedd3003eb36c6e0c6">B站zotero better notes教程</a></li>
+      <li><a href="https://www.bilibili.com/video/BV1mW4y1u7jA/?spm_id_from=333.788.recommend_more_video.0&amp;vd_source=6484613d0fb2e9fedd3003eb36c6e0c6">B站zotreo和Zotcard连用</a></li>
+    </ul>
+  </li>
+  <li>Zotero Style
+    <ul>
+      <li><a href="https://www.notion.so/Zotero-Style-bc2aebbbb6df4b7baa858e376e4fc5be">官方教程</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="配置">配置</h2>
+<p>这里说的只是我个人配置，可以根据自己需求进行配置。大部分不需要单独配置，主要就Zotero Style, zotcart 和 zotero better notes需要配置</p>
+<font color="red">另外，因为之前一直也是用的Zotero, 还是有初始配置的，关联坚果云同步文献，Google浏览器对应插件以及word插参考文献插件已经配置好了的，这里就不在写了，如果刚开始使用，建议先网上找教程配置这些，特别是坚果云同步，避免文献储存多了之后配置麻烦</font>
+
+<ul>
+  <li>Zotero Style
+    <ul>
+      <li>标签图标（用zotero自带的颜色标签也行，换成图标主要为了让自己开心，得用markdown图标替换，1-9快捷键设置）
+        <ul>
+          <li>🎯: 正中靶心，这篇文章跟目前研究主题非常相关</li>
+          <li>💧: 湿实验文章</li>
+          <li>🌞: 干实验文章</li>
+          <li>🧬:  实验方法</li>
+          <li>🧰:  工具开发的文章</li>
+          <li>💾:  数据资源可用文章</li>
+          <li>💡:  有所启发的文章</li>
+          <li>⏳:  要仔细阅读的文章（沙漏说明需要花时间精读）</li>
+          <li>❌: 不精读或者暂缓精读的文章</li>
+        </ul>
+      </li>
+      <li>另有# 标签栏，且右击可以设置正则匹配符号，默认是# 号，这个标签可以嵌套使用，非常方便</li>
+      <li>可以分不同视图显示，这个功能我也很喜欢，配置了3个视图（标签，阅读，信息），其他显示颜色之类的都是右击表头设置，全都可调，这个插件的github上还有非常都教程可以参考</li>
+    </ul>
+  </li>
+  <li>ZotCard 和 Zotero better notes的配置上面放的几个视频已经解释的非常好了，主要是根据自己需求配置模板，目前直接用的B站评论去推荐的精读，泛读，单词短语积累的模板，插件和所用模板百度网盘链接：
+    <blockquote>
+      <p>链接：https://pan.baidu.com/s/1Wl0kt48tARNKFCcdNOhaHQ 
+提取码：gu9p</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p><img src="images/better_notes_精读模板.png" alt="精读模板" /></p>
+
+<p><img src="images/better_notes_泛读模板.png" alt="泛读模板" /></p>
+
+<p>这些模板能在阅读文献的时候提供提示词，在阅读过程中填这些内容的时候能够主动去思考这些问题，读完文献，填完这些内容有成就感</p>
+<h2 id="obsidian配置"><a href="#obsidian配置">obsidian配置</a></h2>
+
+<p>Obsidian目前用的不是特别熟悉，目前比较主要喜欢日待办清单，看板以及跟Zotero联动，基本替代typora写markdown。先记录一下目前装的插件，以及一些教程资源。</p>
+
+<h3 id="目前所用插件">目前所用插件</h3>
+<ul>
+  <li>Advanced Slides：用markdown做PPT</li>
+  <li>Advanced Tables：方便写markdown表格</li>
+  <li>Calendar：显示日历</li>
+  <li>cMenu</li>
+  <li>Dataview</li>
+  <li>Day Planner：设置日清单</li>
+  <li>Excalidraw</li>
+  <li>Journey</li>
+  <li>Juggl</li>
+  <li>Kanban：设置看板</li>
+  <li>Mind Map：文档大纲可以可视化为思维导图</li>
+  <li>QuickAdd</li>
+  <li>Templater：设置不同文件夹下新建文档的模板</li>
+  <li>Zotero Integration：Zotero联动的插件 
+obsidian的插件基本都可以在设置里面的第三方插件&gt;浏览里面直接搜索安装，可以直接连接到的说明文档，进行学习</li>
+</ul>
+
+<h3 id="相关教程资源">相关教程资源</h3>
+<ul>
+  <li><a href="https://eryinote.com/post/46">Obsidian 的 8 种进阶用法</a></li>
+  <li><a href="https://www.zhihu.com/column/c_1413472005866266624"># 想一小时上手obsidian？这一篇就够了。【玩转Obsidian的保姆级教程】</a></li>
+  <li><a href="https://www.zhihu.com/question/22601502/answer/39574527"># 哪位能提供下关于KANBAN（看板管理）的基础知识？概念性的，基础性的最好？</a></li>
+  <li><a href="https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6%95%99%E7%A8%8B">Obsidian中文教程</a></li>
+</ul>
+
+
+
+        
+          <button title="Toggle Theme" class="theme-toggle">
+  <svg viewBox="0 0 32 32" width="24" height="24" fill="currentcolor">
+    <circle cx="16" cy="16" r="14" fill="none" stroke="currentcolor" stroke-width="4"></circle>
+    <path d="
+             M 16 0
+             A 16 16 0 0 0 16 32
+             z">
+    </path>
+  </svg>
+</button>
+
+        
+        <div class="credits">&copy;&nbsp;2023&nbsp;zying
+          &nbsp;
+          •
+          &nbsp;Powered by <a href="https://www.soopr.co" target="_blank" rel="noreferrer">Soopr</a>
+          &nbsp;
+          •
+          &nbsp;Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+        </div>
+      </div>
+    </main><script async defer src="https://sdk.soopr.co/soopr.js"></script></body>
+</html>
