@@ -70,8 +70,8 @@ footer_entries:
 gallery_entries:
   - title: 哈尔滨-漠河之旅
     url: https://mp.weixin.qq.com/s/I1nGvVEp-ibqAPmmzkDulA
-    img_url:  https://mmbiz.qpic.cn/sz_mmbiz_png/Fv5JbP02rKg9ncFu48icR6eGvogGvicib7FiaXLvZoHSENgiaIDKGPMsC9QHJOER9k0wQ81j0at3qEIxicKbZqMlH7QA/640?wx_fmt=png&from=appmsg
-    desc: 疫情解封之后的第一次旅行，滑雪没想象的难，除了被人从后边撞了一下摔了，自己滑完全没摔，感觉很棒
+    img_url: images/mo-river.jpg
+    desc: 完成心念了很久的漠河之旅，成功打开中国最北，泼水成冰加上后期的调色效果太震撼了
     highlight: New
 
   - title: 长白山滑雪
