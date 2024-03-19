@@ -1,39 +1,26 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: REconverse
+    url: #
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: SOC Sandbox
+    url: soc-lab
+    desc: This project explores the architecture of Security Operation Centers (SOC)
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Active Directory
+    url: active-directory
+    desc: Setup, configuration, and administration of an Active Directory Environment.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Emails and Phishing
+    url: emails-and-phishing
+    desc: A practical demonstration of email infrastructure, protocols, and phishing.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -54,18 +41,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: cqawam.io
+    url: #
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/cqawam
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/cqawam
 
-  - title: feed
-    url: feed.xml
-
+  - title: linkedIn
+    url: #
 misc_entries:
   - title: this is an example vertical list
     url: false
