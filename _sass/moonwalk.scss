@@ -38,6 +38,17 @@ h2 {
 h3 { font-size: clamp(1.1rem, 1rem + 0.4vw, 1.25rem); letter-spacing: -0.01em; font-weight: 600; }
 h2, h3, h4, h5 { margin-top: 1.6em; }
 
+// Uppercase, tracked-out eyebrow label for home page section headers
+// (Portfolio, Blog, etc.) - see _layouts/home.html
+.section-label {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--links);
+}
+
 hr { margin: 1em 0; }
 
 p { margin: 1.25em 0; }
@@ -120,37 +131,39 @@ img {
   border-radius: 0.5em;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
+// Lupin - warm, elegant light theme (gentleman-thief palette)
 @mixin light-appearance {
   html, body {
-      --bg: #fcfcfc;
-      --bg-secondary: #f1f2f4;
-      --bg-subtle: #f6f7f8;
-      --headings: #0f172a;
-      --text: #2b2f36;
-      --text-secondary: #5b6470;
-      --links: #4f46e5;
-      --highlight: #FFECB2;
-      --code-text: #9D174D;
-      --share-text: #999;
-      --border: rgba(15, 23, 42, 0.08);
-      --border-subtle: rgba(15, 23, 42, 0.05);
+      --bg: #faf7f5;
+      --bg-secondary: #f0ebe8;
+      --bg-subtle: #f5f1ee;
+      --headings: #241b2f;
+      --text: #3a3038;
+      --text-secondary: #6f6470;
+      --links: #7c3aed;
+      --highlight: #f5d78e;
+      --code-text: #a1266e;
+      --share-text: #9c8f96;
+      --border: rgba(36, 27, 47, 0.08);
+      --border-subtle: rgba(36, 27, 47, 0.05);
   }
 }
 // -------------- THEME SWITCHER -------------- //
+// hackerman - phosphor-terminal dark theme
 @mixin dark-appearance {
   html, body  {
-      --headings: #e6edf3;
-      --links: #91A7FF;
-      --highlight: #41C7C7;
-      --bg: #15161d;
-      --bg-secondary: #23242f;
-      --bg-subtle: #1c1d26;
-      --text: #c4ccd6;
-      --text-secondary: #8b94a3;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
-      --border: rgba(255, 255, 255, 0.08);
-      --border-subtle: rgba(255, 255, 255, 0.05);
+      --headings: #e8f5e9;
+      --links: #4ade80;
+      --highlight: #e8b84b;
+      --bg: #0d0f0c;
+      --bg-secondary: #171911;
+      --bg-subtle: #131510;
+      --text: #c9d1c0;
+      --text-secondary: #7c8a74;
+      --code-text: #2dd4bf;
+      --share-text: #a8b39c;
+      --border: rgba(180, 255, 190, 0.08);
+      --border-subtle: rgba(180, 255, 190, 0.05);
   };
 }
 

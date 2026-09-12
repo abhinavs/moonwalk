@@ -8,7 +8,7 @@
 </h3>
 
 ## Features
-* Light & dark mode with theme switcher (respects `prefers-reduced-motion`)
+* Two hand-tuned themes - **Lupin** (light) and **hackerman** (dark) - with a theme switcher (respects `prefers-reduced-motion`)
 * Typeset in [Geist](https://vercel.com/font) (body & headings) and [Geist Mono](https://vercel.com/font) (code)
 * [Agent-friendly out of the box](#agent-friendly-by-default) - per-page `.md` siblings, `/llms.txt`, and `/llms-full.txt`
 * Built-in client-side search over post titles, tags, and excerpts
@@ -104,34 +104,36 @@ The `home.yml` file accepts the following fields:
   - home - for landing page
   you can change your `index.md` file to use either home or blog layout.
 
-2. It is extremely easy to tweak the color scheme.
-  - for light mode, customize these css variables
+2. It is extremely easy to tweak the color scheme. Moonwalk ships with **Lupin** (light) and **hackerman** (dark) - override either mixin in your own SCSS to make it your own.
+  - Lupin (light mode)
 ```css
-html {
-    --bg: #fcfcfc;
-    --bg-secondary: #f1f2f4;
-    --bg-subtle: #f6f7f8;
-    --headings: #0f172a;
-    --text: #2b2f36;
-    --text-secondary: #5b6470;
-    --links: #4f46e5;
-    --highlight: #ffecb2; // light yellow
-    --code-text: #9d174d;
+@mixin light-appearance {
+  html, body {
+      --bg: #faf7f5;
+      --bg-secondary: #f0ebe8;
+      --bg-subtle: #f5f1ee;
+      --headings: #241b2f;
+      --text: #3a3038;
+      --text-secondary: #6f6470;
+      --links: #7c3aed;
+      --highlight: #f5d78e;
+      --code-text: #a1266e;
+  }
 }
 ```
-  - for dark mode customize these css variables
+  - hackerman (dark mode)
 ```css
 @mixin dark-appearance {
   html, body  {
-      --headings: #e6edf3;
-      --links: #91a7ff;
-      --highlight: #41c7c7;
-      --bg: #15161d;
-      --bg-secondary: #23242f;
-      --bg-subtle: #1c1d26;
-      --text: #c4ccd6;
-      --text-secondary: #8b94a3;
-      --code-text: #91a7ff;
+      --headings: #e8f5e9;
+      --links: #4ade80;
+      --highlight: #e8b84b;
+      --bg: #0d0f0c;
+      --bg-secondary: #171911;
+      --bg-subtle: #131510;
+      --text: #c9d1c0;
+      --text-secondary: #7c8a74;
+      --code-text: #2dd4bf;
   };
 }
 ```

@@ -36,7 +36,7 @@ ul.horizontal-list {
 
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    box-shadow: 0 4px 16px color-mix(in srgb, var(--links) 18%, transparent);
     border-color: var(--links);
   }
 

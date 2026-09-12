@@ -2,7 +2,7 @@
 html[data-theme="light"] .highlight,
 body[data-theme="auto"] .highlight {
   .hll { background-color: #ffffcc }
-  &    { background: #f6f8fa; color: #24292f }
+  &    { background: #f5f1ee; color: #3a3038 }
   .c   { color: #6a737d } /* Comment */
   .err { color: #cb2431 } /* Error */
   .k   { color: #d73a49 } /* Keyword */
@@ -78,7 +78,7 @@ body[data-theme="auto"] .highlight {
 @media (prefers-color-scheme: light) {
   body[data-theme="auto"] .highlight {
     .hll { background-color: #ffffcc }
-    &    { background: #f6f8fa; color: #24292f }
+    &    { background: #f5f1ee; color: #3a3038 }
     .c   { color: #6a737d }
     .err { color: #cb2431 }
     .k   { color: #d73a49 }
@@ -97,8 +97,8 @@ body[data-theme="auto"] .highlight {
 }
 
 // Dark mode syntax highlighting (default)
-.highlight .hll { background-color: #515151 }
-.highlight  { background: #1A1F35; color: #f2f0ec }
+.highlight .hll { background-color: #223018 }
+.highlight  { background: #131510; color: #c9d1c0 }
 .highlight .c { color: #747369 } /* Comment */
 .highlight .err { color: #f2777a } /* Error */
 .highlight .k { color: #cc99cc } /* Keyword */
