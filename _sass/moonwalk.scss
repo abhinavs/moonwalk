@@ -1,6 +1,6 @@
 :root {
-  --font-sans: "Geist", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  --font-sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 0.75rem;
@@ -9,8 +9,8 @@
 html { height: 100%; }
 
 body {
-  font-family: var(--font-sans);
-  font-size: 1.125rem;
+  font-family: var(--font-mono);
+  font-size: 1rem;
   line-height: 1.7;
   margin: 0;
   min-height: 100%;
@@ -20,7 +20,7 @@ body {
 }
 pre, code {
   font-family: var(--font-mono);
-  font-size: 0.92rem;
+  font-size: 0.85rem;
 }
 
 h1 {
@@ -38,15 +38,14 @@ h2 {
 h3 { font-size: clamp(1.1rem, 1rem + 0.4vw, 1.25rem); letter-spacing: -0.01em; font-weight: 600; }
 h2, h3, h4, h5 { margin-top: 1.6em; }
 
-// Uppercase, tracked-out eyebrow label for home page section headers
-// (Portfolio, Blog, etc.) - see _layouts/home.html
+// Section header for home page sections (Portfolio, Blog, etc.)
+// - see _layouts/home.html
 .section-label {
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--links);
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  letter-spacing: -0.005em;
 }
 
 hr { margin: 1em 0; }
@@ -56,9 +55,17 @@ p { margin: 1.25em 0; }
 li { margin: 0.4em 0; }
 
 .w {
-  max-width: 720px;
+  max-width: 780px;
   margin: 0 auto;
   padding: 4em 2em;
+}
+
+// Bordered masthead treatment for the site header (home.html, blog.html)
+header {
+  padding: 1.5em 0;
+  margin-bottom: 2.5em;
+  border-top: 2px solid var(--links);
+  border-bottom: 1px solid var(--border-subtle);
 }
 @media screen and (max-width: 600px) {
   .w {
@@ -131,39 +138,39 @@ img {
   border-radius: 0.5em;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
-// Lupin - warm, elegant light theme (gentleman-thief palette)
+// Light theme - GitHub Light inspired
 @mixin light-appearance {
   html, body {
-      --bg: #faf7f5;
-      --bg-secondary: #f0ebe8;
-      --bg-subtle: #f5f1ee;
-      --headings: #241b2f;
-      --text: #3a3038;
-      --text-secondary: #6f6470;
-      --links: #7c3aed;
-      --highlight: #f5d78e;
-      --code-text: #a1266e;
-      --share-text: #9c8f96;
-      --border: rgba(36, 27, 47, 0.08);
-      --border-subtle: rgba(36, 27, 47, 0.05);
+      --bg: #ffffff;
+      --bg-secondary: #eaeef2;
+      --bg-subtle: #f6f8fa;
+      --headings: #1f2328;
+      --text: #1f2328;
+      --text-secondary: #59636e;
+      --links: #0969da;
+      --highlight: #fff8c5;
+      --code-text: #8250df;
+      --share-text: #6e7781;
+      --border: rgba(31, 35, 40, 0.15);
+      --border-subtle: rgba(31, 35, 40, 0.08);
   }
 }
 // -------------- THEME SWITCHER -------------- //
-// hackerman - phosphor-terminal dark theme
+// Dark theme - GitHub Dark inspired
 @mixin dark-appearance {
   html, body  {
-      --headings: #e8f5e9;
-      --links: #4ade80;
-      --highlight: #e8b84b;
-      --bg: #0d0f0c;
-      --bg-secondary: #171911;
-      --bg-subtle: #131510;
-      --text: #c9d1c0;
-      --text-secondary: #7c8a74;
-      --code-text: #2dd4bf;
-      --share-text: #a8b39c;
-      --border: rgba(180, 255, 190, 0.08);
-      --border-subtle: rgba(180, 255, 190, 0.05);
+      --headings: #f0f6fc;
+      --links: #4493f8;
+      --highlight: #e3b341;
+      --bg: #0d1117;
+      --bg-secondary: #21262d;
+      --bg-subtle: #161b22;
+      --text: #c9d1d9;
+      --text-secondary: #8b949e;
+      --code-text: #d2a8ff;
+      --share-text: #9198a1;
+      --border: rgba(240, 246, 252, 0.1);
+      --border-subtle: rgba(240, 246, 252, 0.06);
   };
 }
 
@@ -359,6 +366,7 @@ div.highlighter-rouge:hover .code-copy {
   justify-content: center;
   width: 40px;
   height: 40px;
+  margin-bottom: 1.5em;
   border-radius: 50%;
   border: 1px solid var(--border);
   background: var(--bg-secondary);

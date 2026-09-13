@@ -22,9 +22,9 @@ ul.horizontal-list {
 }
 
 .card {
-  padding: 1.1em 1.15em;
+  padding: 1.25em 1.4em;
   border: 1px solid var(--border);
-  width: calc(33.333% - 0.6em);
+  width: calc(50% - 0.4em);
   box-sizing: border-box;
   height: auto;
   text-align: left;
@@ -32,11 +32,9 @@ ul.horizontal-list {
   align-items: flex-start;
   background-color: var(--bg-subtle);
   border-radius: var(--radius-md);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  transition: border-color 0.2s ease;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 16px color-mix(in srgb, var(--links) 18%, transparent);
     border-color: var(--links);
   }
 

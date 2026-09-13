@@ -8,8 +8,8 @@
 </h3>
 
 ## Features
-* Two hand-tuned themes - **Lupin** (light) and **hackerman** (dark) - with a theme switcher (respects `prefers-reduced-motion`)
-* Typeset in [Geist](https://vercel.com/font) (body & headings) and [Geist Mono](https://vercel.com/font) (code)
+* Two hand-tuned themes, light and dark, inspired by GitHub's own light/dark palettes - with a theme switcher (respects `prefers-reduced-motion`)
+* Typeset in [IBM Plex Sans](https://www.ibm.com/plex/) (headings) and [IBM Plex Mono](https://www.ibm.com/plex/) (body & code)
 * [Agent-friendly out of the box](#agent-friendly-by-default) - per-page `.md` siblings, `/llms.txt`, and `/llms-full.txt`
 * Built-in client-side search over post titles, tags, and excerpts
 * Hover-preview cards on internal post links (opt-in)
@@ -104,41 +104,41 @@ The `home.yml` file accepts the following fields:
   - home - for landing page
   you can change your `index.md` file to use either home or blog layout.
 
-2. It is extremely easy to tweak the color scheme. Moonwalk ships with **Lupin** (light) and **hackerman** (dark) - override either mixin in your own SCSS to make it your own.
-  - Lupin (light mode)
+2. It is extremely easy to tweak the color scheme. Moonwalk ships with a light and dark theme inspired by GitHub's own palettes - override either mixin in your own SCSS to make it your own.
+  - light mode
 ```css
 @mixin light-appearance {
   html, body {
-      --bg: #faf7f5;
-      --bg-secondary: #f0ebe8;
-      --bg-subtle: #f5f1ee;
-      --headings: #241b2f;
-      --text: #3a3038;
-      --text-secondary: #6f6470;
-      --links: #7c3aed;
-      --highlight: #f5d78e;
-      --code-text: #a1266e;
+      --bg: #ffffff;
+      --bg-secondary: #eaeef2;
+      --bg-subtle: #f6f8fa;
+      --headings: #1f2328;
+      --text: #1f2328;
+      --text-secondary: #59636e;
+      --links: #0969da;
+      --highlight: #fff8c5;
+      --code-text: #8250df;
   }
 }
 ```
-  - hackerman (dark mode)
+  - dark mode
 ```css
 @mixin dark-appearance {
   html, body  {
-      --headings: #e8f5e9;
-      --links: #4ade80;
-      --highlight: #e8b84b;
-      --bg: #0d0f0c;
-      --bg-secondary: #171911;
-      --bg-subtle: #131510;
-      --text: #c9d1c0;
-      --text-secondary: #7c8a74;
-      --code-text: #2dd4bf;
+      --headings: #f0f6fc;
+      --links: #4493f8;
+      --highlight: #e3b341;
+      --bg: #0d1117;
+      --bg-secondary: #21262d;
+      --bg-subtle: #161b22;
+      --text: #c9d1d9;
+      --text-secondary: #8b949e;
+      --code-text: #d2a8ff;
   };
 }
 ```
 
-3. Want different fonts? Moonwalk uses Geist / Geist Mono via two CSS variables. Override them in your own SCSS:
+3. Want different fonts? Moonwalk uses IBM Plex Sans / IBM Plex Mono via two CSS variables. Override them in your own SCSS:
 ```css
 :root {
     --font-sans: "Inter", system-ui, sans-serif;
