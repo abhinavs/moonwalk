@@ -1,6 +1,11 @@
 ---
 ---
+{% if jekyll.version < "4.0.0" %}
+  {% assign scss_import = "import" %}
+{% else %}
+  {% assign scss_import = "use" %}
+{% endif %}
 
-@use "moonwalk";
-@use "list";
-@use "syntax";
+@{{ scss_import }} "moonwalk";
+@{{ scss_import }} "list";
+@{{ scss_import }} "syntax";
