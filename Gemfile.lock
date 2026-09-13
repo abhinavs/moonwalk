@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    moonwalk (0.3.0)
+    moonwalk (0.4.0)
       jekyll (~> 4.3)
       jekyll-feed (~> 0.17)
       jekyll-llms-output (~> 0.1)
