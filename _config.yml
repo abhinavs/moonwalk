@@ -1,15 +1,11 @@
 title: Moonwalk
-author: Abhinav Saxena
+author: Linda Vuong
 url: https://www.abhinavsaxena.com # root address of the site
 baseurl: "/moonwalk/" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
   Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
 
 permalink: /:slug
-
-twitter:
-  username: abhinav # update or delete this
-  card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -54,7 +50,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-soopr-seo-tag
+  - jekyll-seo-tag
   - jekyll-markdown-output
   - jekyll-llms-output
 
